@@ -1,7 +1,7 @@
 name: Update AdBlock Rules Every 24 Hours
 on:
-  push:
-    branches: [ master ]
+#   push:
+#     branches: [ master ]
   schedule: 
     - cron:  '0 0 */1 * *' 
 
@@ -32,7 +32,7 @@ jobs:
               git add .
               git config --local user.email "ask@hackl0us.com"
               git config --local user.name "Hackl0us"
-              git commit -m "test push $(date)" -a
+              git commit -m "Updated at $(date)" -a
             fi
             
       - name: GitHub Push
