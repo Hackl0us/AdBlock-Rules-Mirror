@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-03-13T18:41:36.245Z
+! Last modified: 2020-03-14T18:42:28.163Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.7
 !
@@ -4068,7 +4068,6 @@ adbetnet.com
 ||rehomesit.info^
 ||bigbangbon.online^
 ||amaumomt.com^
-||beeashale.club^
 ||phukienthoitranggiare.com^
 ||lessblog.pro^
 ||targetpush.co.kr^
@@ -6935,10 +6934,16 @@ www.llllllllllll.net^
 !
 ! Non-flagged (Revolving ad servers)
 ||05xz0h2xo799.com^
+||08b72e4833486d.com^
+||0a225c134735c.com^
 ||0s9dxlr07huu.com^
+||11ccda709b5cdf5.com^
 ||14nuzznszbdp.com^
 ||1getbestf1le3.xyz^
+||36c6ce350b32.com^
 ||4t6u1amm3t3n.com^
+||6ped2nd3yp.com^
+||8d9d548d35.com^
 ||9t5.me^
 ||abgligarchan.com^
 ||abroadlynijiz.site^
@@ -6969,6 +6974,7 @@ www.llllllllllll.net^
 ||allycollegedstrie.info^
 ||ampallall.site^
 ||aniashboy.club^
+||anlcld.com^
 ||anotherederi.site^
 ||anybagant.club^
 ||anycadark.site^
@@ -6994,11 +7000,13 @@ www.llllllllllll.net^
 ||awhootoa.net^
 ||awhoufob.com^
 ||ayrovalcontain.info^
+||b460e308b59.com^
 ||badsbads.com^
 ||bathibsa.com^
 ||bauthair.net^
 ||bebreloomr.com^
 ||becauseared.site^
+||beeashale.club^
 ||beewanuk.net^
 ||beiven.pw^
 ||bestvideo2019.xyz^
@@ -7009,6 +7017,7 @@ www.llllllllllll.net^
 ||bloglife24.com^
 ||bnrsis.com^
 ||boratestfishke.info^
+||bordeded.pro^
 ||boubeeth.com^
 ||boursnormaticm.info^
 ||brinarynuker.site^
@@ -7038,6 +7047,7 @@ www.llllllllllll.net^
 ||codedexchange.com^
 ||collectpush.com^
 ||companiedoml.site^
+||comparencelabl.site^
 ||compensions.pro^
 ||counevan.pro^
 ||countertrck.com^
@@ -7149,6 +7159,7 @@ www.llllllllllll.net^
 ||gadsans.com^
 ||gadsanz.com^
 ||gadsats.com^
+||gadsecs.com^
 ||gadsecz.com^
 ||gadsimz.com^
 ||gadsipz.com^
@@ -7179,6 +7190,7 @@ www.llllllllllll.net^
 ||grubsoan.com^
 ||h3btqpy2abc3.com^
 ||hadsabz.com^
+||hadsipz.com^
 ||haftobso.net^
 ||hamadotax.site^
 ||haypaydig.club^
@@ -7200,6 +7212,7 @@ www.llllllllllll.net^
 ||ingprographyt.info^
 ||inpagepush.com^
 ||instantresp.com^
+||inswebt.com^
 ||inwig3aqg9xq.com^
 ||ionrefreshotsev.info^
 ||ipsoorel.com^
@@ -7264,6 +7277,7 @@ www.llllllllllll.net^
 ||mikrairs.com^
 ||minsistereron.site^
 ||mirafaren.pw^
+||misdem.pro^
 ||moapteeg.net^
 ||mob1ledev1ces.com^
 ||moderningvigil.pro^
@@ -7320,6 +7334,7 @@ www.llllllllllll.net^
 ||onalentressionw.info^
 ||onindexicowillio.info^
 ||onscribedpastrong.info^
+||onwaysebuj.site^
 ||ooxoatse.com^
 ||ophoahik.net^
 ||optvx.com^
@@ -7332,6 +7347,7 @@ www.llllllllllll.net^
 ||otsurvedchange.info^
 ||oughgoalityabo.info^
 ||ountapaveralle.info^
+||ousseventi.info^
 ||ouzoadru.net^
 ||overribleintena.info^
 ||oweverycanvas.info^
@@ -7416,6 +7432,7 @@ www.llllllllllll.net^
 ||sadsecz.com^
 ||santrateduk.site^
 ||sapsixysho.pro^
+||sdkfjxjertertry.com^
 ||searchmulty.com^
 ||securecloud-dt.com^
 ||seepsocu.net^
@@ -7437,12 +7454,14 @@ www.llllllllllll.net^
 ||spentalwithinga.info^
 ||sprintainokeg.site^
 ||ssqualismother.info^
+||stakenpolise.site^
 ||stargoug.com^
 ||stoassod.com^
 ||stonseeb.net^
 ||streamclub.best^
 ||streamclub.fun^
 ||styheremo.site^
+||substandferex.site^
 ||superjuryger.site^
 ||supertrackingz.com^
 ||surfacecharo.info^
@@ -22711,7 +22730,6 @@ www.llllllllllll.net^
 ||ariseboundary.com^
 ||balloontexture.com^
 ||basketballbelieve.com^
-||baskettexture.com^
 ||bawdybeast.com^
 ||beamincrease.com^
 ||beamkite.com^
@@ -26608,6 +26626,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bagbeam.com^
 ||balancebreath.com^
 ||bandborder.com^
+||baskettexture.com^
 ||breakfastboat.com^
 ||broadcastbed.com^
 ||broaddoor.com^
@@ -28363,6 +28382,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rs.sinajs.cn^
 ||rss.tmgrup.com.tr^
 ||rtt.campanja.com^
+||rum.conde.io^
 ||rum.nccgroup-webperf.com^
 ||rum.uptime.com^
 ||rva.outbrain.com^
@@ -28899,6 +28919,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ubt.berlingskemedia.net^
 ! Dutch
 ||analytics.belgacom.be^
+||atconnect.npo.nl^
 ||cookies.reedbusiness.nl^
 ||hottraffic.nl^
 ||statistics.rbi-nl.com^
@@ -29518,9 +29539,9 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
 !
 ! Title: hostsVN
-! Last modified: 13 Mar 2020 15:16 UTC+7
-! Version: 2003131516
-! Blocked: 338 rules
+! Last modified: 14 Mar 2020 23:26 UTC+7
+! Version: 2003142326
+! Blocked: 340 rules
 ! Expires: 1 days (update frequency)
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
@@ -29860,6 +29881,8 @@ vkcdnservice.appspot.com^
 ||fuckbookvietnam.com^
 ||hashearog.com^
 ||quangcaotructuyen247.com^
+||rituationscardb.info^
+||sacchaeleduk.com^
 ||sukientraogiaizalo.com^
 ||xmobliefacebook.com^
 
