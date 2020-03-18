@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-03-16T18:43:46.968Z
+! Last modified: 2020-03-17T18:44:24.532Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.7
 !
@@ -14,6 +14,8 @@
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||abeets.ru^
+||viadata.store^
 ||adwels.ru^
 ||xshop3.ru^
 ||gxxcbj.com^
@@ -3974,8 +3976,11 @@ adbetnet.com
 ||xn--wxtr9fwyxk9c.club^
 ||zhangguangzong.com^
 ||taoguohe.com^
-!END: Chinese ad servers
-!
+||yepsobtax.com^
+||cawsodpet.club^
+||bycelebian.com^
+||rsalcau.com^
+||erdecisesgeorg.info^
 ||display.nativemedia.rs^
 ||belazyelephant.com^
 ||lightversionhotel.com^
@@ -6946,6 +6951,7 @@ www.llllllllllll.net^
 ||11ccda709b5cdf5.com^
 ||14nuzznszbdp.com^
 ||1getbestf1le3.xyz^
+||25348f89a3.com^
 ||36c6ce350b32.com^
 ||4t6u1amm3t3n.com^
 ||6ped2nd3yp.com^
@@ -7162,6 +7168,7 @@ www.llllllllllll.net^
 ||fadsecs.com^
 ||fadsims.com^
 ||fadsips.com^
+||fadskis.com^
 ||fadskiz.com^
 ||fadslims.com^
 ||fadsoks.com^
@@ -7233,6 +7240,7 @@ www.llllllllllll.net^
 ||heckagny.com^
 ||hedressive.info^
 ||himselvepostly.site^
+||histlingklakson.site^
 ||hoosorie.com^
 ||hounicuy.com^
 ||housandady.site^
@@ -7345,6 +7353,7 @@ www.llllllllllll.net^
 ||netpatas.com^
 ||newvideos.xyz^
 ||nfarmerlycompa.info^
+||nfkq8jy5db0b.com^
 ||ngholishingsm.info^
 ||nicevideos.xyz^
 ||niebrundveepursuede.info^
@@ -7401,6 +7410,7 @@ www.llllllllllll.net^
 ||padsecs.com^
 ||pagiwp.com^
 ||pagnookr.net^
+||paratingsulik.site^
 ||parketbedde.info^
 ||pasaigul.com^
 ||paula-secundinus.com^
@@ -7502,6 +7512,7 @@ www.llllllllllll.net^
 ||soagrist.net^
 ||soofeest.net^
 ||sousaira.com^
+||spendeivivar.site^
 ||spentalwithinga.info^
 ||sprintainokeg.site^
 ||srvng.xyz^
@@ -7597,6 +7608,7 @@ www.llllllllllll.net^
 ||wheessoo.com^
 ||whoshood.com^
 ||wimsocou.com^
+||winsistakesme.site^
 ||wizwarsum.site^
 ||woogoust.com^
 ||woovooza.net^
@@ -10679,6 +10691,7 @@ www.llllllllllll.net^
 ||mobsterbird.info^
 ||mobstrks.com^
 ||mobtrks.com^
+||mobtyb.com^
 ||mobytrks.com^
 ||modescrips.info^
 ||modulepush.com^
@@ -15516,6 +15529,7 @@ www.llllllllllll.net^
 ||frfgfhzxtfvsp.com^
 ||frfnlvnpzeju.com^
 ||frgbgwnbjkgco.com^
+||frhoobwj.com^
 ||frqmnrlqk.com^
 ||frsqgvwmzjnun.com^
 ||frtfwlvwuw.com^
@@ -16064,6 +16078,7 @@ www.llllllllllll.net^
 ||hwjjxzzbpbn.com^
 ||hwlykqjlytnm.com^
 ||hwyoikfrfdtjp.com^
+||hxbvxmyldlt.com^
 ||hxhxjcffzp.com^
 ||hxhyejtblmu.com^
 ||hxhymfdpmgs.com^
@@ -17155,6 +17170,7 @@ www.llllllllllll.net^
 ||lzscunjyovitc.com^
 ||lztffxdgackjhi.com^
 ||magufsvogh.com^
+||mahrzxsou.com^
 ||maidlytsnrn.com^
 ||mailhxubk.com^
 ||makkuqiavqx.com^
@@ -17303,6 +17319,7 @@ www.llllllllllll.net^
 ||mpjitqgyr.com^
 ||mpmzqgkpavhhkt.com^
 ||mpudcfnsnpj.com^
+||mpyiiswvgxz.com^
 ||mqdznyotsam.com^
 ||mqgvsxqc.com^
 ||mqhjvfeiiucga.com^
@@ -21339,6 +21356,7 @@ www.llllllllllll.net^
 ||zqdvdygz.com^
 ||zqeqclcfdc.com^
 ||zqeskyeg.com^
+||zqiknimzmcoedq.com^
 ||zqmxzjrhchg.com^
 ||zqqyhcqf.com^
 ||zqseasmu.com^
@@ -22159,24 +22177,6 @@ www.llllllllllll.net^
 ||ichkaufehierein.de^
 ||maria-herzt.de^
 ||meinelieblingsprodukte.de^
-
-!
-! Source name: AdGuard Tracking Protection filter third-party trackers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
-!
-!
-! Blocking Firebase crash reporting is quite problematic:
-! https://github.com/AdguardTeam/AdguardForAndroid/issues/1334#issuecomment-319302543
-! ||app-measurement.com^
-!
-! Crashlytics is commented by @ameshkov.
-! The reason for unblocking crashlytics is to not make developers life worse by breaking crash reporting.
-! In a hostile network like when an ad blocker is present, apps might be crashing, and these errors need to be
-! reported to devs, otherwise they won't learn about the issue and won't fix it.
-! Also, it is not a common third-party analytics tracker, Crashlytics is not used for collecting users' data.
-! ||e.crashlytics.com^
-! ||settings.crashlytics.com^
-!
 ||collectfasttracks.com^
 ||pixel.advertising.com^
 ||analytics.vodgc.net^
@@ -22325,7 +22325,6 @@ www.llllllllllll.net^
 ||ablaze-class.space^
 ||diginetica.net^
 ||zcltracker.com^
-||mytopf.com^
 ||edrone.me^
 ||plugin.management^
 ||back.marketing^
@@ -22977,7 +22976,6 @@ t.yesware.com
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
 ||e2e.mashable.com^
-||static.klaviyo.com^
 ||stats-dev.brid.tv^
 ||videostats.kakao.com^
 ||stat.tiara.daum.net^
@@ -23667,10 +23665,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||register.appsflyer.com^
 ||events.appsflyer.com^
 ||track.appsflyer.com^
-! Relap - avoid breaking their website on desktop
-! but make sure it's blocked in apps
-!+ PLATFORM(ios, android)
-||relap.io^
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
 ||sq.requestads.com^
@@ -25040,7 +25034,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iperceptions.com^
 ||ipfingerprint.com^
 ||ipgp.net^
-||ipinfo.info^
 ||ipinfodb.com^
 ||ipinyou.com.cn^
 ||iplocationtools.com^
@@ -25469,6 +25462,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||overstat.com^
 ||owlanalytics.io^
 ||ownpage.fr^
+||ox-bio.com^
 ||oxidy.com^
 ||p-td.com^
 ||p.raasnet.com^
@@ -26393,6 +26387,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zqtk.net^
 ||zroitracker.com^
 ||ztsrv.com^
+||zuzab.com^
 .n.2.1.l50.js^
 ||0x1f4b0.com^
 ||1q2w3.fun^
@@ -27609,7 +27604,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||1dmp.io^
 ||24log.ru^
 ||24smi.info^
-||2ip.ua^
 ||3wnp9.ru^
 ||a-counter.com.ua^
 ||a-counter.kiev.ua^
@@ -27674,11 +27668,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mokuz.ru^
 ||musiccounter.ru^
 ||mystat-in.net^
+||mytopf.com^
 ||opentracking.ru^
 ||pmbox.biz^
 ||proext.com^
 ||quick-counter.net^
 ||r24-tech.com^
+||relap.io^
 ||retag.xyz^
 ||rnet.plus^
 ||ru.net^
@@ -28320,6 +28316,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logs.vmixcore.com^
 ||loxodo-analytics.ext.nile.works^
 ||lt.tritondigital.com^
+||lucid.mjhassoc.com^
 ||lunametrics.wpengine.netdna-cdn.com^
 ||m.addthisedge.com^
 ||m.trb.com^
@@ -28550,6 +28547,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||su.addthis.com^
 ||survey.interquest.com^
 ||surveywall-api.survata.com^
+||svc.dynamics.com^
 ||sync.adap.tv^
 ||sync.outbrain.com^
 ||systemmonitoring.badgeville.com^
@@ -29618,8 +29616,8 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
 !
 ! Title: hostsVN
-! Last modified: 15 Mar 2020 20:33 UTC+7
-! Version: 2003152033
+! Last modified: 17 Mar 2020 15:08 UTC+7
+! Version: 2003171508
 ! Blocked: 343 rules
 ! Expires: 1 days (update frequency)
 ! The section contains a list of advertising and tracking networks in Vietnam
