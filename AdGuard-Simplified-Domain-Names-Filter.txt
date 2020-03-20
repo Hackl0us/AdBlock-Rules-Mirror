@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-03-18T18:44:28.059Z
+! Last modified: 2020-03-19T18:45:04.645Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.7
 !
@@ -14,6 +14,8 @@
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||wwsphj.com^
+||shpovaw8wu.ru.com^
 ||abeets.ru^
 ||viadata.store^
 ||adwels.ru^
@@ -3978,6 +3980,8 @@ adbetnet.com
 ||taoguohe.com^
 !END: Chinese ad servers
 !
+||asewlfjqwlflkew.com^
+||repruggob.com^
 ||vpn5protectplus.com^
 ||bintds.com^
 ||yepsobtax.com^
@@ -14256,9 +14260,11 @@ www.llllllllllll.net^
 ||anpwsppugpu.com^
 ||anvtnqpbkjyk.com^
 ||anyyqhtebsit.com^
+||aodsywsxzquemt.com^
 ||aomegwesrfbvxe.com^
 ||aomwoygnj.com^
 ||aonxktnn.com^
+||aoqvizrign.com^
 ||aorzglux.com^
 ||aoshrcptugsjd.com^
 ||aosztecuq.com^
@@ -14641,6 +14647,7 @@ www.llllllllllll.net^
 ||cbgujxjlp.com^
 ||cbhpiuopomc.com^
 ||cbiapaofuviswf.com^
+||cbiknyhztow.com^
 ||cbuxzegro.com^
 ||cbwocsublalxz.com^
 ||cbyzgxhbovgwju.com^
@@ -15101,6 +15108,7 @@ www.llllllllllll.net^
 ||dvszrkspd.com^
 ||dvtwezyzog.com^
 ||dvuneqnrkukud.com^
+||dvvkdxejwh.com^
 ||dwaceiiywjwcyf.com^
 ||dwczfwnjg.com^
 ||dwgfwxiecp.com^
@@ -15669,6 +15677,7 @@ www.llllllllllll.net^
 ||gccoetmm.com^
 ||gchhswgagb.com^
 ||gclcehwfvl.com^
+||gclwsuzxwiotyf.com^
 ||gcpbftsiwdrajj.com^
 ||gcpjstirhbqjx.com^
 ||gctwvryd.com^
@@ -15915,6 +15924,7 @@ www.llllllllllll.net^
 ||hdcfyrzx.com^
 ||hdcqfqnn.com^
 ||hddzzizitskc.com^
+||hdeslibzcv.com^
 ||hdfsruiqwgjdo.com^
 ||hdnvtfyvyhq.com^
 ||hdoabbjyyebca.com^
@@ -16015,6 +16025,7 @@ www.llllllllllll.net^
 ||hoqqzlvwukpo.com^
 ||horjhksl.com^
 ||horvmygebyg.com^
+||howubdgdt.com^
 ||hoyqhygv.com^
 ||hpasvfsndgr.com^
 ||hpbczauldndnep.com^
@@ -16833,6 +16844,7 @@ www.llllllllllll.net^
 ||krtdobasy.com^
 ||krtpkaha.com^
 ||ksevfixrkqdx.com^
+||kshzzbmgbmoqad.com^
 ||ksihafqopndbq.com^
 ||ksnbdfzjlyqmxs.com^
 ||ksncmrkfrzkgla.com^
@@ -17328,6 +17340,7 @@ www.llllllllllll.net^
 ||moimjvrbzb.com^
 ||mojhasmpl.com^
 ||moleagmeq.com^
+||molfkqiw.com^
 ||mopxhrgiyybr.com^
 ||mosdqxsgjhes.com^
 ||mouuhrprxixwrw.com^
@@ -17393,6 +17406,7 @@ www.llllllllllll.net^
 ||mvbemeggnodty.com^
 ||mvdbdtwicgw.bid^
 ||mvdizbgdpfgl.com^
+||mvdvktbaptzl.com^
 ||mvimzkmondb.com^
 ||mvnuyjsdgle.com^
 ||mvnyllursi.com^
@@ -17791,6 +17805,7 @@ www.llllllllllll.net^
 ||oertmxfsryji.com^
 ||oetwplgu.com^
 ||oevltdvzl.com^
+||oevqxivhquovq.com^
 ||oevujdgj.com^
 ||oewscpwrvoca.com^
 ||oexbdfnbentzd.com^
@@ -18492,6 +18507,7 @@ www.llllllllllll.net^
 ||pqjdiwqmiem.bid^
 ||pqkorfrurnn.com^
 ||pqlueojjnccebi.com^
+||pqlveeoq.com^
 ||pqmfbegdsuwqiz.com^
 ||pqncneoumiibc.bid^
 ||pqowedazx.bid^
@@ -19048,6 +19064,7 @@ www.llllllllllll.net^
 ||qregqtqtuisj.com^
 ||qreoifgajnoor.com^
 ||qriasmotw.bid^
+||qrindfqrd.com^
 ||qrirkdzdxtxc.com^
 ||qrjvglpkpl.bid^
 ||qrkiykgbk.com^
@@ -20308,6 +20325,7 @@ www.llllllllllll.net^
 ||vlrzhoueyoxw.com^
 ||vlscykmnd.com^
 ||vltjkelvgvj.com^
+||vltxcrkyxtv.com^
 ||vlwdjmvhf.com^
 ||vlxszjkbwgt.com^
 ||vlyqzdsucomih.com^
@@ -21325,6 +21343,7 @@ www.llllllllllll.net^
 ||zlfzeuvk.com^
 ||zlhscyahjbaq.com^
 ||zlkrsqad.com^
+||zllanqoglad.com^
 ||zlmbspplqvftur.com^
 ||zlxfpawyyoq.com^
 ||zmasxytjskg.com^
@@ -22510,7 +22529,6 @@ www.llllllllllll.net^
 ||dummy-domain-do-not-change.com^
 ||easytarget.ru^
 ||effectivemeasure.net^
-||eloqua.com^
 ||emsecure.net^
 ||enectoanalytics.com^
 ||erkaseriilan.com.tr^
@@ -28371,6 +28389,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mcs.delvenetworks.com^
 ||mediametrics.mpsa.com^
 ||metering.pagesuite.com^
+||metric.ipv6test.net^
 ||metric.nwsource.com^
 ||metrics-api.librato.com^
 ||metrics.api.drift.com^
@@ -29657,9 +29676,9 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
 !
 ! Title: hostsVN
-! Last modified: 18 Mar 2020 14:39 UTC+7
-! Version: 2003181439
-! Blocked: 344 rules
+! Last modified: 19 Mar 2020 20:30 UTC+7
+! Version: 2003192030
+! Blocked: 345 rules
 ! Expires: 1 days (update frequency)
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
@@ -29755,6 +29774,7 @@ vkcdnservice.appspot.com^
 ||shopping.coccoc.com^
 ||sourcetobin.com^
 ||sp.zalo.me^
+||sporttv.today^
 ||static-ads.zaloapp.com^
 ||stats.zaloapp.com^
 ||surfcountor.com^
