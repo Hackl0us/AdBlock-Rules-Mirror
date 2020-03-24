@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-03-22T18:46:44.333Z
+! Last modified: 2020-03-23T20:51:22.795Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.7
 !
@@ -14,6 +14,8 @@
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||as62wl63346.rest^
+||janndfsc.pro^
 ||wpnjrm.com^
 ||jd01estvpr.club^
 ||trafficdok.com^
@@ -3983,6 +3985,13 @@ adbetnet.com
 ||taoguohe.com^
 !END: Chinese ad servers
 !
+||zeqad.com^
+||dsdsde.xyz^
+||dlfvgndsdfsn.com^
+||ofphanpytor.com^
+||zyxzzz.xyz^
+||bitsads.xyz^
+||ofgogoatan.com^
 ||fadsipz.com^
 ||fixchidie.com^
 ||ewerhodub.com^
@@ -4974,7 +4983,6 @@ www.llllllllllll.net^
 ||sebadu.com^
 ||ayclinical.com^
 ||naenticle.info^
-||localbitcoins.com^
 ||adconity.com^
 ||kensyii.com^
 ||btvhdscr.com^
@@ -5529,6 +5537,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||ds88pc0kw6cvc.cloudfront.net^
 ||b.bestcontenthost.com^
 ||asgdfasad.mm-cgnews.com^
 ||d1nx2jii03b4ju.cloudfront.net^
@@ -6114,6 +6123,7 @@ www.llllllllllll.net^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||ad.mail.ru^|
 ||video.intl.xiaomi.com^
 ||servedby.o2.co.uk^
 ||amillionads.com^
@@ -10243,7 +10253,6 @@ www.llllllllllll.net^
 ||jadcenter.com^
 ||jads.co^
 ||jaidennegros.pro^
-||jango.com^
 ||jangonetwork.com^
 ||japsulsa.com^
 ||jardeesi.net^
@@ -14301,6 +14310,7 @@ www.llllllllllll.net^
 ||aqussxtpjfelp.com^
 ||arasyqslwmfat.com^
 ||arawegnvvufy.com^
+||arbawijlgq.com^
 ||arcfwcxi.com^
 ||arfmdqwyztn.com^
 ||arfttojxv.com^
@@ -15219,6 +15229,7 @@ www.llllllllllll.net^
 ||egcocjwpzqsa.com^
 ||egfbynnwhco.com^
 ||eghuntsrizvbt.com^
+||egmhrjxxil.com^
 ||egqvppwseieyu.com^
 ||egwbxocwwf.com^
 ||ehgefgcollhd.com^
@@ -15363,7 +15374,9 @@ www.llllllllllll.net^
 ||evvjvrpldtnlqk.com^
 ||evvpibrfqzjn.com^
 ||evvznnafduvs.com^
+||evykfczgpwbvd.com^
 ||ewgnexykqnyoun.com^
+||ewitsorrgm.com^
 ||ewlnukukkca.com^
 ||ewrdeqrktgcu.com^
 ||ewvugujfhi.com^
@@ -15607,6 +15620,7 @@ www.llllllllllll.net^
 ||ftcjcmcovx.com^
 ||ftdcseuvlmfp.com^
 ||ftdspjxhcufui.com^
+||ftkbsddgbqt.com^
 ||ftqgkcmbkptohh.com^
 ||ftqnttckompj.com^
 ||ftssqcsl.com^
@@ -15923,6 +15937,7 @@ www.llllllllllll.net^
 ||hagiqxizxqf.com^
 ||hajtekzuoe.com^
 ||hamjgkzgycmur.com^
+||hanacbclbrdjon.com^
 ||hanimyel.com^
 ||haotyxhbv.com^
 ||haqbllmvpbqc.com^
@@ -16099,6 +16114,7 @@ www.llllllllllll.net^
 ||hsbrhnkgkx.com^
 ||hsgatgymg.com^
 ||hshcspczsaa.com^
+||hsqbeznk.com^
 ||hsqslxewsnga.com^
 ||hsqujerwg.com^
 ||hsqvofrzwluvns.com^
@@ -16491,6 +16507,7 @@ www.llllllllllll.net^
 ||jffoydsb.com^
 ||jfgbdjhyc.com^
 ||jfgvtdcgomvmwv.com^
+||jfiqsfsh.com^
 ||jfjuhxfllw.com^
 ||jfmtvybvze.com^
 ||jfnafbcysy.com^
@@ -16879,6 +16896,7 @@ www.llllllllllll.net^
 ||krsutcnex.com^
 ||krtdobasy.com^
 ||krtpkaha.com^
+||krwasgyensttng.com^
 ||ksevfixrkqdx.com^
 ||kshzzbmgbmoqad.com^
 ||ksihafqopndbq.com^
@@ -16956,6 +16974,7 @@ www.llllllllllll.net^
 ||kzmipklxanggf.com^
 ||kzmleuhgqifvzy.com^
 ||kzrwzjmlasll.com^
+||kzzeupckj.com^
 ||labdwkqyavb.com^
 ||lahvliitxeb.com^
 ||lajgmzddxrzjl.com^
@@ -18671,6 +18690,7 @@ www.llllllllllll.net^
 ||pvoplkodbxra.com^
 ||pvpqgjkgvszq.com^
 ||pvptwhhkfmog.com^
+||pvrnqpgvbucif.com^
 ||pvrybwoqcprogc.bid^
 ||pvtcntdlcdsb.com^
 ||pvuakayuw.com^
@@ -20483,6 +20503,7 @@ www.llllllllllll.net^
 ||vvgttgprssiy.com^
 ||vvjlrhuzmhzlws.com^
 ||vvkvlqubnge.com^
+||vvnmwfnpkat.com^
 ||vvoczokfayxwu.com^
 ||vvqpavyfkr.com^
 ||vvrygjuozwps.com^
@@ -20643,6 +20664,7 @@ www.llllllllllll.net^
 ||wlszodcfwqk.com^
 ||wlvjwquv.com^
 ||wlwootzzijp.com^
+||wlzdghlzjewbwv.com^
 ||wmaqrkguf.com^
 ||wmqdgaptep.com^
 ||wmrlljpj.com^
@@ -21534,6 +21556,7 @@ www.llllllllllll.net^
 ||zwprxzbnzxc.com^
 ||zwsyqdnhnyzckt.com^
 ||zwwbvpwd.com^
+||zwzfujusmwsbun.com^
 ||zxaoudwcljrtig.com^
 ||zxavxgjcjmkh.com^
 ||zxbzuyuifdqj.com^
@@ -22319,6 +22342,8 @@ www.llllllllllll.net^
 ! ||e.crashlytics.com^
 ! ||settings.crashlytics.com^
 !
+||stats.datawrapper.de^
+||track.adabra.com^
 ||reindaks.com^
 ||go.rcvlinks.com^
 ||collectfasttracks.com^
@@ -22566,7 +22591,6 @@ www.llllllllllll.net^
 ||bookforest.biz^
 ||brightedge.com^
 ||bstk.co^
-||bugsnag.com^
 ||c-webstats.de^
 ||c4tw.net^
 ||callingjustified.com^
@@ -22834,7 +22858,6 @@ www.llllllllllll.net^
 ||stopphoulplay.com^
 ||stopphoulplay.net^
 ||storystack.com^
-||sumologic.com^
 ||sundaysky.com^
 ||sv.ltzvs.ru^
 ||swoopgrid.com^
@@ -23117,6 +23140,8 @@ t.yesware.com
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+!
+||tagger.ope.scmp.com^
 ||e2e.mashable.com^
 ||stats-dev.brid.tv^
 ||videostats.kakao.com^
@@ -24281,7 +24306,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||angorch-cdr7.com^
 ||angsrvr.com^
 ||anonymousdmp.com^
-||anrdoezrs.net^
 ||answerscloud.com^
 ||anti-cheat.info^
 ||ape78cn2.com^
@@ -24387,7 +24411,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bidr.io^
 ||bidswitch.net^
 ||bigcattracks.com^
-||bigmir.net^
 ||bigreal.org^
 ||bigstats.net^
 ||bigtracker.com^
@@ -24426,7 +24449,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bounceexchange.com^
 ||bouncepilot.com^
 ||bouncex.com^
-||bpmonline.com^
 ||branch.io^
 ||brandlock.io^
 ||brat-online.ro^
@@ -24529,7 +24551,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||clickclick.net^
 ||clickconversion.net^
 ||clickdensity.com^
-||clickdimensions.com^
 ||clickening.com^
 ||clickferret.com^
 ||clickforensics.com^
@@ -24834,7 +24855,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||evergage.com^
 ||evisitanalyst.com^
 ||evolvemediametrics.com^
-||evyy.net^
 ||ewebanalytics.com^
 ||ewebcounter.com^
 ||exactag.com^
@@ -25293,7 +25313,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||link-smart.com^
 ||linkconnector.com^
 ||linkpulse.com^
-||linksynergy.com^
 ||linkxchanger.com^
 ||liod1ours.com^
 ||listrakbi.com^
@@ -25697,7 +25716,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||programmatictrader.com^
 ||projectsunblock.com^
 ||promotionengine.com^
-||proofpoint.com^
 ||proofpositivemedia.com^
 ||provenpixel.com^
 ||prtracker.com^
@@ -27819,7 +27837,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||relap.io^
 ||retag.xyz^
 ||rnet.plus^
-||ru.net^
 ||rutarget.ru^
 ||sarimsol.com^
 ||sarov.ws^
@@ -28060,7 +28077,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analyze.full-marke.com^
 ||ape-tagit.timeinc.net^
 ||api.wipmania.com^
-||app.link^
 ||apple.www.letv.com^
 ||ariane.abtasty.com^
 ||aserve.directorym.com^
@@ -29762,9 +29778,9 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
 !
 ! Title: hostsVN
-! Last modified: 22 Mar 2020 20:45 UTC+7
-! Version: 2003222045
-! Blocked: 353 rules
+! Last modified: 23 Mar 2020 09:45 UTC+7
+! Version: 2003230945
+! Blocked: 354 rules
 ! Expires: 1 days (update frequency)
 ! The section contains a list of advertising and tracking networks in Vietnam
 !
@@ -29926,6 +29942,9 @@ vkcdnservice.appspot.com^
 ||alivar.com.vn^
 ||alivar.vn^
 ||amobi.vn^
+||an.dongphim.net^
+||an.motphim.net^
+||an.xemvtv.net^
 ||api.nas.nct.vn^
 ||apinas.nct.vn^
 ||banner.5giay.vn^
@@ -29971,8 +29990,6 @@ vkcdnservice.appspot.com^
 ||vietdorje.com^
 ||vinaads.vn^
 ||alexajstrack.com^
-||an.dongphim.net^
-||an.xemvtv.net^
 ||analytics.bkav.com^
 ||analytics.easyvideo.vn^
 ||analytics.explus.vn^
