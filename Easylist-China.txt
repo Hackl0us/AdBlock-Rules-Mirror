@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AkSsh2FOa8K/eyDtcOMgig
-! Version: 202003232353
+! Checksum: Sk7jnaxYILg42ij7yACcpw
+! Version: 202003242353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 23 Mar 2020 23:53 UTC
+! Last Modified: 24 Mar 2020 23:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1065,6 +1065,7 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||scjcgj.top^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -6985,6 +6986,7 @@ _yad_jsonp_
 ||miwifi.com^*ads/
 ||mixer.video.iqiyi.com/jp/mixin/resources/
 ||mkd88.cc/16.32.jpg
+||mm.nwell.net^
 ||mm111.net/api.php?mod=ad&
 ||mm387.com/images/*.gif
 ||mm7920.com:8888/upload/*.gif
@@ -7135,6 +7137,9 @@ _yad_jsonp_
 ||niu20.com/g/
 ||niubixxx.com/seo/
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideAds
+||njjuntong.com/cps/
+||njjuntong.com/static/www/edu/js/common_edu.js
+||njjuntong.com/static/www/edu/tools/common.js
 ||nlark.com^$domain=qfg34.com
 ||nmgk.com/Runtime/Js/
 ||nmgnews.com.cn/other/003/000/*.swf
@@ -8192,6 +8197,7 @@ _yad_jsonp_
 ||wei2008.com/js/jump
 ||wei2008.com/js/t_
 ||wei2008.com/skin/js/top.js
+||weihaojiaju.com/tu888/
 ||weike87.com/images/*0
 ||weike87.com/images/*1
 ||wendangku.net/js/common.js
@@ -9373,6 +9379,7 @@ dilidili.one,hitime5.com,zdzdm.com###gg
 sdgundam.cn###gg-banner
 vvshu.com###gg120
 hitime5.com###gg250
+qiyeku.com###gg2_box
 5173.com###gg330
 hitime5.com###gg730
 5173.com###ggFloat
@@ -9478,6 +9485,7 @@ image.baidu.com###imgid > .fcimgpage
 ydss.cn###indexBlad
 baidu.com###index_banner_top
 zongheng.com###index_game
+qiyeku.com###index_gg
 sm.cn###index_haodongxi
 windows7en.com###index_long_first
 baidu.com###index_right_float
@@ -11164,6 +11172,7 @@ huaban.com,start.firefoxchina.cn##.extra
 fanyi.baidu.com##.extra-banners
 douyu.com##.f-sign-cont
 user.qzone.qq.com##.f-single-biz
+nwell.net##.f14hui[width="25%"]
 xiaobaipan.com##.f_ad
 m.sohu.com##.f_rec[href^="//m.sohu.com/promotion?"][href*="/f/"]
 sgcn.com,wangjing.cn##.fad
@@ -11365,6 +11374,8 @@ bioon.com##.grid_6
 veryhuo.com##.gs
 veryhuo.com##.gs2
 wanyx.com##.gs_down_common
+sci-hub.org.cn##.gs_r[data-cid=""]
+sci-hub.org.cn##.gs_red[style="color:#EB7F00"]
 ddooo.com,xue51.com##.gsbtn
 yxdown.com##.gsdown
 33lc.com,cncrk.com##.gsdt
@@ -13442,6 +13453,7 @@ blog.sina.com.cn##div[style*="WiDTH: 200px;"][style$="HeiGHT: 300px"]
 bilibili.com##div[style*="height:"][data-loc-id]
 taiwan.cn##div[style*="height:250px;padding:5px 17px 5px 18px;"]
 bccn.net##div[style*="height:90"]
+qiyeku.com##div[style*="height:90px;"]
 ruanyifeng.com##div[style*="important"]
 esu.moe,esu.wiki##div[style*="position: relative; max-height: 400px;"]
 1010jiajiao.com##div[style*="position:fixed;"][style*="bottom:1px;"]
@@ -14480,7 +14492,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||v1.cn/player/cloud/cloud_player
 @@||valf.atm.youku.com/vf?site=1&rst=mp4&
 @@||vast.btrll.com^$domain=hinet.net
-@@||viidii.info/web/*.js
 @@||viu.tv^$generichide
 @@||vlist.se/advertisement.js
 @@||vmall.com/data/attachment/common/ad/
@@ -14718,6 +14729,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ###wrapper > div[style="padding:3px;"] > #pic
 ##.container > .pic_container
 ##.container > a.mid-wrapper
+@@||5tps.com/playm/flw.
 @@||5tps.vip/flw.asp$subdocument,domain=5tps.com
 @@||7k7k.com/channel$subdocument
 @@||baidu.com/cse/search?$domain=16xx8.com
@@ -14979,6 +14991,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||cby521.cn^
 ||cby521.com^
 ||cc.xiaodapei.com^
+||cc.xwscg.com^
 ||cdn1.tvzhe.com^
 ||cee1.iteye.com^
 ||cfff.net^$third-party
@@ -15706,6 +15719,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||0309fuweopermncvbnazdf.xyz^
 ||0316dieroxiemzfjwmapk.xyz^
 ||03196688.com^
+||0323wqpioutyuencsamxsd.xyz^
 ||0532ci.com.cn^
 ||0551zgz.com^
 ||0577renliu.
@@ -17089,6 +17103,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||qzylyp.com^
 ||raeqqe.cn^
 ||rbign.cn^
+||rbtjkx.cn^
 ||rbywg.com^
 ||rcaiu.com^
 ||rcynoe.cn^
@@ -17473,6 +17488,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||xkqpco.com^
 ||xkunn.com^
 ||xlhm88.cn^
+||xm223.cn^
 ||xmcxz.com^
 ||xmgdfb.cn^
 ||xmgysweb.com^
