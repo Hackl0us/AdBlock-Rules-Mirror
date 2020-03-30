@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4zvvmHocoAeLMl/LvMqdEw
-! Version: 202003282353
+! Checksum: WXoLjL6N4u8mFgvSo1bhqw
+! Version: 202003292353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 28 Mar 2020 23:53 UTC
+! Last Modified: 29 Mar 2020 23:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -5740,6 +5740,7 @@ _yad_jsonp_
 ||dyguo.com/pc/nr336.js
 ||dyjqd.com/images/js/dyjqd.js
 ||dysitecdn.com/gg
+||dysitecdn.com^*.php
 ||dytt8.net/js1/
 ||dytt8.net/js2/
 ||dytt8.net/jsd/app.js
@@ -8166,10 +8167,12 @@ _yad_jsonp_
 ||voc.com.cn/Frame/qqms_cs.html
 ||voc.com.cn/js/xc/
 ||voc.com.cn/static/web/js/creattwo11.js
+||vodttdy.com/template/zsy_badian/js/stui_
 ||vodxc.in/js/xccy/
 ||vodxc.tv/js/xccy/
 ||vpsmm.com/tu/
 ||vsimg.com/jd.gif
+||vsuda.cn/data/upload/20
 ||vuejs.org/images/geekbang
 ||vuetifyjs.com/supporters.json
 ||vupload.duowan.com^
@@ -12041,8 +12044,8 @@ kikinote.net##.pc_ad
 265g.com##.phone_bgban
 sodao.com##.photo-see > div[style="text-align: center; margin-bottom: 10px;"]
 caikuu.com##.photo_abv
-wstimes.cn##.piaofu-left
-wstimes.cn##.piaofu-right
+vsuda.cn,wstimes.cn##.piaofu-left
+vsuda.cn,wstimes.cn##.piaofu-right
 jrj.com.cn##.piboxtwo
 tv.52pili.com##.pic-box
 ifeng.com##.pic1000
@@ -15829,6 +15832,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||4excel.cn^
 ||4py3oe.cn^
 ||4qn1k.cn^
+||4s5n.cn^
 ||4x9te.cn^
 ||4z5o27.cn^
 ||519397.com^
@@ -15956,6 +15960,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||ahinang.cn^
 ||ahinin.cn^
 ||ahuac.com^
+||ahunai.cn^
 ||ahunui.cn^
 ||ahw3.com^
 ||aibangzs.com^
@@ -16082,6 +16087,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||caiji.wiki^
 ||cailawyer.cn^
 ||caiwanhui.top^
+||caiziwuyou.com^
 ||calculated.cn^
 ||car156.net^
 ||casbanlly.com^
@@ -16113,6 +16119,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||cghc87.cn^
 ||cgoiiq.com^
 ||cgoul.com^
+||cgtueid.cn^
 ||cgxxmy.com^
 ||changhehengqi.com^
 ||chaojilamei.cn^
@@ -16224,6 +16231,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||dbwmjj.com^
 ||dcaij.com^
 ||dceni.com^
+||dcnqcql.cn^
 ||dctykq.cn^
 ||dcuom.com^
 ||ddanq.com^
@@ -16257,6 +16265,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||dmpsj.cn^
 ||dn189.com^
 ||dnfeu.com^
+||dodomo.info^
 ||doowe.cn^
 ||doryhome.com^
 ||dqgpb.com^
@@ -17691,6 +17700,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||zhuyuanp.top^
 ||zhywyl.cn^
 ||zizcy.com^
+||zizidi.com^
 ||zjhrondo.cn^
 ||zjkdaikuan.com^
 ||zjksgl.com^

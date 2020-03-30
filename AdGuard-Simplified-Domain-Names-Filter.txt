@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-03-28T18:50:38.349Z
+! Last modified: 2020-03-29T18:50:38.226Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.7
 !
@@ -12878,6 +12878,7 @@ www.llllllllllll.net^
 ||arrlnk.com^
 ||bemobpath.com^
 ||bidverdrd.com^
+||bn5x.net^
 ||bonusmaniac.com^
 ||btagmedia.com^
 ||cadsoks.com^
@@ -14649,6 +14650,7 @@ www.llllllllllll.net^
 ||bsrmcmvdoeyzib.com^
 ||bszaoqzjyx.com^
 ||btbuigpxge.com^
+||btdciuqcsvjjt.com^
 ||btgovcuviqor.com^
 ||btkxogjoxtd.com^
 ||btonzfjleinuax.com^
@@ -15175,6 +15177,7 @@ www.llllllllllll.net^
 ||dsnxvnkxyimczk.com^
 ||dstxhvmgkg.com^
 ||dsyxresmht.com^
+||dtcpdvnojquf.com^
 ||dtgwjxeymdlri.com^
 ||dthmzwzsgjibw.com^
 ||dtjhwypfsayh.com^
@@ -15300,6 +15303,7 @@ www.llllllllllll.net^
 ||egmhrjxxil.com^
 ||egqvppwseieyu.com^
 ||egwbxocwwf.com^
+||egxjmlqmiamm.com^
 ||ehgefgcollhd.com^
 ||ehhmynitx.com^
 ||ehkvtodjwanjfk.com^
@@ -15560,6 +15564,7 @@ www.llllllllllll.net^
 ||fhsohqtif.com^
 ||fhtlyoqzyjjof.com^
 ||fhtoxxda.com^
+||fhvdwhbnl.com^
 ||fiaehdnnx.com^
 ||ficrwcptjvfpd.com^
 ||fifnonxntvaszg.com^
@@ -16213,6 +16218,7 @@ www.llllllllllll.net^
 ||hugjupzdpvuzdr.com^
 ||huhrxmgiofzna.com^
 ||huirnbrfj.com^
+||humpqretttg.com^
 ||huyqmtpqhemcv.com^
 ||hvduwoozla.com^
 ||hvdyyojh.com^
@@ -16334,6 +16340,7 @@ www.llllllllllll.net^
 ||ihcbfiqkp.com^
 ||ihgehlpfzoefmd.com^
 ||ihgwekwwxbuxy.com^
+||ihjtrncfoha.com^
 ||ihpekyhfanmljo.com^
 ||ihutbqqmjan.com^
 ||ihvmcqojoj.com^
@@ -17294,6 +17301,7 @@ www.llllllllllll.net^
 ||lvbdvlnbht.com^
 ||lvcrcimfmfx.com^
 ||lvctzafuvn.com^
+||lvecygampj.com^
 ||lvesmhsex.com^
 ||lvgaaldcza.com^
 ||lvgldleilov.com^
@@ -17772,6 +17780,7 @@ www.llllllllllll.net^
 ||nrtorbqr.com^
 ||nrubehhd.com^
 ||nrupgnyboerssu.com^
+||nryceuula.com^
 ||nrzhlsvqxbgpbn.com^
 ||nsboaqyssquk.com^
 ||nscjgmhyeov.com^
@@ -17805,6 +17814,7 @@ www.llllllllllll.net^
 ||nucndowcvrugy.com^
 ||nudooapfildwbz.com^
 ||nuhwyavc.com^
+||nulwhbbyfdxy.com^
 ||numcxvlfguc.com^
 ||nuowoczmvits.com^
 ||nupgypwxcv.com^
@@ -19214,6 +19224,7 @@ www.llllllllllll.net^
 ||qqbyfhlctzty.com^
 ||qqcbzxwzpmzdcd.com^
 ||qqcjvbsd.com^
+||qqdalrqzvukzto.com^
 ||qqdnhrkjtmv.bid^
 ||qqemfpbnixtqx.com^
 ||qqfrciwnc.bid^
@@ -19541,6 +19552,7 @@ www.llllllllllll.net^
 ||rnlfitypkucbhi.com^
 ||rnpwxssirmgflk.com^
 ||rnvotosfzq.com^
+||rnxffkxddyobny.com^
 ||rnzgebpy.com^
 ||roibwbjaclwgg.com^
 ||rojitkhlwxoi.com^
@@ -19951,6 +19963,7 @@ www.llllllllllll.net^
 ||tepazmynhvo.com^
 ||tepmpemrixd.com^
 ||teqceeivmpvv.com^
+||teqhllxidowmi.com^
 ||teueondocabsu.com^
 ||tfbqvqclg.com^
 ||tfhuupltipcg.com^
@@ -20327,6 +20340,7 @@ www.llllllllllll.net^
 ||uroidgcc.com^
 ||urynnngdrt.com^
 ||uryvzhvgpulaog.com^
+||usahacmyhl.com^
 ||usclxdvvvnkdrv.com^
 ||usdlgonjnzpu.com^
 ||usfmamdapvmfs.com^
@@ -20337,6 +20351,7 @@ www.llllllllllll.net^
 ||uswgkadyika.com^
 ||usxobxnmmaix.com^
 ||utbclxmcv.com^
+||utfusckgnj.com^
 ||uthifuehb.com^
 ||utiiamqdsku.com^
 ||utjznnqgd.com^
@@ -20681,6 +20696,7 @@ www.llllllllllll.net^
 ||wbxzrxarmzyx.com^
 ||wcfelywclbql.com^
 ||wcgrrjyjiaeocd.com^
+||wclkmumbolsmqd.com^
 ||wclurprkyk.com^
 ||wcobqyeqpckkzh.com^
 ||wcwcypfnvih.com^
@@ -21576,6 +21592,7 @@ www.llllllllllll.net^
 ||znjwkwha.com^
 ||znmdscnynybx.com^
 ||znnabrxnotlm.com^
+||znnzwdgu.com^
 ||znoumvve.com^
 ||znpyqdfphny.com^
 ||zntqjdvonxm.com^
@@ -29890,11 +29907,12 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
 !
 ! Title: hostsVN
-! Last modified: 27 Mar 2020 22:00 UTC+7
-! Version: 2003272200
-! Blocked: 355 rules
+! Last modified: 29 Mar 2020 22:33 UTC+7
+! Version: 2003292233
+! Blocked: 356 rules
 ! Expires: 1 days (update frequency)
-! The section contains a list of advertising and tracking networks in Vietnam
+! Homepage: https://bigdargon.github.io/hostsVN/
+! Description: The filter contains ad and tracking networks in Vietnam.
 !
 ||ad.org.vn^
 ||ad.zing.vn^
@@ -30244,6 +30262,7 @@ vkcdnservice.appspot.com^
 ||x8.club^
 ||zbet.com^
 ||zo.game^
+||celerantatters.com^
 ||fuckbookvietnam.com^
 ||hashearog.com^
 ||quangcaotructuyen247.com^
