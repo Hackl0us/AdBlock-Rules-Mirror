@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-03-31T18:51:47.693Z
+! Last modified: 2020-04-01T18:52:00.802Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.7
 !
@@ -14,6 +14,9 @@
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||sghmho.com^
+||epushclick.com^
+||pushebrod.com^
 ||xg2o402yyy.ru^
 ||nzafj0fqsy.rest^
 ||oldrrb.bid^
@@ -3616,6 +3619,7 @@ adbetnet.com
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||firm.bidtizadd.ru^
 ||vast4.kinogo.by^
 ||bc.infoblog.today^
 ||rekl.brawlstars-app.ru^
@@ -3995,8 +3999,13 @@ adbetnet.com
 ||xn--wxtr9fwyxk9c.club^
 ||zhangguangzong.com^
 ||taoguohe.com^
+||kolsh.cn^
 !END: Chinese ad servers
 !
+||cdfr.hot4k.org^
+||gumk.pro^
+||safety1connection.com^
+||p.magicalthirteen.com^
 ||theyarehugevid.pro^
 ||notbad-ads.com^
 ||lindenlaugh.pro^
@@ -14271,6 +14280,7 @@ www.llllllllllll.net^
 ||agrxsdujnh.com^
 ||agvinhvex.com^
 ||agzfxovg.com^
+||agzlxyylf.com^
 ||ahbcagaazvtuh.com^
 ||ahgekvzwjn.com^
 ||ahjwkwugxvznxv.com^
@@ -16004,6 +16014,7 @@ www.llllllllllll.net^
 ||gxeoadmo.com^
 ||gxklbrtpqqyvy.com^
 ||gxleeixyzlaaab.com^
+||gxmjjxyyljtyf.com^
 ||gxordgtvjr.com^
 ||gxpijskyqwqfjw.com^
 ||gxptetvbtkfj.com^
@@ -16368,6 +16379,7 @@ www.llllllllllll.net^
 ||iiccrpwaxmxkqm.com^
 ||iilrgkor.com^
 ||iimueeipaitpb.com^
+||iiripeedqfj.com^
 ||iizgpusp.com^
 ||ijfchpiptvvzko.com^
 ||ijfnbtksuntwqe.com^
@@ -16503,6 +16515,7 @@ www.llllllllllll.net^
 ||iutqdjtajrhpi.com^
 ||ivbifyia.com^
 ||ivfwajwbhiwzw.com^
+||ivjkdyrjjgxhch.com^
 ||ivkfuasf.com^
 ||ivowhzku.com^
 ||ivqxarewpk.com^
@@ -16843,6 +16856,7 @@ www.llllllllllll.net^
 ||kbdstwnruc.com^
 ||kbgyxsoskilli.com^
 ||kbhaxxsiucgnek.com^
+||kbifqgyugzo.com^
 ||kbkvptlxijafb.com^
 ||kbmwlbwwwp.com^
 ||kbpijqva.com^
@@ -16963,6 +16977,7 @@ www.llllllllllll.net^
 ||knnvmkbemftwgj.com^
 ||knpbefvk.com^
 ||knqjhdkndh.com^
+||kntswafuos.com^
 ||knvhqxpt.com^
 ||knwfmpvtj.com^
 ||koamxmikmuhahc.com^
@@ -17226,6 +17241,7 @@ www.llllllllllll.net^
 ||lmcoiiwpguaorp.com^
 ||lmepqfsazb.com^
 ||lmevacaixeqy.com^
+||lmheeproc.com^
 ||lmjxlihzcvicyi.com^
 ||lmjxrhph.com^
 ||lmlvzeeag.com^
@@ -17576,6 +17592,7 @@ www.llllllllllll.net^
 ||musighkm.com^
 ||muwjxxvovtb.com^
 ||muxtpvixahawy.com^
+||muyoozrkkyr.com^
 ||muzjpkel.com^
 ||mvbemeggnodty.com^
 ||mvdbdtwicgw.bid^
@@ -19553,6 +19570,7 @@ www.llllllllllll.net^
 ||rlbvwdviqx.com^
 ||rlgungosm.com^
 ||rljakgkixu.com^
+||rlomivunesqal.com^
 ||rlomrjxrpsev.com^
 ||rlsqhgku.com^
 ||rlxqaczszvjvp.com^
@@ -19600,6 +19618,7 @@ www.llllllllllll.net^
 ||rrnqzntj.com^
 ||rroyintwabqyua.com^
 ||rrpjunmcv.com^
+||rrriyoomil.com^
 ||rrshibwsq.com^
 ||rrvpscehvjuz.com^
 ||rrxlynihw.com^
@@ -19901,6 +19920,7 @@ www.llllllllllll.net^
 ||svntdcuxobohs.com^
 ||svrybecqxgdq.com^
 ||svsatrerbxh.com^
+||svuyfmzsxmjwa.com^
 ||svwsjxptbsvqo.com^
 ||swcuxrfitmjfee.com^
 ||swegaiejcqfojl.com^
@@ -20127,6 +20147,7 @@ www.llllllllllll.net^
 ||tuzvjlqrpzpugj.com^
 ||tvduznfdgim.com^
 ||tvevyrrrnbcbyk.com^
+||tvggnruvmiv.com^
 ||tvjkilgfanpt.com^
 ||tvkgdonh.com^
 ||tvlubtrxcold.com^
@@ -20491,6 +20512,7 @@ www.llllllllllll.net^
 ||vewpwrqebmwu.com^
 ||vexuchkhuin.com^
 ||vezipelsr.com^
+||vfbvcshnc.com^
 ||vfgbeaayncdya.com^
 ||vfkuauks.com^
 ||vfkwaaqc.com^
@@ -21097,6 +21119,7 @@ www.llllllllllll.net^
 ||xocecytufu.com^
 ||xoekgcscpnipb.com^
 ||xogkpytfgyzy.com^
+||xogvagdtgehxm.com^
 ||xoqkhbtpnzblh.com^
 ||xorotmjjst.com^
 ||xotaiybjyj.com^
