@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-04-04T18:53:21.733Z
+! Last modified: 2020-04-05T18:53:56.137Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.7
 !
@@ -14,6 +14,7 @@
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||ivnsssc.pro^
 ||smiinformeri.online^
 ||vir70n.news^
 ||admitad-connect.com^
@@ -210,7 +211,6 @@
 ||meborangot.ru^
 ||atavas.ru^
 ||robcohatru.ru^
-||newrrb.bid^
 ||activepr.info^
 ||obldomain.ru^
 ||gqedxf.com^
@@ -4011,8 +4011,8 @@ adbetnet.com
 ||zhangguangzong.com^
 ||taoguohe.com^
 ||kolsh.cn^
-!END: Chinese ad servers
-!
+||pushisback.com^
+||redirect750.us^
 ||healmsuoguurd.eu^
 ||protection-phone.club^
 ||digiadzone.com^
@@ -4039,7 +4039,6 @@ adbetnet.com
 ||zeqad.com^
 ||dsdsde.xyz^
 ||dlfvgndsdfsn.com^
-||ofphanpytor.com^
 ||zyxzzz.xyz^
 ||bitsads.xyz^
 ||fadsipz.com^
@@ -7016,6 +7015,7 @@ www.llllllllllll.net^
 !
 ! Non-flagged (Revolving ad servers)
 ||05xz0h2xo799.com^
+||08a14e37bb.com^
 ||08b72e4833486d.com^
 ||0a225c134735c.com^
 ||0c9d45a04fff.com^
@@ -7027,6 +7027,8 @@ www.llllllllllll.net^
 ||1getbestf1le3.xyz^
 ||25348f89a3.com^
 ||36c6ce350b32.com^
+||394b8b41ac5305d.com^
+||3e53df6c390.com^
 ||3f49237cf0.com^
 ||3wdf4.xyz^
 ||4prgkoj870j9.com^
@@ -7039,6 +7041,7 @@ www.llllllllllll.net^
 ||8d9d548d35.com^
 ||8gzijqo4c85j.com^
 ||8ue4.xyz^
+||933aaa9228923a.com^
 ||93453074ab3e3.com^
 ||9d766be9a3.com^
 ||9t5.me^
@@ -7067,6 +7070,7 @@ www.llllllllllll.net^
 ||airstossiplarge.info^
 ||aj2073.online^
 ||albalbant.com^
+||alcreasalcon.info^
 ||aleaidass.site^
 ||alealebag.site^
 ||alhistoriousg.info^
@@ -7098,6 +7102,7 @@ www.llllllllllll.net^
 ||augnuxun.net^
 ||aujaujoa.net^
 ||aurdeert.net^
+||aurtooks.com^
 ||authornernsa.pro^
 ||auxml.com^
 ||averaladmi.info^
@@ -7138,6 +7143,7 @@ www.llllllllllll.net^
 ||boursnormaticm.info^
 ||boyaidare.club^
 ||boyalebut.site^
+||brassstacker.com^
 ||brinarynuker.site^
 ||bupserge.com^
 ||bursagarc.com^
@@ -7181,6 +7187,7 @@ www.llllllllllll.net^
 ||cpalabtracking.com^
 ||cpcmart.com^
 ||creativetv.pro^
+||crimentasaju.site^
 ||criminglynuk.pro^
 ||cryartarm.online^
 ||cssimplicanab.info^
@@ -7205,6 +7212,7 @@ www.llllllllllll.net^
 ||dddomainccc.com^
 ||deatheriwevo.site^
 ||decisionediv.site^
+||definitedikdra.site^
 ||delainlygoverhe.info^
 ||denotatorum.site^
 ||desigactinific.pro^
@@ -7230,6 +7238,7 @@ www.llllllllllll.net^
 ||duhochid.net^
 ||duxumpou.com^
 ||e2ertt.com^
+||e860045edaecd.com^
 ||eaintrolled.info^
 ||eardewova.com^
 ||earlinggea.info^
@@ -7268,6 +7277,7 @@ www.llllllllllll.net^
 ||eventurypol.site^
 ||eyhempsedinte.info^
 ||f0172f2fd8.com^
+||f1288404ece4.com^
 ||f40f89d54b8.com^
 ||fadsans.com^
 ||fadsanz.com^
@@ -7348,6 +7358,7 @@ www.llllllllllll.net^
 ||hadsatz.com^
 ||hadsecz.com^
 ||hadsipz.com^
+||hadskiz.com^
 ||haftobso.net^
 ||hamadotax.site^
 ||hayfatduh.com^
@@ -7447,6 +7458,7 @@ www.llllllllllll.net^
 ||menuladshy.life^
 ||metricfast.com^
 ||mewnetwag.site^
+||mhj765.xyz^
 ||mibsooks.net^
 ||mikrairs.com^
 ||millagesert.info^
@@ -7511,6 +7523,7 @@ www.llllllllllll.net^
 ||officultpolicit.pro^
 ||ofgogoatan.com^
 ||ofhypnoer.com^
+||ofphanpytor.com^
 ||ohmchoicechi.online^
 ||olicyconsendsi.info^
 ||ommodatesjoin.info^
@@ -7559,6 +7572,7 @@ www.llllllllllll.net^
 ||phookree.com^
 ||phsism.com^
 ||pinocularoud.site^
+||plathwardsve.site^
 ||playerseo.club^
 ||plyvitablesagree.info^
 ||poleonaryprac.info^
@@ -7576,6 +7590,11 @@ www.llllllllllll.net^
 ||productorsy.pro^
 ||prographiciko.site^
 ||propeanfanku.site^
+||protection-booster.club^
+||protection-cleaner.club^
+||protection-device.club^
+||protection-fix.club^
+||protection-fixer.club^
 ||provisituske.site^
 ||pryrhoohs.site^
 ||psoaksoo.com^
@@ -7633,10 +7652,12 @@ www.llllllllllll.net^
 ||sal4m649fke3.com^
 ||santrateduk.site^
 ||sapsixysho.pro^
+||saturalerdax.site^
 ||sdhfbvd.com^
 ||sdkfjxjertertry.com^
 ||searchmulty.com^
 ||securecloud-dt.com^
+||secured-iphone.club^
 ||seepsocu.net^
 ||sexagogal.site^
 ||sgftrrs.com^
@@ -7738,6 +7759,7 @@ www.llllllllllll.net^
 ||uzk4umokyri3.com^
 ||vanmapdug.club^
 ||veewakim.net^
+||verdriusuref.site^
 ||veremund-hon.com^
 ||viatepigan.com^
 ||viebitgreasy.email^
@@ -7785,6 +7807,7 @@ www.llllllllllll.net^
 ||zaugroaw.net^
 ||zaushegi.net^
 ||zrnedsainsteady.info^
+||zroundancez.site^
 ||zudrurta.com^
 ! Third-party
 ||0azx1.com^
@@ -14560,6 +14583,7 @@ www.llllllllllll.net^
 ||bbnnjjom.com^
 ||bbtwdpczir.com^
 ||bbuyirgucsbfwt.com^
+||bbyhjamzpkenvm.com^
 ||bclizbwet.com^
 ||bcngvwvewfvw.com^
 ||bcobmmozfan.com^
@@ -15415,6 +15439,7 @@ www.llllllllllll.net^
 ||elfnwncr.com^
 ||elhzbfovikex.com^
 ||elimpfdlss.com^
+||elmfnadgg.com^
 ||eloumbsyd.com^
 ||elqsjecdav.com^
 ||elvfmxguozafu.com^
@@ -15751,6 +15776,7 @@ www.llllllllllll.net^
 ||frfnlvnpzeju.com^
 ||frgbgwnbjkgco.com^
 ||frhoobwj.com^
+||frpguidmetp.com^
 ||frqmnrlqk.com^
 ||frsqgvwmzjnun.com^
 ||frtfwlvwuw.com^
@@ -17148,6 +17174,7 @@ www.llllllllllll.net^
 ||kymavmjnfe.com^
 ||kyohmaosn.com^
 ||kypisecmxzhaww.com^
+||kyqvwwyjmrhl.com^
 ||kyreyweczxj.com^
 ||kyugaiei.com^
 ||kzfinsoee.com^
@@ -17251,6 +17278,7 @@ www.llllllllllll.net^
 ||liesiotlpfvjm.com^
 ||lifzpefv.com^
 ||lihkidwhlf.com^
+||lijzkjtk.com^
 ||lirawhivaoglha.com^
 ||lisqvfrr.com^
 ||liuduuct.com^
@@ -17290,6 +17318,7 @@ www.llllllllllll.net^
 ||lliumrpvj.com^
 ||lljoapkfnwn.com^
 ||lllgavbgnmcbf.com^
+||lllkotiocpjfb.com^
 ||llnxczmgusq.com^
 ||llpdtbmowsg.com^
 ||llpuhxkvr.com^
@@ -17494,6 +17523,7 @@ www.llllllllllll.net^
 ||mdpmgoitzaotk.com^
 ||mdqpfqvienzr.com^
 ||mdsauswjligigj.com^
+||mduinqxgi.com^
 ||mdulmrphzsnvw.com^
 ||mdurqeiydegwzy.com^
 ||mdwvwbyvqh.com^
@@ -17567,6 +17597,7 @@ www.llllllllllll.net^
 ||mllfdnjrnkvhmd.com^
 ||mlltyllhgohn.com^
 ||mlonsougoylpbu.com^
+||mlqrvksywbemk.com^
 ||mlqrytbjgrbe.com^
 ||mlsbxcgueedu.com^
 ||mlsyuvxhhmvd.com^
@@ -18393,6 +18424,7 @@ www.llllllllllll.net^
 ||ovqsyawrm.com^
 ||ovrdkhamiljt.com^
 ||ovscyvcucd.com^
+||ovtkwzyowci.com^
 ||ovvddcpjqndfv.com^
 ||ovzmelkxgtgf.com^
 ||owajgovpu.com^
@@ -18885,6 +18917,7 @@ www.llllllllllll.net^
 ||pupwgnmakgpnrl.com^
 ||pusbamejpkxq.com^
 ||pusharest.com^
+||puwvuscm.com^
 ||puwzwbdopaeq.bid^
 ||pvdrlztojkd.bid^
 ||pviztjecuczh.com^
@@ -19866,6 +19899,7 @@ www.llllllllllll.net^
 ||sisyqzktimhrgo.com^
 ||sivqblzejhx.com^
 ||siwtbongdxve.com^
+||sjgcswrvltrx.com^
 ||sjjazrfvzbkt.com^
 ||sjkqyehjo.com^
 ||sjqpctsz.com^
@@ -20124,6 +20158,7 @@ www.llllllllllll.net^
 ||tlecwkrygjas.com^
 ||tlgprhsl.com^
 ||tlhiatdhw.com^
+||tlkhzqmrg.com^
 ||tlkqzjvyujb.com^
 ||tluwjhtsvoz.com^
 ||tlvfeylwod.com^
@@ -20172,6 +20207,7 @@ www.llllllllllll.net^
 ||tqomajswbm.com^
 ||tqtqneoybxzpoh.com^
 ||trbucgmbren.com^
+||trclfonj.com^
 ||trcrkykttaila.com^
 ||trdmnpklszd.com^
 ||trgdwwhaa.com^
@@ -20280,6 +20316,7 @@ www.llllllllllll.net^
 ||ubsrvnuda.com^
 ||ubsxycbae.com^
 ||ubusbjjd.com^
+||ubutplho.com^
 ||ubvyjgbdiq.com^
 ||ubwzawpqlsk.com^
 ||ubxtoqsqusyx.com^
@@ -20861,6 +20898,7 @@ www.llllllllllll.net^
 ||wgrbdqucfoieha.com^
 ||wgssxjoac.com^
 ||wgwguxqij.com^
+||wgxuexjrvo.com^
 ||whdzxabhqsdnlc.com^
 ||whgvyswets.com^
 ||whjwcghg.com^
@@ -21205,6 +21243,7 @@ www.llllllllllll.net^
 ||xprurfeoarxz.com^
 ||xptslcoedn.com^
 ||xpwppacpda.com^
+||xpwwqbkezdr.com^
 ||xpywzbxjwbxafv.com^
 ||xpyyrkwpcpwf.com^
 ||xqankuajhtdehe.com^
@@ -23401,6 +23440,7 @@ t.yesware.com
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
 !
+||spxl.socy.es^
 ||telemetry.tradingview.com^
 ||tagger.ope.scmp.com^
 ||e2e.mashable.com^
@@ -25806,6 +25846,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||netmining.com^
 ||netmng.com^
 ||netratings.com^
+||newrrb.bid^
 ||newscurve.com^
 ||nexeps.com^
 ||nextstat.com^
@@ -25999,6 +26040,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pto-slb-09.com^
 ||ptp123.com^
 ||ptrk-wn.com^
+||pubdream.com^
 ||publicgood.com^
 ||publicidees.com^
 ||publishflow.com^
