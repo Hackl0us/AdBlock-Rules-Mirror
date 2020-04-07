@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2gXLK8UkWymSO3/IXyhKRw
-! Version: 202004052353
+! Checksum: ZBb1RQ/1knEM3OPqB0jt7g
+! Version: 202004062353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 05 Apr 2020 23:53 UTC
+! Last Modified: 06 Apr 2020 23:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -2868,6 +2868,7 @@ ubmcmm.baidustatic.com
 ||nmqbg.com^
 ||nnedbx.com^
 ||nngft.com^
+||noahos.cn^
 ||noberlmall.com^
 ||nongsalei.com^
 ||nord-raum.com^$third-party
@@ -4852,7 +4853,6 @@ _yad_jsonp_
 ||adt.xdrig.com^
 ||adultblogtoplist.com^$domain=520cc.me
 ||adv-sv-show.focus.cn^
-||advideoadmin.appledaily.com.tw/ov_player/
 ||adwordsing.com/img/1.jpg
 ||adwordsing.com/img/2.jpg
 ||affyun.com/wp-content/uploads/*-ad.
@@ -7819,7 +7819,6 @@ _yad_jsonp_
 ||sogoucdn.com/imgu/*.swf
 ||sogoucdn.com/nstatic/js/showtime.js
 ||sogoucdn.com/nstatic/js/tmallskin_
-||sogoucdn.com/wap/js/
 ||sogoucdn.com/wapsearch/static/js/videoAppro.
 ||sohu.com.cn/ppp/bms/bms.popup.
 ||sohu.com/adgtr/
@@ -7964,6 +7963,7 @@ _yad_jsonp_
 ||tfg2.com/images/upfile/AD/
 ||thcdy.co/baidu2/
 ||theporn.xyz/static/tmp/
+||theta.sogoucdn.com^
 ||thisav.com/0*.js
 ||thisav.com/index.js
 ||thisav.com/nb/
@@ -9602,7 +9602,6 @@ csdn.net###layerd
 hao123.com###layout-guess
 920share.com###layui-layer1
 dm5.com###lb-win
-jobbole.com###leaderboard
 hao.360.com###left-nav-place
 baidu.com###left-promotion
 hao.360.cn###left-ria-fixed
@@ -9937,7 +9936,6 @@ iyejie.com,pc360.net###sidebar > .widget:first-child
 oneinstack.com###sidebar > .widget:last-child
 ainuody.com###sidebar > .widget:nth-child(-n+6)
 pc360.net###sidebar > .widget:nth-child(3)
-jobbole.com###sidebar > .widget_text:first-child
 cmsky.com###sidebar > .wow > .widget:first-child
 tl95.vip###sidebar > .wow:first-child > .widget:first-child
 jiecao123.com###sidebar > a
@@ -9953,7 +9951,6 @@ yigujin.cn###sidebar img[src*="/abc/"]
 xici.net###sidebar-bd > #pbox:last-child
 elecfans.com###sidebar-firstad
 gaoqing.la###sidebar-follow
-jobbole.com###sidebar-recommend
 vikilife.com###sidebar-tab[style^="height:"]
 iplaysoft.com###sidebar_scroll_bdad
 2345.com###sidel_lvy
@@ -11441,6 +11438,7 @@ vpsdx.com##.gsfha3-form
 kuhou.com,pcsoft.com.cn##.gsxz
 yxdown.com##.gsxz_ydw
 pcsoft.com.cn##.gsxzdl
+32r.com##.gsxzdz > span + p + ul > li > a:not([class])
 putclub.com##.gtest
 vpsdx.com##.gthfdsa
 58.com##.guaguabox
@@ -12136,9 +12134,7 @@ camerabay.tv##.popupad
 pzzc.net##.portal_block_summary
 tgfcer.com##.portalbox
 netbardh.com##.pos-navbar-ad
-jobbole.com##.post > .textwidget
 vmovier.com##.post-ad-bottom
-jobbole.com##.post-adds + .textwidget
 hao.su##.post-content > div[class^="a"]
 mop.com##.post-content[href*=".taobao.com"]
 sanv.org##.post-left
@@ -13012,7 +13008,7 @@ v.qq.com##a[href*=".renrendai.com"]
 makepolo.com##a[href*=".rong360.com"]
 ccav5.com##a[href*=".sinaimg."]
 chdbits.co##a[href*=".taobao"]
-52movieba.com,acglala.net,ainuody.com,awaker.cn,cangku.in,ccav1.com,cdsoso.me,cgown.com,cn163.net,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hcomic.in,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmog.me,htcui.com,huan.moe,idanmu.at,ilxdh.com,jinbaozy.com,jitapu.com,jobbole.com,kisssub.org,languang.co,liuli.pw,moe-acg.cc,moe-acg.us,mydrivers.com,nxing.cn,oyksoft.com,rijutv.com,souxue8.com,speedtest.cn,toutiao.com,tucao.one,vpansou.com,xxshe.info,xxshe.xyz,youku.com##a[href*=".taobao.com"]
+52movieba.com,acglala.net,ainuody.com,awaker.cn,cangku.in,ccav1.com,cdsoso.me,cgown.com,cn163.net,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hcomic.in,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmog.me,htcui.com,huan.moe,idanmu.at,ilxdh.com,jinbaozy.com,jitapu.com,kisssub.org,languang.co,liuli.pw,moe-acg.cc,moe-acg.us,mydrivers.com,nxing.cn,oyksoft.com,rijutv.com,souxue8.com,speedtest.cn,toutiao.com,tucao.one,vpansou.com,xxshe.info,xxshe.xyz,youku.com##a[href*=".taobao.com"]
 boke112.com##a[href*=".tencent.com"]
 acgdoge.net,chinalawedu.com,douyu.com,gmgard.com,hggard.com,iqiyi.com,jinti.com,youku.com##a[href*=".tmall.com"]
 xianzhenyuan.cn##a[href*=".tmall.com"]:not(#xztba)
@@ -13189,7 +13185,6 @@ caibaojian.com##a[onclick*="aliyun"]
 caibaojian.com##a[onclick*="aly"]
 5g0a.com##a[onclick*="banner"]
 tvapk.net##a[onclick*="thread_banner"]
-32r.com##a[onclick="javascript:gsdownload();"]
 fixdown.com##a[onclick^="count_down"]
 52pk.com##a[onclick^="ga"]
 edc1014070.pixnet.net##a[onmouseover*="_openBrWindow"]
@@ -14343,6 +14338,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||jdfood.com.tw/Upload/ADImages/*Image.jpg
 @@||jin10.com^$generichide
 @@||jinhongweiqi.com/ad/update/
+@@||jinyongci.com^$generichide
 @@||jjjgame.com/plus/ad_
 @@||jjkmn.com^$generichide
 @@||jlthjy.com^$generichide
@@ -14473,7 +14469,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||regapi.37.com/api/p_register.php?login_account=
 @@||right.com.cn/forum/*300*250$image
 @@||rmdown.com/ads.js
-@@||runative-syndicate.com/sdk/v1/n.js$domain=onemanhua.com
 @@||ruten.com.tw/ahd/fetch_ad.php?
 @@||ruten.com.tw/js/jquery.ruten.supertop_ad.js
 @@||s.pacn.ws^*/generate-captcha?$domain=dmhy.org
@@ -15881,6 +15876,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||3ql1pb.cn^
 ||3s1xk.cn^
 ||3vn52l.cn^
+||40ic.cn^
 ||42rca.cn^
 ||47dx0c.cn^
 ||47n209.com^
@@ -17803,6 +17799,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||zwsteel.cn^
 ||zwychain.cn^
 ||zx-jsp.com^
+||zxglpj.cn^
 ||zxhymh.com^
 ||zxin131.cn^
 ||zxjjzx.com^
@@ -17833,7 +17830,11 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||shyanche.net^
 ||yljiaoluo.com^
 ||yqjxzw.com^
-!#o
+!#onemanhua.com
+@@||cnzz.com^$script,domain=onemanhua.com
+@@||runative-syndicate.com/sdk/v1/n.js$domain=onemanhua.com
+@@||runative-syndicate.com^$script,domain=onemanhua.com
+onemanhua.com##.mn-related-container
 !#playno1.club
 @@||exosrv.com/ads-iframe-display.php$domain=getrelax.cc|sexylove.club
 @@||exosrv.com/ads.js$domain=getrelax.cc|sexylove.club
