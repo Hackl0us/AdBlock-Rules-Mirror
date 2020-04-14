@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GS6zTlHDAOHffSha1KNMYA
-! Version: 202004122353
+! Checksum: iDUWvPMHd1yMub7wZRQXlg
+! Version: 202004140003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 12 Apr 2020 23:53 UTC
+! Last Modified: 14 Apr 2020 00:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -7149,7 +7149,7 @@ _yad_jsonp_
 ||myhack58.com^*0$script
 ||myhard.com/s?z=
 ||myjianzhu.com/file/upload/201806/12/192806811.gif
-||myqqjd.com/wp-content/plugins/wp-ahtwz-
+||myqqjd.com/wp-content/plugins/dsclmrjqebn/
 ||mysteelcdn.com/gg/
 ||myweb.hinet.net/menu.htm
 ||myyan.org/js/qz.js
@@ -7198,6 +7198,7 @@ _yad_jsonp_
 ||newyx.newyx.net/j/
 ||nex.163.com/q?
 ||nfmovies.com/pic/tu/*_863x59.
+||nfmovies.com/pic/tu/*_banner
 ||nfmovies.com/pic/tu/a191124002.
 ||nfmovies.com/pic/tu/a191124003.
 ||nfmovies.com/pic/tu/a191124004.
@@ -11540,6 +11541,7 @@ jpwind.com##.hf_tupian_gg
 doupapa.com,dpp2019.com##.hidden-xs[class*="_"]
 mahua.com##.hidden_ab
 9553.com,99danji.com##.high-down
+9553.com##.high-down-icon1
 orsoon.com##.high-downs
 douyu.com##.his-sign-cont
 zp365.com##.hitADclass
@@ -13849,7 +13851,7 @@ dpp.org.tw#@##ad_small
 timesdata.com#@##adbody
 tt1069.com#@##adbrite
 abbao.cn,tt1069.com,xietui.com#@##adcontent
-nfmovies.com#@##adleft
+nfmovies.com#@##adright
 hongrentao.cc,houhuayuan.pink,mcfuns.com.tw,mrmad.com.tw,myself-bbs.com,paltv.top,pbhz.com,sportsyeah.hk,ugediao.com,xingkbjm.com,youneed.win,zhaoze.party,zhuihd.com#@##adsense
 wenku8.net#@##adtop
 union.58.com#@##advertise
@@ -17230,6 +17232,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||qloer.com^
 ||qlonglong.com^
 ||qlssbq.cn^
+||qmlcdlo.cn^
 ||qneit.com^
 ||qq0au.cn^
 ||qqdashabi.top^
