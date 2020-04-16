@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: jpxhoKYNxs/96k3htaWrzw
-! Version: 202004142353
+! Checksum: NhW5ev5YH2h5XPFfsAyBwQ
+! Version: 202004152353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 14 Apr 2020 23:53 UTC
+! Last Modified: 15 Apr 2020 23:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -3595,6 +3595,7 @@ ubmcmm.baidustatic.com
 ||xmxxwl.com^
 ||xn--2qu96gouvko1a.com^
 ||xn--2quz8f01ak10c.shop^
+||xn--czrshy5v7kb.cc^
 ||xn--fjqz50cv5q3so.ltd^
 ||xn--fjqz50cv5q3so.online^
 ||xn--mtso8sj6menhyil.online^
@@ -7161,6 +7162,7 @@ _yad_jsonp_
 ||myjianzhu.com/file/upload/201806/12/192806811.gif
 ||myqqjd.com/wp-content/plugins/dsclmrjqebn/
 ||myqqjd.com/wp-content/plugins/wp-*.js
+||myqqjd.com/wp-content/plugins/ybgosvhw-
 ||mysteelcdn.com/gg/
 ||myweb.hinet.net/menu.htm
 ||myyan.org/js/qz.js
@@ -11181,6 +11183,7 @@ zol.com.cn##.down-gaosu
 smzy.com##.down-jisu
 zol.com.cn##.down-linka
 xiaopi.com##.down-list
+zol.com.cn##.down-sugao
 mianbao99.com##.downApp
 fx110.com##.down_Hx
 52pk.com##.down_adv
@@ -11556,6 +11559,7 @@ jpwind.com##.hf_tupian_gg
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.hgame_mod_theme2
 doupapa.com,dpp2019.com##.hidden-xs[class*="_"]
 mahua.com##.hidden_ab
+zol.com.cn##.high
 9553.com,99danji.com##.high-down
 9553.com##.high-down-icon1
 orsoon.com##.high-downs
@@ -14450,6 +14454,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||microsofttranslator.com/translate?
 @@||mm.maxthon.cn/ad/
 @@||mmaa99.xyz^$generichide
+@@||mmgd.xyz^$generichide
 @@||mmuu22.link^$generichide
 @@||mmy.la^*300*250
 @@||mnighthk.net/template/*/ad
@@ -15851,6 +15856,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|00sy.c
 @@||dzz8.com/public/ptcms/*.js?g=$domain=m.daizhuzai.com
 @@||meiwenfen.com^$xmlhttprequest,domain=520tingshu.com
 bixia.org##dd[style*="bottom:"]
+bxwx666.org###addiv3
 duanwenxue.com##.qgzdwx
 jx.la##div[onclick*="apk"]
 xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
@@ -15979,6 +15985,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||5mbd2.com^
 ||5pb266.com^
 ||5q80n.cn^
+||5t4o.cn^
 ||5tbiec.cn^
 ||5x0f.cn^
 ||5yv2e.cn^
@@ -16573,6 +16580,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||gnmbd.top^
 ||gobali.cn^
 ||gongfanglong.cn^
+||goodwold.top^
 ||googlespider1.cn^
 ||gotooback.com^
 ||gou1zhe.com^
