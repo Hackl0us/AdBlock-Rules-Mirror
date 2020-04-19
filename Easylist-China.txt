@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: dNtBtDE0xpRsjnLSkiqzkA
-! Version: 202004172353
+! Checksum: qeQ8Ctf54p779J6SGFapdw
+! Version: 202004182353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 17 Apr 2020 23:53 UTC
+! Last Modified: 18 Apr 2020 23:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -4344,6 +4344,7 @@ _yad_jsonp_
 ||2ccc.com/images/sino.gif
 ||2ccc.com/images/WebXone.gif
 ||2cq.com/third/tieba/sidebar
+||2d4f.com/love/
 ||2kandy.com/js/123/
 ||2ujj.com/js/bo.js
 ||2zzt.com/file/aliyun
@@ -7162,10 +7163,7 @@ _yad_jsonp_
 ||myhack58.com^*0$script
 ||myhard.com/s?z=
 ||myjianzhu.com/file/upload/201806/12/192806811.gif
-||myqqjd.com/wp-content/plugins/dsclmrjqebn/
-||myqqjd.com/wp-content/plugins/pnjdztxwjz/
-||myqqjd.com/wp-content/plugins/wp-*.js
-||myqqjd.com/wp-content/plugins/ybgosvhw-
+||myqqjd.com/wp-content/plugins/*/wp-
 ||mysteelcdn.com/gg/
 ||myweb.hinet.net/menu.htm
 ||myyan.org/js/qz.js
@@ -10388,7 +10386,7 @@ baofeng.com##.ad-bar-l
 baofeng.com##.ad-bar-r
 html-js.com##.ad-blank
 baidu.com##.ad-block-1
-cangku.in,cangku.moe,enjoymore.fun,got001.com,iwan.baidu.com,qq.com,qtv.com.cn,xinhuanet.com,zol.com.cn##.ad-box
+cangku.in,cangku.moe,enjoymore.fun,got001.com,got002.com,iwan.baidu.com,qq.com,qtv.com.cn,xinhuanet.com,zol.com.cn##.ad-box
 easou.com##.ad-charge
 newtalk.tw,toolfk.com##.ad-container
 olevod.com##.ad-corner
@@ -13172,6 +13170,7 @@ jrzj.com##a[href^="http"]:not([href*=".jrzj."]) > img[src^="https://img."]
 peizimenhu.com##a[href^="http"]:not([href*=".peizimenhu."]) > img[src^="data/attachment/portal/"]
 qqhzg.com##a[href^="http"]:not([href*=".qqhzg."]) > img[src^="/upload/1/"]
 wn789.com##a[href^="http"]:not([href*="://www.wn789."]) > img
+ilvruan.com##a[href^="http"]:not([href*="ilvruan"]) > img
 xiaoheizy.com##a[href^="http"]:not([href*="xiaoheizy.com"]) > img
 107cine.com##a[href^="http://107cine.com/ads/"]
 hepuwang.com##a[href^="http://ad."]
@@ -16091,6 +16090,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||abfirst.cn^
 ||abie10.top^
 ||abie11.top^
+||abie25.top^
 ||abie9.top^
 ||abuse8.com^
 ||acaog.com^
