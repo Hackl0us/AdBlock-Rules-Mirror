@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qeQ8Ctf54p779J6SGFapdw
-! Version: 202004182353
+! Checksum: dhHVuhJgeOYb5R62EVNHOQ
+! Version: 202004192353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 18 Apr 2020 23:53 UTC
+! Last Modified: 19 Apr 2020 23:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -3142,6 +3142,7 @@ ubmcmm.baidustatic.com
 ||show.kc.taotaosou.com^
 ||shshuoshu.com^
 ||shucaihangjia.com^
+||shuccn.com^
 ||shuihulu.com^$third-party
 ||shujuwu.com^$third-party
 ||shushijiameng123.com^
@@ -9713,6 +9714,7 @@ wenxuecity.com###marquee
 xmfish.com###marry_laping
 yaolan.com###maryAd
 muchong.com###mask
+kxdao.net###masonry
 gzmama.com###mdvtips
 l114la.com###media
 hinet.net###media_ad_popup_overlay
@@ -10280,7 +10282,7 @@ angelweb.cn##.GG960x90
 aiyuke.com##.GGad
 downg.com##.Gs_d[href$=".exe"]
 crsky.com##.Gs_d[href="javascript:;"]
-52fzwg.com,79tao.com,hqol.cn,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb66.com##.GzList
+52fzwg.com,79tao.com,hqol.cn,kxdao.net,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb66.com##.GzList
 le.com,letv.com##.H-tg
 diyifanwen.com##.Hzh1
 diyifanwen.com##.Hzh2
@@ -17838,6 +17840,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||yyshow.top^
 ||z3uk6.cn^
 ||z41vm.cn^
+||z65j.cn^
 ||z97g.cn^
 ||zabxb.com^
 ||zanghaihua.org^
