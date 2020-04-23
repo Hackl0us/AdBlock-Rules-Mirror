@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NqjzWuxPtfHD+GFNTiAkCA
-! Version: 202004212353
+! Checksum: NSe/czdWVMWg0CugGBpVXw
+! Version: 202004222353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 21 Apr 2020 23:53 UTC
+! Last Modified: 22 Apr 2020 23:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -827,6 +827,7 @@ _xiuno_com_ad/
 ##.event_fullscreen_gg_modal
 ##.f-sign-cont[data-dysign-adid]
 ##.fed-part-case > .ads-img
+##.ff-ads
 ##.float-adv-left-bottom
 ##.float-adv-left-top
 ##.float-adv-right-bottom
@@ -1036,6 +1037,7 @@ _xiuno_com_ad/
 ##a[href*="/du505.com"]
 ##a[href*="itoon.app"]
 ##a[href*="nnqp.vip"]
+##a[href*="ywslxq.com"]
 ##a[href="/e/member/register/index.php?tobind=0&groupid=1"]
 ##a[href="/gghtml/tyc.html"]
 ##a[href="http://t.cn/E2PgiG1"]
@@ -1726,6 +1728,7 @@ ubmcmm.baidustatic.com
 ||aoyinn.com^
 ||apkdo.com^
 ||aqgyju.cn^
+||aqugame.com^
 ||arealx.com^
 ||arrows-hitech.com^
 ||artedu.pw^
@@ -7171,6 +7174,7 @@ _yad_jsonp_
 ||myhard.com/s?z=
 ||myjianzhu.com/file/upload/201806/12/192806811.gif
 ||myqqjd.com/wp-content/plugins/*/wp-
+||myqqjd.com/wp-content/plugins/gduos-
 ||mysteelcdn.com/gg/
 ||myweb.hinet.net/menu.htm
 ||myyan.org/js/qz.js
@@ -11310,7 +11314,6 @@ kalvin.cn##.fell_advertisement_box
 ytbbs.com##.fend_ad
 home.ifeng.com##.fengjc02
 hao.360.cn##.festival_snatch
-nicotv.me##.ff-ads
 firefoxchina.cn##.ff-banner
 firefoxchina.cn##.ff-open
 cngold.org##.fiexdAdvsClosed
@@ -13135,6 +13138,7 @@ bejson.com##a[href*="layui.com"]
 m.baidu.com##a[href*="m.lecai.com"]
 ccav1.com##a[href*="meidebi."]
 kafan.cn##a[href*="nameidi."]
+dmzj.com##a[href*="qunhei.com"]
 500.com##a[href*="sanyol.cn"]
 jinti.com##a[href*="tempurchina.com"]
 58.com##a[href*="to8to.com"]
@@ -15442,6 +15446,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||s11.cn^$third-party
 ||salary.xiao84.com^
 ||sbbd1.qulishi.com^
+||sbpb1.chuiyue.com^
 ||sbpb1.qulishi.com^
 ||sc.csai.cn^
 ||script-bd.baixing.net^
@@ -15978,6 +15983,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||3vn52l.cn^
 ||40ic.cn^
 ||42rca.cn^
+||45le.cn^
 ||45xa.cn^
 ||47dx0c.cn^
 ||47n209.com^
@@ -16103,6 +16109,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||abfirst.cn^
 ||abie10.top^
 ||abie11.top^
+||abie12.top^
 ||abie25.top^
 ||abie9.top^
 ||abuse8.com^
@@ -16619,6 +16626,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||goulanmeng.cn^
 ||gringrin.cn^
 ||grjs02.com^
+||grjs06.com^
 ||grtnahd.cn^
 ||gtaih.com^
 ||gtchong.com^
@@ -16655,9 +16663,11 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||hainufamliy.top^
 ||hajuwang.cn^
 ||hanmiyong.com^
+||hanqingstudio.com^
 ||haomaojin.com^
 ||haoxianyangrouye.com^
 ||haoxinq.top^
+||hatbiz.cn^
 ||hawbfa.com^
 ||hbaog.com^
 ||hbbww.com^
@@ -16947,6 +16957,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||kofcq5.cn^
 ||kongssew.com^
 ||koudaichaoshi.cn^
+||kpfufdh.cn^
 ||kqiaq.com^
 ||ks67.com^
 ||ksdsuzhou.com^
@@ -17576,6 +17587,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||vers80.com^
 ||vf5yb4.cn^
 ||vgaom.com^
+||vhhhkpf.cn^
 ||vhuay.com^
 ||vichc.com^
 ||viiqx.com^
@@ -17723,6 +17735,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||xn--2qu92fhtx4ff.ink^
 ||xn--2qux23c9ziyrq.icu^
 ||xn--2qux23confgml.club^
+||xn--4gqvdz18f.xyz^
 ||xn--i6qs37am6iwyqffc.com^
 ||xn--mtsr39cnql.video^
 ||xn--wxtr44c.video^
@@ -17939,6 +17952,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||zzalkk.com^
 ||zzbya.xyz^
 ||zzbyb.xyz^
+||zzbyc.xyz^
 ||zzcgw.cn^
 ||zzfanwo.cn^
 ||zzhszj.com^
