@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NSe/czdWVMWg0CugGBpVXw
-! Version: 202004222353
+! Checksum: S92KF4WrXnoUQi82ErM25w
+! Version: 202004232353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 22 Apr 2020 23:53 UTC
+! Last Modified: 23 Apr 2020 23:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -861,6 +861,7 @@ _xiuno_com_ad/
 ##.guruin-ads
 ##.hao123-unionad-pic
 ##.hbp > .wp_banner
+##.headxx11xiaoapp
 ##.heg > .div-list
 ##.his-sign-cont[data-dysign-adid]
 ##.hlol_ad
@@ -974,6 +975,7 @@ _xiuno_com_ad/
 ##.zhedangceng_ggg
 ##.zone_wap_banner2
 ##A[href*=".com/?Agent="]
+##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
 ~sinaimg.cn##a > img[src*=".sinaimg."][src$=".gif"][style*="width:960"]
 ~alicdn.com##a > img[width="960"][src*=".alicdn.com/"]
@@ -2339,6 +2341,7 @@ ubmcmm.baidustatic.com
 ||hejingroup.cn^
 ||helanpinpai.com^
 ||hen360.com^$third-party
+||henanlvyi.com^
 ||hengshui1.com^
 ||hesxz.com^
 ||heygugu.com^
@@ -3608,6 +3611,7 @@ ubmcmm.baidustatic.com
 ||xn--czrshy5v7kb.cc^
 ||xn--fjqz50cv5q3so.ltd^
 ||xn--fjqz50cv5q3so.online^
+||xn--i7qt52bvsr0u0a.com^
 ||xn--mtso8sj6menhyil.online^
 ||xn--tst552fo5s.xyz^
 ||xn--wcsy74a6d835f5lf.com^
@@ -4179,7 +4183,6 @@ _yad_jsonp_
 ||127.net/external/js6promote
 ||127.net/external/js6public126_
 ||127.net/external/js6public163_
-||127.net/m/*/promPic.jpg
 ||12999.com/JS/
 ||12img.com/ad/
 ||12ycw.com/js/fc/
@@ -6724,6 +6727,7 @@ _yad_jsonp_
 ||kan98.com/statics/js/k2017/kan98.js
 ||kancloud.cn/ad/
 ||kanguba.com/file/js/ifr.asp
+||kanjiantu.com/images/2020/04/17/uO6sX9.gif
 ||kanjuba.me/js/bbk/
 ||kanjuwo.com/js/6
 ||kanjuwo.com/js/8
@@ -8803,6 +8807,7 @@ _yad_jsonp_
 ||zuixingkong.com/show-g/
 ||zuixingkong.com^*mygg/
 ||zuoche.com/promo/*.jspx
+||zuofang05.com/template/mytheme/statics/image/1/
 ||zuoyebang.cc/static/question/pkg/wap-qb_
 ||zwwooooo.com/images/hengtian.
 ||zx590.com/assets/style/js/paigu.js
@@ -13086,7 +13091,7 @@ v.qq.com##a[href*=".renrendai.com"]
 makepolo.com##a[href*=".rong360.com"]
 ccav5.com##a[href*=".sinaimg."]
 chdbits.co##a[href*=".taobao"]
-52movieba.com,acglala.net,ainuody.com,awaker.cn,cangku.in,ccav1.com,cdsoso.me,cgown.com,cn163.net,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hcomic.in,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmog.me,htcui.com,huan.moe,idanmu.at,ilxdh.com,jinbaozy.com,jitapu.com,kisssub.org,languang.co,liuli.pw,moe-acg.cc,moe-acg.us,mydrivers.com,nxing.cn,oyksoft.com,rijutv.com,souxue8.com,speedtest.cn,toutiao.com,tucao.one,vpansou.com,xxshe.info,xxshe.xyz,youku.com##a[href*=".taobao.com"]
+52movieba.com,acglala.net,ainuody.com,awaker.cn,cangku.in,ccav1.com,cdsoso.me,cgown.com,cn163.net,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hcomic.in,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmog.me,htcui.com,huan.moe,idanmu.at,jinbaozy.com,jitapu.com,kisssub.org,languang.co,liuli.pw,moe-acg.cc,moe-acg.us,mydrivers.com,nxing.cn,oyksoft.com,rijutv.com,souxue8.com,speedtest.cn,toutiao.com,tucao.one,vpansou.com,xxshe.info,xxshe.xyz,youku.com##a[href*=".taobao.com"]
 boke112.com##a[href*=".tencent.com"]
 acgdoge.net,chinalawedu.com,douyu.com,gmgard.com,hggard.com,iqiyi.com,jinti.com,youku.com##a[href*=".tmall.com"]
 xianzhenyuan.cn##a[href*=".tmall.com"]:not(#xztba)
@@ -15059,6 +15064,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||aa.gushiwen.org^
 ||aa.ninze.com^
 ||aa.xiangxiangmf.com^
+||aaa.tumanyi.com^
 ||ab.cnbanbao.com^
 ||ab.pincai.com^
 ||abc.douguo.com^
@@ -16028,6 +16034,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||606w.cn^
 ||609623.com^
 ||63xs.com:8016^
+||64ri.cn^
 ||64si.com^
 ||66992.top^
 ||66993.top^
@@ -17198,6 +17205,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||oir85.cn^
 ||oiwjcsh001.top^
 ||oiwjcsh010.top^
+||oiwjcsh011.top^
 ||ojues.com^
 ||okshishi.com^
 ||okuis.com^
