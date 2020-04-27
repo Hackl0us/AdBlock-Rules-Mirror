@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ieief9Ml0Gm3XYZNmYCQxQ
-! Version: 202004252353
+! Checksum: Tdo/Iw+bmeF+o+cnbbZN2w
+! Version: 202004262353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 25 Apr 2020 23:53 UTC
+! Last Modified: 26 Apr 2020 23:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1488,7 +1488,7 @@ ubmcmm.baidustatic.com
 ||685wo.com^$script,third-party
 ||68665565.com^
 ||69duk.com^
-||6avz.com^
+||6avz.com^$script,third-party
 ||6cc8cc.xyz^
 ||6dad.com^$third-party
 ||6dvip.com^
@@ -3690,6 +3690,7 @@ ubmcmm.baidustatic.com
 ||yenlm.com^
 ||yese115.com^
 ||yese161.com^
+||yese236.com^
 ||yeyajipp.com^
 ||yezijizhang.com^
 ||yezilm.com^$third-party
@@ -3751,6 +3752,7 @@ ubmcmm.baidustatic.com
 ||yqcy988.com^
 ||yqw88.com^
 ||yrzyks.cn^
+||ys2000.cdn.bcebos.com^
 ||ysdhe.com^
 ||ysgsq.cn^
 ||ysjwj.com^
@@ -4549,6 +4551,7 @@ _yad_jsonp_
 ||576tv.com/Scripts/home.js
 ||57fx.com/img/20170508.jpg
 ||57see.com/js/
+||57sehua.com/template/assets1/js/vue.js
 ||58.218.200.135:8081/js/
 ||58.com/demand/content?
 ||58.com/ds/tgbrand/*.js
@@ -4951,9 +4954,11 @@ _yad_jsonp_
 ||alicdn.com/img/ibank/*_1082732848.
 ||alicdn.com/img/ibank/*_1085845541.
 ||alicdn.com/img/ibank/*_1095372465.
+||alicdn.com/img/ibank/*_1230538058.
 ||alicdn.com/img/ibank/*_1409595492.
 ||alicdn.com/img/ibank/*_1545027917.
 ||alicdn.com/img/ibank/*_1591187313.
+||alicdn.com/img/ibank/*_1623489831.
 ||alicdn.com/img/ibank/*_1746120392.$domain=~rmdown.com
 ||alicdn.com/img/ibank/*_1794478205.
 ||alicdn.com/img/ibank/*_1995781528.
@@ -5497,7 +5502,7 @@ _yad_jsonp_
 ||chiphell.com/activity/
 ||chnmoney.com/dfile/
 ||chongdiantou.com/wp-content/uploads/2019/02/pzb.jpg
-||chromeba.net/wp-content/uploads/LOIFYeTnkQrC/pounqcfHWNpr.js
+||chromeba.net/wp-content/uploads/
 ||chuantu.biz/t2/22/1450961822x1822613148.gif
 ||chuantu.biz^$domain=7mav2.com|thztv.cc
 ||chuantu.xyz/t6/714/1580707721x3703728804.jpg
@@ -8659,8 +8664,8 @@ _yad_jsonp_
 ||yxad.com/yxad/
 ||yxbao.com/js/bt_
 ||yxdd.com^$subdocument
-||yxdm.tv/js/*_
-||yxdm.tv/js/gad.js
+||yxdm.me/js/*_
+||yxdm.me/js/gad.js
 ||yxdown.com/cj/
 ||yxdown.com/pc/news/js/news
 ||yxdown.com/zt/zt/js/zt.js
@@ -10643,11 +10648,11 @@ xmfish.com##.adv-760
 xmfish.com##.adv-960
 xinhuanet.com##.adv-column2
 wdzj.com##.adv-img
-yxdm.tv##.adv0
+yxdm.me##.adv0
 shouji56.com##.adv01 + a
 qq.com##.adv1000
-kdhome.net,yxdm.tv##.adv2
-kdhome.net,xinhuanet.com,yxdm.tv##.adv3
+kdhome.net,yxdm.me##.adv2
+kdhome.net,xinhuanet.com,yxdm.me##.adv3
 myhack58.com##.adv32
 it165.net##.adv728a
 it165.net##.adv728b
@@ -18212,6 +18217,7 @@ baidusu.com#@#.share-wrapper
 wantgoo.com#@#.shareBtns
 dj92cc.com,djkk.com,tingqq.com#@#.share_list
 zhihuishu.com#@#.sharing
+icourse163.org#@#.sns-link
 laosiji.com#@#.sns-wrapper
 cowtransfer.com#@#.socialButton
 storm.mg#@#.social_btn
@@ -18343,7 +18349,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||simba.taobao.com/?name=tcmad&$domain=www.taobao.com
 @@||sinajs.cn/open/analytics/js/suda.js$domain=weibo.com|~widget.weibo.com
 @@||sogou.com/pv.gif?*&stype=showskinpanel
-@@||sohu.com/cityjson$domain=114shouji.com|51credit.com|dilidili.one|eduyun.cn|jdboshi.com|jialingmm.net|lcm88.com|mop.com|shouji.com.cn|skk.moe|yxdm.tv
+@@||sohu.com/cityjson$domain=114shouji.com|51credit.com|dilidili.one|eduyun.cn|jdboshi.com|jialingmm.net|lcm88.com|mop.com|shouji.com.cn|skk.moe|yxdm.me
 @@||sohu.com/integration-api/mix/region/*&refer=http
 @@||stjscn.s-msn.com/portal/hp/2011/udctrack.
 @@||tajs.qq.com/stats?$~third-party
