@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202004262359
+! Version: 202004272259
 ! Title: EasyPrivacy
-! Last modified: 26 Apr 2020 23:59 UTC
+! Last modified: 27 Apr 2020 22:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1425,6 +1425,8 @@
 /CountContent?
 /counter-js.php
 /counter.*&referer=
+/counter.*&referrer=
+/counter.*?event=
 /Counter.ashx?
 /counter.asp?
 /counter.aspx?
@@ -3952,6 +3954,7 @@
 /statsd_proxy
 /StatsHelper.gif?
 /StatsMngrWebInterface.
+/StatSNA.js
 /StatsPage.
 /statspider?
 /statspixel.
@@ -4993,7 +4996,7 @@
 ://gdyn.*/1.gif?
 ://geoip.*/country.json
 ://ivwextern.
-://metrika.
+://metrika.$domain=~metrika.yandex.ru
 ://mint.*/?js
 ://piwik.$third-party
 ://reporting.*/blank.gif?
@@ -9257,6 +9260,7 @@ _mongo_stats/
 ||iid-network.jp^$third-party
 ||im-apps.net^$third-party
 ||iogous.com^$third-party
+||kaizenplatform.net^$third-party
 ||keyword-match.com^$third-party
 ||kir.jp^$third-party
 ||letro.jp^$third-party
@@ -10268,6 +10272,7 @@ _mongo_stats/
 ||d36lvucg9kzous.cloudfront.net^
 ||d39yds8oe4n4jq.cloudfront.net^
 ||d3a2okcloueqyx.cloudfront.net^
+||d3cgm8py10hi0z.cloudfront.net^
 ||d3cxv97fi8q177.cloudfront.net^
 ||d3hb14vkzrxvla.cloudfront.net/health-check
 ||d3iouejux1os58.cloudfront.net^
@@ -16302,6 +16307,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||cgi.tbs.co.jp^
 ||count.upc.rakuten.co.jp^
 ||dmm.com/analytics/
+||event.notifier.rakuten.co.jp^
 ||goo.ne.jp^*/vltracedmd.js
 ||i2i.jp/bin/
 ||ln.ameba.jp^
@@ -16314,6 +16320,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||pvtag.yahoo.co.jp^
 ||pw.gigazine.net^
 ||rakuten.co.jp/gw.js
+||rat.rakuten.co.jp^
 ||rdsig.yahoo.co.jp^$image
 ||retty.me/gen204.php
 ||retty.me/javascripts/common/logging.js
@@ -16333,6 +16340,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ! Korean
 ||chosun.com/hitlog/
 ||count.munhwa.com^
+||gmarket.co.kr/js/common/uuid.js
 ||hits.zdnet.co.kr^
 ||l.m.naver.com^
 ||log.sv.pandora.tv^
@@ -16423,6 +16431,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||consultant.ru/js/counter.js
 ||cosmo.ru/*/.js?i=*&r=
 ||counter.drom.ru^
+||counter.sibnet.ru^
 ||data.glamour.ru^
 ||dot-stat.radikal.ru^
 ||drom.ru/dummy.
@@ -16650,6 +16659,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||ancestrycdn.com/ui-static/lib/tracking/$domain=ancestry.com
 @@||api-track.delhivery.com/track?waybillId=$~third-party,xmlhttprequest
 @@||api.academia.edu^*/stats?callback$script,~third-party
+@@||api.getmakerlog.com/discussions/$~third-party,websocket,xmlhttprequest
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.segment.io/v1/$xmlhttprequest,domain=instacart.com
 @@||api.vidaxl.com^*/trackingservice/customerportal/*?$xmlhttprequest,domain=tracking.vidaxl.com
@@ -16758,6 +16768,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||googletagmanager.com/gtm.js?$domain=action.com|adsoup.com|airasia.com|asus.com|bhaskar.com|broadcom.com|complex.com|computerworlduk.com|cyclingnews.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|fortune.com|foxnews.com|gamepix.com|git-tower.com|google.com|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsarama.com|newsy.com|nfl.com|nytimes.com|onesignal.com|optus.com.au|realestate.co.nz|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|scotsman.com|sixflags.com|support.amd.com|talktalk.co.uk|techradar.com|toto.co.jp|toysrus.ca|trademe.nz|usmagazine.com|wwe.com
 @@||gov.au/Scripts/ga.js$script,~third-party
 @@||guce.advertising.com/collectIdentifiers$domain=guce.advertising.com
+@@||hearstapps.com/static/comscore.$script,domain=womenshealthmag.com
 @@||hitfile.net/platform/js/fdlogger/fdlogger.js$script,~third-party
 @@||hmhco.com/one/js/conf/trackjs.config.$script,~third-party,xmlhttprequest
 @@||hobbyking.com^*/gtm.js$script,third-party
@@ -16878,7 +16889,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||scorecardresearch.com/c2/plugins/streamsense_plugin_html5.js
 @@||scorecardresearch.com/c2/plugins/streamsense_plugin_theplatform.js
 @@||sears.com^*/analytics.sitecatalyst.js
-@@||secure.logmein.com/scripts/Tracking/$script,~third-party
+@@||secure.logmein.com/scripts/Tracking/$script,domain=logme.in|logmein.com
 @@||segment.com/analytics.js/*/analytics.min.js$script
 @@||segment.io/analytics.js/*/analytics.min.js$script
 @@||segment.io/v1/$xmlhttprequest,domain=greentoe.com
@@ -17079,6 +17090,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||wenxuecity.com/data/newscount/$image,domain=wenxuecity.com
 @@||wishpost.cn/api/tracking/
 ! Czech
+@@||1gr.cz/js/dtm/cache/satelliteLib-$domain=idnes.cz
 @@||googletagmanager.com/gtm.js?$domain=autorevue.cz|e15.cz|mobilmania.cz|zive.cz
 @@||hlidacstatu.cz/scripts/highcharts-6/modules/heatmap.js
 @@||seznam.cz/?spec=*&url=$image,domain=search.seznam.cz
