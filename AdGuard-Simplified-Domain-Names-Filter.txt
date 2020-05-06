@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-05-02T14:09:46.016Z
+! Last modified: 2020-05-05T14:10:45.188Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -152,6 +152,7 @@
 ||wimyrea.ru^
 ||bcnewltd.club^
 ||veminoi.ru^
+||2track.info^
 ||disp-x.space^
 ||papatyrodum.com^
 ||browser1.ru^
@@ -4134,6 +4135,7 @@ adbetnet.com
 ||kolsh.cn^
 !END: Chinese ad servers
 !
+||download-alert.com^
 ||visariomedia.com^
 ||viralltopics.com^
 ||semireproji.pro^
@@ -4143,7 +4145,6 @@ adbetnet.com
 ||hfsn.info^
 ||st-n.pc3ads.com^
 ||betteradsystem.com^
-||kmhodhhdvulnn.com^
 ||asqgcaeeprydk.com^
 ||emuboosag.com^
 ||arejoysew.com^
@@ -4312,7 +4313,6 @@ adbetnet.com
 ||phukienthoitranggiare.com^
 ||lessblog.pro^
 ||targetpush.co.kr^
-||phoossax.net^
 ||native.wpu.sh^
 ||daunteegyptian.pro^
 ||a.bestcontenttool.top^
@@ -7096,6 +7096,7 @@ www.llllllllllll.net^
 ! Non-flagged (Revolving ad servers)
 ||01dbf3a452b6.com^
 ||05xz0h2xo799.com^
+||068943613eb.com^
 ||08a14e37bb.com^
 ||08b72e4833486d.com^
 ||0a225c134735c.com^
@@ -7119,6 +7120,7 @@ www.llllllllllll.net^
 ||2g6gj3aojcrj.com^
 ||2sh8fouhk84h.com^
 ||2tpwcqot22mb.com^
+||3133a.xyz^
 ||341073be6e9db7d2.com^
 ||363f6edf73.com^
 ||36c6ce350b32.com^
@@ -7137,10 +7139,12 @@ www.llllllllllll.net^
 ||542fe1b0002a.com^
 ||55ebf493c42.com^
 ||575f4e87970f177969fe.com^
+||5aa8f31e2f5d.com^
 ||5bd5e3203751.com^
 ||5c577fc74618431b.com^
 ||645yvcj6c8rn.com^
 ||6942f24115b63.com^
+||69b7c505b2.com^
 ||6d20d0bdc6313c2cf690.com^
 ||6d2d5f558f3.com^
 ||6e1167fc12a.com^
@@ -7537,6 +7541,7 @@ www.llllllllllll.net^
 ||feedinburgew.site^
 ||feelinedbusin.site^
 ||feelineweatyeng.info^
+||feeohmchi.com^
 ||fessmegilscha.info^
 ||ffickiedisticre.site^
 ||ffortyimagist.info^
@@ -7628,6 +7633,7 @@ www.llllllllllll.net^
 ||histlingklakson.site^
 ||histormedengi.site^
 ||hoemasfat.site^
+||hooify.com^
 ||hoosorie.com^
 ||hounicuy.com^
 ||housandady.site^
@@ -7684,6 +7690,7 @@ www.llllllllllll.net^
 ||kitferdog.site^
 ||kitrigthy.com^
 ||kkqusrnaf.com^
+||kmhodhhdvulnn.com^
 ||kniferasatte.info^
 ||knottishhuntilc.info^
 ||koocaucy.com^
@@ -7908,6 +7915,7 @@ www.llllllllllll.net^
 ||pd-news.com^
 ||perfordpetre.club^
 ||performanceonclick.com^
+||perhangeflets.site^
 ||pertycleaner.site^
 ||petchesa.net^
 ||pffw8mgd.com^
@@ -8246,6 +8254,7 @@ www.llllllllllll.net^
 ||xr8wv50k1daj.com^
 ||yawsupvie.site^
 ||ydrinkletremem.site^
+||yellorsanarolik.site^
 ||yeprimlax.club^
 ||yepsobtax.com^
 ||yestedshere.site^
@@ -11822,6 +11831,7 @@ www.llllllllllll.net^
 ||phoaksiw.com^
 ||phonespybubble.com^
 ||phoodsom.net^
+||phoossax.net^
 ||phukrovo.com^
 ||picadmedia.com^
 ||picbucks.com^
@@ -23446,6 +23456,8 @@ www.llllllllllll.net^
 ||cicero-mit.com^
 ||sys.refocus.ru^
 ||apn.c.appier.net^
+||d1gwclp1pmzk26.cloudfront.net^
+||stats2.agilecrm.com^
 ||doorbrazil.com^
 ||dmzls.safe-installation.com^
 ||pixel.safe-installation.com^
@@ -24231,6 +24243,7 @@ www.llllllllllll.net^
 ||affex.org^
 ! Yesware
 t.yesware.com
+
 !
 ! Source name: AdGuard Tracking Protection filter first-party trackers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
@@ -26125,6 +26138,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||geoip-js.com^
 ||geojs.io^
 ||geolid.com^
+||geolocation-db.com^
 ||geoplugin.net^
 ||geotargetly-1a441.appspot.com^
 ||getambassador.com^
@@ -26868,6 +26882,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||projectsunblock.com^
 ||promotionengine.com^
 ||proofpositivemedia.com^
+||propeller-tracking.com^
 ||provenpixel.com^
 ||prtracker.com^
 ||pstats.com^
@@ -28017,6 +28032,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||butterbulb.com^
 ||butterburst.com^
 ||calculatorstatement.com^
+||callousbrake.com^
 ||cannontwin.com^
 ||capriciouscorn.com^
 ||capsquirrel.com^
@@ -28064,6 +28080,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||futuristicfifth.com^
 ||giddycoat.com^
 ||giraffepiano.com^
+||glisteningguide.com^
 ||gondolagnome.com^
 ||gorgeousground.com^
 ||greyinstrument.com^
@@ -28608,7 +28625,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ipinyou.com^
 ||irs01.
 ||irs09.com^
-||iteye.com^
 ||jiankongbao.com^
 ||lndata.com^
 ||logly.co.jp^
@@ -28758,6 +28774,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ntlab.org^
 ||pagerankfree.com^
 ||shinystat.it^
+||sibautomation.com^
 ||specialstat.com^
 ||statistiche-free.com^
 ||statistiche.it^
@@ -29475,6 +29492,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d3s7ggfq1s6jlj.cloudfront.net^
 ||d3sbxpiag177w8.cloudfront.net^
 ||d3tglifpd8whs6.cloudfront.net^
+||d3uvwl4wtkgzo1.cloudfront.net^
 ||d4ax0r5detcsu.cloudfront.net^
 ||d6jkenny8w8yo.cloudfront.net^
 ||d81mfvml8p5ml.cloudfront.net^
@@ -30981,9 +30999,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 May 2020 19:19 UTC+7
-! Version: 2005021919
-! Blocked: 416 rules
+! Last modified: 05 May 2020 14:48 UTC+7
+! Version: 2005051448
+! Blocked: 422 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -31111,6 +31129,7 @@ vkcdnservice.appspot.com^
 ||vnnayngaytin.vn^
 ||wg.zaloapp.com^
 ||yeah1media.vn^
+||yeah1publishing.com^
 ||yoads.net^
 ||yoads.network^
 ||yomedia.vn^
@@ -31207,6 +31226,7 @@ vkcdnservice.appspot.com^
 ||landingpagelagi.vn^
 ||lottery.headlines.pw^
 ||lottery.vntoday.news^
+||mega1.yeah1.com^
 ||microad.vn^
 ||mobileads.dieuviet.com^
 ||myad.vn^
@@ -31236,10 +31256,12 @@ vkcdnservice.appspot.com^
 ||tvnotice.kg.garena.vn^
 ||uniad.phimmoi.net^
 ||upfile16.mediaphim.com^
+||user.headlines.pw^
 ||vietbuzzad.com^
 ||vietdorje.com^
 ||vinaads.vn^
 ||vnd247.vn^
+||widget.headlines.pw^
 ||alexajstrack.com^
 ||analytics.bkav.com^
 ||analytics.easyvideo.vn^
@@ -31262,11 +31284,13 @@ vkcdnservice.appspot.com^
 ||log.anninhthudo.vn^
 ||log.baodatviet.vn^
 ||log.baomoi.com^
+||log.baophapluat.vn^
 ||log.batdongsan.com.vn^
 ||log.giaoduc.net.vn^
 ||log.infonet.vn^
 ||log.kienthuc.net.vn^
 ||log.sggp.org.vn^
+||log.tapchitaichinh.vn^
 ||log.thanhnien.vn^
 ||log.tienphong.vn^
 ||log.vietnamdaily.net.vn^
@@ -31408,6 +31432,8 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||qubo94.com^
+||phvmax.com^
 ||0024aaaa.com^
 ||00880808.com^
 ||008844.cc^
@@ -32232,6 +32258,7 @@ vkcdnservice.appspot.com^
 ||hnasd.com^
 ||hnctsm.com^
 ||hnfpgm.com^
+||hngezj.com^
 ||hnh-hotel.com^
 ||hnhycp.com^
 ||hntymg.com^
@@ -33186,6 +33213,7 @@ vkcdnservice.appspot.com^
 ||xjzyq.com^
 ||xk2012.com^
 ||xkwfao.com^
+||xlgqy.com^
 ||xliansheng.com^
 ||xlwnx.com^
 ||xm9178.com^
@@ -33822,6 +33850,7 @@ vkcdnservice.appspot.com^
 ||zkrdy.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
+||d3mr7y154d2qg5.cloudfront.net^
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
@@ -34569,7 +34598,8 @@ vkcdnservice.appspot.com^
 ||stunninglover.com^
 ||watakaw133.xyz^
 ||cryptaloot.pro^
-||53txs.com^
+||91cy.top^
+||0413fsiuhwem.xyz^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -34663,6 +34693,7 @@ vkcdnservice.appspot.com^
 ||47dx0c.cn^
 ||47n209.com^
 ||482hb.cn^
+||497761.top^
 ||49lkc.cn^
 ||4a3zf.cn^
 ||4df5ef.xyz^
@@ -34682,6 +34713,7 @@ vkcdnservice.appspot.com^
 ||51xvc.cn^
 ||52homie.cn^
 ||52tushuo.com^
+||53txs.com^
 ||555b2b.com^
 ||57m1j.cn^
 ||58scx.com^
@@ -35184,6 +35216,7 @@ vkcdnservice.appspot.com^
 ||feifish66.com^
 ||feipaihehuoren.cn^
 ||fenbengpan.cn^
+||ff01s.cn^
 ||ffanq.com^
 ||ffg34fg.78zw.com^
 ||ffychb.com^
@@ -35988,6 +36021,7 @@ vkcdnservice.appspot.com^
 ||quanjiapp.cn^
 ||quldu.com^
 ||quyejianzhan.tech^
+||qwesgwg.cn^
 ||qxyu.top^
 ||qyttl.cn^
 ||qzbxfs.com^
@@ -36364,6 +36398,7 @@ vkcdnservice.appspot.com^
 ||xdunv.com^
 ||xdyszx.com^
 ||xeihy.com^
+||xenjswd.cn^
 ||xfya3.cn^
 ||xfytjx.cn^
 ||xhaiu.com^
@@ -37259,14 +37294,18 @@ vkcdnservice.appspot.com^
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/312
-@@||grp07.ias.rakuten.co.jp^|
+! Blocked by exacttarget.com alias
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/316
+@@||click.bookdepoemail.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/306
 @@||click.dream.snhu.edu^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/304
-@@||cindyholbrook.lpages.co^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/296
 @@||click.mailsf.coinpayments.net^|
+!
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/312
+@@||grp07.ias.rakuten.co.jp^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/304
+@@||cindyholbrook.lpages.co^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/289
 ! Fixing Google Shop and Google Ads in search results.
 ! These ads cannot be hidden on the DNS-level, so we should not break clicks on the adverts
