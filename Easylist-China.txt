@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pAYwtpwQ99ED4cETrAX31Q
-! Version: 202005052353
+! Checksum: 2a8nDG9+rRSarle6tUxN+Q
+! Version: 202005070213
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 05 May 2020 23:53 UTC
+! Last Modified: 07 May 2020 02:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1078,7 +1078,6 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
-||avtiaozhuan.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -1748,6 +1747,7 @@ ubmcmm.baidustatic.com
 ||audit8.com^
 ||auspiciousvp.com^
 ||av8d.net^$third-party
+||avtiaozhuan.com^
 ||awifi.cn^$third-party
 ||awkjs.com^
 ||axhxa.com^
@@ -4213,6 +4213,7 @@ _yad_jsonp_
 ||141h.com/data/attachment/noblock/cf/
 ||145.239.6.59/g3/
 ||14bobo.com/js/
+||159i.com/p/hola/fozrjiqolpj.php
 ||159i.com/video/pop/
 ||159i.com/video/usr/uploads/1-
 ||159i.com/video/usr/uploads/bd/$image
@@ -6753,7 +6754,7 @@ _yad_jsonp_
 ||kan98.com/images/*.gif
 ||kan98.com/statics/js/k2017/kan98.js
 ||kancloud.cn/ad/
-||kanguba.com/file/js/ifr.asp
+||kanguba.com/file/js/wwwifr.asp
 ||kanjiantu.com/images/2020/04/17/uO6sX9.gif
 ||kanjuba.me/js/bbk/
 ||kanjuwo.com/js/6
@@ -12301,6 +12302,7 @@ gg-led.com##.regg
 e-learn.cn##.region-sidebar-second > .block:nth-child(2)
 w3cplus.com##.region-sidebar-second > :nth-last-child(n+3)
 xueqiu.com##.regist-guide-container
+baidu.com##.rel-exp-feed-ad-item
 mop.com##.rel-item-gg
 pconline.com.cn##.rela-best
 mbd.baidu.com##.related-news > section:first-child + div
@@ -13730,6 +13732,7 @@ zuoye.baidu.com##dl[class="card related"]
 douban.com#?#.rec_topics:-abp-has(>.rec_topics_name[href^="https://erebor.douban."])
 ebay.com#?#li.s-item:-abp-has(span[role="text"]>span:-abp-contains(助))
 bbs.my0511.com##embed[width="970"][height="70"]
+engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
 cnbeta.com##h2 > a[href^="https://active.greatroma.com"]
 ifeng.com#?#.box_list:-abp-has(.tuig)
 sina.cn##iframe[id^="sinaadtk_"]
@@ -14048,6 +14051,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
+@@||wenxuecity.com/include/editor/*/media/ad/
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|tgfcer.com|wgun.net
 @@.jpg#$domain=huhupan.com
@@ -15061,6 +15065,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||a1.0s.net.cn^
 ||a1.99933.cn^
 ||a1.99966.cn^
+||a1.aichagu.com^
 ||a1.bestopview.com^
 ||a1.bookapka.com^
 ||a1.firefoxchina.cn^
@@ -15868,6 +15873,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|00sy.c
 @@||gtimg.com/libs/$domain=18xs.org
 @@||libs.baidu.com^$domain=138txt.com|18xs.org|1biqu.com|1kanshu.cc|230book.com|23hh.com|23txt.com|23wxx.com|258zw.com|27xsw.com|2baob.com|30sy.com|33yq.com|365book.net|37zw.net|39shubao.com|3yt.com|52biquge.com|58xs.com|5ccc.tw|63xs.com|78zw.com|81zw.me|88106.com|8jzw.com|99mk.com|99shumeng.net|abiqugew.com|aikantxt.la|aixs.org|aoyuge.com|balingtxt.com|baoshuu.com|biduo.cc|biqiuge.com|biqubao.com|biqudu.tv|biquga.com|biquge.com.cn|biquge.info|biquge.lu|biquge.tv|biquge.tw|biquge11.com|biquge6.com|biquge98.com|biqugecd.com|biqugecom.com|biqugego.com|biqugeii.com|biqugemm.com|biqukan.com|biquku.la|biqusan.com|biqutxt.com|bixia.org|biyuwu.cc|bodekang.net|boluoxs.com|bookbao.org|bookbao9.net|booksky.cc|bxwx.org|bxwx.tw|bxwx8.la|bxwxorg.com|cits0871.com|clewx.com|dashenxiaoshuo.com|day66.com|ddxs.cc|ddxsku.com|dianjiangxin.com|dushuge.net|farpop.com|fhxiaoshuo.org|gdbzkz.com|guaili.org|hatxt.com|hbfie.org|hehuamei.com|heikexs.com|heiyanwang.com|hongyeshuzhai.com|hybiquge.com|imiaobige.com|ishisetianxia.com|ixs.la|ixuanquge.com|jianlaixiaoshuo.com|jx.la|liewen.la|lindiankanshu.cc|liudatxt.com|lwtxt.net|lwxstxt.com|mianhuatang.cc|paoshu8.com|pfwx.com|piaotianxs.com|pingshuku.com|qbxs8.net|qianrenge.cc|qiqint.com|qishudu.com|qq717.com|quledu.net|qushuba.com|rmxs8.com|shenshu.info|shu008.com|shuhaige.com|shuhuangge.org|shuquge.com|siluke.tv|soxs.cc|tangsanshu.com|tpsxs.com|ttzw.tv|txshuku.com|tycqxs.com|u33.cc|vipzw.com|wanwenhui.com|wenxuem.com|wrltxt.com|x23us.me|x81zw.com|xbiquge.la|xbiqugecc.com|xbiqugew.net|xbiquke.com|xbqge.net|xcmxsw.com|xdingdiann.com|xiaoshuosk.com|xieyixs.com|xinxs.la|xqishuta.com|xqiushu.com|xs222.co|xs5200.com|xs98.com|xsjtxt.com|xszww.com|xuehong.cc|xuehongxs.com|yanqing-888.net|yawenb.com|yikanxiaoshuo.com|yruan.com|yssm.tv|yunxs.com|zbzw.la|zhuaji.org|zwdu.com|zzs5.com
 !
+||deskt.cn^
 ###downdiv > .downcode
 ##.readerListADbox
 ##a[href*="://mgzs.cdn.bcebos.com/"]
@@ -17180,6 +17186,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||ndusa.cn^
 ||neijh.com^
 ||nernv.com^
+||netfix8.info^
 ||netko0o.com^
 ||newknowledge.cn^
 ||nfkos.com^
