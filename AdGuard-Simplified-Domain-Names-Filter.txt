@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-05-12T14:14:55.356Z
+! Last modified: 2020-05-13T20:52:18.017Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -142,6 +142,20 @@
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||vftbnl.com^
+||patroposalun.pro^
+||wrfiwa.ru^
+||swnmuh.ru^
+||mkkliq.com^
+||ivhnnw.com^
+||cycsfe.com^
+||ozdpxc.com^
+||ublrfs.com^
+||gmoshk.com^
+||txcmjo.com^
+||wtzgaa.com^
+||uzmdfi.com^
+||pdjvsha.pro^
 ||big-hunter.com^
 ||bctwe.com^
 ||playframe.ru^
@@ -4140,6 +4154,14 @@ adbetnet.com
 ||kolsh.cn^
 !END: Chinese ad servers
 !
+||gadspms.com^
+||xadsmart.com^
+||youearrid.com^
+||acdcdn.com^
+||ashcdn.com^
+||ntdvjlvau.com^
+||fthkmwrkqg.com^
+||eveteaemo.com^
 ||terttalkinhitin.pro^
 ||korastar.net^
 ||iclickcdn.com^
@@ -5680,6 +5702,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||d11enq2rymy0yl.cloudfront.net^
 ||d3kblkhdtjv0tf.cloudfront.net^
 ||d261u4g5nqprix.cloudfront.net^
 ||ads.farakav.com^
@@ -7160,6 +7183,7 @@ www.llllllllllll.net^
 ||5aa8f31e2f5d.com^
 ||5bd5e3203751.com^
 ||5c577fc74618431b.com^
+||5cwr93yyd4lf.com^
 ||645yvcj6c8rn.com^
 ||6942f24115b63.com^
 ||69b7c505b2.com^
@@ -7213,6 +7237,7 @@ www.llllllllllll.net^
 ||adreach.me^
 ||adsrv.me^
 ||adultterritory.net^
+||advancellsclo.site^
 ||adziondin.club^
 ||aggravedgaree.info^
 ||agrammemarg.info^
@@ -7324,6 +7349,7 @@ www.llllllllllll.net^
 ||bityah-sym.com^
 ||bl0uxepb4o.com^
 ||blablablaaa.xyz^
+||bledevellinga.site^
 ||blockadsnot.com^
 ||bloglife24.com^
 ||bmkz57b79pxk.com^
@@ -7439,6 +7465,7 @@ www.llllllllllll.net^
 ||dayadopen.site^
 ||dcontonalscho.info^
 ||dddomainccc.com^
+||dditingwetlan.site^
 ||deatheriwevo.site^
 ||decisionediv.site^
 ||decordingaudied.site^
@@ -7462,11 +7489,13 @@ www.llllllllllll.net^
 ||distrikerkvazar.site^
 ||ditookry.com^
 ||dlb1uotpjs6s.com^
+||dlevisionexpr.site^
 ||dlfvgndsdfsn.com^
 ||dlnsjjyzvi1x.com^
 ||dmastescaugh.info^
 ||dolsoste.com^
 ||domisesvivin.info^
+||donconferen.site^
 ||dooptoug.net^
 ||dorthuredwardles.info^
 ||dortoolr.com^
@@ -7646,6 +7675,7 @@ www.llllllllllll.net^
 ||go2.global^
 ||gobovoul.net^
 ||gongeeta.net^
+||gospecularavch.site^
 ||gr8y7z1xaq30.com^
 ||gragliapastri.info^
 ||grampouz.net^
@@ -7674,6 +7704,7 @@ www.llllllllllll.net^
 ||hedressive.info^
 ||hesterinoc.info^
 ||himselvepostly.site^
+||himselvesobr.club^
 ||hincludingse.site^
 ||histlingklakson.site^
 ||histormedengi.site^
@@ -7907,6 +7938,7 @@ www.llllllllllll.net^
 ||noutstancerewe.info^
 ||nq93jx1vpq9r.com^
 ||nqrkzcd7ixwr.com^
+||nsoncandred.site^
 ||nthjiglet.club^
 ||ntsartingaccura.info^
 ||ntsimprovide.info^
@@ -8014,6 +8046,7 @@ www.llllllllllll.net^
 ||productorbash.info^
 ||productorsy.pro^
 ||prographiciko.site^
+||promiserkololla.site^
 ||propeanfanku.site^
 ||protection-booster.club^
 ||protection-cleaner.club^
@@ -8119,6 +8152,7 @@ www.llllllllllll.net^
 ||sculifinanthools.site^
 ||sdhfbvd.com^
 ||sdkfjxjertertry.com^
+||seaboblit.com^
 ||searchmulty.com^
 ||securecloud-dt.com^
 ||secured-iphone.club^
@@ -8205,6 +8239,7 @@ www.llllllllllll.net^
 ||thefastpush.com^
 ||thefuncoolstuff.com^
 ||themselvebu.site^
+||thernouverge.site^
 ||thigeeph.com^
 ||thighiny.com^
 ||thighlykamsh.site^
@@ -8238,6 +8273,7 @@ www.llllllllllll.net^
 ||trlf8mmpbfz1.com^
 ||trouvredawes.site^
 ||truestioncarefore.site^
+||ttheathereco.site^
 ||ttspikbeglki.com^
 ||tujestimater.pro^
 ||tutorinforget.site^
@@ -24333,6 +24369,8 @@ t.yesware.com
 ! This rule breaks Australian sites
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||stats.norton.com^
+||analytics.plaid.com^
 ||spt.performgroup.com^
 ||cs*.mp3bars.com^
 ||track.analitycs.net^
@@ -26420,7 +26458,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ipro.com^
 ||iproanalytics.com^
 ||iprotrk.com^
-||ipstack.com^
 ||ipstat.com^
 ||ipv6monitoring.eu^
 ||iqdata.ai^
@@ -30516,6 +30553,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||userdive.com^
 ||webtracker.jp^
 ||x9.shinobi.jp^
+||xr.shinobi.jp^
 ||log.cizion.com^
 ||mtag.mman.kr^
 ||performanceplay.co.kr^
@@ -31060,9 +31098,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 May 2020 14:37 UTC+7
-! Version: 2005121437
-! Blocked: 428 rules
+! Last modified: 13 May 2020 14:44 UTC+7
+! Version: 2005131444
+! Blocked: 429 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -31301,6 +31339,7 @@ vkcdnservice.appspot.com^
 ||polyad.galaxypub.vn^
 ||qc.yan.vn^
 ||quangcao.24h.com.vn^
+||quangcao.baovannghe.com.vn^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
 ||quangcao247.com.vn^
@@ -31499,9 +31538,7 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||mingboxieye.com^
-||njcn888.com^
-||abie14.top^
+||1002.men^
 ||0024aaaa.com^
 ||00880808.com^
 ||008844.cc^
@@ -31758,6 +31795,7 @@ vkcdnservice.appspot.com^
 ||aaaf.info^
 ||aazcio.cn^
 ||abctcqq.top^
+||abie14.top^
 ||acasys88.cn^
 ||acwgf.com^
 ||ad.52av.tv^
@@ -32670,6 +32708,7 @@ vkcdnservice.appspot.com^
 ||mieyisi.com^
 ||min1319.com^
 ||mindopu.com^
+||mingboxieye.com^
 ||mingxianshanghang.cn^
 ||mingysh.com^
 ||mjx123.com^
@@ -32723,6 +32762,7 @@ vkcdnservice.appspot.com^
 ||niuguwang.net.cn^
 ||niulail.top^
 ||niuxgame77.com^
+||njcn888.com^
 ||njdijiani.com^
 ||njfsk.com^
 ||njjrlf.com^
@@ -34678,15 +34718,8 @@ vkcdnservice.appspot.com^
 ||stunninglover.com^
 ||watakaw133.xyz^
 ||cryptaloot.pro^
-||0511qsfhknvz.xyz^
-||hcprzx.cn^
-||ali2a.xyz^
-||uvmqpum.cn^
-||seuukkd.cn^
-||oiwjcsh015.top^
-||kexwdvj.cn^
-||shiguangyx.cn^
-||innvitor.com^
+||sffxcwc.cn^
+||mhdnspro.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -34701,6 +34734,7 @@ vkcdnservice.appspot.com^
 ||0330vsdgdwer.xyz^
 ||0413fsiuhwem.xyz^
 ||0420zvnmljgfdsa.xyz^
+||0511qsfhknvz.xyz^
 ||0530hz.cn^
 ||0532ci.com.cn^
 ||0551zgz.com^
@@ -34945,6 +34979,7 @@ vkcdnservice.appspot.com^
 ||aiyyu.com^
 ||ajiez.com^
 ||ajkdg3.xyz^
+||ali2a.xyz^
 ||alitx963.com^
 ||aliyoo999.com^
 ||alksdh.com^
@@ -35479,6 +35514,7 @@ vkcdnservice.appspot.com^
 ||hchg89.cn^
 ||hchig.com^
 ||hchik.com^
+||hcprzx.cn^
 ||hdfdm.com^
 ||hdminfeng.com^
 ||hdswgc.com^
@@ -35607,6 +35643,7 @@ vkcdnservice.appspot.com^
 ||inccnd.com^
 ||increased.cn^
 ||infvb.com^
+||innvitor.com^
 ||internerl.com^
 ||intxt.cn^
 ||ipchinatelecom.com^
@@ -35736,6 +35773,7 @@ vkcdnservice.appspot.com^
 ||kdzbg.xyz^
 ||ketaoke.com^
 ||kexigia.com^
+||kexwdvj.cn^
 ||kfand.com^
 ||kfeiu.com^
 ||kfuih.cn^
@@ -36000,6 +36038,7 @@ vkcdnservice.appspot.com^
 ||oiwjcsh011.top^
 ||oiwjcsh012.top^
 ||oiwjcsh013.top^
+||oiwjcsh015.top^
 ||ojues.com^
 ||okshishi.com^
 ||okuis.com^
@@ -36189,6 +36228,7 @@ vkcdnservice.appspot.com^
 ||sec-cloud.cn^
 ||seerpiu002.com^
 ||self-study-service.com.cn^
+||seuukkd.cn^
 ||sezvc.com^
 ||sfanf.com^
 ||sguac.com^
@@ -36201,6 +36241,7 @@ vkcdnservice.appspot.com^
 ||shenyunkeji.com^
 ||shffcy.cn^
 ||shidailw.com^
+||shiguangyx.cn^
 ||shjrwh.cn^
 ||shjsxx.com^
 ||shlovesea.com^
@@ -36365,6 +36406,7 @@ vkcdnservice.appspot.com^
 ||urlet.cn^
 ||usty357a.site^
 ||uuopp.com^
+||uvmqpum.cn^
 ||uxyrl.cn^
 ||uzhaj.com^
 ||uzyid.cn^
