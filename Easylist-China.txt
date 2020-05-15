@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: iydJF2/BY/KzrMxQzn2Fkg
-! Version: 202005140003
+! Checksum: gdzKf/sobBMq2Tx3oeQrUg
+! Version: 202005150003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 14 May 2020 00:03 UTC
+! Last Modified: 15 May 2020 00:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -523,6 +523,7 @@
 :8888/zhu/wap_
 :8898/ads_
 :99/js/ads/
+=ad_top_slider&
 =ajaxGetAds&type=
 =BAIDU_SSP_define&
 =loginExtAD.
@@ -1079,6 +1080,7 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||longdidi.top^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -1892,6 +1894,7 @@ ubmcmm.baidustatic.com
 ||cfqpxzx.com^
 ||cfredh.cn^
 ||cg2017.com^
+||cgiale.com^
 ||cgskqg.com^
 ||chadegongxiao.com^
 ||championmachinery-cn.com^
@@ -3377,6 +3380,7 @@ ubmcmm.baidustatic.com
 ||txkjad.com^$third-party
 ||txt2017.com^
 ||txt2019.cc^
+||txzs168.net^
 ||ty229.com^
 ||tylll.com^
 ||tz-dsp.com^$third-party
@@ -3535,6 +3539,7 @@ ubmcmm.baidustatic.com
 ||wu65.com^
 ||wudang05.com^$third-party
 ||wuhufengze.com.cn^
+||wuseng.net^$third-party
 ||wushuangjiexi.top^
 ||wuwaii.com^
 ||wuweiqx.com^
@@ -3706,6 +3711,7 @@ ubmcmm.baidustatic.com
 ||yaoxiaoli.com^
 ||yaoyl.com^
 ||yatemy.cn^
+||ycfgnau.cn^
 ||ychml.com^
 ||ychun03.com^
 ||ycjisa.cn^
@@ -5464,6 +5470,8 @@ _yad_jsonp_
 ||cdsoso.me/img/hongbao.jpg
 ||cdsoso.me/static/image/760x60.jpg
 ||cdyee.com/external/5070.files/ad/
+||cechi8.com/images/appdown.gif
+||cechi8.com/js/cnzz
 ||centurys.net/promo_
 ||cfc0411.com/100/
 ||cfzhushou.com^*/King_Chance_Layer.js
@@ -8730,6 +8738,7 @@ _yad_jsonp_
 ||yy6080.cn/js/df.js
 ||yy8090.vip/js/abc/
 ||yybx.oss-cn-hangzhou.aliyuncs.com^
+||yyo876.com^*.php
 ||yyoyyu.com^*.php
 ||yytcdn.com/headfile/avt/
 ||yytcdn.com/others/*_175x660.
@@ -8889,11 +8898,8 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||cechi8.com/js/cnzz
-||cechi8.com/images/appdown.gif
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-ddooo.com##A[onclick*="','',"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -13337,7 +13343,7 @@ mse.360.cn##a[id^="banner"]
 moxing.net##a[marked][href*=".taobao.com"]
 360-bo.com##a[name="thegg"]
 frdic.com,godic.net##a[onclick*="/ads/"]
-ddooo.com##a[onclick*="\",\"\","]
+ddooo.com##a[onclick*="\"ddooo\""]
 pcsoft.com.cn##a[onclick*="_ad"]
 caibaojian.com##a[onclick*="aliyun"]
 caibaojian.com##a[onclick*="aly"]
@@ -13870,7 +13876,6 @@ dilidili.one,gdot.me,sc115.com##script + a
 logo160.com##script + a[href="/"]
 xingkbjm.com##script + div + .excerpt
 xingkbjm.com##script + div + .excerpt + .excerpt
-news.lyd.com.cn##script + table[width="300"] > tbody > tr:first-child > td > table[width="300"]
 jianshu.com##section[aria-label="jianshu-ad"]
 tukergo.com##section[class^="ch"]
 vs.cm##section[id^="ad_"]
@@ -13944,6 +13949,7 @@ zhuji.net##td[valign="top"][height="96"]
 spbo1.com##td[width="100%"][height="18"][bgcolor="#ffffff"][align="center"][colspan="13"]
 sdzbcg.com##td[width="297"] img
 mp4ba.la##td[width="300"][height="300"]
+news.lyd.com.cn##td[width="300px"] > table[width="300"] > tbody > tr:nth-last-child(n+2)
 enread.com##td[width="326"][height="250"]
 sdzbcg.com##td[width="580"][height="279"] > table:nth-child(2n-1)
 62422.cn##td[width="760"][height="75"]
@@ -16413,6 +16419,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||chgdf.cn^
 ||china-waters.com.cn^
 ||chinaairs.cn^
+||chinachooses.com^
 ||chinaqirun.cn^
 ||chinaweian.com^
 ||chinawms.cn^
@@ -17903,6 +17910,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||xuro006.com^
 ||xxkio.com^
 ||xxlywl.cn^
+||xywgbms.top^
 ||xznykf.org^
 ||xztms.com^
 ||y05zw.cn^
