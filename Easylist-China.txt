@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gdzKf/sobBMq2Tx3oeQrUg
-! Version: 202005150003
+! Checksum: iuy0AY+nLECPkVt9nsPaow
+! Version: 202005152353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 15 May 2020 00:03 UTC
+! Last Modified: 15 May 2020 23:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -350,7 +350,6 @@
 /lapi/sign/web/getinfo
 /lenovo/pc/all.js
 /lenovo/pc/top.js
-/lolmp4-ggdz/*
 /lteee/ad/*
 /m_dilidili_main.js
 /macplus/ads/*
@@ -1080,7 +1079,6 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
-||longdidi.top^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -2745,8 +2743,9 @@ ubmcmm.baidustatic.com
 ||lnr1.com^$third-party
 ||loandatec.com^
 ||log.interest.mix.sina.com.cn^
-||lolmp4.com^
+||lolmp4.com^$third-party
 ||long88.app^
+||longdidi.top^
 ||loveconer.com^
 ||lovestyl.com^
 ||lovexia.top^
@@ -3512,6 +3511,7 @@ ubmcmm.baidustatic.com
 ||widget.ezprice.com.tw^$third-party
 ||wikigifth.com^
 ||winasdaq.com^$third-party
+||windowsxi.com^
 ||winvestern.com.cn^
 ||wit.qq.com^$third-party
 ||wjguc.com^
@@ -6978,6 +6978,7 @@ _yad_jsonp_
 ||loli.net/2018/09/01/5b8ab2b61cec4.jpg
 ||loli.net/2019/04/24/5cc0027b4f2f1.png
 ||loli.net^$domain=520film.net|52pili.com|acglover.me|btdp.online|f6hx.site|hdsky.me|magnet2048.com|youtaoqi.com
+||lolmp4.com/template/lolmp4/images/jquery.
 ||lolshipin.com/zt/sxx/
 ||longbahao.com/asd.js
 ||longbahao.com/js/ad-
@@ -7141,7 +7142,7 @@ _yad_jsonp_
 ||mmonly.cc/js/mmonlyAPP.js
 ||mmsao.me/lianmeng/
 ||mmtalk.net/images/banner
-||mmys.net/rss.php
+||mmys.net^*.php
 ||mnrrk.com/yuhe/ote/js/pcgg.js
 ||mobile.sina.cn/public/files/image/600x150_
 ||mobile.sina.cn/public/files/image/620x300_
@@ -16033,6 +16034,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||1494.top^
 ||168xiazai.com^
 ||17bqg.top^
+||17ys.top^
 ||17zheng.cn^
 ||183pu.cn^
 ||1fv3b.cn^
@@ -17261,6 +17263,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||mzclass.club^
 ||n0h8g.cn^
 ||nabeghlavi.com.cn^
+||nainaimi.top^
 ||nanyangqiaoxiang.cn^
 ||nashlin.top^
 ||nbaob.com^
@@ -17673,6 +17676,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||tuadong.com^
 ||tukexiu.com^
 ||tuoxintrade.cn^
+||tuyizhe.vip^
 ||twodogegg.cn^
 ||txshuku.com/js/
 ||txstatic.cn^
