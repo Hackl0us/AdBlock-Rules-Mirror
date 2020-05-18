@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oWulYOsiU3oYgjDZDjc+xQ
-! Version: 202005162353
+! Checksum: l2n7vVFFoWKUC0uMbDDG6Q
+! Version: 202005172353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 16 May 2020 23:53 UTC
+! Last Modified: 17 May 2020 23:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -2745,7 +2745,6 @@ ubmcmm.baidustatic.com
 ||log.interest.mix.sina.com.cn^
 ||lolmp4.com^$third-party
 ||long88.app^
-||longdidi.top^
 ||loveconer.com^
 ||lovestyl.com^
 ||lovexia.top^
@@ -3366,6 +3365,7 @@ ubmcmm.baidustatic.com
 ||tuia.cn^$third-party
 ||tukeai.com^
 ||tukj.net^$third-party
+||tvbyb04.cn^
 ||tvbyb04.com^
 ||tvrom.cn^$third-party
 ||twb98.com^$third-party
@@ -4110,6 +4110,7 @@ _yad_jsonp_
 ||*/ad/$rewrite=abp-resource:blank-mp3,domain=huaren.tv
 ||*/videos/other/*.f4v$object,rewrite=abp-resource:blank-mp3,domain=iqiyi.com
 ||*xav.*/guang/*.gif
+||*xav.*/guang/*.jpg
 ||000001.azureedge.net/script/common.js
 ||000001.azureedge.net/script/p.js
 ||000b.info/js/
@@ -5738,6 +5739,7 @@ _yad_jsonp_
 ||dbw.cn/eap/js/db/dbwad_
 ||dbw.cn/eap/js/hl/hlj_ad
 ||dd3200.com/js/favshare.js
+||dd6364.com/js/777/
 ||ddshu.net/a_d_code/
 ||de.as.pptv.com^
 ||dealmoon.com/hotdeals/hotdeals_scroller.php
@@ -6982,6 +6984,7 @@ _yad_jsonp_
 ||lolshipin.com/zt/sxx/
 ||longbahao.com/asd.js
 ||longbahao.com/js/ad-
+||longdidi.top/tpl/mstyle/js/g.js
 ||longzhu.com/i/api/playpage/recommendPop?
 ||longzhu.com/recommendad/
 ||lotour.net/bcef/388.js
@@ -9553,7 +9556,7 @@ discuss.com.hk###gamepage_banner
 jb51.net###gaosu
 downxia.com###gaosu_div0
 ruanjianxia.com###gaosu_downloads
-9ht.com,downcc.com,downyi.com,pc6.com,xfdown.com###gaosuxiazai
+9ht.com,downcc.com,downyi.com,pc0359.cn,pc6.com,xfdown.com###gaosuxiazai
 ruanyifeng.com###gd1
 whnews.cn###gd_l
 whnews.cn###gd_r
@@ -13827,7 +13830,8 @@ chysg.com##img[width="232"][height="90"]
 36dm.club,36dm.com,acgsou.com##img[width="250"][height="250"]
 uschinapress.com##img[width="290"]
 5eplay.com##img[width="290"][height="360"]
-2chcn.com,jiyingw.net##img[width="300"]
+2chcn.com##img[width="300"]
+jiyingw.net##img[width="300"][height="82"]
 guitarchina.com##img[width="420"][height="60"]
 aguitar.cn##img[width="470"][height="60"]
 china.com.cn##img[width="665"]
@@ -16289,6 +16293,8 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||b0lc.cn^
 ||b25ku.cn^
 ||b54ah.cn^
+||babalink.net^
+||babalink.top^
 ||baful.net^
 ||baidu.bxwx666.org^
 ||baiduspider1.cn^
@@ -16349,6 +16355,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||bodapet.com^
 ||bohuaqiche.com^
 ||bokanedu.net^
+||bolili.info^
 ||book9.net^$third-party
 ||boomgamescloud-cdn.cn^
 ||boweineng.cn^
@@ -16509,6 +16516,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||dajean.com^
 ||dake.net.cn^
 ||damiren.com^
+||danlidanli.net^
 ||daokejs.com^
 ||dasheducation.cn^
 ||daskm.com^
@@ -17628,6 +17636,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||szwzjk.cn^
 ||szyuke.cn^
 ||tabwl.com^
+||tabyee.cn^
 ||tajxgs.com^
 ||tatahn.com^
 ||tbaia.com^
