@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +v+ZnZ3ofV38tHGYw9LF9A
-! Version: 202005182353
+! Checksum: 3u/tYud3D598+YAKU459OQ
+! Version: 202005200003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 18 May 2020 23:53 UTC
+! Last Modified: 20 May 2020 00:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -134,6 +134,7 @@
 /58pic/index.php?m=adManageSystem&
 /640_120_javhd.jpg
 /69tang6_*/html/abc/image/*
+/789syy/*
 /80sad/*
 /8drama_yahoo/*
 /9115gg/*
@@ -1171,6 +1172,7 @@ _xiuno_com_ad/
 /vs.php?id=$third-party,xmlhttprequest
 /vtdd/*$script
 /vtdt/*$script
+/xdy_yyo.php
 /xxd.php?id=$script,third-party
 ://*:*/s.php?id=$script,third-party
 :8080/js/v1.js$third-party
@@ -1478,6 +1480,7 @@ ubmcmm.baidustatic.com
 ||63kc.com^$third-party
 ||643226.com^
 ||652748.com^
+||65tgh.com^
 ||66.212.56.229^
 ||6604.org^$third-party
 ||6612151.cn^
@@ -1861,6 +1864,7 @@ ubmcmm.baidustatic.com
 ||bxjt518.com^
 ||bydonline.com^
 ||bypbwm.cn^
+||bzbsecs.cn^
 ||c.91wan.com^$third-party
 ||cachesit.com^
 ||cadsips.com^
@@ -3381,6 +3385,7 @@ ubmcmm.baidustatic.com
 ||txt2019.cc^
 ||txzs168.net^
 ||ty229.com^
+||tyh887.com^
 ||tylll.com^
 ||tz-dsp.com^$third-party
 ||u.801t.com^$third-party
@@ -4469,7 +4474,6 @@ _yad_jsonp_
 ||3boys2girls.com/templates/default/2013/life/160b5.js
 ||3boys2girls.com/templates/default/2013/randlinks.js
 ||3boys2girls.com^$subdocument
-||3bt.cc/xdy_
 ||3dmgame.com/img/a/640-
 ||3dmgame.com/index.php?m=games&c=index&a=ztad&
 ||3dmgame.com/templets/common/show_js/show_js.js
@@ -4680,8 +4684,9 @@ _yad_jsonp_
 ||70mao.com/52
 ||70mao.com/js/sj.
 ||7160.com/js/tiaozhuanquanju.js
+||717dyi.com/js/dibu.js
 ||717dyi.com/js/head.js
-||717dyi.com/js/zb.js
+||717dyi.com/js/zb
 ||717dyi.com/Public/js/zbhf/
 ||71bmm.com:8888/js
 ||71xe.com/image/zguancun/
@@ -4717,6 +4722,7 @@ _yad_jsonp_
 ||7c.com/7c_
 ||7down.com/static/js/foot_
 ||7hcn.com//f/*.swf
+||7hjb8.com^*.php
 ||7jiu.com.hk/hotsearch_box.php
 ||7junshi.com/con/ad
 ||7junshi.com/static/red-envelopes.js
@@ -5714,7 +5720,6 @@ _yad_jsonp_
 ||dabai28.com/img/*.gif
 ||dabaoku.com^$object,script,subdocument
 ||dabin69.com/data/attachment/portal/
-||dadi.tv/xdy
 ||dagou2018.com/js/item
 ||dagumanhua.com/style/mdagu.js
 ||dailynews.sina.com/gb/ads/
@@ -6986,7 +6991,6 @@ _yad_jsonp_
 ||longzhu.com/i/api/playpage/recommendPop?
 ||longzhu.com/recommendad/
 ||lotour.net/bcef/388.js
-||lotpc.com/templets/default/js/lotpctb
 ||love201810.com/Runtime/js/
 ||loveshang.com/api.php?mod=ad&adid=custom_
 ||lsforum.net/cam2/*.gif
@@ -8691,8 +8695,6 @@ _yad_jsonp_
 ||youth.cn/images/m.js
 ||youth.cn/images/public_
 ||youth.cn/qwtf2015/
-||youth.cn^*.html$subdocument,~third-party
-||youth.cn^*.php$subdocument,~third-party
 ||youthwant.com.tw/dodo.php?adjs=
 ||youtube.com/embed/*&origin=$domain=ck101.com
 ||youtube.com/iframe_api$domain=nownews.com
@@ -9933,7 +9935,7 @@ cnplugins.com###pop_div
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pop_frame
 hinet.net###pop_media_ad
 up01.cc###popad
-2dfan.com###popadv-container
+2dfan.com,galge.fun###popadv-container
 univisa.com.cn###popup
 eprice.com.tw###popup-ad-overlay
 tom.com###popupDivgame
@@ -11908,7 +11910,7 @@ hkwb.net##.leftadv2
 hao123.com##.leftbanner
 muzhi.baidu.com##.leftnest
 ifeng.com##.leftpopad
-2dfan.com##.leftside-bg
+2dfan.com,galge.fun##.leftside-bg
 zimuku.cn##.li[style^="width:8"]
 5118.com##.lianmeng-home-header
 lywww.com##.lianmengclass
@@ -13196,6 +13198,7 @@ ruanyifeng.com##a[href*="?utm_source="]
 dilidili.wang##a[href*="Game"]
 eworldship.com##a[href*="ad_click&"]
 xitek.com##a[href*="adclick"] + .info
+guilinlife.com##a[href*="adclicks&"]
 159i.com##a[href*="ai69"]
 bejson.com##a[href*="aliyun"]
 v.qq.com##a[href*="amway.com.cn"]
@@ -13799,6 +13802,7 @@ douban.com#?#.rec_topics:-abp-has(>.rec_topics_name[href^="https://erebor.douban
 ebay.com#?#li.s-item:-abp-has(span[role="text"]>span:-abp-contains(助))
 bbs.my0511.com##embed[width="970"][height="70"]
 engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
+guilinlife.com#?#li:-abp-has(> div > .content-other > .content-type:-abp-contains(广告))
 cnbeta.com##h2 > a[href^="https://active.greatroma.com"]
 ifeng.com#?#.box_list:-abp-has(.tuig)
 sina.cn##iframe[id^="sinaadtk_"]
@@ -14118,8 +14122,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
-@@/fuckadblock.$domain=poedb.tw
-@@||poedb.tw^$generichide
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|tgfcer.com|wgun.net
 @@.jpg#$domain=huhupan.com
@@ -14170,7 +14172,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/bag2?r[]=*&r[]=$domain=free.com.tw
 @@/common/cf/*$domain=66u.com|changhong.com|fei3d.com|oneplusbbs.com|readboy.com
 @@/cpc_cpm_$domain=ygo-sem.cn
-@@/fuckadblock.$domain=bde4.com|ck101.com|datehub.co|dilidili.one|golangnote.com|lnk2.cc|papalah.com|qqdie.com
+@@/fuckadblock.$domain=bde4.com|ck101.com|datehub.co|dilidili.one|golangnote.com|lnk2.cc|papalah.com|poedb.tw|qqdie.com
 @@/guanggao/*$domain=icbc.com.cn|igame.qq.com
 @@/home/ads/*$domain=esunbank.com.tw
 @@/image/ad/*$domain=gashpoint.com
@@ -14631,6 +14633,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||pinduoduo.com/advert/$~third-party
 @@||pixelexperience.org^$generichide
 @@||poedb.tw/js/
+@@||poedb.tw^$generichide
 @@||popart.hk/newweb/$generichide
 @@||pos.baidu.com^$script,domain=fxpan.com|htqyy.com|jkpan.cc|www.pctowap.com
 @@||pptv.com/webdelivery/webafp?cb=loadAdStatus&*sports.pp
@@ -16759,6 +16762,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||gotooback.com^
 ||gou1zhe.com^
 ||goulanmeng.cn^
+||gralfusnzpo003.top^
 ||gringrin.cn^
 ||grjs02.com^
 ||grjs06.com^
@@ -17092,6 +17096,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||kjdw.com.cn^
 ||kjfhe.com^
 ||kjhfy.com^
+||kkhuhct.cn^
 ||kl6636.net^
 ||klgzzs.cn^
 ||klorn.cn^
@@ -17907,6 +17912,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||xn--2qux23c9ziyrq.icu^
 ||xn--2qux23confgml.club^
 ||xn--4gqvdz18f.xyz^
+||xn--ddua45lfy1c.ink^
 ||xn--i6qs37am6iwyqffc.com^
 ||xn--i7qt52bvsr0u0a.cc^
 ||xn--mtsr39cnql.video^
@@ -18298,9 +18304,13 @@ zhangxinxu.com##a[href*=".url.cn/"]
 zhangxinxu.com##a[href^="http://dwz.date/"]
 zhangxinxu.com##style[id] + a[class]
 !#zol.com.cn
+zol.com.cn###downloader_main1
+zol.com.cn###nowDown
 zol.com.cn##.down-dxlt
+zol.com.cn##.down-gaosua
 zol.com.cn##.xiazai-top-box
 zol.com.cn##.xiazaia-topa-box
+zol.com.cn##.xiazaic-topa-box
 zol.com.cn##a[class*="member-button"]
 zol.com.cn##a[href*="downloader_main"]
 zol.com.cn##div[class*="-top-"]
