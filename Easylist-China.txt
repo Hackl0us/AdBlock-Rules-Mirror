@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3u/tYud3D598+YAKU459OQ
-! Version: 202005200003
+! Checksum: aaP0BnE1GiX0O6fd8+TDFw
+! Version: 202005202353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 20 May 2020 00:03 UTC
+! Last Modified: 20 May 2020 23:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -5788,6 +5788,7 @@ _yad_jsonp_
 ||discuss.com.hk/oath/
 ||discuss.com.hk^*_prod.html
 ||discuz.gtimg.cn/cloud/scripts/discuz_tips.js
+||ditiezu.com/banner/badatu.png
 ||divcss5.com*/ibeifeng/
 ||divcss5.com*/liping/
 ||diyibanzhu555.com/js/html
@@ -12049,6 +12050,7 @@ sogou.com##.mobad
 1905.com##.mobile_ad_promote
 www.sina.com.cn##.mod-01
 qq.com##.mod-ad-full
+yitaifang.com##.mod-da
 start.firefoxchina.cn##.mod-delay-resource:nth-child(4)
 image.baidu.com##.mod-promo
 sdo.com##.mod-public-ads
@@ -14071,7 +14073,7 @@ gsxt.gov.cn#@#.ads-right
 159i.com,techroomage.com,zhaopin.com#@#.adsBox
 liumingye.cn#@#.adsTest
 4gtv.tv,80s.ai,ft.com,ftchinese.com,ftchinese.com.sz-dns.net,kartinfo.me,long7.qq.com,reh.tw,typecho.wiki#@#.adsbox
-alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com#@#.adsbygoogle
+alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
 qq.com#@#.adside
 gdmm.com,gkstk.com,youquba.net#@#.adtop
 bdp.cn#@#.adv-list
@@ -14616,7 +14618,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||openad.oss-cn-shanghai.aliyuncs.com^$domain=yicai.com
 @@||orientaldaily.on.cc/js/oncc-ad.js
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=alotof.software|doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alotof.software|battlecats-db.com|chtoen.com|dizhishengcheng.com|doitwell.tw|haoweichi.com|league-funny.com|monnsutogatya.com|numberempire.com|pc3mag.com|shenfendaquan.com|tingfm.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alotof.software|battlecats-db.com|chtoen.com|dizhishengcheng.com|doitwell.tw|haoweichi.com|league-funny.com|monnsutogatya.com|numberempire.com|pc3mag.com|shenfendaquan.com|tingfm.com|yabook.org
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
 @@||panjiachen.github.io^$generichide
@@ -16525,6 +16527,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||damiren.com^
 ||danlidanli.net^
 ||daokejs.com^
+||dapskja.cn^
 ||dasheducation.cn^
 ||daskm.com^
 ||dawanjiahn.com^
@@ -18044,6 +18047,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||yyjhf.com^
 ||yymmsd.cn^
 ||yyshow.top^
+||yzftqx.cn^
 ||z3uk6.cn^
 ||z41vm.cn^
 ||z65j.cn^
