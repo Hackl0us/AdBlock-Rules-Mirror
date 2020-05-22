@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: aaP0BnE1GiX0O6fd8+TDFw
-! Version: 202005202353
+! Checksum: lgIMh0PBk//NFkc1V91sTQ
+! Version: 202005212353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 20 May 2020 23:53 UTC
+! Last Modified: 21 May 2020 23:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1517,6 +1517,7 @@ ubmcmm.baidustatic.com
 ||766ba.net^
 ||7676.com^$third-party
 ||77417.cn^
+||77777.org^$third-party
 ||7794.com^$third-party
 ||77power.com^
 ||77zhuan.com^$third-party
@@ -4237,6 +4238,7 @@ _yad_jsonp_
 ||141h.com/data/attachment/noblock/cf/
 ||145.239.6.59/g3/
 ||14bobo.com/js/
+||159i.com/cab/
 ||159i.com/cnb/
 ||159i.com/nb/*.php
 ||159i.com/p/hola/*.php|
@@ -6973,7 +6975,7 @@ _yad_jsonp_
 ||ll.gxsky.com^
 ||llj22.com/1.gif
 ||lnd.com.cn/site1/*.swf
-||lnzq5.com/js/
+||lnzqw.net/js/
 ||lofter.com/mailEntryMobile.do
 ||logoquan.com/upload/prd/
 ||loldyttw.com/blr.js
@@ -8772,6 +8774,7 @@ _yad_jsonp_
 ||zchot.com/images/web.gif
 ||zczj.com/special/
 ||zd518.cn/bf-
+||zd518.cn/template/qpg6080/
 ||zdcj.net^*/ad
 ||zdface.com/js/m/zw_banner.js
 ||zdisk.cn/mip/bnmanhua.
@@ -8905,6 +8908,7 @@ _yad_jsonp_
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+18comic.org##DIV[style^="position: fixed; top: 90px;"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -9811,6 +9815,7 @@ l114la.com###media
 hinet.net###media_ad_popup_overlay
 hexieshe.cn###media_image-2
 hexieshe.cn###media_image-3
+loldk.com###meizi_ad
 avtb8899.com###menu-main-content > li:nth-child(n+5)
 fuliba.net###menu-nav > .menu-item:nth-child(n+4):not(:last-child)
 xiuren.org###menur
@@ -14073,7 +14078,7 @@ gsxt.gov.cn#@#.ads-right
 159i.com,techroomage.com,zhaopin.com#@#.adsBox
 liumingye.cn#@#.adsTest
 4gtv.tv,80s.ai,ft.com,ftchinese.com,ftchinese.com.sz-dns.net,kartinfo.me,long7.qq.com,reh.tw,typecho.wiki#@#.adsbox
-alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
+1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
 qq.com#@#.adside
 gdmm.com,gkstk.com,youquba.net#@#.adtop
 bdp.cn#@#.adv-list
@@ -15874,11 +15879,11 @@ $script,third-party,domain=m.1kkk.com|m.dm5.com
 ||lpsgc.cn^
 ||yi71.com.cn^
 !#Dnvod.tv
-ifun.tv##vg-pause-ads
+ifvod.tv##vg-pause-ads
 ||dnvodcdn.me/fast/*.mp4
-||ifun.tv/a/$xmlhttprequest
+||ifvod.tv/a/$xmlhttprequest
 ||s1-a1.dnvodcdn.me^*.svg
-||s1-a4.ifun.tv^$rewrite=abp-resource:blank-mp3,domain=ifun.tv
+||s1-a4.ifvod.tv^$rewrite=abp-resource:blank-mp3,domain=ifvod.tv
 !#dybee.tv
 $script,third-party,domain=dybee.tv
 @@||bdimg.com/libs/$domain=dybee.tv
@@ -16845,6 +16850,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||henanlinyu.cn^
 ||henduoqian.com^
 ||hesepd.cn^
+||heshunjituan.com^
 ||heylookhere.top^
 ||hfyxdl.com^
 ||hgdanbas.cn^
@@ -17653,6 +17659,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||tabwl.com^
 ||tabyee.cn^
 ||tajxgs.com^
+||taolicloud.com^
 ||tatahn.com^
 ||tbaia.com^
 ||tbenq.com^
@@ -17778,6 +17785,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||vnanf.com^
 ||vodtw.la/js/a1.
 ||vodtw.la^*xhtml
+||voterlin.cn^
 ||vouky.com^
 ||vsxet.com^
 ||vvnna.com^
@@ -17912,6 +17920,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||xmljx.cn^
 ||xmndrx.cn^
 ||xn--2qu92fhtx4ff.ink^
+||xn--2qu92fhtx4ff.ren^
 ||xn--2qux23c9ziyrq.icu^
 ||xn--2qux23confgml.club^
 ||xn--4gqvdz18f.xyz^
