@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lgIMh0PBk//NFkc1V91sTQ
-! Version: 202005212353
+! Checksum: rTUN2T3fAMAqabZy59rEMQ
+! Version: 202005230003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 21 May 2020 23:53 UTC
+! Last Modified: 23 May 2020 00:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -3274,6 +3274,7 @@ ubmcmm.baidustatic.com
 ||szggdw.com^
 ||szh6.xyz^
 ||szjianxin.net^
+||szpl0.com^
 ||szrk3.com^
 ||sztbjs.com^
 ||szvr.com^$third-party
@@ -4238,13 +4239,10 @@ _yad_jsonp_
 ||141h.com/data/attachment/noblock/cf/
 ||145.239.6.59/g3/
 ||14bobo.com/js/
-||159i.com/cab/
-||159i.com/cnb/
-||159i.com/nb/*.php
-||159i.com/p/hola/*.php|
 ||159i.com/video/pop/
 ||159i.com/video/usr/uploads/1-
 ||159i.com/video/usr/uploads/bd/$image
+||159i.com^*.php|
 ||159i.com^*_slest.php
 ||15hn.net/data/content
 ||15yc.cc/statics/js/ffffff.js
@@ -6958,6 +6956,7 @@ _yad_jsonp_
 ||links.cn/mmshow
 ||linkwan.com/gb/broadmeter/speed/cp.js
 ||linkwan.com/gb/images/uploadimages/2010-12-16.swf
+||linkwan.com/gb/javascript/a
 ||linkwan.com/gb/javascript/b4.js
 ||linkwan.com/gb/javascript/c5-
 ||linovel.net/cp/lk/ad/externalAd?
@@ -8908,7 +8907,6 @@ _yad_jsonp_
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-18comic.org##DIV[style^="position: fixed; top: 90px;"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -9679,6 +9677,7 @@ image.baidu.com###imgCmsAdPart
 e10000.cn###imgFloat
 image.baidu.com###imgid > .fcimgpage
 54new.com###imgshow
+52bug.cn###index-code
 ydss.cn###indexBlad
 baidu.com###index_banner_top
 zongheng.com###index_game
@@ -9825,6 +9824,7 @@ webjx.com###middleimg
 91.com,hao123.com,site.baidu.com###midline
 hao123.com###mingzhanresource
 hk.yahoo.com###mntl1
+fanqiangzhe.com###mobile-bottom-ads
 so.com###mohe-etao_shangye
 so.com###mohe-gouwu > .g-shadow
 so.com###mohe-m-smzdm_haojia
@@ -9854,6 +9854,7 @@ cam4.tw###newTippingViewer + div[data-ab]
 dilidili.wang###newapp2018
 yaolan.com###newfix-dsp
 pigai.org###newnotice
+fanqiangzhe.com###news-include + .text-center
 chinaqking.com###newsAD
 hexun.com###newsPopWin
 live.win007.com###notify > a[target="_blank"]
@@ -9946,6 +9947,7 @@ univisa.com.cn###popup
 eprice.com.tw###popup-ad-overlay
 tom.com###popupDivgame
 ck101.com###popupGameAd
+fanqiangzhe.com###popupModal
 5173.com###popupRight
 baixing.com###port-info
 ld0766.com###portal_ad3
@@ -13228,6 +13230,7 @@ ccav1.com##a[href*="meidebi."]
 kafan.cn##a[href*="nameidi."]
 dmzj.com##a[href*="qunhei.com"]
 500.com##a[href*="sanyol.cn"]
+dzbhdm.com##a[href*="sourl.cn"]
 jinti.com##a[href*="tempurchina.com"]
 58.com##a[href*="to8to.com"]
 enjoymore.fun##a[href*="urlto.pw"]
@@ -13783,6 +13786,7 @@ gaoqing.fm##div[style^="height:258px;background-image:"]
 jisilu.cn##div[style^="height:60px; width:960px;"]
 ttzmz.vip##div[style^="margin-top:2"]
 52ch.net##div[style^="margin-top:5px; height:60px;"]
+18comic.org##div[style^="position: fixed; top: 90px;"]
 m.weather.com.cn##div[style^="position: fixed; width: 100%; bottom: 0px;"]
 buscodepto.com##div[style^="position: fixed;"]
 chineseinla.com##div[style^="position:absolute;"][style$=":0px;top:30px;"]
@@ -14153,6 +14157,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/adjs_pic_$domain=168gamer.net|91wii.com|saraba1st.com
 @@/adLoader.$domain=shejiben.com
 @@/adlogger_tracker.php$domain=serve.netsh.org
+@@/admanager/*$domain=woego.cn
 @@/adpic/*$domain=baike.baidu.com|czsrc.com|nieyou.com|ontheup.com.tw|zform.net
 @@/ads/*$domain=189.cn|95516.com
 @@/ads_new/*$domain=morefood.com
@@ -14772,7 +14777,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||wenxuecity.com/include/editor/*/media/ad/
 @@||wgun.net^$elemhide
 @@||wholehk.com^$generichide
-@@||woego.cn/woego/js-busi/admanager/
 @@||worldssl.net/wp-content/themes/mts_ad_sense/js/ads.js
 @@||wowsai.com/data/files/ad/
 @@||wubisheng.net^*.js
@@ -17454,6 +17458,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||q671e.cn^
 ||qaqact.cn^
 ||qcgkd322.vip^
+||qcsfxv.cn^
 ||qd836.cn^
 ||qdiut.com^
 ||qdyazc.com^
