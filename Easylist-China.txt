@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rTUN2T3fAMAqabZy59rEMQ
-! Version: 202005230003
+! Checksum: MfzGVdrOzK83vrTpzddAFg
+! Version: 202005240003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 23 May 2020 00:03 UTC
+! Last Modified: 24 May 2020 00:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -7011,6 +7011,7 @@ _yad_jsonp_
 ||lv-play.com/web/adv/list
 ||lvse.cn/output/block/html/
 ||lvse.com/9
+||lvuptech.com/wp-content/plugins/deblocker/
 ||lw54.com/js/
 ||lw881.com/public/js/gw.js
 ||lxting.com^
@@ -8804,6 +8805,7 @@ _yad_jsonp_
 ||zhibok8.com/images/*.gif
 ||zhibok8.com/js/di
 ||zhibok8.com/js/scroll.js
+||zhicheng.com/statics/*400
 ||zhifuok.com/19xa.jpg
 ||zhihu.com/api/*banners/
 ||zhihu.com/commercial_api/banners_
@@ -8905,6 +8907,8 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||fashangji.com/api/ggzz.js
+||yzpsb.com/js/shang.js
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -11688,6 +11692,7 @@ baidu.com##.hotad-list-box
 sogou.com##.hotel-pic
 sogou.com##.hotel_tit
 sogou.com##.hotel_tj
+boke112.com##.hotspot
 lenovo.com.cn##.hotword-list > li > a[href*=".jd.com"]
 btdp.online,f6hx.site,magnet2048.com##.hotwords
 ganji.com##.house-ads-img
@@ -11985,7 +11990,6 @@ lgn.yy.com##.m_left
 xitongzhijia.net##.m_swift
 hupu.com##.m_text_ad
 8bo.com##.mad
-zhicheng.com##.mad_bt
 zhicheng.com##.mad_top
 163disk.com##.mads
 hupu.com##.maibghref
@@ -12141,8 +12145,7 @@ mtrend.cn##.new_right > .morecontent_next
 mtrend.cn##.new_right > div[style="float:left; width:100%;"]:first-child
 ttrar.com##.new_xzq
 doubibackup.com##.new_zixun
-zhicheng.com,zt5.com##.newa
-zhicheng.com##.newa2
+zt5.com##.newa
 uimaker.com##.newbaidu
 ali213.net##.newright
 sydneytoday.com##.news-list > .row > .col-xs-12
@@ -13095,6 +13098,7 @@ zhangxinxu.com##[class*="_block-"]
 zhangxinxu.com##[class*="bottom_"]
 zhangxinxu.com##[class*="zxx"] + *,ARTICLE > .link:first-child
 jmw.com.cn##[class^="advertising"]
+zhicheng.com##[class^="piaofu"]
 gamme.com.tw##[class^="sidead_"]
 dable.io##[data-ad_id]
 sina.cn##[data-href*="://sax"]
@@ -13357,7 +13361,7 @@ mse.360.cn##a[id^="banner"]
 moxing.net##a[marked][href*=".taobao.com"]
 360-bo.com##a[name="thegg"]
 frdic.com,godic.net##a[onclick*="/ads/"]
-ddooo.com##a[onclick*="\"do\""]
+ddooo.com##a[onclick*="\"ddo\""]
 pcsoft.com.cn##a[onclick*="_ad"]
 caibaojian.com##a[onclick*="aliyun"]
 caibaojian.com##a[onclick*="aly"]
@@ -17753,6 +17757,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||usty357a.site^
 ||uuopp.com^
 ||uvmqpum.cn^
+||uwmoghx.cn^
 ||uxyrl.cn^
 ||uzhaj.com^
 ||uzyid.cn^
