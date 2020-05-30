@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: d4DcbUmadKXnr/usxi8MyQ
-! Version: 202005290003
+! Checksum: GsLCUDi3F/rEs5n6Ad/Puw
+! Version: 202005300003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 29 May 2020 00:03 UTC
+! Last Modified: 30 May 2020 00:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -4137,7 +4137,7 @@ _yad_jsonp_
 ||007hd.com/7PcCH3ce420MZaTO.php
 ||027cgb.com^*.gif
 ||02wq.com/script/
-||02wq.com/scrtips/33lc.js
+||02wq.com/scrtips/
 ||0379home.com/public/js/ad_pic.js
 ||0379home.com/public/js/beside.js
 ||0439.com/wtj/homepage/handler/guangg.ashx?ut=classify
@@ -8925,7 +8925,6 @@ _yad_jsonp_
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-m4fz.com##A[data-etime]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -9444,7 +9443,6 @@ sm.cn###download-uc
 sm.cn###download-uc-v2
 mogewu.com###downloadurl > dl:first-child
 nczsks.com###downyxjs
-langxi.org###drk_ledtd
 chinanews.com###dt_advert
 bejson.com###dua
 ptbus.com,weather.com.cn###duilian
@@ -11597,6 +11595,7 @@ owyb1688.com##.gray-show
 bioon.com##.grid_6
 veryhuo.com##.gs
 veryhuo.com##.gs2
+ddooo.com##.gs_down
 wanyx.com##.gs_down_common
 sci-hub.org.cn##.gs_r[data-cid=""]
 sci-hub.org.cn##.gs_red[style="color:#EB7F00"]
@@ -12339,6 +12338,7 @@ anquan.org##.pub_side_ad
 doudoudm.site,ezdmw.com##.public_ad
 cnplugins.com##.pushbox1
 sogou.com##.pz-widget-flash-container
+boke112.com##.qa-pc
 baidu.com##.qb-other-answer-wmad
 baobao.baidu.com##.qb-relate-box
 qidian.com##.qd-game
@@ -13044,6 +13044,7 @@ qq.com##.xxskj
 wanyx.com##.xz_down
 xixiwg.com##.xz_left > ul:nth-last-child(3)
 ddooo.com##.xzgsb
+ddooo.com##.xzgsc
 05sun.com,xitongtiandi.net##.xzq
 moviesunusaaa.org##.yahooinner
 htcui.com##.yanshibtn
@@ -13144,6 +13145,7 @@ wenku.baidu.com##a[class*="tiger-"][class*="-dialog"]
 hao123.com##a[class^="gameyixing-link-"]
 csai.cn##a[class^="gg"]
 ditu.so.com##a[class^="index-bcItem-"]
+m4fz.com##a[data-etime]
 caibaojian.com##a[data-href*="aliyun"]
 bilibili.com##a[data-target-url*=".taobao.com"]
 oschina.net##a[data-traceid$="_ad"]
@@ -14855,11 +14857,12 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 17ce.com##tr[id^="tr"] > td > a[href^="http"]
 ||17ce.com^*_$image
 !#18comic.org
-||18comic.*/static/resources/images/300
+/\/frontend\/airav\/js\/[a-z][0-9]/$script,domain=18comic.org|18comic.vip
+18comic.org,18comic.vip##a[href^="http"]:not([href*="18comic"]) > img
+18comic.org,18comic.vip##div[style^="position: fixed; top:"]
 ||18comic.*/static/resources/files/*0x
-||18comic.*/templates/frontend/airav/js/e1
+||18comic.*/static/resources/images/300
 ||18comic.*/templates/frontend/airav/js/jquery.e1
-18comic.org,18comic.vip##DIV[style^="position: fixed; top:"]
 !#2345.com
 7255.com###J_search_bd > div:last-child
 7255.com###right > div:first-child
@@ -16149,6 +16152,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||4df5ef.xyz^
 ||4ekx.cn^
 ||4excel.cn^
+||4ggame8.com^
 ||4py3oe.cn^
 ||4qn1k.cn^
 ||4s5n.cn^
@@ -16221,6 +16225,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||7gbca.cn^
 ||7ia9h.cn^
 ||7kzw.com/fe/
+||7m0hj.cn^
 ||7m307.cn^
 ||7n3e8o.com^
 ||7x3mh.cn^
@@ -16275,6 +16280,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||abie12.top^
 ||abie13.top^
 ||abie15.top^
+||abie16.top^
 ||abie25.top^
 ||abie9.top^
 ||abuse8.com^
@@ -16317,6 +16323,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||ajkdg3.xyz^
 ||ali2a.xyz^
 ||ali2d.xyz^
+||ali2f.xyz^
 ||alicdn.com^$domain=lawen44.net
 ||alitx963.com^
 ||aliyoo999.com^
