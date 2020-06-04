@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VKFN6VwbbXI7jam+zijaOw
-! Version: 202006030003
+! Checksum: FiWUJG84yJQBlt3kxrxOMA
+! Version: 202006040003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 03 Jun 2020 00:03 UTC
+! Last Modified: 04 Jun 2020 00:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -4975,6 +4975,7 @@ _yad_jsonp_
 ||aichuangfu.cn/jquery/
 ||aifei0755.net/123/
 ||ainunu.*/vad.js
+||ainuody.com/wp-content/uploads/2017/07/%E5%85
 ||airav.cc/AirADPic/
 ||airav.cc/iframe/
 ||airav.cc/static/js/*_ad.js
@@ -5416,6 +5417,8 @@ _yad_jsonp_
 ||bxw666.com/storage/*.gif
 ||bxwns.com/blz/
 ||bxwns.com/player/ad.html
+||by4d.com/dh/
+||by4d.com/love/
 ||by8974.com^
 ||bytravel.cn/images/cus/
 ||bytravel.cn/images/t/usa_250_120.gif
@@ -5917,6 +5920,8 @@ _yad_jsonp_
 ||e0575.com/index.php
 ||e10000.cn/Images/link_td01.gif
 ||e23.cn/js/aaa.js
+||e3c7.com/dh/
+||e3c7.com/love/
 ||e3ol.com/inc/
 ||e9377f.com^$rewrite=abp-resource:blank-mp3,domain=eastday.com
 ||eap.big5.enorth.com.cn^
@@ -7356,6 +7361,7 @@ _yad_jsonp_
 ||onlinedown.net/Public/js/headAd.js
 ||onlyitv.com/assets/js/onlyitv.js
 ||onlytvb.com/assets/javascripts/
+||onx8.com/zb_users/theme/ydgreen/style/ad/
 ||ooo.0o0.ooo/2017/11/03/59fc6b3c5b723.jpg
 ||oopw.top/img/jdy
 ||ooqiu.com/ad_js/
@@ -8928,7 +8934,6 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||ainuody.com/wp-content/uploads/2017/07/%E5%85
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -13416,9 +13421,9 @@ aishoujizy.com,xd0.com##a[target="_blank"] > img[src^="/upload/1/"]
 muchong.com##a[target="_blank"][style="display: inherit!important;"]
 pixiv.net##a[target="premium_noads"]
 youz4.com##a[title*="广告"]
+ainuody.com##a[title*="红包"]
 creaders.net##a[title^="www.136888.com/"]
 duba.com##a[w="topad"]
-ainuody.com##A[title*="红包"]
 ainuody.com#?#.post:-abp-has(> .article > .entry_post > p:-abp-contains(/红包|淘宝/))
 amazon.cn#?#.s-result-item:-abp-has(> .s-item-container > h5 .s-sponsored-info-icon)
 idanmu.at##aside > div[class="widget "]
@@ -15166,6 +15171,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||a.4aqq.com^
 ||a.52wubi.com^
 ||a.52zxw.com^
+||a.91zhongkao.com^
 ||a.armystar.com^
 ||a.bake818.cn^
 ||a.duanmeiwen.com^
@@ -16353,6 +16359,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||anmeilai.net^
 ||anyysz.com^
 ||aomde.com^
+||aox7.xyz^
 ||aoyou2.top^
 ||apjiangte.com^
 ||apmengxin.com^
