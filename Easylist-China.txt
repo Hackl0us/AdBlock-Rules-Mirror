@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PdDMl6TMFgLOdVWQxGfQ/g
-! Version: 202006060003
+! Checksum: C0IfsfG/dwMIC/S09GGgWA
+! Version: 202006070003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 06 Jun 2020 00:03 UTC
+! Last Modified: 07 Jun 2020 00:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -3923,7 +3923,6 @@ ubmcmm.baidustatic.com
 ||zx573.cn^
 ||zxb918.com^
 ||zxhrq.cn^
-||zxpyzc.cn^
 ||zxwdw.com^
 ||zybpj.com^
 ||zydyjzw.cn^
@@ -4330,6 +4329,7 @@ _yad_jsonp_
 ||18comic.*/iframe
 ||18comic.*/static/resources/images/168/
 ||18comic.*/templates/frontend/airav/js/be
+||18comic.*/templates/frontend/airav/js/c
 ||18comic.*/templates/frontend/airav/js/c911d19b.js
 ||18comic.*/templates/frontend/airav/js/d
 ||192.240.111.77/ad/
@@ -5187,6 +5187,7 @@ _yad_jsonp_
 ||baidu.com/event/img/zwdzjs.jpg
 ||baidu.com/fanyiapp/image/wise_banner_
 ||baidu.com/feproxy/ad/list?
+||baidu.com/forum/pic/item/024f78f0f736afc32e3d800ba419ebc4b74512ae.jpg
 ||baidu.com/forum/pic/item/4b90f603738da9777be11d48a751f8198718e383.jpg
 ||baidu.com/forum/pic/item/572c11dfa9ec8a13344ba40af903918fa1ecc083.jpg
 ||baidu.com/forum/pic/item/5882b2b7d0a20cf41d12e5bb61094b36adaf99d7.jpg
@@ -6115,6 +6116,7 @@ _yad_jsonp_
 ||g.ousns.net^
 ||g.rexian.net.cn/js/
 ||g2.ousns.net^
+||g3f3.com/love/
 ||gaglxx.com/5_
 ||galacg.me/wp-content/uploads/*750x
 ||game.466.com^$third-party
@@ -7074,6 +7076,7 @@ _yad_jsonp_
 ||mahua.com/api/$subdocument
 ||mahua.com/www/default/js/mahua_show.js
 ||mahua.com/www/default/js/replace_ab.js
+||mahuazy.net/images/960-60.gif
 ||maiche.com/iframe/rank.html
 ||mail.pchome.com.tw/img/classifieds/300120.gif
 ||mail.qq.com/lview?
@@ -10514,6 +10517,7 @@ eprice.com.tw##.ad-970x90-g
 19lou.com##.ad-980x40
 ihome99.com##.ad-980x60
 19lou.com,ihome99.com##.ad-980x90
+mobile01.com##.ad-adblock
 feng.com##.ad-aside
 baofeng.com##.ad-bar-l
 baofeng.com##.ad-bar-r
@@ -11081,6 +11085,7 @@ baidu.com##.c-result[data-tpl="adv_wenku_fc"]
 suning.com##.c2c-recommend
 myexception.cn##.c_a_3
 cnblogs.com##.c_ad_block
+ddooo.com##.c_down
 ddooo.com##.c_downgs[href="javascript:;"]
 kdnet.net##.c_spread
 lenniu.com##.caClass
@@ -12486,6 +12491,7 @@ tbtdg.com##.s11text
 wenda.tianya.cn##.s1Tit + .sideBox
 finance.ifeng.com##.sConRbox
 laozuo.org##.s_ad125
+ddooo.com##.s_down
 baidu.com##.sam_iebrowser_banner
 image.baidu.com##.sample0
 image.baidu.com##.sample1
@@ -13934,7 +13940,7 @@ ruanyifeng.com#?#.asset-content > p:-abp-contains(培训)
 ruanyifeng.com#?#.asset-content > p:-abp-contains(培训) + p > img
 samsung.com#?#.template-item:-abp-has(> .wrap-sub-title > div > .ad)
 dilidili.one,gdot.me,sc115.com##script + a
-wnacg.com##script + a > img
+wnacg.com,wnacg.org##script + a > img
 logo160.com##script + a[href="/"]
 xingkbjm.com##script + div + .excerpt
 xingkbjm.com##script + div + .excerpt + .excerpt
@@ -14075,7 +14081,6 @@ help.xunlei.com#@#.a_fr
 520cc.me,sewangchao.com,sewangchao3.com#@#.a_mu
 xinmin.cn#@#.a_p
 hahamx.cn#@#.ad-1
-mobile01.com#@#.ad-a
 diantai.ifeng.com#@#.ad-b
 pptstore.net#@#.ad-big
 baidu.com,comefromchina.com#@#.ad-block
@@ -14164,7 +14169,6 @@ jsbooks.com.cn#@#.left-ads
 fsjoy.com#@#.main_adv
 gdrc.com#@#.midAd
 ntunhs.edu.tw,ntust.edu.tw,sjsmitaa.org#@#.module-ads
-mobile01.com#@#.navad
 eprice.com.hk#@#.one-ad
 weiyun.com#@#.page-ad
 chinatimes.com#@#.page_ad
@@ -14228,6 +14232,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/adview_pic_$domain=2hanju.com|laimanhua.com|lingjike.com|mahua.com|meiyouad.com|mh160.com|myqqjd.com|reh.tw|silisili.me|xiaoz.me|ykit.cn|zgpingshu.com
 @@/advs/*$domain=ciros.com.cn|gotobuy.com.tw|sj-touch.com
 @@/adx.$domain=tanx.com
+@@/api/ad/*$domain=pinduoduo.com
 @@/bag2?r[]=*&r[]=$domain=free.com.tw
 @@/common/cf/*$domain=66u.com|changhong.com|fei3d.com|oneplusbbs.com|readboy.com
 @@/cpc_cpm_$domain=ygo-sem.cn
@@ -16315,6 +16320,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||abie13.top^
 ||abie15.top^
 ||abie16.top^
+||abie17.top^
 ||abie25.top^
 ||abie9.top^
 ||abuse8.com^
@@ -16370,6 +16376,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||aomde.com^
 ||aox7.xyz^
 ||aoyou2.top^
+||aoyou3.top^
 ||apjiangte.com^
 ||apmengxin.com^
 ||applequan.com^
@@ -18568,7 +18575,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@/hitCount.$script,domain=on.cc
 @@/hitCount_$xmlhttprequest,domain=on.cc
 @@/iplookup.$domain=cankaoxiaoxi.com|dilidili.wang|dongfeng-nissan.com.cn|huomao.com|loldk.com|sina.com.cn
-@@/sensorsdata.$domain=shanbay.com
+@@/sensorsdata.$domain=36kr.com|shanbay.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/urchin.js$domain=on.cc
 @@||10010.com/mall/common/js/fa.js?referer=
