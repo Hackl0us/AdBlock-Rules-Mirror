@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: C0IfsfG/dwMIC/S09GGgWA
-! Version: 202006070003
+! Checksum: O79P4/4p+lMm4dGssSKE1A
+! Version: 202006080003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 07 Jun 2020 00:03 UTC
+! Last Modified: 08 Jun 2020 00:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -5716,6 +5716,7 @@ _yad_jsonp_
 ||ctanet.cn/aqq/JS/
 ||ctfile.com/iz.php?
 ||ctrip.com/amd/*960x90.
+||ctrip.com/Domestic/tool/AjaxGetCPTList.ashx?advpositioncode=
 ||cww.net.cn/include/show.asp?boardID=
 ||cww.net.cn/js/adspaces.js
 ||cww.net.cn/js/urdev.js
@@ -10734,7 +10735,7 @@ chinamedevice.cn##.ads_img
 chinamedevice.cn##.ads_img1
 xianliao.me##.ads_popup_small_ads_container
 netflav.com##.ads_video_overlay_mobile
-199it.com,softwarebrother.com,wholehk.com##.adsbygoogle
+199it.com,league-funny.com,softwarebrother.com,wholehk.com##.adsbygoogle
 m.kuaidi100.com##.adsbygoogle + a
 chtoen.com##.adsbygoogle:not([data-ad-slot="9717665976"])
 aibing.cc,htcui.com,uho.com.tw##.adsense
@@ -12370,6 +12371,8 @@ htcui.com##.qqanimate
 baidu.com##.quality-elinks
 muzhi.baidu.com##.quick-ask-2 + .android + div
 hualongxiang.com##.quick_reply_ad
+3dmgame.com##.quickdown2
+3dmgame.com##.quickdown3
 im286.net##.qybj
 myqqjd.com##.qz-box
 ouyaoxiazai.com##.qzhengfu
@@ -13671,6 +13674,7 @@ ifeng.com##div[id^="couplet3_"]
 jmnews.com.cn##div[id^="couplet_"]
 tyenews.com##div[id^="custom_html-"]
 banma.com##div[id^="disapper"]
+league-funny.com##div[id^="div-gpt-ad"]
 discuss.com.hk##div[id^="div-gpt-ad"] + div[id]
 gohome.com.hk##div[id^="div-gpt-ad"][style]
 iqiyi.com##div[id^="div_theatre"]
@@ -14557,7 +14561,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||heikexs.com/wp-content/themes/Duoxs*/js/user.js
 @@||histock.tw/JScript/AD/
 @@||hk.on.cc/js/v4/oncc-adbanner.js
-@@||hkjc.com/banners/
+@@||hkjc.com/bannerad/
 @@||hoge.cn/advertisement.swf
 @@||huhupan.com/e/extend/down/$generichide
 @@||i3.sinaimg.cn/video/deco/2013/0325/js/
@@ -16846,6 +16850,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||ggskt.com^
 ||ggz55268.com^
 ||giroud.top^
+||gitma.info^
 ||gj632.cn^
 ||gjiai.com^
 ||gjiak.com^
@@ -18408,14 +18413,15 @@ webkaka.com#?#:-abp-has(>[href*="100/"])
 $webrtc,domain=195.43.95.234|50.7.31.226|50.7.31.227|50.7.31.228|50.7.31.229|50.7.31.230|cntvboxnow.com|tvboxnow.com
 !#wuhaozhan.net
 baike567.com,wuhaozhan.net##.aaaaa
-baike567.com,wuhaozhan.net##.pure-u-md-8-24 iframe
+##.tm3all2h4b
 baike567.com,wuhaozhan.net##[onclick*=".tb.cn"]
 baike567.com,wuhaozhan.net##[onclick*="open"]
 baike567.com,wuhaozhan.net##a[href*=".click"]
 baike567.com,wuhaozhan.net##a[href*="otb."]
 baike567.com,wuhaozhan.net##a[onclick*=".tmall.com"]
-baike567.com,wuhaozhan.net#?#.l-box:-abp-has(a:-abp-contains(/年货|红包|支付|天猫/))
+baike567.com,wuhaozhan.net#?#.l-box:-abp-has(a:-abp-contains(/京东|年货|红包|支付|天猫/))
 baike567.com,wuhaozhan.net#?#:-abp-has(> .ad_top_close)
+baike567.com,wuhaozhan.net##div[class*="main-righ"] iframe
 baike567.com,wuhaozhan.net##div[class^="hongbao"]
 baike567.com,wuhaozhan.net##div[id$="eBox"]
 ||39.100.192.200/zzz0.png
@@ -18578,6 +18584,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@/sensorsdata.$domain=36kr.com|shanbay.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/urchin.js$domain=on.cc
+@@||163.com/user/event?id=
 @@||10010.com/mall/common/js/fa.js?referer=
 @@||111.75.255.103/Scripts/Controls/PageView.js
 @@||126.net/images/blank.gif
