@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: eOZsACsVb+JQnBjq2n1h3Q
-! Version: 202006090003
+! Checksum: pBRRLFugzVAFixH2xxb4Qw
+! Version: 202006100003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 09 Jun 2020 00:03 UTC
+! Last Modified: 10 Jun 2020 00:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -2804,6 +2804,7 @@ ubmcmm.baidustatic.com
 ||maizhenai.cn^
 ||mall043.com^
 ||mamamiyu.com^$third-party
+||manhuachi.com^
 ||manparis.cn^
 ||maskbaby.com.cn^
 ||mathtag.com^$third-party
@@ -4014,7 +4015,7 @@ $popup,third-party,domain=520cc.cc|520cc.me|5278.cc|5278bbs.com|67.212.233.37|76
 !----------------------Specific advert blocking filters-----------------------!
 $image,domain=ip.cn
 $image,third-party,domain=lady1.top
-$script,third-party,domain=52movieba.com|66s.cc|ab126.com|audio699.com|dm530.net|kan-tv.com|m.manhuadui.com|m.supfree.net|mp4pa.com|ohmanhua.com|onemanhua.com|torrentkitty.se|torrentkitty.tv|torrentkittyzw.info|wltmv.com|wnacg.com|xiepp.com
+$script,third-party,domain=52movieba.com|66s.cc|ab126.com|audio699.com|dm530.net|kan-tv.com|m.manhuabei.com|m.supfree.net|mp4pa.com|ohmanhua.com|onemanhua.com|torrentkitty.se|torrentkitty.tv|torrentkittyzw.info|wltmv.com|wnacg.com|xiepp.com
 $script,third-party,websocket,domain=52codes.net|m.ting56.com
 $script,third-party,xmlhttprequest,domain=bteve.com
 $websocket,domain=5nj.com|cechi8.com
@@ -13160,7 +13161,7 @@ sinolub.com##[id^="xker"]
 32r.com##[onclick*="@"]
 zhangxinxu.com##[onclick*="Ad"]
 42xz.com##[onclick*="godownload"]
-duodada.com##[style^="width: 100%; height: auto; position: fixed;"]
+duodada.com##[style*="position: fixed; left: 0px;"]
 kisssub.org##a > img[src*=".0o0.ooo/"]
 5dm.tv##a > img[src*=".sinaimg."]
 ruanyifeng.com##a > img[src*="wangbase.com/blogimg/asset/"]
@@ -14427,7 +14428,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||ccb.com^*^ad
 @@||ccllaa.com^$generichide
 @@||cdn.doublemax.net/js/rwd_cap.js$domain=ibf.tw
-@@||cdn.staticfile.org^$script,domain=manhuadui.com
+@@||cdn.staticfile.org^$script,domain=manhuabei.com
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*/videojs.ads.min.js$domain=linetv.tw
 @@||changyou.com^$generichide
 @@||chdbits.co/pic/cattrans.gif
@@ -17327,6 +17328,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||m4ztka.cn^
 ||m652a.cn^
 ||m72r.cn^
+||mababa.info^
 ||maicaoren.cn^
 ||maka.im^$third-party
 ||mamaailmjz.cn^
@@ -18612,6 +18614,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||baidu.com/h.js$domain=19lou.com|baomihua.com|ihome99.com
 @@||baidu.com/hm.js$domain=dwz.cn
 @@||baidu.com/location/ip?$domain=dominos.com.cn|tanmizhi.com
+@@||bilibili.com^*/web_page_view?$domain=message.bilibili.com
 @@||bitauto.com/bglogpostlog.js
 @@||captcha.qq.com^*&refer=http
 @@||cdn.optimizely.com/js/*.js$domain=kktv.me
@@ -18634,6 +18637,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||googletagmanager.com/gtm.js$domain=asus.com.cn|support.amd.com
 @@||guahao.cn/common/js/plugins/fingerprint.js
 @@||hao123img.com/resource/zt/widget/service/util/clickTrack.
+@@||hdslb.com/bfs/seed/log/report/log-reporter.js$domain=message.bilibili.com
 @@||highcharts.com.cn/highcharts/modules/heatmap.js
 @@||hk01.com^*/ga_trace.js
 @@||hk01.com^*/scripts/ga.js
