@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 02b8sJYStvhjEzv+d+Wlsw
-! Version: 202006150003
+! Checksum: dANdprWE2gFl1baQOKASSg
+! Version: 202006160003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 15 Jun 2020 00:03 UTC
+! Last Modified: 16 Jun 2020 00:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -862,6 +862,7 @@ _xiuno_com_ad/
 ##.google_adsense2
 ##.gpost-below
 ##.gpt_ads_box
+##.gsfha3
 ##.guangjiaodebupachuanxiede
 ##.guruin-ads
 ##.hao123-unionad-pic
@@ -1388,6 +1389,7 @@ ubmcmm.baidustatic.com
 ||3975lm.com^$third-party
 ||3alian.net^$third-party
 ||3amall.cn^
+||3c3c3.com^
 ||3dwwwgame.com^$third-party
 ||3g.990.net^
 ||3gmtr.com^
@@ -4253,8 +4255,6 @@ _yad_jsonp_
 ||591hx.com/js/sy.js
 ||591hx.com/lunbo/
 ||591hx.com/zyrk_dy/gwjl.html
-||5dm.tv/html/5dma.jpg
-||5dm.tv/html/5dmm.jpg
 ||5dmail.net/image/$object
 ||5dmail.net/image/ad_
 ||5dmail.net/image/ORF_1000.gif
@@ -5688,6 +5688,7 @@ _yad_jsonp_
 ||fj.sina.com.cn/iframe/63/
 ||fjisu.*/js/huimi.js
 ||fjlqqc.com/common/api/v1.0/slot-code/
+||fkf5.com/public/js/static.js
 ||fl6n.com/adtop/
 ||flash.mycar168.com/data/js/
 ||flighty.cn/images/
@@ -6681,8 +6682,6 @@ _yad_jsonp_
 ||m3hf.com/js/float
 ||ma.baiducdn2.com^*/main.js?t=
 ||macd.cn/macd-topads.html
-||macfans.org/201*.gif
-||macfans.org/images/*/980x
 ||macx.cn/js/jquery.$domain=game.macx.cn
 ||mafengwo.net/s13/M00/D0/6D/wKgEaVza2HCAJw8sAAOVHkWHw_c98.jpeg
 ||magedu.com/wp-content/uploads/*/xwzx
@@ -6719,7 +6718,6 @@ _yad_jsonp_
 ||mat1.gtimg.com/ent/flash/*300
 ||mbalib.com/wiki/common/wikibits.js
 ||mbd.baidu.com^$domain=xiaoyun.com
-||mcchou.com/wp-content/themes/begin/js/mcchou.js
 ||mcncc.com/yeyou/*.htm
 ||me680.com/js/*.js
 ||medsci.cn/aimgs/$script
@@ -6731,7 +6729,6 @@ _yad_jsonp_
 ||meijub.com/a/youxiajiao
 ||meijub.com/js/a/
 ||meijuck.com/js/dfw.js
-||meijumi.vip/wp-content/plugins/dreamgrow-scroll-triggered-box/
 ||meijutt.tv/js/pcjs/
 ||meijuxz.com/template/ZQ/
 ||meipian.me^*/api_ad/
@@ -6774,7 +6771,6 @@ _yad_jsonp_
 ||mipcdn.com/i/s/https://i.loli.net/$domain=hcomic.in
 ||mipcdn.com^*/mip-*ad-
 ||mipengine.baidu.com/common?
-||mir300.com/88a/
 ||missevan.com^$domain=jijidown.com
 ||missyuan.com/sy/
 ||mitbbs.*/servicedata/static_ad.php
@@ -7182,7 +7178,7 @@ _yad_jsonp_
 ||qhf168.com/data/attachment/portal/
 ||qhimg.com/ssl/20212c7594890e1c.js
 ||qhimg.com/static/*/common/seed.js
-||qhimg.com^$domain=1024di.com|mir300.com
+||qhimg.com^$domain=1024di.com|hero3g.com
 ||qhmsg.com^$domain=1024di.com
 ||qhnews.com/tupian/
 ||qhres.com/static/*/common/seed.js
@@ -8546,9 +8542,10 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||fkf5.com/public/js/static.js
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+mtrend.cn##.hdlist
+5dm.tv##A[href*=".taobao.com"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -9591,6 +9588,7 @@ baixing.com###port-info
 ld0766.com###portal_ad3
 x3cn.com###portal_block_12045
 ichunqiu.com###portal_block_157
+macfans.org###portal_block_180
 fuyang.net###portal_block_474
 fuyang.net###portal_block_502
 zhaiiker.com###post-single + .pd10.mar10-t.box
@@ -10711,7 +10709,7 @@ mpyit.com##.cboxElement + center[style=" padding-top:10px; "]
 cnbeta.com##.cbv810
 cnbeta.com##.cbv:not(#cb_share)
 meizhou.com##.cc_z1
-xinshouzhanzhang.com##.celan
+mabiji.com,xinshouzhanzhang.com##.celan
 iqiyi.com##.cell-left
 iqiyi.com##.cell-right
 11luba.com,niluba.cc##.center > div:last-child
@@ -11881,6 +11879,7 @@ baidu.com##.pauseadv
 heiguang.com##.pbAddPic
 18183.com##.pcBtn > a[href*="@"]
 kikinote.net##.pc_ad
+hero3g.com##.pcbanner
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.per_list.j_per_list.per_list_frs
 265g.com##.phone_bgban
 sodao.com##.photo-see > div[style="text-align: center; margin-bottom: 10px;"]
@@ -12623,7 +12622,7 @@ liyuans.com,zhujiboke.com##.widget_image_ad
 zhaiiker.com##.widget_index_add
 flyzy2005.com##.widget_kratos_ad
 carrotchou.blog,landiannews.com,xingkbjm.com##.widget_media_image
-landiannews.com##.widget_metaslider_widget
+landiannews.com,meijumi.net##.widget_metaslider_widget
 acwifi.net##.widget_ssr
 codeceo.com,fuli8.net##.widget_text:first-child
 fulibl.cc##.widget_text:last-child
@@ -13882,7 +13881,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@?sid=ads$domain=126.com|mail.163.com
 @@_300_250.$domain=nanrenwo.net
 @@_ads_cpc_$domain=90lover.cn
-@@_adview_$domain=muzlan.top
 @@_cpc_cpm_$domain=ygo-sem.cn
 @@u-ads.adap.tv*youku.$domain=youku.com
 @@||012.tw^$script,domain=apk.tw
@@ -14274,6 +14272,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||monnsutogatya.com^$elemhide
 @@||moviesunusa.net^$generichide
 @@||ms332.com^$generichide
+@@||muzlan.top/ads/banner.png
 @@||muzlan.top^$generichide
 @@||myqqjd.com/wp-content/plugins/open-
 @@||myqqjd.com^$generichide
@@ -15608,6 +15607,7 @@ $image,third-party,domain=258zw.com
 /c.js#pid=$script,third-party
 /svr/*.aspx?placeid=$third-party
 /xxgg/app.js
+:18443/*/*-*-*.js
 _1xhtml?$script
 xhtml?%22+$script,third-party
 !#Novels
@@ -15831,6 +15831,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||abie15.top^
 ||abie16.top^
 ||abie17.top^
+||abie18.top^
 ||abie25.top^
 ||abie9.top^
 ||abuse8.com^
@@ -16268,6 +16269,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||gralfusnzpo004.top^
 ||gralfusnzpo006.top^
 ||gralfusnzpo007.top^
+||gralfusnzpo008.top^
 ||grjs02.com^
 ||grjs06.com^
 ||grtnahd.cn^
@@ -17187,6 +17189,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||xqxx520.com^$third-party
 ||xrain.net^
 ||xstt5.com/skin/v3/js/zhang.
+||xsw55.com/xswu/style/img/ls.gif
 ||xsyouwei.cn^
 ||xszysc.com^$third-party
 ||xt725.cn^
