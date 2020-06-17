@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202006152333
+! Version: 202006162325
 ! Title: EasyPrivacy
-! Last modified: 15 Jun 2020 23:33 UTC
+! Last modified: 16 Jun 2020 23:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4463,6 +4463,7 @@
 /trackingDTM.js
 /trackingfilter.json?
 /trackingFooter.
+/trackingGA.js
 /TrackingHandler.
 /trackingheader.
 /trackingImpression/*
@@ -6797,7 +6798,6 @@ _mongo_stats/
 ||lognormal.net^$third-party
 ||logrocket.com^$third-party
 ||logrocket.io^$third-party
-||logsss.com^$third-party
 ||lookery.com^$third-party
 ||loopa.net.au^$third-party
 ||loopfuse.net^$third-party
@@ -9852,6 +9852,7 @@ _mongo_stats/
 ||analytics.kapost.com^
 ||analytics.live.com^
 ||analytics.livestream.com^
+||analytics.logsss.com^
 ||analytics.mailmunch.co^
 ||analytics.matchbin.com^
 ||analytics.midwesternmac.com^
@@ -13791,6 +13792,7 @@ _mongo_stats/
 ||logs.hotstar.com^
 ||logx.optimizely.com^
 ||lolwot.com/B5xaqzSGvMTM.js
+||loom.com^*?beacon
 ||lovefilm.com/api/ioko/log/
 ||lovefilm.com/lovefilm/images/dot.gif
 ||lovefilm.com^*/lf-perf-beacon.png
