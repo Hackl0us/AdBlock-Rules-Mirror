@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202006181258
+! Version: 202006200001
 ! Title: EasyPrivacy
-! Last modified: 18 Jun 2020 12:58 UTC
+! Last modified: 20 Jun 2020 00:01 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -34,6 +34,7 @@
 -adobe-analytics.
 -ads-tracking-
 -AdTracking.
+-amp-error-reporting.
 -analitycs//fab.
 -analitycs//ga.
 -analitycs//metrica.
@@ -1746,6 +1747,7 @@
 /event/rumdata?
 /event/track?
 /event/v3?
+/event/visit?
 /event?&event=
 /event?adblk=
 /event?auditLinkReceived=
@@ -7050,7 +7052,6 @@ _mongo_stats/
 ||oktopost.com^$third-party
 ||omappapi.com^$third-party
 ||omarsys.com^$third-party
-||omeda.com^$third-party
 ||ometria.com^$third-party
 ||omguk.com^$third-party
 ||omkt.co^$third-party
@@ -10993,6 +10994,7 @@ _mongo_stats/
 ||oda.markitondemand.com^
 ||odnaknopka.ru/stat.js
 ||ohnorobot.com/verify.pl?
+||olytics.omeda.com^$script,third-party
 ||om.rogersmedia.com^
 ||onecount.net/onecount/oc_track/
 ||onescreen.net/os/static/pixels/
@@ -12669,6 +12671,7 @@ _mongo_stats/
 ||a.huluad.com/beacons/
 ||a7.org/infol.php?
 ||aa.avvo.com^
+||aax-eu-dub.amazon.com^
 ||aax-us-iad.amazon.com^
 ||abc.net.au/counters/
 ||abc.net.au^*/stats/
