@@ -3,19 +3,14 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-06-24T14:40:40.532Z
+! Last modified: 2020-06-25T14:41:08.274Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
-!
-! Source name: AdGuard Spanish/Portuguese filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.txt
-!
-!
-! Section contains list of advertising networks
-!
-! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
-! ||addevweb.com^$third-party
+||mtecso.online^
+||gyh1lh20owj.ru^
+||25haich4342.ru^
+||byfoongusor.com^
 ||v2b.nucleo.online^
 ||loboclick.com^
 ||bserver.gp-guia.net^
@@ -4215,6 +4210,7 @@ adbetnet.com
 ||ulukaris.com^
 !END: Chinese ad servers
 !
+||eru5tdmbuwxm.com^
 ||premiumvertising.com^
 ||snessubsets.pro^
 ||defutohy.pro^
@@ -6398,6 +6394,7 @@ www.llllllllllll.net^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||addata.mediacategory.com^
 ||dm.toutiao.com^
 ||ads-leaseweb.appsgeyser.com^
 ||ads.appsgeyser.com^
@@ -6789,6 +6786,7 @@ www.llllllllllll.net^
 ||axonix.com^
 ||b.cpiera.com^
 ||banners.etermax.com^
+||bannersnack.com^
 ||bannerwall.herewetest.com^
 ||bannerwall.s3.appcnt.com^
 ||bayctrk.com^
@@ -7536,6 +7534,7 @@ www.llllllllllll.net^
 ||boubeeth.com^
 ||bouillerines.website^
 ||boursnormaticm.info^
+||bowmoolog.com^
 ||boyaidare.club^
 ||boyalebut.site^
 ||boycottons.club^
@@ -7680,6 +7679,7 @@ www.llllllllllll.net^
 ||dainaith.net^
 ||damelaurig.info^
 ||danachings.club^
+||dantbritingd.club^
 ||dardwebertoha.info^
 ||dating2cloud.org^
 ||dayadopen.site^
@@ -7752,6 +7752,7 @@ www.llllllllllll.net^
 ||duxumpou.com^
 ||e2706c6e2b426f74.com^
 ||e2ertt.com^
+||eadminimals.fun^
 ||eaintrolled.info^
 ||eardewova.com^
 ||earlinggea.info^
@@ -7761,6 +7762,7 @@ www.llllllllllll.net^
 ||easylist-to.xyz^
 ||ebetoni.com^
 ||echoazou.com^
+||ecominalber.club^
 ||econdardseeg.site^
 ||ecurrenchoutliness.fun^
 ||edcritessuspi.info^
@@ -7802,6 +7804,7 @@ www.llllllllllll.net^
 ||encoursejaso.site^
 ||englingedrxa.club^
 ||engppdoqrtivjd.com^
+||engrievinebef.fun^
 ||enormitteen.pro^
 ||enoxidewo.fun^
 ||enseptedsome.info^
@@ -8418,6 +8421,7 @@ www.llllllllllll.net^
 ||orcjagpox.com^
 ||ordinggrandt.fun^
 ||originedreting.site^
+||orminecommi.fun^
 ||ornamedev.club^
 ||ortantchangem.info^
 ||oselyprepartie.info^
@@ -8858,6 +8862,7 @@ www.llllllllllll.net^
 ||trlf8mmpbfz1.com^
 ||trothko.com^
 ||trouvredawes.site^
+||tructedpunis.fun^
 ||truestioncarefore.site^
 ||tslomhfys.com^
 ||tsundedhimse.fun^
@@ -10113,8 +10118,6 @@ www.llllllllllll.net^
 ||bannerperformance.net^
 ||bannerrage.com^
 ||bannersmania.com^
-||bannersnack.com^
-||bannersnack.net^
 ||bannertgt.com^
 ||bannertracker-script.com^
 ||bannerweb.com^
@@ -23599,6 +23602,7 @@ www.llllllllllll.net^
 !
 ! ||ensighten.com^$third-party - not a tracker
 !
+||i-*.ci360.sas.com^
 ||st.onlygip.tech^
 .plerdy.com^
 ||tracker.plerdy.com^
@@ -24461,11 +24465,6 @@ t.yesware.com
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
-! end:
-!
-! This rule breaks Australian sites
-!+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
-!
 ||tracker.remp.impresa.pt^
 ||bl.impresa.pt^
 ||d2u1npnnqecmpq.cloudfront.net^
@@ -26603,6 +26602,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ironbeast.io^
 ||ist-track.com^
 ||istrack.com^
+||ithinkthereforeiam.net^
 ||itrac.it^
 ||itracker360.com^
 ||itrackerpro.com^
@@ -26758,7 +26758,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mabipa.com^
 ||macandcheeseandads.com^
 ||magiq.com^
-||magnetmail1.net^
 ||magnify360.com^
 ||magnuum.com^
 ||mailstat.us^
@@ -31683,6 +31682,8 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||original-empire.com^
+||yunrong360.com^
 ||0024aaaa.com^
 ||00880808.com^
 ||008844.cc^
@@ -34525,8 +34526,11 @@ vkcdnservice.appspot.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||6789.run^
-||vadioc.cn^
+||xiangwangdesh.com^
+||hhhw.ren^
+||5p68n.cn^
+||aa13.cloud^
+||shengdaoyiliao.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -34631,6 +34635,7 @@ vkcdnservice.appspot.com^
 ||66992.top^
 ||66993.top^
 ||66994.top^
+||6789.run^
 ||688ct.com^
 ||6945k6.cn^
 ||69yll.cn^
@@ -35884,6 +35889,7 @@ vkcdnservice.appspot.com^
 ||uwmoghx.cn^
 ||uzyid.cn^
 ||v44i.cn^
+||vadioc.cn^
 ||vasb.cn^
 ||vbanm.com^
 ||vbnm888.com^
