@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202006292352
+! Version: 202006302244
 ! Title: EasyPrivacy
-! Last modified: 29 Jun 2020 23:52 UTC
+! Last modified: 30 Jun 2020 22:44 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -954,6 +954,7 @@
 /banner.stats?
 /banners-stat.
 /basesdc.js
+/basicMetricsTracking.
 /basilic.php
 /batch.gif?
 /baynote-$script
@@ -1973,6 +1974,7 @@
 /gaAnalytics.
 /gaclicktracking-
 /gaclicktracking.
+/gaControlTracker.
 /gaCustom.
 /gadsfuncs.
 /gaEvents.js
@@ -3065,6 +3067,7 @@
 /other-analitycs/*
 /ouibounce.min.js
 /outbrainClientPixels.
+/output-stats-
 /ovstats.
 /ow_analytics.
 /owa.Analytics.
@@ -3192,7 +3195,7 @@
 /pippio.
 /pistats/cgi-bin/*
 /piwik-$domain=~github.com|~matomo.org|~piwik.org
-/piwik.$image,script,domain=~matomo.org|~piwik.org
+/piwik.$image,script,domain=~matomo.org|~piwik.org|~piwik.pro
 /piwik.*/ping?
 /piwik.php
 /piwik/*$domain=~github.com|~matomo.org|~piwik.org
@@ -5005,6 +5008,7 @@
 /ZagUser.js
 /zaius-min.js
 /zaius.gif?
+/zaius.js
 /zanox.js
 /zdgurgler.min.js
 /zemtracker.
@@ -8508,6 +8512,7 @@ _mongo_stats/
 ||capriciouscorn.com^$third-party
 ||capsquirrel.com^$third-party
 ||caringzinc.com^$third-party
+||carpentercomparison.com^$third-party
 ||carscannon.com^$third-party
 ||cautiouscrate.com^$third-party
 ||cautiouscredit.com^$third-party
@@ -9200,6 +9205,7 @@ _mongo_stats/
 ||leiki.com^$third-party
 ||m-brain.fi^$third-party
 ||netmonitor.fi^$third-party
+||reactandshare.com^$third-party
 ||stat.www.fi^$third-party
 ||tracking*.euroads.fi^$third-party
 ||vihtori-analytics.fi^$third-party
@@ -10292,6 +10298,7 @@ _mongo_stats/
 ||d1gp8joe0evc8s.cloudfront.net^
 ||d1hi41nc56pmug.cloudfront.net^
 ||d1iazwv1n1tsyi.cloudfront.net^
+||d1igp3oop3iho5.cloudfront.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1qpxk1wfeh8v1.cloudfront.net^
 ||d1r27qvpjiaqj3.cloudfront.net^
@@ -10598,7 +10605,6 @@ _mongo_stats/
 ||go.com/capmon/GetDE/?
 ||go.optifuze.com^
 ||go.toutapp.com^$third-party
-||go.trouter.skype.com^
 ||goadv.com^*/track.js
 ||goaww.com/stats.php
 ||godaddy.com/js/gdwebbeacon.js
@@ -12392,6 +12398,7 @@ _mongo_stats/
 ||kitchen.juicer.cc^
 ||l-tike.com/akam/$script
 ||l.popin.cc^
+||lcs.comico.jp^$image
 ||lcs.livedoor.net^
 ||line-scdn.net^*/line_tag/
 ||line.me/tag.gif$image
@@ -13048,6 +13055,7 @@ _mongo_stats/
 ||cheapsalesconsulting.com/adaptive.php?
 ||cheezburger.com/api/visitor
 ||chelseafc.com^*/tracking.js
+||chicagotribune.com/pb/resources/images/tinygif.gif
 ||china.com/statistic.js
 ||china.com^*/endpage_footer.js
 ||chip.eu^*/pic.gif?
@@ -13497,7 +13505,7 @@ _mongo_stats/
 ||glamourmagazine.co.uk^*/LogPageView
 ||glassmoni.researchgate.net^
 ||global.canon^*/analytics.js
-||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|desertsun.com|eddiebauer.com|glassesusa.com|jsonline.com|kurtgeiger.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
+||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|desertsun.com|eddiebauer.com|glassesusa.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
 ||globes.co.il/ga.asp
 ||globes.co.il/shared/s.ashx?
 ||globester.com^*/track.js
@@ -15210,7 +15218,8 @@ _mongo_stats/
 ! Ebay trackers
 ! https://nullsweep.com/why-is-this-website-port-scanning-me/
 /^https?:\/\/ir\.ebaystatic\.com\/rs\/v\/[a-zA-Z0-9]{18,}\.js/$script,domain=vipr.ebaydesc.com
-||127.0.0.1^$third-party,domain=ameriprise.com|beachbody.com|chick-fil-a.com|citi.com|ebay.at|ebay.be|ebay.ca|ebay.ch|ebay.cn|ebay.co.uk|ebay.com|ebay.com.au|ebay.com.hk|ebay.com.my|ebay.com.sg|ebay.de|ebay.es|ebay.fr|ebay.ie|ebay.it|ebay.nl|ebay.ph|ebay.pl|equifax.com|gumtree.com|lendup.com|mbna.ca|sky.com|td.com|tiaa.org|vedacheck.com|wepay.com
+/^https?:\/\/nav\.sciencedirect\.com\/[a-zA-Z0-9]{14,}\.js/$script,domain=sciencedirect.com
+||127.0.0.1^$third-party,domain=ameriprise.com|beachbody.com|chick-fil-a.com|citi.com|ebay.at|ebay.be|ebay.ca|ebay.ch|ebay.cn|ebay.co.uk|ebay.com|ebay.com.au|ebay.com.hk|ebay.com.my|ebay.com.sg|ebay.de|ebay.es|ebay.fr|ebay.ie|ebay.it|ebay.nl|ebay.ph|ebay.pl|equifax.com|gumtree.com|lendup.com|mbna.ca|sciencedirect.com|sky.com|td.com|tiaa.org|vedacheck.com|wepay.com
 ||ebay.com/nkfytkqtoxtljvzb.js$script,domain=ebay.com
 ||ebay.com/nkfytkqtoxtljvzbxhr.js$script,domain=ebay.com
 ||ebaystatic.com^*/10341xh50yz21mhhydueu4m5wad.js$script,domain=ebay.com
@@ -16018,6 +16027,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||leparking.fr/jsV038/tracker.js
 ||logs-qos.tf1.fr^
 ||ma-petite-recette.fr/visites
+||marmiton.org/logpix.php
 ||neko-san.fr/stats
 ||nouvelobs.com/scripts/stats.php?
 ||nouvelobs.com/tools/csrum.php
@@ -16313,9 +16323,16 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||analytics.sanoma.fi^
 ||dp.alma.iltalehti.fi/v1/cookie
 ||events.il.fi^
+||hs.fi/stats
 ||huuto.net/js/analytic/
 ||ilcdn.fi^*/Bootstrap.js
 ||mtv3.fi/remarketing.js
+||nelonenmedia.fi/hitcounter$image
+||omataloyhtio.fi/ffsw-pushcrew.js
+||omataloyhtio.fi/kuvat/pi.gif$image
+||omataloyhtio.fi/statb.asp
+||puutarha.net/ffsw-pushcrew.js
+||puutarha.net/statb.asp
 ||stat.mtv3.fi^
 ||ts.fi^*/spring.js
 ! Greek
@@ -16841,6 +16858,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||disney-plus.net^*/analytics_script_bundle.js
 @@||docodoco.jp^*/docodoco?key=$script,domain=nidec-copal-electronics.com
 @@||dominos.com^*/assets/build/js/modules/dpz.tealium.js$script
+@@||dove.com/etc/ui/dovemencare/clientlibs/core/core/config/analytics.js$script,~third-party
 @@||dplay.com^*/comscore.streaming.min.js
 @@||dplay.com^*/google_analytics.js
 @@||dpm.demdex.net/id?$xmlhttprequest,domain=foxnews.com
@@ -17195,6 +17213,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||spatialbuzz.com/piwik/piwik.js$domain=spatialbuzz.com
 @@||spiegel.de/layout/js/http/netmind-$script
 @@||sunday.de/skin/*/googleanalytics.js$script
+@@||tipico.de/js/modules/fingerprintjs2/fingerprint2.min.js$script,~third-party
 @@||uim.tifbs.net/js/$script,domain=gewinnspiel.web.de
 @@||widgets.trustedshops.com/reviews/tsSticker/$domain=koziol-shop.de
 ! French
@@ -17262,6 +17281,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||inpref.s3.amazonaws.com/sites/$script,domain=kauppahalli24.fi
 @@||leiki.com/focus/$script,domain=anna.fi|como.fi|episodi.fi|fum.fi|inferno.fi|kaksplus.fi|rumba.fi|soundi.fi|tilt.fi
 @@||lekane.net/lekane/dialogue-tracking.js?$script
+@@||nettix.fi^*_analytics.js$domain=nettiauto.com|nettikaravaani.com|nettikone.com|nettimokki.com|nettimoto.com|nettivaraosa.com
 @@||scdn.cxense.com/cx.js$script,domain=ksml.fi|savonsanomat.fi
 ! Hebrew
 @@||amazonaws.com/static.madlan.co.il/*/heatmap.json?$xmlhttprequest
@@ -17424,6 +17444,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||pladform.ru/player$subdocument
 @@||player.fc-zenit.ru/msi/geoip?$xmlhttprequest
 @@||player.vgtrk.com/js/stat.js?
+@@||relap.io^*/similar_pages_jsonp.js$script,domain=adme.ru
 @@||rtr-vesti.ru/pvc_cdn/js/stat.js$domain=player.vgtrk.com
 @@||sptmr.ru/sportmaster.ru/js/modules/gtm.js$script,domain=sportmaster.ru
 @@||ssp.rambler.ru/acp/capirs_main.$script,domain=afisha.ru
