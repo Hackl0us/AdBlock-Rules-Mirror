@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-06-30T14:44:01.592Z
+! Last modified: 2020-07-01T17:23:18.040Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -148,6 +148,15 @@
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+! rbConfig={start:performance.now(),rbDomain:"www.takidd.site",rotator:'1tisz'};
+! например, vph-holod.ru
+||takidd.site^
+!
+||daklatasvir.su^
+||thevtk.com^
+||mp3vizor.com^
+||mp3bars.com^
+||annrdf.com^
 ||yycjho.com^
 ||ivnakaa.pro^
 ||traficon.pro^
@@ -309,7 +318,6 @@
 ||yanabmw.ru^
 ||welldanius.com^
 ||nzhfk.com^
-||thevtk.com^
 ||susfvjh.pro^
 ||ngjzmt.com^
 ||adversting.riamedia.com.ua^
@@ -4228,8 +4236,10 @@ adbetnet.com
 !END: Chinese ad servers
 !
 !
+||xm0siulufost.com^
 ||toeapesob.com^
 ||sparagken.com^
+||lopzitpup.com^
 ||ppcnt.us^
 ||ppcnt.eu^
 ||ppcnt.co^
@@ -6260,6 +6270,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||adn.bursadabugun.com^
 ||ads-wordego.azureedge.net^
 ||adserver.a24.com.tr^
 ||sam.setimedia.com^
@@ -6455,7 +6466,7 @@ www.llllllllllll.net^
 ||monetengine-d.openx.net^
 ||cdn.88-f.net^
 ||ms.applvn.com^
-||api.tapsell.ir^
+||tapsell.ir^
 ||jioads.akamaized.net^
 ||ajdivotdelbloab24.jio.com^
 ||adxcorp.kr^
@@ -7550,6 +7561,7 @@ www.llllllllllll.net^
 ||besiasmere.site^
 ||bestdisplayformats.com^
 ||bestvideo2019.xyz^
+||betternoon.club^
 ||bhcf764sf8pg.com^
 ||bidiology.com^
 ||billionpops.com^
@@ -8071,6 +8083,7 @@ www.llllllllllll.net^
 ||hayfatduh.com^
 ||haypaydig.club^
 ||healthoutabol.site^
+||hearthurstxz.club^
 ||heckagny.com^
 ||hedressive.info^
 ||herbaijansob.club^
@@ -8214,6 +8227,7 @@ www.llllllllllll.net^
 ||lassistslegisten.info^
 ||lationwordsi.club^
 ||lattemptweh.club^
+||lattitudecv.club^
 ||latviancedef.site^
 ||laygunwow.com^
 ||layshyjar.com^
@@ -8234,6 +8248,7 @@ www.llllllllllll.net^
 ||lessite.pro^
 ||letheyemo.site^
 ||levenileheshe.site^
+||leveryone.club^
 ||libanyelm.com^
 ||librarierserty.site^
 ||lichtpass.com^
@@ -8277,6 +8292,7 @@ www.llllllllllll.net^
 ||maipoted.com^
 ||malharpossible.pro^
 ||malharvoice.pro^
+||managining.club^
 ||manatomicbru.site^
 ||mancehostic.site^
 ||mandearersi.club^
@@ -8286,6 +8302,7 @@ www.llllllllllll.net^
 ||marwinhitted.site^
 ||matekernes.fun^
 ||matricavfr.club^
+||mattemptad.club^
 ||mattempts.info^
 ||mauzobou.net^
 ||mbethnarrowe.info^
@@ -8382,6 +8399,7 @@ www.llllllllllll.net^
 ||nbf9b5aurl.com^
 ||ncefoundanges.info^
 ||ncialappropo.site^
+||ncountsnash.info^
 ||nctionclarkingcu.fun^
 ||ncylegiatede.info^
 ||ndardsgreatm.fun^
@@ -8748,6 +8766,7 @@ www.llllllllllll.net^
 ||ryhastille.info^
 ||rywoments.info^
 ||ryynoljdarrw.com^
+||s1.lcnf.pro^
 ||s4d.xyz^
 ||sacaharag.club^
 ||sadorsagreeng.info^
@@ -8766,6 +8785,7 @@ www.llllllllllll.net^
 ||sbc7wfnaakau.com^
 ||sbroughhig.info^
 ||scientialy.club^
+||scottagesyu.club^
 ||sculifinanthools.site^
 ||sdhfbvd.com^
 ||sdkfjxjertertry.com^
@@ -8852,6 +8872,7 @@ www.llllllllllll.net^
 ||stoassod.com^
 ||stoffickiesolding.site^
 ||stonseeb.net^
+||stopheritp.club^
 ||stoppery.club^
 ||streamclub.best^
 ||streamclub.fun^
@@ -8938,6 +8959,7 @@ www.llllllllllll.net^
 ||topblockchainsolutions.nl^
 ||topperyregard.fun^
 ||torbudyum.com^
+||tortdiscreets.club^
 ||torytalenty.site^
 ||totogetica.com^
 ||tpresearchcre.fun^
@@ -23554,6 +23576,10 @@ www.llllllllllll.net^
 !
 ! ||ensighten.com^$third-party - not a tracker
 !
+||eue.d-teknoloji.com.tr^
+||track.thevtk.com^
+||track.mp3vizor.com^
+||track.mp3bars.com^
 ||hs-scripts.com^
 ||parkdomainreal*.site^
 ||sjsmartcontent.org^
@@ -23894,6 +23920,7 @@ www.llllllllllll.net^
 ||evisitcs2.com^
 ||extremetracking.com^
 ||extstat.info^
+||metrics*.fitanalytics.com^
 ||fixwap.net^
 ||flash-stat.com^
 ||t.flix360.com^
@@ -24632,7 +24659,6 @@ t.yesware.com
 ||codes.royalad.pl^
 ||az416426.vo.msecnd.net^
 ||a.klaviyo.com^
-||t.kctag.net^
 ||mpc.nicequest.com^
 ||collector-analytics.efigence.com^
 ||stat.kununu.cz^
@@ -26237,7 +26263,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||find-ip-address.org^
 ||finderlocator.com^
 ||fishhoo.com^
-||fitanalytics.com^
 ||flagcounter.com^
 ||flaghit.com^
 ||flash-counter.com^
@@ -31169,9 +31194,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 27 Jun 2020 21:10 UTC+7
-! Version: 2006272110
-! Blocked: 455 rules
+! Last modified: 01 Jul 2020 15:24 UTC+7
+! Version: 2007011524
+! Blocked: 471 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -31348,6 +31373,7 @@ vkcdnservice.appspot.com^
 ||ads.xemphimso.com^
 ||ads1.careerbuilder.vn^
 ||adserver.lag.vn^
+||adserver.luzu.vn^
 ||adsplus.vn^
 ||adsv2.autodaily.vn^
 ||adsweb.vn^
@@ -31526,6 +31552,7 @@ vkcdnservice.appspot.com^
 ||388bet.vip^
 ||520xiaojin.com^
 ||789.club^
+||789.fun^
 ||888b.com^
 ||888b.in^
 ||88viet.com^
@@ -31541,6 +31568,7 @@ vkcdnservice.appspot.com^
 ||bong88net.com^
 ||bong99.com^
 ||bong99.fun^
+||cacuoc247.com^
 ||casino888vn.com^
 ||datcuoc247.com^
 ||debet.com^
@@ -31554,20 +31582,26 @@ vkcdnservice.appspot.com^
 ||fb88go.com^
 ||fb88live.com^
 ||fb88sports.com^
+||five88.biz^
 ||five88.com^
 ||five88.net^
 ||gdwbetvn888.com^
 ||gdwviet.com^
+||go88.club^
 ||go88.com^
 ||ibet889.com^
 ||income88.com^
 ||jbovn.com^
 ||k8vn03.com^
+||keotot.net^
 ||letou8868.com^
+||lixi88.info^
 ||lode88.vip^
 ||lucky88.com^
+||lucky88.live^
 ||lucky88.net^
 ||lucky88.win^
+||lux39.club^
 ||m883d.com^
 ||m88cvf.com^
 ||m88my.com^
@@ -31591,6 +31625,7 @@ vkcdnservice.appspot.com^
 ||one88.vn^
 ||oneday88.com^
 ||r88.vn^
+||red88.com^
 ||ric.win^
 ||sbc31.com^
 ||sun.win^
@@ -31601,6 +31636,7 @@ vkcdnservice.appspot.com^
 ||top88.fun^
 ||v8.club^
 ||v9bet.com^
+||vic.fun^
 ||vic.win^
 ||vietbet.eu^
 ||viva88.com^
@@ -31610,19 +31646,24 @@ vkcdnservice.appspot.com^
 ||vn88.casino^
 ||vn88.club^
 ||vn88.com^
+||vwinnow.com^
 ||w88.vin^
 ||w88bro.com^
 ||w88city.com^
 ||w88club.com^
 ||w88hn.com^
 ||w88yes.com^
+||wbet99.net^
 ||websvn.info^
 ||ww88club.com^
 ||x8.club^
+||x8.vin^
 ||yo88.win^
 ||yule12888.com^
 ||zbet.com^
 ||zbet.vn^
+||zbet.win^
+||zo.club^
 ||zo.game^
 ||celerantatters.com^
 ||fuckbookvietnam.com^
@@ -31635,6 +31676,8 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||coolfenxi.com^
+||xmrzw.cn^
 ||0024aaaa.com^
 ||00880808.com^
 ||008844.cc^
@@ -33700,6 +33743,7 @@ vkcdnservice.appspot.com^
 ||ssnn.net^*-200-250.jpg
 ||ssp.hinet.net^
 ||ssp.kdnet.net^
+||ssp.njxzwh.com^
 ||ssp.zf313.com^
 ||sssvd.china.com^
 ||static-ssp.yidianzixun.com^
@@ -33752,7 +33796,6 @@ vkcdnservice.appspot.com^
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||ssp.njxzwh.com^
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
@@ -34482,9 +34525,10 @@ vkcdnservice.appspot.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||welted.cn^
-||0629ohfsx.xyz^
-||cssjs.info^
+||grjs08.com^
+||sysycloud.com^
+||wangkeduo.cn^
+||333bj.cloud^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -34506,6 +34550,7 @@ vkcdnservice.appspot.com^
 ||0577renliu.
 ||0601chruopjsm.xyz^
 ||0615nxbsho.xyz^
+||0629ohfsx.xyz^
 ||0755man.cn^
 ||0851ok.com^
 ||0923csfsteibv12.xyz^
@@ -34866,6 +34911,7 @@ vkcdnservice.appspot.com^
 ||cs12d.com^
 ||csalsylqx.com^
 ||cshwhy.cn^
+||cssjs.info^
 ||cuoas.com^
 ||cuoss.com^
 ||cwj2h.cn^
@@ -35896,6 +35942,7 @@ vkcdnservice.appspot.com^
 ||weikefanli.com^
 ||weimeicar.cn^
 ||weiziqiang.top^
+||welted.cn^
 ||wenbangsh.com.cn^
 ||wenzhougy.cn^
 ||wervp.com^
@@ -36806,6 +36853,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/333
 @@||click.virt.s*.exacttarget.com^|
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/378
+@@||admin.dable.io^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/358
 @@||log.mmstat.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/345
