@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202007062358
+! Version: 202007080004
 ! Title: EasyPrivacy
-! Last modified: 06 Jul 2020 23:58 UTC
+! Last modified: 08 Jul 2020 00:04 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5261,6 +5261,8 @@ _xiti_js-
 _zag_cookie.
 cgi-bin/counter
 ||meetrics.netbb-
+! Akamai fingerprinting
+/^https?:\/\/.*\/(public|resources|static|assets)\/([a-f0-9]){28,32}$/$script,~third-party,xmlhttprequest
 ! Cloudflare fingerprinting
 /cgi-bin/bm/cv/*$script
 ! Admiral
@@ -7220,6 +7222,7 @@ _mongo_stats/
 ||proofpositivemedia.com^$third-party
 ||propeller-tracking.com^$third-party
 ||provenpixel.com^$third-party
+||prprocess.com^$third-party
 ||prtracker.com^$third-party
 ||pstats.com^$third-party
 ||pt-trx.com^$third-party
@@ -13724,7 +13727,9 @@ _mongo_stats/
 ||jakpost.net/jptracker/
 ||jal.co.jp/common_rn/js/rtam.js
 ||jaludo.com/pm.php?
+||javhd.com/ascripts/gcu.js
 ||javhd.com/click/
+||javhd.com/t/
 ||javher.com/analytics.js
 ||jessops.com/js/JessopsTracking.
 ||jetsetter.com/tracker.php
@@ -15090,6 +15095,8 @@ _mongo_stats/
 ||weeklyblitz.net/tracker.js
 ||wego.com/farmer/
 ||wellness.com/proxy.asp
+||wellsfargo.com/AIDO/trx.js
+||wellsfargo.com/tracking/
 ||wellsphere.com/?hit=
 ||whatcar.com/Client/Stats/
 ||whistleout.com.au/track
@@ -17031,6 +17038,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||pixel.quantserve.com/api/segments.xml?a=$domain=associatedcontent.com|cbs.com|cbsatlanta.com|centurylink.net|comedy.com|eurweb.com|fox5vegas.com|foxcarolina.com|grabnetworks.com|kctv5.com|kpho.com|kptv.com|theimproper.com|thenewsroom.com|tv.com|tvguide.com|wfsb.com|wnem.com|wsmv.com
 @@||pixel.quantserve.com/seg/$script,domain=photos.essence.com
 @@||pixelpressmedia.com/wp-content/plugins/duracelltomi-google-tag-manager/$script,domain=pixelpressmedia.com
+@@||plantyn.com/optiext/optiextension.dll$~third-party
 @@||play.aetv.com/vendor/AppMeasurement.js$script,~third-party
 @@||play.aetv.com/vendor/FacebookPixel.min.js$script,~third-party
 @@||play.google.com/log?$xmlhttprequest,domain=google.com
