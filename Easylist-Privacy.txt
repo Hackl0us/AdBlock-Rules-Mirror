@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202007152237
+! Version: 202007162330
 ! Title: EasyPrivacy
-! Last modified: 15 Jul 2020 22:37 UTC
+! Last modified: 16 Jul 2020 23:30 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -643,6 +643,7 @@
 /analytics-pusher/*
 /analytics-savebt?
 /analytics-scripts.
+/analytics-secure.
 /analytics-sendEvent
 /analytics-social.
 /analytics-tag.
@@ -5275,8 +5276,11 @@ _xiti_js-
 _zag_cookie.
 cgi-bin/counter
 ||meetrics.netbb-
+! propertyguru fingerprinting
+/pg*.js?PID=$xmlhttprequest
 ! Akamai fingerprinting
-/^https?:\/\/.*\/(public|resources|static|assets)\/([a-f0-9]){28,32}$/$script,~third-party,xmlhttprequest
+! https://publicwww.com/websites/%22_cf.push%22/
+/^https?:\/\/.*\/(public|resources|static|assets)\/([a-f0-9]){28,30}$/$script,~third-party,xmlhttprequest
 ! Cloudflare fingerprinting
 /cgi-bin/bm/cv/*$script
 ! Admiral
@@ -8141,11 +8145,14 @@ _mongo_stats/
 ||cleverpush.com^$third-party
 ||copush.com^$third-party
 ||cracataum.com^$third-party
+||danorenius.com^$third-party
 ||digitalpush.org^$third-party
+||edrone.me^$third-party
 ||feraciumus.com^$third-party
 ||fkondate.com^$third-party
 ||foxpush.com^$third-party
 ||foxpush.net^$third-party
+||getback.ch^$third-party
 ||getpushmonkey.com^$third-party
 ||getsupernova.com^$third-party
 ||gravitec.net^$third-party
@@ -8156,6 +8163,7 @@ _mongo_stats/
 ||master-push.net^$third-party
 ||misrepush.com^$third-party
 ||moengage.com^$third-party
+||najva.com^$third-party
 ||nativesubscribe.pro^$third-party
 ||notifadz.com^$third-party
 ||notifpush.com^$third-party
@@ -8633,6 +8641,7 @@ _mongo_stats/
 ||fatcoil.com^$third-party
 ||faultycanvas.com^$third-party
 ||fearfulflag.com^$third-party
+||firstfrogs.com^$third-party
 ||flakyfeast.com^$third-party
 ||flockflame.com^$third-party
 ||forecasttiger.com^$third-party
@@ -10316,6 +10325,8 @@ _mongo_stats/
 ||contentpass.net/stats?$third-party
 ||control.cityofcairns.com^$third-party
 ||conversions.genieventures.co.uk^
+||convertflow.co^*/events/
+||convertflow.co^*/visitors/
 ||convsgmp.taboola.com^
 ||cookies.livepartners.com^
 ||cookietracker.cloudapp.net^
@@ -11915,7 +11926,6 @@ _mongo_stats/
 ||mhxk.com^*/main/entry.common.$script
 ||nofraud.com/js/device.js
 ||nofraud.com^*/customer_code.js
-||pgimgs.com^*/desktop_js_header.js
 ||poll-maker.com^*/scpolls.js
 ||promo.ge/res/delivery/delivery.js
 ||rc.vtex.com.br^
@@ -14862,7 +14872,6 @@ _mongo_stats/
 ||theweek.com/decor/track/
 ||thinkgeek.com/js/rts.js
 ||thrillist.com/track
-||ti.com/assets/js/headerfooter/$script
 ||tiaa-cref.org^*/js_tiaacref_analytics.
 ||tickco.com/track.js
 ||tidaltv.com/Ping.aspx
@@ -15289,6 +15298,7 @@ _mongo_stats/
 ||youtube-nocookie.com/ptracking?
 ||youtube-nocookie.com/robots.txt?
 ||youtube.com/api/stats/ads?
+||youtube.com/api/stats/atr
 ||youtube.com/api/stats/delayplay?
 ||youtube.com/api/stats/qoe?
 ||youtube.com/api/stats/watchtime
@@ -17022,6 +17032,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||geo-targetly.com/geolocation?id$script,third-party
 @@||geo.kaloo.ga/json/?$script,domain=telesurtv.net
 @@||geo.ngtv.io/locate/$domain=hbo.com
+@@||geoip-db.com/jsonp/$script,domain=justchill.site
 @@||geoip-js.com^*/me?referrer=$xmlhttprequest,domain=ibanez.com
 @@||geoplugin.net/json.gp?jsoncallback=$script,domain=worldc.am
 @@||geostag.cardinalcommerce.com/DeviceFingerprintWeb/includes/js/fingerprint2.min.js$script
