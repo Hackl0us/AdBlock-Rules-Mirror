@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202007250011
+! Version: 202007252122
 ! Title: EasyPrivacy
-! Last modified: 25 Jul 2020 00:11 UTC
+! Last modified: 25 Jul 2020 21:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7233,6 +7233,7 @@ _mongo_stats/
 ||pjtra.com^$third-party
 ||placemypixel.com^$third-party
 ||platformpanda.com^$third-party
+||plausible.io^$third-party
 ||plecki.com^$third-party
 ||pleisty.com^$third-party
 ||plexop.com^$third-party
@@ -7983,6 +7984,7 @@ _mongo_stats/
 ||visibility-stats.com^$third-party
 ||visibli.com^$third-party
 ||visioncriticalpanels.com^$third-party
+||visionsage.com^$third-party
 ||visistat.com^$third-party
 ||visitor-analytics.io^$third-party
 ||visitor-analytics.net^$third-party
@@ -8142,7 +8144,6 @@ _mongo_stats/
 ||zdtag.com^$third-party
 ||zedwhyex.com^$third-party
 ||zeerat.com^$third-party
-||zengenti.com^$third-party
 ||zeotap.com^$third-party
 ||zesep.com^$third-party
 ||zeustechnology.com^$third-party
@@ -8173,6 +8174,7 @@ _mongo_stats/
 ||danorenius.com^$third-party
 ||digitalpush.org^$third-party
 ||edrone.me^$third-party
+||feedify.net^$third-party
 ||feraciumus.com^$third-party
 ||fernomius.com^$third-party
 ||fkondate.com^$third-party
@@ -8204,6 +8206,7 @@ _mongo_stats/
 ||push-house.net^$third-party
 ||pushalert.co^$third-party
 ||pushbird.com^$third-party
+||pushbullet.com^$third-party
 ||pushengage.com^$third-party
 ||pushex.io^$third-party
 ||pushify.com^$third-party
@@ -11956,6 +11959,7 @@ _mongo_stats/
 ||zdlogs.sphereup.com^
 ||zemanta.com/reblog_*.png$image,third-party
 ||zemanta.com/usersync/outbrain/?
+||zengenti.com/tags/
 ||ziffdavisb2b.com^*/tracker.js
 ||ziffprod.com^*/zdcse.min.js?referrer=
 ||zmags.com/a/p/p.js
@@ -14982,7 +14986,6 @@ _mongo_stats/
 ||track.hubspot.com^
 ||track.netzero.net^
 ||track.ning.com^
-||track.pushbullet.com^
 ||track.rediff.com^$script
 ||track.searchiq.co^
 ||track.slideshare.net^
