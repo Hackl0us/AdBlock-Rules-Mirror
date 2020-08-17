@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202008152349
+! Version: 202008162301
 ! Title: EasyPrivacy
-! Last modified: 15 Aug 2020 23:49 UTC
+! Last modified: 16 Aug 2020 23:01 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -65,6 +65,7 @@
 -fb-pixel-
 -ga-track.
 -ga-tracker.
+-ga-tracking/
 -gatracker.
 -geoIP.js
 -google-analytics-
@@ -683,6 +684,7 @@
 /analytics/call-
 /analytics/capture/*
 /analytics/cms/*
+/analytics/cnnvan/*
 /analytics/collect?
 /analytics/collect_
 /analytics/collector.
@@ -4577,6 +4579,7 @@
 /traffictrade/*
 /traffix-track.
 /trafic.js
+/trail.gif?s=
 /trakksocial.js
 /trans/logger.js
 /trans_pixel.asp
@@ -7351,6 +7354,7 @@ _mongo_stats/
 ||rapidtrk.net^$third-party
 ||rating.in^$third-party
 ||reachforce.com^$third-party
+||reachlocalservices.com^$third-party
 ||reachsocket.com^$third-party
 ||reactful.com^$third-party
 ||reactrmod.com^$third-party
@@ -7427,6 +7431,7 @@ _mongo_stats/
 ||rktch.com^$third-party
 ||rktu.com^$third-party
 ||rlcdn.com^$third-party
+||rlets.com^$third-party
 ||rmtag.com^$third-party
 ||rnengage.com^$third-party
 ||rng-snp-003.com^$third-party
@@ -10677,6 +10682,7 @@ _mongo_stats/
 ||ga.kvideo.io^
 ||ga.webdigi.co.uk^
 ||gamegecko.com/gametrack?
+||gannettdigital.com/capture_logger/
 ||gatehousemedia.com/wickedlocal/ip.js
 ||gateway.foresee.com^
 ||gcion.com/gcion.ashx?
@@ -14898,6 +14904,7 @@ _mongo_stats/
 ||tiaa-cref.org^*/js_tiaacref_analytics.
 ||tickco.com/track.js
 ||tidaltv.com/Ping.aspx
+||tiktok.com/api/impression/
 ||tiktok.com/captcha/report
 ||timeslogtn.timesnow.tv^
 ||timesofisrael.com/js/rgb_app.js
@@ -15376,6 +15383,7 @@ _mongo_stats/
 ||aero.bankofamerica.com^$script,~third-party,xmlhttprequest
 ||bcicdn.com/js-min/*/chunks/8.*.js
 ||boss.bankofamerica.com^$script,~third-party,xmlhttprequest
+||chronicle.com/865d04b047df4fabeaf436609fc85eab
 ||dditscdn.com/arms-datacollectorjs/
 ||dull.bankofamerica.com^$script,~third-party,xmlhttprequest
 ||tipsport.org/scripts/closure.js
@@ -16239,6 +16247,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 /acceptable.$domain=750g.com|adorocinema.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 /autopromo.$domain=750g.com|adorocinema.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 /autopromotion.$domain=750g.com|adorocinema.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
+||2ememain.be/metrics/
 ||a.20minutes.fr^
 ||act.acotedemoi.com^
 ||aliasdmc.fr/js/general_sts.js
