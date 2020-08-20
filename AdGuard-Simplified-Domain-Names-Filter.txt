@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-08-18T15:10:17.445Z
+! Last modified: 2020-08-19T15:08:17.057Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -118,11 +118,14 @@
 !END: Chinese ad servers
 !
 !
+||ileokscsawzzrh.com^
+||a.bestcontentproject.top^
+||futilereposerefreshments.com^
+||offshoretolerantbenignity.com^
 ||mowyappedbibs.com^
-||vggxxhton.com^
+||doflygonan.com^
 ||sports-streams-online.com^
 ||track.wg-aff.com^
-||lmyiwaakn.com^
 ||analyticsq1.com^
 ||fogbigcourt.com^
 ||crentgate.com^
@@ -145,7 +148,6 @@
 ||goingsilltrusty.com^
 ||xuossk3tu6hb.com^
 ||albado-tech.xyz^
-||rapiddictionarytemporarily.com^
 ||weekhostedmoo.com^
 ||beta.tidint.pro^
 ||protawe.com^
@@ -386,6 +388,7 @@
 ||bigbangbon.online^
 ||phukienthoitranggiare.com^
 ||lessblog.pro^
+||aiservice.vn^
 ||targetpush.co.kr^
 ||native.wpu.sh^
 ||daunteegyptian.pro^
@@ -2379,6 +2382,7 @@ vkcdnservice.appspot.com^
 ||aimrawwas.site^
 ||aionfavoura.club^
 ||aiphotogram.club^
+||airporates.club^
 ||airportedede.club^
 ||airsanguages.info^
 ||airstossiplarge.info^
@@ -2748,6 +2752,7 @@ vkcdnservice.appspot.com^
 ||ciksolre.net^
 ||cinsurmours.club^
 ||circuitewate.space^
+||cityxman.com^
 ||cjf25jklrwqt.com^
 ||cjlqwfpkwi.com^
 ||ckardwithinktab.info^
@@ -2778,6 +2783,7 @@ vkcdnservice.appspot.com^
 ||codemylife.info^
 ||cogleapad.com^
 ||coinadster.com^
+||coinio.cc^
 ||coinverti.com^
 ||collectpush.com^
 ||collectrom.com^
@@ -2901,6 +2907,7 @@ vkcdnservice.appspot.com^
 ||deckthroughout.com^
 ||decordingaudied.site^
 ||ded733b374cc1c3f.com^
+||dedictimgd.club^
 ||defeatureother.site^
 ||defeaturesher.club^
 ||definitedikdra.site^
@@ -2965,6 +2972,7 @@ vkcdnservice.appspot.com^
 ||dmastescaugh.info^
 ||dmfadb.xyz^
 ||dmvbdfblevxvx.com^
+||dodgekeelpops.com^
 ||dolgotok.pro^
 ||dolphincdn.xyz^
 ||dolsoste.com^
@@ -3132,6 +3140,7 @@ vkcdnservice.appspot.com^
 ||etracking.pro^
 ||etsmercisely.site^
 ||ettyjokilint.club^
+||euncoordi.club^
 ||eunformeranothe.info^
 ||europertsticke.site^
 ||evalynbrought.pro^
@@ -3214,6 +3223,7 @@ vkcdnservice.appspot.com^
 ||ferritors.club^
 ||ferrpictak.com^
 ||fessmegilscha.info^
+||feverhappyjack.com^
 ||ffickiedisticre.site^
 ||ffortyimagist.info^
 ||fgddl9szdof7.com^
@@ -3468,6 +3478,7 @@ vkcdnservice.appspot.com^
 ||iglaique.net^
 ||ignitiontigercamera.com^
 ||iiprpq1bsedg.com^
+||ijpheyydhw1a.com^
 ||ikunselt.com^
 ||il05pzhujicf.com^
 ||illallwoe.com^
@@ -3889,6 +3900,7 @@ vkcdnservice.appspot.com^
 ||nglattemptenlan.fun^
 ||ngleaccinemad.site^
 ||nglingapparen.fun^
+||ngrichtelcr.club^
 ||ngtablishbol.top^
 ||ni6cdwf6w5xr.com^
 ||nibzitgas.com^
@@ -4109,6 +4121,7 @@ vkcdnservice.appspot.com^
 ||phauwooz.net^
 ||pheekrie.com^
 ||pheevoug.com^
+||phenomour.club^
 ||phenylketh.site^
 ||philation.club^
 ||phoobsoo.net^
@@ -4259,8 +4272,10 @@ vkcdnservice.appspot.com^
 ||rangsunbaa.com^
 ||rankeringcult.fun^
 ||ransparleddorob.info^
+||rapiddictionarytemporarily.com^
 ||ratlyepin.club^
 ||raupsica.net^
+||ravalads.com^
 ||razdvabm.com^
 ||rcentratiumd.space^
 ||rchitereach.info^
@@ -4295,6 +4310,8 @@ vkcdnservice.appspot.com^
 ||regarden.club^
 ||regardianpleast.site^
 ||regislandery.club^
+||registshhg.club^
+||regressure.club^
 ||reimpromot.fun^
 ||releasurezesa.site^
 ||remainttalenty.site^
@@ -4375,6 +4392,7 @@ vkcdnservice.appspot.com^
 ||routeserve.info^
 ||rovenancyde.top^
 ||rowoardog.com^
+||rpjzlykhkdc.com^
 ||rriedskillear.club^
 ||rsalcau.com^
 ||rsaltsjt.com^
@@ -4617,6 +4635,7 @@ vkcdnservice.appspot.com^
 ||sxmgd1aqrr.com^
 ||sympatientcu.club^
 ||symphoneupcom.site^
+||synthesissocietysplitting.com^
 ||syphilohmmaging.site^
 ||syxylyche.pro^
 ||szahidalkath.fun^
@@ -4726,6 +4745,7 @@ vkcdnservice.appspot.com^
 ||transardugde.club^
 ||trblocked.com^
 ||treammicr.club^
+||treaturesfg.club^
 ||tremembersy.site^
 ||trfsltions.info^
 ||trikersuccessar.site^
@@ -4847,6 +4867,7 @@ vkcdnservice.appspot.com^
 ||veremund-hon.com^
 ||vevatom.com^
 ||vfl81ea28aztw7y3.pro^
+||vggxxhton.com^
 ||vgw35hwr4w6x.com^
 ||viatepigan.com^
 ||vid4vip.com^
@@ -18820,6 +18841,9 @@ t.yesware.com
 ! This rule breaks Australian sites
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
+! Disabled in DNS filter
+!
 ||analytics.plex.tv^
 ||hit.duhnet.tv^
 ||hit.demirorenteknoloji.com^
@@ -21093,6 +21117,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||livestat.com^
 ||livetrafficfeed.com^
 ||lloogg.com^
+||lmyiwaakn.com^
 ||lngtd.com^
 ||localytics.com^
 ||lockview.cn^
@@ -21578,6 +21603,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||recoset.com^
 ||recruitics.com^
 ||redcounter.net^
+||redfastlabs.com^
 ||redistats.com^
 ||redstatcounter.com^
 ||reedbusiness.net^
@@ -25100,6 +25126,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bidder.mediams.mb.softbank.jp^
 ||imgstat.ameba.jp^
 ||ip2c.landscape.co.jp^
+||ipcheck.blogsys.jp^
 ||kitchen.juicer.cc^
 ||log.codemarketing.cloud^
 ||log.f-tra.com^
@@ -25203,6 +25230,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stat.rum.cdnvideo.ru^
 ||stat.sputnik.ru^
 ||stat.tvigle.ru^
+||statistics.fppressa.ru^
 ||stats-*.p2pnow.ru^
 ||stats.embedcdn.cc^
 ||stats.seedr.com^
@@ -25425,6 +25453,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||uruswan.com^
 ||mtvekq.com^
 ||qcroag.com^
 ||takidd.site^
@@ -30627,6 +30656,7 @@ adbetnet.com
 ||adbrawl.com^
 ||adbreak.ch^
 ||addyon.com^
+||adkaora.space^
 ||adnext.it^
 ||adpartner.it^
 ||adsolutions.nl^
@@ -30671,6 +30701,7 @@ adbetnet.com
 ||exmarketplace.com^
 ||firebanner.com^
 ||gbucket.ch^
+||hbagency.it^
 ||inaffiliago.it^
 ||ioladv.it^
 ||iperbanner.com^
@@ -30722,6 +30753,7 @@ adbetnet.com
 ||upstory.it^
 ||videomatictv.com^
 ||viralbeat.com^
+||wailay.com^
 ||wbusiness.fr^
 ||widebanner.com^
 ||worldfilia.net^
@@ -30737,6 +30769,7 @@ adbetnet.com
 ||188affiliates.com^
 ||2go7v1nes8.com^
 ||34667c8ece5.com^
+||3r1kwxcd.top^
 ||64p3am9x95ct.com^
 ||9eb10b7a3d04a.com^
 ||9icmzvn6.website^
@@ -30774,6 +30807,7 @@ adbetnet.com
 ||auredzeon.com^
 ||axzsd.pro^
 ||azxsd.pro^
+||backwardkneesencroach.com^
 ||baliadv.com^
 ||bcajjtbzmdrl.com^
 ||bellaads.com^
@@ -30811,6 +30845,7 @@ adbetnet.com
 ||flexterkita.com^
 ||fnkyyrgraizy.com^
 ||frpiksdeygy.com^
+||fryruejoust.cam^
 ||furocmay.com^
 ||groucign.com^
 ||groupiklan.com^
@@ -30886,6 +30921,7 @@ adbetnet.com
 ||pc3ads.com^
 ||peevopoy.com^
 ||phastoag.com^
+||phca85g3n400.com^
 ||pheersie.com^
 ||phudrour.net^
 ||pondokiklan.com^
@@ -30908,6 +30944,7 @@ adbetnet.com
 ||s2pops.club^
 ||sanglah.com^
 ||sarapbeh.com^
+||sawnowepage.com^
 ||scriptall.ml^
 ||sebar.idblognetwork.com^
 ||see-work.info^
@@ -30961,8 +30998,8 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 17 Aug 2020 15:09 UTC+7
-! Version: 2008171509
+! Last modified: 19 Aug 2020 16:32 UTC+7
+! Version: 2008191632
 ! Blocked: 494 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -30997,7 +31034,6 @@ adbetnet.com
 ||adtima*.zadn.vn^
 ||adtima.vn^
 ||adtimaserver.vn^
-||aiservice.vn^
 ||ambient-platform.com^
 ||ambientplatform.vn^
 ||amcdn.vn^
@@ -31175,6 +31211,7 @@ adbetnet.com
 ||banner.5giay.vn^
 ||banner.vietnamfinance.vn^
 ||bgadx.com^
+||boxpr.aiservice.vn^
 ||cdn-ads.thesaigontimes.vn^
 ||chiasephim.xyz^
 ||click-ads.saoteen.net^
@@ -31466,7 +31503,8 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||gouweida.cn^
+||haidaocn.com^
+||meihaoxiangwang.com^
 ||0024aaaa.com^
 ||00880808.com^
 ||008844.cc^
@@ -32106,6 +32144,7 @@ adbetnet.com
 ||googlealiyun.cn^
 ||gotoniubiurl.pw^
 ||gouhei.top^
+||gouweida.cn^
 ||gouzhibao.cn^
 ||govgift.com^
 ||gowin01.com^
@@ -33670,6 +33709,8 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
+||wenhua.jiaoshou.com^
+||images8.gaotie.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
@@ -34389,11 +34430,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||sdtocv.cn^
-||jdgcjx.cn^
-||xiandafood.cn^
-||0817zfbj.xyz^
-||opyyy.com^
+||oycslic.xyz^
+||renfas.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -34420,6 +34458,7 @@ adbetnet.com
 ||0713bzksl.xyz^
 ||0727vjdl.xyz^
 ||0755man.cn^
+||0817zfbj.xyz^
 ||0851ok.com^
 ||0923csfsteibv12.xyz^
 ||0fwg.cn^
@@ -35216,6 +35255,7 @@ adbetnet.com
 ||jcwwxn.com^
 ||jdf494.cn^
 ||jdflower.cn^
+||jdgcjx.cn^
 ||jdgsgl.com^
 ||jdzlxtc.com^
 ||jh76fy.xyz^
@@ -35523,6 +35563,7 @@ adbetnet.com
 ||onlyshow.top^
 ||onsiterope.com^
 ||opengam.com^
+||opyyy.com^
 ||orlandomp.com^
 ||osaws.com^
 ||osidf.xyz^
@@ -35690,6 +35731,7 @@ adbetnet.com
 ||sdgdtz.cn^
 ||sdkdm.com^
 ||sdsqyyc.com^
+||sdtocv.cn^
 ||sdytsh.com^
 ||seawayz.com.cn^
 ||sec-cloud.cn^
@@ -35995,6 +36037,7 @@ adbetnet.com
 ||xhct66.com^
 ||xhera.cn^
 ||xiakelea.com^
+||xiandafood.cn^
 ||xiangchim0.com^
 ||xiangwangdesh.com^
 ||xiansenmeng.cn^
@@ -36871,6 +36914,9 @@ adbetnet.com
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/428
+! CNAME: paymaya.customlinks.appsflyer.com
+@@||official.paymaya.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/381
 @@||gs.statcounter.com^|
 ! Fixing NordVPN mobile app launching
@@ -36879,7 +36925,6 @@ adbetnet.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/333
 @@||click.virt.s*.exacttarget.com^|
 @@||click.virt.exacttarget.com^|
-!
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61592
 @@||login.sendpulse.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59840
