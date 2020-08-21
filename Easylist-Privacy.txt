@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202008192012
+! Version: 202008210005
 ! Title: EasyPrivacy
-! Last modified: 19 Aug 2020 20:12 UTC
+! Last modified: 21 Aug 2020 00:05 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7660,6 +7660,7 @@ _mongo_stats/
 ||spywords.com^$third-party
 ||sqate.io^$third-party
 ||squidanalytics.com^$third-party
+||srmdata.com^$third-party
 ||srpx.net^$third-party
 ||srv1010elan.com^$third-party
 ||stack-sonar.com^$third-party
@@ -8600,6 +8601,7 @@ _mongo_stats/
 ||amazingairplane.com^$third-party
 ||anxiousapples.com^$third-party
 ||attractivecap.com^$third-party
+||audioarctic.com^$third-party
 ||automaticside.com^$third-party
 ||awzbijw.com^$third-party
 ||axiomaticalley.com^$third-party
@@ -8746,6 +8748,7 @@ _mongo_stats/
 ||readymoon.com^$third-party
 ||realizerecess.com^$third-party
 ||realizevacation.com^$third-party
+||receptivereaction.com^$third-party
 ||repeatsweater.com^$third-party
 ||resonantbrush.com^$third-party
 ||rhetoricalloss.com^$third-party
@@ -11955,7 +11958,6 @@ _mongo_stats/
 ||dingxiang-inc.com/ctu-group/constid-js/index.js
 ||fyrsbckgi-c.global.ssl.fastly.net^
 ||he7ll.com/api/js/ec-
-||ltwebstatic.com^*/assets/common.$script
 ||mhxk.com^*/main/entry.common.$script
 ||nofraud.com/js/device.js
 ||nofraud.com^*/customer_code.js
@@ -15611,6 +15613,7 @@ _mongo_stats/
 ||thisisthewestcountry-gb.thisisthewestcountry.co.uk^
 ||thurrockgazette-gb.thurrockgazette.co.uk^
 ||times-series-gb.times-series.co.uk^
+||trustarc.mgr.consensu.org/get?
 ||ttauri.creativebloq.com^
 ||ttauri.laptopmag.com^
 ||ttauri.livescience.com^
