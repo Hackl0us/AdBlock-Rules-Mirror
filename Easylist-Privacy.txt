@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202009030015
+! Version: 202009032358
 ! Title: EasyPrivacy
-! Last modified: 03 Sep 2020 00:15 UTC
+! Last modified: 03 Sep 2020 23:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4123,6 +4123,8 @@
 /td-pageviews.
 /tda.*/in.gif
 /teal-chartbeat-
+/teal-comscore-
+/teal-gcianalytics-
 /tealeaf.cgi
 /TeaLeaf.js
 /tealeaf.min.js
@@ -6153,6 +6155,7 @@ _mongo_stats/
 ||csdata1.com^$third-party
 ||ctnsnet.com^$third-party
 ||cttracking02.com^$third-party
+||cuberoot.co^$third-party
 ||curalate.com^$third-party
 ||customer.io^$third-party
 ||customerconversio.com^$third-party
@@ -13092,6 +13095,7 @@ _mongo_stats/
 ||avstop.com^*/poll.gif?
 ||azfamily.com/images/pixel.gif
 ||azureedge.net/prod/1.0/fp.min.js$domain=mercurynews.com
+||b.gemini.yahoo.com^
 ||b.imwx.com^
 ||b.myspace.com^
 ||baidu.com/ecom?
@@ -13370,6 +13374,7 @@ _mongo_stats/
 ||dailymotion.com^*/analytics.js
 ||dailymotion.com^*/tag.gif?
 ||dainikbhaskar.com/tracking/
+||data.mail.yahoo.com^
 ||data.mic.com^
 ||data.ninemsn.com.au/*GetAdCalls
 ||data.younow.com^
@@ -13395,6 +13400,7 @@ _mongo_stats/
 ||diagnostics.redditmedia.com^$xmlhttprequest,domain=reddit.com
 ||diamond.transfermarkt.de^
 ||dictionary.com/track/
+||digg.com/library/tracker.js
 ||digital.flytedesk.com/js/head.js
 ||digitalriver.com^*/globaltracking
 ||digitalspy.co.uk/gip1.php
@@ -13876,6 +13882,7 @@ _mongo_stats/
 ||insideline.com^*/dart1x1.gif
 ||insideline.com^*/edw1x1.gif
 ||insire.com/imp?
+||instagram.com/ajax/bz
 ||instructables.com/counter
 ||instyle.co.uk^*/tracking.js
 ||insynchq.com/wf/open?
@@ -15348,6 +15355,7 @@ _mongo_stats/
 ||yahoo.com/serv?s
 ||yahoo.com/sig=$image
 ||yahoo.com/track/
+||yahoo.com/vasterror/imp/
 ||yahoo.com/yhs/b?
 ||yahoo.com/yi?bv=
 ||yahoo.com^*/pageview/
@@ -17801,6 +17809,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||mediaweaver.jp^$image,domain=ismedia.jp
 @@||nihongo.alc.co.jp/theme/Japanese/img/home/nf/us.gif$image,~third-party
 @@||ovp.piksel.com/ipLookup.php$xmlhttprequest,domain=nhk.or.jp
+@@||r-ad.ne.jp/json?$xmlhttprequest,domain=recruit.co.jp
 @@||sankei.co.jp/js/analytics/skd.Analysis.js$script
 @@||sanspo.com/parts/chartbeat/$xmlhttprequest
 @@||suumo.jp/sp/js/beacon.js$script,~third-party
