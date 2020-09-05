@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202009032358
+! Version: 202009042337
 ! Title: EasyPrivacy
-! Last modified: 03 Sep 2020 23:58 UTC
+! Last modified: 04 Sep 2020 23:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3283,6 +3283,7 @@
 /pixel/img/*
 /pixel/impression/*
 /pixel/js/*$third-party
+/Pixel/Script/Behavior?
 /pixel/stream/*
 /pixel/visit?
 /pixel1/impression.
@@ -5717,6 +5718,7 @@ _mongo_stats/
 ||agilecrm.com^$third-party
 ||agilone.com^$third-party
 ||agkn.com^$third-party
+||agrvt.com^$third-party
 ||aidata.io^$third-party
 ||aimediagroup.com^$third-party
 ||air2s.com^$third-party
@@ -6631,6 +6633,7 @@ _mongo_stats/
 ||hitslog.com^$third-party
 ||hitsniffer.com^$third-party
 ||hitsprocessor.com^$third-party
+||hitsteps.com^$third-party
 ||hittail.com^$third-party
 ||hittracker.com^$third-party
 ||hitwake.com^$third-party
@@ -13374,7 +13377,6 @@ _mongo_stats/
 ||dailymotion.com^*/analytics.js
 ||dailymotion.com^*/tag.gif?
 ||dainikbhaskar.com/tracking/
-||data.mail.yahoo.com^
 ||data.mic.com^
 ||data.ninemsn.com.au/*GetAdCalls
 ||data.younow.com^
@@ -15409,6 +15411,7 @@ _mongo_stats/
 ||ypcdn.com/webyp/javascripts/client_side_analytics_
 ||yuku.com/stats?
 ||yupptv.com/yupptvreports/stats.php^
+||yusercontent.com/mail?url=$image,domain=mail.yahoo.com
 ||yyv.co/track/
 ||zap.dw-world.de^$image
 ||zap2it.com^*/editorial-partner/
