@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202009042337
+! Version: 202009060022
 ! Title: EasyPrivacy
-! Last modified: 04 Sep 2020 23:37 UTC
+! Last modified: 06 Sep 2020 00:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -916,6 +916,7 @@
 /autotag.
 /autotrack-with-autotrack-analytics.
 /autotrack.carbon.js
+/autotrack.custom.js
 /autotrack.custom.min.js
 /autotrack.js
 /autotrack.min.js
@@ -934,6 +935,7 @@
 /aws-analytics.js
 /awstats.js
 /awstats_misc_tracker
+/azion-pulse.js
 /aztrack.
 /aztracker.
 /b/s/beacon
@@ -3049,6 +3051,7 @@
 /omniture/sphere
 /omniture/tracking.
 /Omniture/Tracking/*
+/omniture/uuid.
 /omniture/visitorapi.
 /omniture?
 /omnitureAMP.
@@ -4315,6 +4318,7 @@
 /track_yt_vids.
 /trackad.
 /trackAdHit.
+/trackAirship.js
 /trackalyze/*$script
 /TrackClick.
 /trackClickAsync.
@@ -6075,6 +6079,7 @@ _mongo_stats/
 ||cnzz.com^$third-party
 ||cobaltgroup.com^$third-party
 ||codata.ru^$third-party
+||coefficy.com^$third-party
 ||cogmatch.net^$third-party
 ||cognativex.com^$third-party
 ||cognitivematch.com^$third-party
@@ -10262,6 +10267,7 @@ _mongo_stats/
 ||carambo.la/logging/
 ||carl.pubsvs.com^
 ||caspionlog.appspot.com^
+||cbsi.com/lib/api/client-info
 ||cbsistatic.com^*/siteTracking.js
 ||cc.swiftype.com^
 ||ccexperimentsstatic.oracleoutsourcing.com^
@@ -11395,6 +11401,8 @@ _mongo_stats/
 ||rt.flix360.com^
 ||rtt.campanja.com^
 ||ru4.com/click?
+||rum.azion.com^
+||rum.azioncdn.net^
 ||rum.conde.io^
 ||rum.minutemediaservices.com^
 ||rum.nccgroup-webperf.com^
@@ -13709,7 +13717,7 @@ _mongo_stats/
 ||glamourmagazine.co.uk^*/LogPageView
 ||glassmoni.researchgate.net^
 ||global.canon^*/analytics.js
-||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|courierpress.com|desertsun.com|eddiebauer.com|glassesusa.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|theadvertiser.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
+||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|courierpress.com|desertsun.com|eddiebauer.com|glassesusa.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|theadvertiser.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
 ||globes.co.il/ga.asp
 ||globes.co.il/shared/s.ashx?
 ||globester.com^*/track.js
@@ -14438,6 +14446,7 @@ _mongo_stats/
 ||pulsar.ebay.$ping,script
 ||purevpn.com/api/setCookies
 ||puritan.com/images/pixels/
+||pushsquare.com/blank.gif
 ||pvstat.china.cn^
 ||pw.org/sites/all/*/ga.js
 ||px.mvfglobal.com^
@@ -15173,6 +15182,7 @@ _mongo_stats/
 ||upsellit.com^*/visitor?
 ||uptpro.homestead.com^
 ||urbanlist.com/event/track-first-view/
+||urs.metacritic.com^
 ||usage.zattoo.com/?adblock=
 ||usell.com/bug.gif?
 ||user-metrics.onthemarket.com^
@@ -15656,6 +15666,7 @@ _mongo_stats/
 ||southwalesargus-gb.southwalesargus.co.uk^
 ||southwalesguardian-gb.southwalesguardian.co.uk^
 ||southwestfarmer-gb.southwestfarmer.co.uk^
+||sp.news-journalonline.com^
 ||stalbansreview-gb.stalbansreview.co.uk^
 ||sthelensstar-gb.sthelensstar.co.uk^
 ||stourbridgenews-gb.stourbridgenews.co.uk^
@@ -17368,6 +17379,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||mlb.com/scripts/stats/app/bam.stats.app.unified_file.js$script
 @@||mlb.com/scripts/stats/app/bbq_hashmgmt.js$script
 @@||mlbstatic.com/mlb.com/adobe-analytics/AppMeasurement-mlb.js$domain=mlb.com
+@@||mlbstatic.com/mlb.com/adobe-analytics/VisitorAPI.js$script,domain=mlb.com
 @@||monetate.net/img/$script,domain=newegg.com
 @@||monetate.net/js/$domain=newegg.com|nike.com
 @@||monetate.net/trk/$script,domain=newegg.com
