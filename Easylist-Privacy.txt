@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202009090015
+! Version: 202009092319
 ! Title: EasyPrivacy
-! Last modified: 09 Sep 2020 00:15 UTC
+! Last modified: 09 Sep 2020 23:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5653,7 +5653,6 @@ _mongo_stats/
 ||acxiomapac.com^$third-party
 ||ad-score.com^$third-party
 ||ad-srv-track.com^$third-party
-||ad.gt^$third-party
 ||adabra.com^$third-party
 ||adalyser.com^$third-party
 ||adblade.com^$third-party
@@ -6583,6 +6582,7 @@ _mongo_stats/
 ||googletagmanager.com/gtag/$third-party
 ||googletagmanager.com/gtm/$third-party
 ||googletagmanager.com^$image,third-party
+||googletagservices.com/tag/$third-party
 ||gooo.al^$third-party
 ||gopjn.com^$third-party
 ||gostats.com^$third-party
@@ -9973,7 +9973,6 @@ _mongo_stats/
 ||amazonaws.com/analytics.
 ||amazonaws.com/avsmetrics/
 ||amazonaws.com/cdn.barilliance.com/
-||amazonaws.com/ds-dd/data/data.gif?$domain=slickdeals.net
 ||amazonaws.com/fstrk.net/
 ||amazonaws.com/g.aspx$third-party
 ||amazonaws.com/gaL.js
@@ -9982,6 +9981,7 @@ _mongo_stats/
 ||amazonaws.com/ki.js/
 ||amazonaws.com/logs$xmlhttprequest,domain=wat.tv
 ||amazonaws.com/new.cetrk.com/
+||amazonaws.com/prod/entities
 ||amazonaws.com/prod/main?ref=$image,third-party
 ||amazonaws.com/searchdiscovery-satellite-production/
 ||amazonaws.com/statics.reedge.com/
@@ -10124,7 +10124,6 @@ _mongo_stats/
 ||appspot.com/api/track/
 ||appspot.com/collect
 ||appspot.com/stats?
-||apture.com/v3/?5=%7b%22stats%22$xmlhttprequest
 ||arclk.net/trax?
 ||areyouahuman.com/kitten?
 ||argos.citruserve.com^
@@ -10200,7 +10199,6 @@ _mongo_stats/
 ||beacon.tingyun.com^
 ||beacon.viewlift.com^
 ||beacon2.indieclick.com^
-||beacon2.indieclicktv.com^$third-party
 ||beacons.brandads.net^
 ||beacons.mediamelon.com^
 ||bento.agoda.com^
@@ -11024,14 +11022,14 @@ _mongo_stats/
 ||log.outbrainimg.com^
 ||log.pinterest.com^
 ||log.seekda.com^
-||log000.goo.ne.jp^$third-party
 ||logger.snackly.co^
 ||logging.carambo.la^
 ||logging.prefixbox.com^
 ||loggingapi.spingo.com^
 ||loglady.skypicker.com^
 ||logs-api.shoprunner.com^
-||logs.datadoghq.com^$third-party
+||logs.datadoghq.com^
+||logs.datadoghq.eu^
 ||logs.spilgames.com^
 ||logs.thebloggernetwork.com^
 ||logs.vmixcore.com^
@@ -11801,6 +11799,7 @@ _mongo_stats/
 ||trackjs.com/usage.gif?
 ||trackjs.com^*/tracker.js
 ||trackla.stackla.com^
+||tradablebits.com/pixels/
 ||traffic.acwebconnecting.com^
 ||traffic.prod.cobaltgroup.com^
 ||traffic.shareaholic.com^
@@ -12621,7 +12620,9 @@ _mongo_stats/
 ||line.me/tag.gif$image
 ||log.codemarketing.cloud^
 ||log.f-tra.com^
+||log.gs3.goo.ne.jp^
 ||log.nordot.jp^
+||log000.goo.ne.jp^
 ||macromill.com/imp/
 ||mofa.go.jp^*/count.cgi?
 ||moshimo.com^*/impression?
@@ -14673,7 +14674,7 @@ _mongo_stats/
 ||slashdot.org/images/js.gif?$image
 ||slashdot.org/purple.gif
 ||slashgear.com/stats/
-||slickdeals.net/lf?t=
+||slickdeals.net/ajax/stats/
 ||slide.com/tracker/
 ||slipstream.skyscanner.net^
 ||smallcapnetwork.com^*/viewtracker/
@@ -15480,7 +15481,7 @@ _mongo_stats/
 /^https?:\/\/nav\.sciencedirect\.com\/[a-zA-Z0-9]{14,}\.js/$script,domain=sciencedirect.com
 /^https?:\/\/pov\.spectrum\.net\/[a-zA-Z0-9]{14,}\.js/$script,domain=spectrum.net
 /^https?:\/\/tmx\.td\.com\/[a-z0-9]{14,18}\.js.*/$script,domain=mbna.ca|td.com
-||127.0.0.1^$third-party,domain=ameriprise.com|beachbody.com|chick-fil-a.com|citi.com|ebay.at|ebay.be|ebay.ca|ebay.ch|ebay.cn|ebay.co.uk|ebay.com|ebay.com.au|ebay.com.hk|ebay.com.my|ebay.com.sg|ebay.de|ebay.es|ebay.fr|ebay.ie|ebay.it|ebay.nl|ebay.ph|ebay.pl|equifax.com|gumtree.com|lendup.com|mbna.ca|sciencedirect.com|sky.com|spectrum.net|td.com|tiaa.org|vedacheck.com|wepay.com
+||127.0.0.1^$third-party,websocket,domain=~127.0.0.1|~localhost
 ||ebay.com/nkfytkqtoxtljvzb.js$script,domain=ebay.com
 ||ebay.com/nkfytkqtoxtljvzbxhr.js$script,domain=ebay.com
 ||ebaystatic.com^*/10341xh50yz21mhhydueu4m5wad.js$script,domain=ebay.com
