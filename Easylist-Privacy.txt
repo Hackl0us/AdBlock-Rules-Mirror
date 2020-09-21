@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202009200018
+! Version: 202009210017
 ! Title: EasyPrivacy
-! Last modified: 20 Sep 2020 00:18 UTC
+! Last modified: 21 Sep 2020 00:17 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6501,6 +6501,7 @@ _mongo_stats/
 ||g3367433695.co^$third-party
 ||g3565518030.co^$third-party
 ||g3763602365.co^$third-party
+||g3961686700.co^$third-party
 ||gaconnector.com^$third-party
 ||gameanalytics.com^$third-party
 ||gammachug.com^$third-party
@@ -7669,6 +7670,7 @@ _mongo_stats/
 ||smrk.io^$third-party
 ||snapdeal.biz^$third-party
 ||snapsmedia.io^$third-party
+||sni-dat.com^$third-party
 ||sniperlog.ru^$third-party
 ||sniphub.com^$third-party
 ||snoobi.com^$third-party
@@ -12527,7 +12529,6 @@ _mongo_stats/
 ||plug.it^*/tracking_
 ||quinet.it/counter/
 ||rcsmetrics.it^
-||rcsobjects.it/rcs_tracking-
 ||rd.alice.it^
 ||sem.triboomedia.it^
 ||sembox.it/js/sembox-tracking.js
@@ -13349,6 +13350,7 @@ _mongo_stats/
 ||db.com^*/stats.js?
 ||dc.banggood.com^
 ||dccss.banggood.com^
+||dd.nytimes.com^
 ||dealnews.com/lw/ul.php?
 ||debtconsolidationcare.com/affiliate/tracker/
 ||debug-vp.webmd.com^
@@ -14514,7 +14516,6 @@ _mongo_stats/
 ||s-msn.com/primedns.gif?$domain=msn.com
 ||s-msn.com/s/js/loader/activity/trackloader.min.js
 ||s.infogram.com^
-||s.youtube.com^
 ||s3.amazonaws.com^$script,domain=decider.com|nypost.com|pagesix.com
 ||sa.bbc.co.uk^
 ||sa.squareup.com^
@@ -15364,21 +15365,16 @@ _mongo_stats/
 ||youronlinechoices.com/activity/
 ||yourtv.com.au/share/com/js/fb_google_intercept.js
 ||youtube-nocookie.com/api/stats/atr
-||youtube-nocookie.com/api/stats/delayplay?
 ||youtube-nocookie.com/api/stats/playback?
 ||youtube-nocookie.com/api/stats/qoe?
 ||youtube-nocookie.com/ptracking?
 ||youtube-nocookie.com/robots.txt?
 ||youtube.com/api/stats/ads?
 ||youtube.com/api/stats/atr
-||youtube.com/api/stats/delayplay?
 ||youtube.com/api/stats/qoe?
 ||youtube.com/get_video?
-||youtube.com/mac_204?
 ||youtube.com/ptracking?
-||youtube.com/s?
 ||youtube.com/set_awesome?
-||youtube.com^*/heartbeat?
 ||ypcdn.com/webyp/javascripts/client_side_analytics_
 ||yuku.com/stats?
 ||yupptv.com/yupptvreports/stats.php^
