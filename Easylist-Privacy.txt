@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202009212306
+! Version: 202009230017
 ! Title: EasyPrivacy
-! Last modified: 21 Sep 2020 23:06 UTC
+! Last modified: 23 Sep 2020 00:17 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1582,6 +1582,7 @@
 /dcstorm/track.
 /dctk.js
 /DecideDNATrackingCode-
+/default/pAnalytics
 /delivery/lg.
 /delivery/pixel.php?
 /delstats/*
@@ -6181,7 +6182,6 @@ _mongo_stats/
 ||czx5eyk0exbhwp43ya.biz^$third-party
 ||d-1.co^$third-party
 ||d41.co^$third-party
-||dable.io^$third-party
 ||dacounter.com^$third-party
 ||dailycaller-alerts.com^$third-party
 ||dapxl.com^$third-party
@@ -6494,6 +6494,7 @@ _mongo_stats/
 ||fuse-data.com^$third-party
 ||fusestats.com^$third-party
 ||fuziontech.net^$third-party
+||fwpixel.com^$third-party
 ||fyreball.com^$third-party
 ||g2178927685.co^$third-party
 ||g2377012020.co^$third-party
@@ -8888,6 +8889,7 @@ _mongo_stats/
 ||unarmedindustry.com^$third-party
 ||unbecominghall.com^$third-party
 ||unequalbrake.com^$third-party
+||unknowncrate.com^$third-party
 ||untidyrice.com^$third-party
 ||verseballs.com^$third-party
 ||womanear.com^$third-party
@@ -10683,6 +10685,7 @@ _mongo_stats/
 ||filesonic.com/referral/$third-party
 ||firecrux.com/track/$xmlhttprequest
 ||fitanalytics.com/metrics/
+||fkrkkmxsqeb5bj9r.s3.amazonaws.com^
 ||fl.a.ki^$image
 ||flashstats.libsyn.com^
 ||flex.msn.com/mstag/
@@ -11648,6 +11651,7 @@ _mongo_stats/
 ||tm.tradetracker.net^
 ||tm.vendemore.com^
 ||toast.com/log
+||toast.com/sendid?
 ||top-fwz1.mail.ru^
 ||topix.net/t6track/
 ||torrentprotect.com/geoip
@@ -11918,6 +11922,7 @@ _mongo_stats/
 ||webworx24.co.uk/123trace.php
 ||webzel.com/counter/
 ||wetpaint.com^*/track?
+||whooshkaa.com/listen/track
 ||whosread.com/counter/
 ||widgeo.net/compteur.php?
 ||widgeo.net/geocompteur/
@@ -14524,7 +14529,7 @@ _mongo_stats/
 ||s-msn.com/primedns.gif?$domain=msn.com
 ||s-msn.com/s/js/loader/activity/trackloader.min.js
 ||s.infogram.com^
-||s3.amazonaws.com^$script,domain=decider.com|nypost.com|pagesix.com
+||s3.amazonaws.com^$script,domain=americanthinker.com|decider.com|nypost.com|pagesix.com
 ||sa.bbc.co.uk^
 ||sa.squareup.com^
 ||sa135.kiro7.com^
