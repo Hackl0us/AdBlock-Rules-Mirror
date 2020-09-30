@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202009282343
+! Version: 202009292353
 ! Title: EasyPrivacy
-! Last modified: 28 Sep 2020 23:43 UTC
+! Last modified: 29 Sep 2020 23:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -957,6 +957,7 @@
 /b/ss/*?pagename=
 /b/ss/ueglobaldev/*
 /b/ss/wdgdolad,
+/b/ss?AQB=
 /b/stats?
 /b2bsdc.js
 /b_track_2.
@@ -2362,6 +2363,7 @@
 /impression.php?
 /impression.pl?
 /impression.track?
+/impression/*&ClickID=
 /impression/stream/*
 /impression/widget?
 /impression?*.loadAds&
@@ -6203,6 +6205,7 @@ _mongo_stats/
 ||datacoral.io^$third-party
 ||datacygnal.io^$third-party
 ||datadoghq-browser-agent.com^$third-party
+||datadsk.com^$third-party
 ||datafeedfile.com^$third-party
 ||datafront.co^$third-party
 ||datam.com^$third-party
@@ -8194,6 +8197,7 @@ _mongo_stats/
 ||wzrk.co^$third-party
 ||wzrkt.com^$third-party
 ||x-stat.de^$third-party
+||xdisctracking.pw^$third-party
 ||xg4ken.com^$third-party
 ||xiti.com^$third-party
 ||xlisting.jp^$third-party
@@ -8222,7 +8226,6 @@ _mongo_stats/
 ||your-counter.be^$third-party
 ||youramigo.com^$third-party
 ||yu987.com^$third-party
-||yyjvimo.com^$third-party
 ||z444o.com^$third-party
 ||zanox-affiliate.de^$third-party
 ||zanox.com^$third-party

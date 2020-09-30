@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9UtUciMElIbaLfE0THs3Lg
-! Version: 202009290013
+! Checksum: GIAcaqfsHGrr5kMCmG/1Rw
+! Version: 202009300013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 29 Sep 2020 00:13 UTC
+! Last Modified: 30 Sep 2020 00:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1833,6 +1833,7 @@ ubmcmm.baidustatic.com
 ||bskeye.com^
 ||bsriedu.cn^
 ||btmp4.net^
+||bts05.site^
 ||btssy.net^
 ||bttyue.com^$subdocument
 ||btwan5.com^
@@ -3469,6 +3470,7 @@ ubmcmm.baidustatic.com
 ||xn--2quz8f01ak10c.shop^
 ||xn--2ssq0ktxigkq.com^
 ||xn--4gqqc629gbju.com^
+||xn--9kq745jwng.ink^
 ||xn--9kq745jwng.work^
 ||xn--czrshy5v7kb.cc^
 ||xn--fjqz50cv5q3so.ltd^
@@ -4826,6 +4828,7 @@ _yad_jsonp_
 ||alicdn.com/img/ibank/*_1623489831.
 ||alicdn.com/img/ibank/*_1746120392.$domain=~rmdown.com
 ||alicdn.com/img/ibank/*_1794478205.
+||alicdn.com/img/ibank/*_1932275220.
 ||alicdn.com/img/ibank/*_1995781528.
 ||alicdn.com/img/ibank/*_2021817714.
 ||alicdn.com/img/ibank/*_2114606112.
@@ -7258,6 +7261,7 @@ _yad_jsonp_
 ||php1.cn/uploads/huayun.jpg
 ||phpad.cqnews.net^
 ||phpernote.com/ali
+||phpstudyimg.com/all/hrl.gif
 ||phpstudyimg.com/all/renrenxiaxuan980.gif
 ||pianba.tv/api/*.js
 ||pianjicdn.com^*.php
@@ -7869,6 +7873,7 @@ _yad_jsonp_
 ||tengfangyun.com/attachment/*/w_1200
 ||tengfun.com/attachment/*/w_1200
 ||tengtv.com/skin/xin/Picture/img
+||teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||tetimes.com/inc
 ||texnet.com.cn/images/cnbanner/
 ||tf.360.cn^
@@ -10848,6 +10853,7 @@ kuaihou.com##.bz
 52pk.com,fixdown.com##.bzClick
 downyi.com##.bzYouDao
 mgtv.com##.c-95060-top
+sm.cn##.c-container > div[data-sc*="etao"]
 baidu.com##.c-container.ec-container
 3987.com##.c-gg
 baidu.com##.c-result[data-tpl="adv_wenku_fc"]
@@ -12135,7 +12141,7 @@ pcstore.com.tw##.priority_ad
 duba.com,newduba.cn##.pro_r_t
 meltoday.com,sydneytoday.com##.promo
 brtn.cn,btime.com##.promo-item > a[href^="http"]:not([href*=".b"])
-huaban.com##.promotion
+agmov.com,huaban.com##.promotion
 site.baidu.com##.pstr.mt10
 anquan.org##.pub_side_ad
 doudoudm.site,ezdmw.com##.public_ad
@@ -15930,7 +15936,6 @@ duanwenxue.com##.qgzdwx
 @@||31xiaoshuo.org/style/pxne5d.js
 @@||dzz8.com/public/ptcms/*.js?g=$domain=m.daizhuzai.com
 @@||meiwenfen.com^$xmlhttprequest,domain=520tingshu.com
-xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 jx.la##[onclick*="apk"]
 52biquge.com##[onclick*="app"]
 dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
@@ -15939,6 +15944,7 @@ dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
 ##a[href="/ad2.html"]
 52biquge.com##a[href^="http://html.350.com/"]
 bixia.org##dd[style*="bottom:"]
+xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 biqubao.com##div[style="width:976px;"]
 piaotian5.com##script + div[style="padding:15px;"]
 ||01w47q.cn^
@@ -15973,6 +15979,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||0851ok.com^
 ||0921vch.xyz^
 ||0923csfsteibv12.xyz^
+||0928vld.xyz^
 ||0fwg.cn^
 ||104610.com^
 ||1115potmgabfvixqwi.top^
@@ -16480,6 +16487,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||dn189.com^
 ||dodomo.info^
 ||doryhome.com^
+||downcdn.top^
 ||dqgpb.com^
 ||dreamrecord.cn^
 ||drevozone.com.cn^
@@ -17583,6 +17591,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||vcuor.com^
 ||vdcfes.cn^
 ||ve6j.cn^
+||vegoid.cn^
 ||vf5yb4.cn^
 ||vhhhkpf.cn^
 ||vichc.com^
@@ -18101,7 +18110,7 @@ baike567.com,wuhaozhan.net##[onclick*="open"]
 baike567.com,wuhaozhan.net##a[href*=".click"]
 baike567.com,wuhaozhan.net##a[href*="otb."]
 baike567.com,wuhaozhan.net##a[onclick*=".tmall.com"]
-baike567.com,wuhaozhan.net#?#.l-box:-abp-has(a:-abp-contains(/活动|京东|年货|红包|支付|天猫/))
+baike567.com,wuhaozhan.net#?#.l-box:-abp-has(a:-abp-contains(/美团|活动|京东|年货|红包|支付|天猫/))
 baike567.com,wuhaozhan.net#?#:-abp-has(> .ad_top_close)
 baike567.com,wuhaozhan.net##div[class*="main-righ"] iframe
 baike567.com,wuhaozhan.net##div[class^="hongbao"]
