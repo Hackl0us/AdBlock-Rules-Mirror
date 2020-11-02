@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oxMq1/mo4hY10kvUXKTojQ
-! Version: 202011010013
+! Checksum: 88mZ3DRroBsBknmEhxaPQw
+! Version: 202011020013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 01 Nov 2020 00:13 UTC
+! Last Modified: 02 Nov 2020 00:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -441,7 +441,6 @@
 /source/plugin/mama_tips/*
 /static/adsview/*
 /static/common/js/djlib_
-/Static/Home/GongGao/img/8.gif
 /static/js/aall.js
 /static/js/fuo_3.js
 /static/js/gold_daddy.js
@@ -1135,6 +1134,7 @@ _xiuno_com_ad/
 ##script[src="/js/sy2.js"] + div[align="center"]
 ##span[title="neteasefooter"]
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
+##.propa_bottom
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
 .cc/s.php?id=$script,third-party
@@ -2856,6 +2856,7 @@ ubmcmm.baidustatic.com
 ||nszmz.com^$third-party
 ||nterbx.com^
 ||ntxiangtai.com^
+||ntzfly.cn^
 ||nunc-china.com^
 ||nuonuo1.icu^
 ||nuxyz.cn^
@@ -3715,6 +3716,7 @@ ubmcmm.baidustatic.com
 ||yzyrsw.com^
 ||yzytb.com^
 ||z2blog.com^$third-party
+||zaitouwang.com^
 ||zampda.net^$third-party
 ||zampdsp.com^$third-party
 ||zantainet.com^
@@ -3951,7 +3953,6 @@ $websocket,domain=5nj.com|cechi8.com
 /images/sgcrwj*.$domain=imoutolove.me|level-plus.net|south-plus.org|white-plus.net
 /img/skin/*_bg.$domain=firefox.com.cn|firefoxchina.cn
 /img/skin/tao$domain=firefox.com.cn|firefoxchina.cn
-/merchant.php$domain=bjmama.com
 /modules/video/player/nuevo/midroll.php?
 /moneymaker/images/*.gif
 /moneymaker/js/fkpp.js
@@ -4727,6 +4728,7 @@ _yad_jsonp_
 ||9ihome.com/info/ADTopvnet/
 ||9ist.com/others/ad/
 ||9kjj.com/images/*.gif
+||9kp.cc/js/bbk/
 ||9ku.com/aaa/
 ||9tata.com/js/pbanner.js
 ||9tata.com/js/Rand.js
@@ -5492,8 +5494,8 @@ _yad_jsonp_
 ||cloudfront-666.kxcdn.com/v4.js
 ||cloudfront.net/?$domain=olevod.com
 ||cloudfront.net/images/K10/adv/
-||cmdy5.com/js/300.js
-||cmdy5.com/js/waptbplay
+||cmdy2020.com/js/300.js
+||cmdy2020.com/js/waptbplay
 ||cmm.xmfish.com^
 ||cms.fx678.com^
 ||cms.fx678img.com^
@@ -5573,7 +5575,7 @@ _yad_jsonp_
 ||content.xilu.com^$object
 ||coolaler.com/index_ads/
 ||coolpc.com.tw/img/topweb.html
-||cosxcos.cc/uploads/amybb/
+||cosxcos.cc/uploads/amy
 ||cp121.com/js2/
 ||cp2.eastmoney.com^
 ||cpbl-elta.cdn.hinet.net/web/images/ad_
@@ -7636,6 +7638,7 @@ _yad_jsonp_
 ||same*.stockstar.com^
 ||same.chinadaily.com.cn^
 ||same.eastmoney.com^
+||sangwu8.com/xin/
 ||sansrl.cn/mir300/attachment/portal/
 ||sasadown.cn/ad/
 ||sasadown.cn/source/plugin/drk_ledadv/
@@ -8021,7 +8024,7 @@ _yad_jsonp_
 ||tom.com/adsender/
 ||tonghuacun.com/js/uc.js
 ||tonnn.com/promotion2/*.js
-||toolfk.com/common/11/990-100.jpg
+||toolfk.com/common/11/
 ||toolfk.com/common/cp.js
 ||toolfk.com/common/other/11.png
 ||toolfk.com/tools/images/vps/
@@ -8801,8 +8804,11 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||ytse*.top/Static/Home/GongGao/img/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+5izyw.com##.activity-box
+55188.com##A[href*="/gg-link."]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -10142,7 +10148,6 @@ zqzq.com###wAdTop1
 zqzq.com###wAdTop2
 weishangshijie.com###wad_left
 weishangshijie.com###wad_right
-hboav.com###warming ~ .cc5278_banner_ad
 21ic.com###warp_con
 chineseinla.com###weixin_ads2
 fububu.com###wendibu
@@ -10811,6 +10816,7 @@ efu.com.cn##.banners-top-b
 efu.com.cn##.banners-top-x2
 fang.com##.bannger_inbox
 mscbsc.com##.bao1
+xhaiwai.com##.baoru
 hao123.com##.bar-text
 d1xz.net##.base_ad_300_250
 d1xz.net##.base_ad_640_90
@@ -13286,6 +13292,7 @@ huaren.tv##a[style*="height:"]
 36dm.club,36dm.com,acgsou.com##a[style="color:red;"][href^="show-"]
 wandhi.com##a[style="display: inline-block;position: relative"]
 hanjutv.com##a[style="width: 1120px;height: 70px;overflow: hidden;display: block;"]
+mydrivers.com##a[style][href*=".jd.com/"]
 zhangxinxu.com##a[style^="background-image"]
 houdao.com##a[style^="background:url"]
 html-js.com##a[style^="margin-top:20px;"]
