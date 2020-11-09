@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9HMIUm7e47F/HJY0lmL6EA
-! Version: 202011080013
+! Checksum: txbHj6jOqE1zdkJTvRdCXw
+! Version: 202011090013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 08 Nov 2020 00:13 UTC
+! Last Modified: 09 Nov 2020 00:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -945,6 +945,7 @@ _xiuno_com_ad/
 ##.overBanner.dowloadBtn
 ##.pagead_3
 ##.pagecon + .ad1
+##.pasuAD
 ##.pcd_ad
 ##.pcgg
 ##.photo-two > a[onclick^="_czc."]
@@ -3504,6 +3505,7 @@ ubmcmm.baidustatic.com
 ||xi0021.com^
 ||xiadaxiong.com^
 ||xiald.com^
+||xianguangergaozhi.com^
 ||xiaobiaoucai.cn^
 ||xiaoyida.com^$third-party
 ||xiarikui08.com^
@@ -7368,6 +7370,7 @@ _yad_jsonp_
 ||phpernote.com/ali
 ||phpstudyimg.com/all/hrl.gif
 ||phpstudyimg.com/all/renrenxiaxuan980.gif
+||phpstudyimg.com/all/xiaojieqiantie.gif
 ||pianba.tv/api/*.js
 ||pianjicdn.com^*.php
 ||piaodown.com/xtm/
@@ -10366,7 +10369,7 @@ lahoo.ca##.a_af
 hcbbs.com##.a_cn_pb
 baixing.com##.a_d_s_hidden_link
 wmzhe.com##.a_dwrap
-cnpingpang.com,jdbbs.com##.a_h
+0516city.com,cnpingpang.com,jdbbs.com##.a_h
 17tui.cc,tropica.cn##.a_mu1
 muchong.com##.a_subject[href^="creditshow."]
 163.com##.a_topad
@@ -12247,6 +12250,7 @@ chongbuluo.com##.postright
 zhujiboke.com##.posts-top-cjtz
 ifxtx.com##.ppsy_content758
 7hcn.com##.pr > a[href^="http"]:not([href^="http://www.7hcn."])
+sisixxb.com##.preflink
 javdove.com,javdove2.club##.preroll-adv-popup-overlay
 pcstore.com.tw##.priority
 pcstore.com.tw##.priority1
@@ -12730,6 +12734,7 @@ loldk.com##.tools-recommend
 meizhou.com##.top + .w1000
 toolfk.com##.top > .desc
 2345.com,hao774.com##.top > .fred
+toolfk.com##.top > div[style="font-size: 12px;text-align: center;margin-top:6px;"]
 midifan.com##.top-aaa
 10jqka.com.cn##.top-ad-box
 baidu.com##.top-ad-cont
@@ -16120,6 +16125,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||0234408.cn^
 ||024chaoren.cn^
+||027whht.com^
 ||0302woeuxcbrnxcvsdfghu.xyz^
 ||0309fuweopermncvbnazdf.xyz^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -17048,6 +17054,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||isgow.com^
 ||ishowms.com^
 ||itcoder.top^
+||ixshklh.cn^
 ||iyaos.com^
 ||iyouhu.cn^
 ||izuis.com^
@@ -17361,6 +17368,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||nanyangqiaoxiang.cn^
 ||naolifanghealth.com^
 ||nashlin.top^
+||nazhenkj.com^
 ||nbhotpo.com^
 ||ncoyqc.com^
 ||nd59w.cn^
@@ -17522,6 +17530,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||qhdop.com^
 ||qhxcdmfj.cn^
 ||qi-shi.top^
+||qianqianxsw.com^*xhtml
 ||qianrenge.cc/qian/
 ||qianyuntengyue.com^
 ||qiaopiguniang.com^
