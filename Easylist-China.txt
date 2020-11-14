@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XmQDb9DLS5pxs4JaU+qfYw
-! Version: 202011130003
+! Checksum: Z9e0yb9t249nnbB7+yZrYg
+! Version: 202011140013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 13 Nov 2020 00:03 UTC
+! Last Modified: 14 Nov 2020 00:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1144,8 +1144,6 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
-||chengzilte.top^
-||suning.design^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -1938,6 +1936,7 @@ ubmcmm.baidustatic.com
 ||chenghangtech.com^
 ||chengruide.com^$third-party
 ||chengzhao95511.com^
+||chengzilte.top^
 ||chenyanjiao.cn^
 ||china-pengdu.cn^
 ||china-star.cc^
@@ -3187,6 +3186,7 @@ ubmcmm.baidustatic.com
 ||sufficient.cn^
 ||sums.suning.com^$third-party
 ||suning.beer^
+||suning.design^
 ||superfish.com^$third-party
 ||superli666.top^
 ||suukcn.com^
@@ -4541,6 +4541,7 @@ _yad_jsonp_
 ||5nj.com/js/cnzz
 ||5qqn.com/js/js/
 ||5s98.com/img/
+||5tps.com/m_jss/bd_
 ||5vdd.com/360
 ||5vdd.com/ktt.png
 ||5vdd.com/mobile.jpg
@@ -5241,6 +5242,7 @@ _yad_jsonp_
 ||beephone.com.tw/ad-yahoo.php
 ||beijing-air.com/images/a/j
 ||beiwo888.com/Runtime/js/
+||bejson.com/static/ydxyt/
 ||bendibao.com*/tuangou.gif
 ||bendibao.com/mo/adm_iframe.htm?
 ||besc.baidustatic.com^
@@ -6919,7 +6921,7 @@ _yad_jsonp_
 ||liangmeiyuan.com/Yin.js
 ||lianmeng.la/abc/
 ||lianmeng.la/ad1/
-||liantu.cn/script/index.asp
+||liantu.cn/script/
 ||lianty.com/getImg?id=
 ||lianyexiuchang.cc/img/2f2372e9bf205df0.png
 ||lianyexiuchang.cc/img/97da89108eb659fc.gif
@@ -8851,7 +8853,6 @@ _yad_jsonp_
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-12580sky.com##.adn
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -10616,7 +10617,7 @@ fzdao.cn##.adlan
 cww.net.cn##.adlinkL
 cww.net.cn##.adlinkR
 mobile01.com##.admicrobtn
-ccoo.cn,hackhome.com,vipcn.com##.adn
+12580sky.com,ccoo.cn,hackhome.com,vipcn.com##.adn
 zj.com##.adnav
 zj.com##.adnav2
 gaokao.com##.adout116
@@ -15383,6 +15384,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||daima.ijq.tv^
 ||daima.ysdui.com^
 ||daima.yutou123.cn^
+||daima.yuzhulin.com^
 ||daiwofei2019.top^
 ||data.waptime.cn^
 ||datas.tianqistatic.com^
@@ -16585,6 +16587,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||chendjiangxing.cn^
 ||chengboke.cn^
 ||chengdahdf.cn^
+||chengzilte.top^
 ||chersc.com^
 ||chexiw.com^
 ||chgdf.cn^
@@ -17651,6 +17654,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||sbmode.cn^
 ||scnaes.cn^
 ||scqajt.cn^
+||scvxgm.cn^
 ||sdaaxz.xyz^
 ||sdabfw.cn^
 ||sdadxz.xyz^
@@ -17919,6 +17923,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||wangkeduo.cn^
 ||wangliqin.top^
 ||wangqing7.top^
+||wannuochongkong.com^
 ||wanrenshe.com^
 ||wao24.com^
 ||warron.cn^
@@ -18027,6 +18032,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||xingsky.cn^
 ||xingtai0.com^
 ||xinqiannv.com^
+||xintaizhaoming.com^
 ||xinuocp666.com^
 ||xionghaobm.cn^
 ||xixizaix.cn^
