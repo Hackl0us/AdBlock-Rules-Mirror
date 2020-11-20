@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GQBFmkOyCr07/IOYfBu92w
-! Version: 202011190013
+! Checksum: c0dSuft6ftORNyAfoV4ipg
+! Version: 202011200013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 19 Nov 2020 00:13 UTC
+! Last Modified: 20 Nov 2020 00:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -10739,7 +10739,6 @@ caibaojian.com##.aliyun-inner
 cnfol.com##.allAd
 bkill.com##.alliance-ad
 pilifx.com##.alltop
-tophub.today##.am
 gugeys.cc##.am-g
 gufengmh.com##.animated
 qzone.qq.com##.app-recommend
@@ -11189,6 +11188,7 @@ newxue.com##.dashuggtop1
 qinbing.cn##.day
 ggcj.com##.dbxf
 games.qq.com##.dc-kf_list
+tophub.today##.dddxxx
 33lc.com##.ddnew
 chineseinla.com##.deal_discount
 8ziyuan.com##.deanadsside
@@ -16636,6 +16636,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||clandia.cn^
 ||classicgir.cn^
 ||clmmw.com^
+||clxxkz.com.cn^
 ||cn-3drp.com^
 ||cniuv.com^
 ||cnlhg.cn^
@@ -16792,6 +16793,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||emshx.cn^
 ||enjuk.com^
 ||enjuw.com^
+||enq5ur.cn^
 ||epanr.com^
 ||epcqyac.cn^
 ||erocw.com^
@@ -16895,6 +16897,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||gdunt.com^
 ||gedus.cn^
 ||gerunsenbo.cn^
+||gflcsiot.com^
 ||gghh486.cn^
 ||gghh493.cn^
 ||ggsgww.cn^
@@ -17047,6 +17050,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||houanjijuxie.cn^
 ||how5.cn^
 ||hp-china.biz^
+||hp0hnj.cn^
 ||hpsszw.cn^
 ||hqsjc.com^
 ||hsbkr.com^
@@ -17164,6 +17168,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||jinrianshan.com^
 ||jinrichaoyang.com^
 ||jinrungroup.cn^
+||jinshzx.com^
 ||jinxinyuan.cn^
 ||jioder3e.cn^
 ||jioeg.com^
@@ -17353,6 +17358,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||mababa.info^
 ||mabioe.cn^
 ||maicaoren.cn^
+||maimaias.cn^
 ||maka.im^$third-party
 ||mamaailmjz.cn^
 ||mao1.jsnovel.com^
@@ -17856,6 +17862,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||tongjiwo.com^
 ||toujing4.top^
 ||toujing5.top^
+||toujing7.top^
 ||toujing8.top^
 ||tozvhcq.cn^
 ||travel-together.cn^
@@ -18044,6 +18051,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||xhaiu.com^
 ||xhct66.com^
 ||xhera.cn^
+||xiachouchou.com^
 ||xiakelea.com^
 ||xiandafood.cn^
 ||xiangchim0.com^
@@ -18276,6 +18284,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||zimingdh.com^
 ||zitaoh.cn^
 ||zixun8.com^
+||ziyeaiying.com^
 ||zizcy.com^
 ||zizidi.com^
 ||zjhrondo.cn^
