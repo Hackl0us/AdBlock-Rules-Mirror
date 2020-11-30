@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: e0VO/2dgA3AvJoZD26Fs9w
-! Version: 202011290012
+! Checksum: 2/DqWOIgVErID46iCkFDTA
+! Version: 202011300012
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 29 Nov 2020 00:12 UTC
+! Last Modified: 30 Nov 2020 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -638,6 +638,7 @@ _xiuno_com_ad/
 ###haoetv1
 ###haoxinqing_me_img
 ###header > a[target="_blank"] > img[style="width:100%;height:60px;margin-bottom:2px;"]
+###hellobox > .mylist
 ###js-ad-map
 ###js-ysjpp
 ###js_ads_banner_top
@@ -667,6 +668,7 @@ _xiuno_com_ad/
 ###lovexin2
 ###lt-ad-radio
 ###magneturlpost + .movie + .movie[style="padding:12px; margin-top:15px"]
+###mainbody:nth-child(5) > .mylist
 ###menu + #topBox
 ###menu + script + #topBox
 ###miaov_float_layer
@@ -939,9 +941,8 @@ _xiuno_com_ad/
 ##.mlad
 ##.mod + #bottomBox
 ##.my-cat.my-cat-header
+##.mylist + #topthree
 ##.mylist > a > img[width^="9"][height="80"]
-##.mylist > a[target="_bank"] > img[src*=".alicdn.com/"]
-##.mylist > a[target="_bank"] > img[src*="kanjiantu."]
 ##.newstyle > .container > a[target="_blank"]
 ##.overBanner.dowloadBtn
 ##.pagead_3
@@ -2082,6 +2083,7 @@ ubmcmm.baidustatic.com
 ||displink.com^$third-party
 ||diuling.com^
 ||dizhonghaihotel.com^
+||djpt33.com^
 ||djsn888.com^
 ||djy518.com^
 ||dlads.cn^$third-party
@@ -3028,6 +3030,7 @@ ubmcmm.baidustatic.com
 ||qubilou.com^$third-party
 ||qubo94.com^
 ||qucaigg.com^
+||qudaoweiwang.com^
 ||queene.cn^
 ||qunale888.com/maizhan/
 ||quw18.com^
@@ -4957,6 +4960,7 @@ _yad_jsonp_
 ||alicdn.com/img/ibank/*_1591187313.
 ||alicdn.com/img/ibank/*_1623489831.
 ||alicdn.com/img/ibank/*_1746120392.$domain=~rmdown.com
+||alicdn.com/img/ibank/*_1776866723.
 ||alicdn.com/img/ibank/*_1794478205.
 ||alicdn.com/img/ibank/*_1932275220.
 ||alicdn.com/img/ibank/*_1995781528.
@@ -7631,6 +7635,7 @@ _yad_jsonp_
 ||r3sub.com/images/ccc/
 ||r3sub.com/posters/0069810.jpg
 ||r3sub.com^*0.gif
+||radikal.ru^$domain=18board.com|18p2p.com
 ||rainpat.com/Content/1360x55/
 ||rainpat.com/Scripts/jquery.SuperSlide.
 ||rakuten-static.com^$domain=cwyuni.tw
@@ -10765,6 +10770,7 @@ caibaojian.com##.aliyun-inner
 cnfol.com##.allAd
 bkill.com##.alliance-ad
 pilifx.com##.alltop
+18board.com,18p2p.com##.altbg2 > td[width="33%"]
 gugeys.cc##.am-g
 gufengmh.com##.animated
 qzone.qq.com##.app-recommend
@@ -14165,7 +14171,7 @@ jd.com#@#.ads-item
 gsxt.gov.cn#@#.ads-right
 159i.com,techroomage.com,zhaopin.com#@#.adsBox
 4gtv.tv,80s.ai,ft.com,ftchinese.com,ftchinese.com.sz-dns.net,kartinfo.me,long7.qq.com,reh.tw,typecho.wiki#@#.adsbox
-1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
+alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
 qq.com#@#.adside
 gdmm.com,gkstk.com,youquba.net#@#.adtop
 bdp.cn#@#.adv-list
@@ -14315,6 +14321,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||192.168.*.1/$generichide
 @@||192.168.*/advertising_$stylesheet
 @@||199it.com^$generichide
+@@||1point3acres.com^$generichide
 @@||2018x.bid/adview.js
 @@||2345.com/images/activity/20171111/open/j/close.png
 @@||31vcd.com/player/kuyun.js
@@ -16064,6 +16071,7 @@ fuliba.net,uliba.net##.widget_custom_html:nth-child(2)
 !#hboav.com
 @@$image,xmlhttprequest,domain=hboav.com
 @@||hboav.com/guga/*.js$~third-party
+@@||hboav.com/guga/das$~third-party
 @@||hboav.com^$generichide
 @@||realsrv.com/iframe.php?idzone=3476965&size=300x250$subdocument,domain=hboav.com
 ||hboav.com/guga/$~subdocument
@@ -17112,6 +17120,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||huayi65.com^
 ||hudxqjg.cn^
 ||hueekqx.cn^
+||huhuhiiuio.com^
 ||huician.cn^
 ||huigoushop.com^
 ||huixingcheng.cn^
