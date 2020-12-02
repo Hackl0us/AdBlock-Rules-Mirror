@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JzhOlaglgmubGSP+TpsunA
-! Version: 202012010013
+! Checksum: q/M6Otf+XmZDwsVpH4bmSw
+! Version: 202012020013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 01 Dec 2020 00:13 UTC
+! Last Modified: 02 Dec 2020 00:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1143,6 +1143,7 @@ _xiuno_com_ad/
 ##script + #coupletBox
 ##script + #rbbox
 ##script[src="/js/sy2.js"] + div[align="center"]
+##script[src="/templates/frontend/frontend-jiucao/js/jquery.lazyload.min.js"] + .footer_app_box
 ##span[title="neteasefooter"]
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
@@ -2043,6 +2044,7 @@ ubmcmm.baidustatic.com
 ||d8ekco.com^
 ||dadjia.com^
 ||dafapai.com^
+||dagonghuzhu.com^
 ||dahanedu.com^
 ||daikuanfanli.com^
 ||dalianhengtai.com^
@@ -3437,6 +3439,7 @@ ubmcmm.baidustatic.com
 ||webofxm.cn^
 ||wecrtfr.com^
 ||weddingeeos.com^$third-party
+||weifengtianxia.com^
 ||weihuiyungou.com^
 ||weiqiqu.cn^
 ||weizhenwx.com^
@@ -6780,6 +6783,7 @@ _yad_jsonp_
 ||jsdelivr.net/gh/fzdm/st*/js/fzwap-
 ||jsjinfu.com/maizhan/js/age.js
 ||jstucdn.com/g3/
+||jstucdn.com/js/goovis.js
 ||jstucdn.com/js/vrsr
 ||jswz8.com/images/
 ||jsyefc.com^
@@ -16712,6 +16716,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||colorofgod.cn^
 ||comberry.cn^
 ||continuedsys.cn^
+||continuefaf.top^
 ||coolpadrom.cn^
 ||cooltool.cc^
 ||cornplus.cn^
@@ -17734,6 +17739,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||rockcoke.cn^
 ||romgv.com^
 ||rongnews.com^
+||root85.com^
 ||rqvfewi.cn^
 ||rrkykn.cn^
 ||rtslgov.cn^
@@ -17836,6 +17842,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||soueki.com^
 ||soyue.cc^$third-party
 ||spahelani.com^
+||spaung.cn^
 ||sqa4e.xyz^
 ||sqtr1v.com^
 ||sqwscy.com^
