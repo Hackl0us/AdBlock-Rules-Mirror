@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bWpfeHvdvB0kWYHpKhIN6g
-! Version: 202012030013
+! Checksum: CBHwOyDHTd8ATwBxZ2B9Vg
+! Version: 202012040013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 03 Dec 2020 00:13 UTC
+! Last Modified: 04 Dec 2020 00:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -878,6 +878,7 @@ _xiuno_com_ad/
 ##.gg_728
 ##.gg_950
 ##.gg_960
+##.gg_canvas
 ##.gg_full
 ##.gg_tp
 ##.ggad
@@ -1074,6 +1075,7 @@ _xiuno_com_ad/
 ##a[href*=".qpzqxz.com/"]
 ##a[href*=".qtj5.com/"]
 ##a[href*=".quankan.tv"]
+##a[href*=".tapdb.net/"]
 ##a[href*=".tbb168.com"]
 ##a[href*=".tduou.com/"]
 ##a[href*=".tea123.me"]
@@ -1878,6 +1880,7 @@ ubmcmm.baidustatic.com
 ||bmw100.cn^$third-party
 ||bnq86.com^
 ||bnuni.com^$third-party
+||bole.asia^
 ||books.com.tw/exep/ap/$third-party
 ||borsendental.com^
 ||bosatria.cn^
@@ -5657,6 +5660,7 @@ _yad_jsonp_
 ||content.xilu.com^$object
 ||coolaler.com/index_ads/
 ||coolpc.com.tw/img/topweb.html
+||cosxcos.cc/uploads/*bb
 ||cosxcos.cc/uploads/*my
 ||cp121.com/js2/
 ||cp2.eastmoney.com^
@@ -11548,7 +11552,6 @@ eeyy.com##.gg_bg
 js0573.com##.gg_bnr
 xiaopi.com##.gg_box
 zt5.com##.gg_bt
-comicat.org,kisssub.org##.gg_canvas
 sinolub.com##.gg_cen
 eastday.com##.gg_channel_r_b
 55188.com,g138.com##.gg_head_l
@@ -13177,6 +13180,7 @@ acg12.com##a[href*="%2F"]
 neatstudio.com##a[href*="&cps_key="]
 ruanyifeng.com##a[href*=".100offer.com"]
 backchina.com##a[href*=".21usdeal.com"]
+9ht.com##a[href*=".360.cn/"]
 cnzol.com##a[href*=".91comics.com/"]
 163.com,bilibili.com,longzhu.com##a[href*=".admaster."]
 itboth.com,itkeyword.com##a[href*=".aliyun."]
@@ -15491,6 +15495,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||dm.taobaojuhuasuan.cn^
 ||dm.wenshenxiu.com^
 ||dm.zuowenku.net^
+||dm1.dnpz123.com^
 ||dm1.guanwawa.com^
 ||dm1.zjydt.com^
 ||dmm.aizhan.com^
@@ -16089,6 +16094,7 @@ fuliba.net,uliba.net##.widget_custom_html:nth-child(2)
 @@||hboav.com/guga/*.js$~third-party
 @@||hboav.com/guga/ads$~third-party
 @@||hboav.com/guga/das$~third-party
+@@||hboav.com/guga/fag$~third-party
 @@||hboav.com^$generichide
 @@||realsrv.com/iframe.php?idzone=3476965&size=300x250$subdocument,domain=hboav.com
 ||hboav.com/guga/$~subdocument
@@ -16921,6 +16927,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||fjshxzyyxgs.cn^
 ||fjtzjy.com^
 ||fkkse.com^
+||fll007.com^
 ||fnpet.cn^
 ||fnwll.cn^
 ||fnxmyx.cn^
@@ -17445,6 +17452,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||maimaias.cn^
 ||maka.im^$third-party
 ||mamaailmjz.cn^
+||manhua.cyou^
 ||mao1.jsnovel.com^
 ||maobujie.com^
 ||maoyumao.net^
@@ -17464,6 +17472,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||mendoc.cn^
 ||mengpr.com^
 ||meooe.com^
+||meoqbhw.cn^
 ||meuevcj.cn^
 ||mgsue.cn^
 ||mgzs.cdn.bcebos.com^
@@ -18839,7 +18848,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||simba.taobao.com/?name=tcmad&$domain=www.taobao.com
 @@||sinajs.cn/open/analytics/js/suda.js$domain=weibo.com|~widget.weibo.com
 @@||sogou.com/pv.gif?*&stype=showskinpanel
-@@||sohu.com/cityjson$domain=114shouji.com|51credit.com|castech.com|eduyun.cn|jdboshi.com|jialingmm.net|lcm88.com|mop.com|platinum-pen.com.cn|shouji.com.cn|skk.moe|vivo.com.cn|yxdm.me
+@@||sohu.com/cityjson$domain=114shouji.com|51credit.com|castech.com|eduyun.cn|jdboshi.com|jialingmm.net|lcm88.com|meiju11.com|mop.com|platinum-pen.com.cn|shouji.com.cn|skk.moe|vivo.com.cn|yxdm.me
 @@||sohu.com/integration-api/mix/region/*&refer=http
 @@||soufunimg.com/count/uvbforpc.js
 @@||stjscn.s-msn.com/portal/hp/2011/udctrack.
