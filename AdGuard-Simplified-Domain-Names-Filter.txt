@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-10T00:16:35.889Z
+! Last modified: 2020-12-11T00:16:33.999Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||mumlionslew.com^
 ||producingsavourestablish.com^
 ||underdividedhowever.com^
 ||femininefurrow.com^
@@ -122,9 +123,7 @@
 ||developingstripes.com^
 ||traffic-go.com^
 ||cratertadcite.com^
-||mimilcnf.pro^
 ||oddertabrhino.com^
-||resniks.pro^
 ||s.zlink2.com^
 ||tk6if76q.ab1n.net^
 ||heauty-viesected.com^
@@ -7787,6 +7786,7 @@ vkcdnservice.appspot.com^
 ||milasktic.com^
 ||milkytarcub.com^
 ||millagesert.info^
+||mimilcnf.pro^
 ||mimpiphy.net^
 ||mimqvkusf.com^
 ||minaconfli.top^
@@ -9835,6 +9835,7 @@ vkcdnservice.appspot.com^
 ||residenish.club^
 ||residuestream.club^
 ||resissylvespu.info^
+||resniks.pro^
 ||resnikscdn.pro^
 ||resolidarisons.website^
 ||respecies.club^
@@ -15229,6 +15230,7 @@ vkcdnservice.appspot.com^
 ||laim.tv^
 ||lakequincy.com^
 ||landelcut.com^
+||lanistaads.com^
 ||lanistaconcepts.com^
 ||larentisol.com^
 ||large-format.net^
@@ -18713,9 +18715,6 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
-!||i.snssdk.com/log/*
-!||i.snssdk.com/slardar/sdk.js
-!
 ||track.customer.io^
 ||lcs.loginfra.com^
 ||adblock-analytics.io^
@@ -19167,7 +19166,6 @@ vkcdnservice.appspot.com^
 ||hotstats.gr^
 ||hqhrt.com^
 ||hurterkranach.net^
-||iadvize.com^
 ||ibillboard.com^
 ||ijncw.tv^
 ||ilk10.az^
@@ -19222,7 +19220,6 @@ vkcdnservice.appspot.com^
 ||api.segment.io^
 ||mletracker.com^
 ||mmetrix.mobi^
-||mmstat.com^
 ||mobtop.ru^
 ||monitor.phorm.com^
 ||moreusers.info^
@@ -20280,6 +20277,7 @@ t.yesware.com
 ! Disabled in DNS filter
 !
 ||gak.webtoons.com^
+||s.news.naver.com^
 ||jtrackern.joins.com^
 ||analytics.cinematoday.jp^
 ||log.cinematoday.jp^
@@ -21095,7 +21093,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||v-collector.dp.aws.charter.com^
 ||smetrics.cnn.com^
 ||metrics.claspws.tv^
-||geolocation.onetrust.com^
 ||logs.gaaana.com^
 ||sdk-log-inter.youdao.com^
 ||sensors.snappea.com^
@@ -22503,6 +22500,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||influid.co^
 ||infopro-insight.com^
 ||infoprodata.com^
+||ingage.tech^
 ||inimbus.com.au^
 ||inmoment.com^
 ||innomdc.com^
@@ -23143,6 +23141,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||questradeaffiliates.com^
 ||quillion.com^
 ||quintelligence.com^
+||quintesse.io^
 ||quitsnap-blue.com^
 ||qzlog.com^
 ||r7ls.net^
@@ -26097,6 +26096,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logly.co.jp^
 ||mediav.com^
 ||miaozhen.com^
+||mmstat.com^
 ||oadz.com^
 ||p0y.cn^
 ||phpstat.com^
@@ -26594,6 +26594,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d.nativendo.de^
 ||d.omsnative.de^
 ||data.econa.com^
+||datalayer.p7s1.io^
 ||events.kaloo.ga^
 ||fc.webmasterpro.de^
 ||geo.mtvnn.com^
@@ -26716,6 +26717,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d17m68fovwmgxj.cloudfront.net^
 ||da.netease.com^
 ||epro.sogou.com^
+||fourier.taobao.com^
 ||g.yccdn.com^
 ||haostat.qihoo.com^
 ||hyrankhit.meldingcloud.com^
@@ -27174,6 +27176,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||u7kgr54jr7.ru^
+||ymjfhg.com^
 ||minsk-news.info^
 ||jvgjrb.com^
 ||mbhjaeg.info^
@@ -36734,9 +36738,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||xnzkqew.cn^
-||zhuzaogangqiu.com^
-||bntxt.com^
+||toujing9.top^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37097,6 +37099,7 @@ adbetnet.com
 ||bmuju.com^
 ||bndbddt.top^
 ||bnetds.cn^
+||bntxt.com^
 ||bnzxc.xyz^
 ||bobotune.com^
 ||bodapet.com^
@@ -37432,6 +37435,7 @@ adbetnet.com
 ||fzxrjx.com^
 ||g3ao2q.cn^
 ||g4rre.xyz^
+||g8waw1.cn^
 ||g9wd1.cn^
 ||gadhx.cn^
 ||gagkf.top^
@@ -38658,6 +38662,7 @@ adbetnet.com
 ||xncgroup.cn^
 ||xnghmc.com^
 ||xnjzsn.com^
+||xnzkqew.cn^
 ||xrain.net^
 ||xsc.x81zw.com^
 ||xswfkco.cn^
@@ -38705,6 +38710,7 @@ adbetnet.com
 ||ygqczh.com^
 ||yicang8.com^
 ||yicuntian.cn^
+||yidiansurong.com^
 ||yierheng.top^
 ||yihegangtie.com^
 ||yijuxie.com^
@@ -38825,6 +38831,7 @@ adbetnet.com
 ||zhujiafangchan.cn^
 ||zhuyuanp.shop^
 ||zhuyuanp.top^
+||zhuzaogangqiu.com^
 ||zhywyl.cn^
 ||zimingdh.com^
 ||zitaoh.cn^
