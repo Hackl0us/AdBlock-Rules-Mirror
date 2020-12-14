@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: d+Sw1exmnOd5gShhfUVSTA
-! Version: 202012130022
+! Checksum: OUXGmTZquqoOjW9RMqvKBA
+! Version: 202012140013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 13 Dec 2020 00:22 UTC
+! Last Modified: 14 Dec 2020 00:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -3648,6 +3648,7 @@ ubmcmm.baidustatic.com
 ||xyadtlyya.cn^
 ||xyadtlyya.com^
 ||xyadtlyya.vip^
+||xyadtlyyc.vip^
 ||xyadyzpsb.com^
 ||xycnz.com^
 ||xycnzz.com^
@@ -4541,6 +4542,7 @@ _yad_jsonp_
 ||58.com/demand/content?
 ||58.com/ds/tgbrand/*.js
 ||58.com/show/ads?
+||583she.xyz/dds/
 ||5888.tv/User_Ad/
 ||58avgo.*/AirADPic/
 ||58cdn.com.cn/ds/tgbrand/*.js
@@ -5656,8 +5658,7 @@ _yad_jsonp_
 ||content.xilu.com^$object
 ||coolaler.com/index_ads/
 ||coolpc.com.tw/img/topweb.html
-||cosxcos.cc/uploads/*bb
-||cosxcos.cc/uploads/*my
+||cosxcos.cc/uploads/aaybabc/
 ||cp121.com/js2/
 ||cp2.eastmoney.com^
 ||cpbl-elta.cdn.hinet.net/web/images/ad_
@@ -8310,6 +8311,7 @@ _yad_jsonp_
 ||w51t.com^$subdocument
 ||wa.kuwo.cn/lyrics/img/kwgg/
 ||wacowla.com/wp-content/plugins/popover/js/
+||wai69.com/js/baidu/
 ||wallstcn.com/image?url=http%3A%2F%2Fcbjs.
 ||wallstcn.com^*-300x250.
 ||wallstreetcn.com/apiv1/earn/impression/
@@ -9619,6 +9621,7 @@ maxthon.cn###header-float-promote
 3g.qq.com###header-mlcz
 2345.com###header-news
 hao.360.cn,hao.360.com###header-patch
+aiqiyivip.com###header-top + div[style]
 060s.com###header4
 bdinfo.net###header_AD
 131458.com###header_gg
@@ -9635,6 +9638,7 @@ aizhan.com###home_text_content
 ruanyifeng.com###homepage_pos
 3987.com,588230.com###hongbao
 3boys2girls.com###hotbar
+360.com###hotbottom_littlenav
 sogou.com###hotel_vr_details
 sohu.com###hotpicnew
 yahoo.com###hp-ad-left
@@ -15861,6 +15865,7 @@ bejson.com##div[id^="shuangshi"]
 bejson.com##img[src^="data"]
 !#bde4.cc
 @@||jsdelivr.net/gh/bde4admin/*/prebid-ads.js$domain=bde4.cc
+bde4.cc###ayx
 ||bde4.cc^$csp=script-src 'self' * 'unsafe-inline'
 ||jsdelivr.net/gh/bde4admin/*/js/common.$domain=bde4.cc
 !#Bingfeng.tw
@@ -16089,10 +16094,8 @@ fuliba.net,uliba.net##.widget_custom_html:nth-child(2)
 !#g
 !#hboav.com
 @@$image,xmlhttprequest,domain=hboav.com
-@@||5278.cc/js/AD_tv.js
-@@||5278.cc/js/gg0.js
-@@||5278.cc/js/ggtop.js
 @@||5278.cc^$script,domain=hboav.com
+@@||5278.cc^$~third-party,xmlhttprequest
 @@||hboav.com/guga/$script,~third-party
 @@||hboav.com^$generichide
 @@||realsrv.com/iframe.php?idzone=3476965&size=300x250$subdocument,domain=hboav.com
@@ -17098,6 +17101,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||hcprzx.cn^
 ||hdfdm.com^
 ||hdminfeng.com^
+||hdvwm3.cn^
 ||hdweds.cn^
 ||hdzkjv.cn^
 ||headwell.cn^
