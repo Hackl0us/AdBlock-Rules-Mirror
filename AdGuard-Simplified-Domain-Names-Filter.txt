@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-18T00:07:58.400Z
+! Last modified: 2020-12-19T00:07:53.876Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,8 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
-||ukfpgaeihxamg.com^
-||fzehxxsdxyfg.com^
+||assets.newsmaxwidget.com^
+||waspaortascene.com^
 ||9997494f4d4b694d4f6702.online^
 ||wheelwheel.space^
 ||vyhezucha.pro^
@@ -5587,6 +5587,7 @@ vkcdnservice.appspot.com^
 ||fyrvxydxsrww.com^
 ||fz5akngy5o6r.com^
 ||fzeahussyd.com^
+||fzehxxsdxyfg.com^
 ||fzgitqrqrsyyiv.com^
 ||fzhvebnia.com^
 ||fzlkdwivfnreg.com^
@@ -9205,6 +9206,7 @@ vkcdnservice.appspot.com^
 ||podsolnu9hi10.com^
 ||poemsdeucewee.com^
 ||poemsproduced.com^
+||poifinsegg.com^
 ||poignantcover.com^
 ||point-of-entry.com^
 ||pointexcusestretching.com^
@@ -11398,6 +11400,7 @@ vkcdnservice.appspot.com^
 ||ujylaibwmgtaow.com^
 ||ukcomparends.pro^
 ||ukdzmuvtelq.com^
+||ukfpgaeihxamg.com^
 ||uklvebsp.com^
 ||uklyolpqnt.com^
 ||ukngpcuyc.com^
@@ -18384,7 +18387,6 @@ vkcdnservice.appspot.com^
 ||brealtime.com^
 ||bridgetrack.com^
 ||brokerbabe.com^
-||bttn.io^
 ||bubblesmedia.ru^
 ||burstnet.com^
 ||buzzcity.net^
@@ -18797,6 +18799,10 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+!||i.snssdk.com/log/*
+!||i.snssdk.com/slardar/sdk.js
+!
+||analy1.dtnnetwork.be^
 ||track.customer.io^
 ||lcs.loginfra.com^
 ||adblock-analytics.io^
@@ -20358,6 +20364,7 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||analytics2.tvreport.co.kr^
 ||counter.adguard.com^
 ||l.www.naver.com^
 ||metrics.makemytrip.com^
@@ -25556,6 +25563,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t.sharethis.com^
 ||t.signalayer.com^
 ||t.smile.eu^
+||t.spot.im^
 ||t2.t2b.click^
 ||tag-manager.playbuzz.com^
 ||tag.aumago.com^
@@ -27282,6 +27290,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||voqonea.ru^
+||alwsaz.com^
 ||yqg0rv8p35.ru^
 ||pion.loveserials.net^
 ||jrs2igoimq.ru^
@@ -33758,7 +33768,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||ylflwbj.cn^
+||qdwght.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35567,6 +35577,7 @@ adbetnet.com
 ||yixui.com^
 ||yk0712.com^
 ||ykjmy.com^
+||ylflwbj.cn^
 ||ymcqb.com^
 ||ymima360.com^
 ||ynbojie.com^
@@ -35770,6 +35781,7 @@ adbetnet.com
 ||a.xywy.com^
 ||a2.b310.com^
 ||a2.xinhuanet.com^
+||a2put.chinaz.com^
 ||abbao.cn^*adblock
 ||abc.hkepc.com^
 ||abc.hkepc.net^
@@ -36089,7 +36101,6 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||a2put.chinaz.com^
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
@@ -36116,7 +36127,6 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
-||a1.zhanzhang.net^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
@@ -36269,6 +36279,7 @@ adbetnet.com
 ||a1.shusanqi.com^
 ||a1.sumiaowang.com^
 ||a1.twtym.com^
+||a1.zhanzhang.net^
 ||a15d55423.5tps.xyz^
 ||a3.jandan.net^
 ||aa.0755rc.com^
@@ -36864,10 +36875,11 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||syrstrq.cn^
-||wtgongsi.com^
-||pppxia.com^
-||91funcy.com^
+||hvie6u.cn^
+||1214bdk.xyz^
+||zhangshiyuan.com^
+||vkpsmzj.cn^
+||czlongle.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37036,6 +37048,7 @@ adbetnet.com
 ||8v61j.cn^
 ||8yrn.cn^
 ||91cy.top^
+||91funcy.com^
 ||91jiedai.cn^
 ||922x7c.cn^
 ||958so.cn^
@@ -38268,6 +38281,7 @@ adbetnet.com
 ||pos68.cn^
 ||pougg.com^
 ||ppee.xyz^
+||pppxia.com^
 ||pqezdo.cn^
 ||pqnlorg.cn^
 ||pqwtrq.xyz^
@@ -38514,6 +38528,7 @@ adbetnet.com
 ||symag.cn^
 ||symah.cn^
 ||syooys.com^
+||syrstrq.cn^
 ||sysadult.cn^
 ||sysal.cn^
 ||sysycloud.com^
@@ -38725,6 +38740,7 @@ adbetnet.com
 ||wsvike.cn^
 ||wsxxu.com^
 ||wszzb.top^
+||wtgongsi.com^
 ||wtnjupl.cn^
 ||wuwuhh.top^
 ||wuyanauto.com^
