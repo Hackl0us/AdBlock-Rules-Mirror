@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: C4NgqMdx1hJ6OO8/H2THgw
-! Version: 202012200023
+! Checksum: oEEJjTus/aYPt0RU1M9EpQ
+! Version: 202012210023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 20 Dec 2020 00:23 UTC
+! Last Modified: 21 Dec 2020 00:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -2952,6 +2952,7 @@ ubmcmm.baidustatic.com
 ||panel-cn.com^
 ||papa9394.com^$third-party
 ||papa999.xyz^
+||parisianmacao.bet^
 ||pay838.com^
 ||pcmzn.com^
 ||pdsjycm.com^
@@ -4997,6 +4998,7 @@ _yad_jsonp_
 ||alicdn.com/imgextra/i1/3491683832/TB2A4QaisjI8KJjSsppXXXbyVXa_
 ||alicdn.com/imgextra/i3/1731999033/TB2lAJufnlYBeNjSszcXXbwhFXa_
 ||alicdn.com/kf/*.gif$domain=tzfile.com
+||alicdn.com/kf/H23e4be4c556744c4bef772eb0ad9d938G.jpg
 ||alicdn.com/kf/H4fa310799bf04b33803900c0f629094bQ.jpg
 ||alicdn.com/kf/H8105709d8ee745139cfd5affe30a9d719.jpg
 ||alicdn.com/kf/H9df22b1c3f0041b2874ddfd38836993em.gif
@@ -7946,6 +7948,7 @@ _yad_jsonp_
 ||sozi.cn/images/tj/hukead.gif
 ||sozi.cn/images/tj/szdown
 ||sozi.cn/templets/sozi/js/js.js
+||speedtest.cn/api/v2/showpic?
 ||speedtest.cn/assets/images/ce_
 ||sportscn.com/js/commerical
 ||sportsv.net/dist/ads/
@@ -10770,6 +10773,8 @@ aicoin.net.cn,bccn.net,hkepc.com,iviewui.com##.advertisement
 chinacar.com.cn##.advertising
 10086.cn##.advertisingOther_img
 speedtest.cn##.advertisingSpace
+sm.ms##.advertising_1
+sm.ms##.advertising_2
 ifeng.com##.advmark
 afzhan.com,cngold.org,hbzhan.com,panjin.net,qq.com,tongxiang.net##.advs
 it165.net##.advyello
@@ -10855,6 +10860,7 @@ yangmaodang.org##.autumn-single-bottom-a-d
 yangmaodang.org##.autumn-single-top-a-d
 liba.com##.avdert1190
 dcloud.net.cn##.aw-ad-item
+tophub.today##.ax
 yam.com##.axdBox
 kknews.cc,read01.com##.axslot
 tophub.today##.axx
@@ -11298,7 +11304,6 @@ iqiyi.com##.dove_ad
 iqiyi.com##.dove_banner
 iqiyi.com##.dove_videos
 pctowap.com##.dowap_ads
-3dmgame.com##.dowm_box2
 3d66.com##.down-adver
 xiazaiba.com##.down-btn1
 xiazaiba.com##.down-btn2
@@ -12197,7 +12202,6 @@ ttrar.com##.new_xzq
 doubibackup.com##.new_zixun
 zt5.com##.newa
 uimaker.com##.newbaidu
-3dmgame.com##.newqkdown2
 ali213.net##.newright
 sydneytoday.com##.news-list > .row > .col-xs-12
 eastday.com##.news-promote
@@ -12382,8 +12386,6 @@ htcui.com##.qqanimate
 baidu.com##.quality-elinks
 muzhi.baidu.com##.quick-ask-2 + .android + div
 hualongxiang.com##.quick_reply_ad
-3dmgame.com##.quickdown2
-3dmgame.com##.quickdown3
 im286.net##.qybj
 myqqjd.com##.qz-box
 ouyaoxiazai.com##.qzhengfu
@@ -13445,6 +13447,7 @@ frdic.com,godic.net##a[onclick*="/ads/"]
 pcsoft.com.cn##a[onclick*="_ad"]
 caibaojian.com##a[onclick*="aliyun"]
 caibaojian.com##a[onclick*="aly"]
+3dmgame.com##a[onclick="goxiazai()"]
 jokerlu.com,jokerlu1.com##a[onclick^="_czc."]
 fixdown.com##a[onclick^="count_down"]
 52pk.com##a[onclick^="ga"]
@@ -15712,6 +15715,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||mg.glwxw.net^
 ||milk.yesky.com.cn^
 ||mipujia.com^$third-party
+||mm.jbzj.com^
 ||mo-tuo.com^
 ||mountain.zhidao.baidu.com^
 ||mpb1.iteye.com^
@@ -16132,9 +16136,7 @@ fuliba.net,uliba.net##.widget_custom_html:nth-child(2)
 @@||5278.cc^$script,domain=hboav.com
 @@||5278.cc^$~third-party,xmlhttprequest
 @@||hboav.com/guga/$script,~third-party
-@@||hboav.com/js/*gg
-@@||hboav.com/js/AD_tv.js
-@@||hboav.com/js/axdd.js
+@@||hboav.com/js/bpolknm.js
 @@||hboav.com^$generichide
 @@||realsrv.com/iframe.php?idzone=3476965&size=300x250$subdocument,domain=hboav.com
 ||hboav.com/guga/$~subdocument
@@ -18732,7 +18734,6 @@ zol.com.cn##.xiazaic-topa-box
 zol.com.cn##.xiazaic-topb-box
 zol.com.cn##a[class*="member-button"]
 zol.com.cn##a[href*="downloader_main"]
-zol.com.cn##div[class*="-top-"]
 zol.com.cn##div[class^="top-box-xiazai"]
 zol.com.cn##span[class*="-dxlt"]
 zol.com.cn##span[class^="dxlt-down"]
@@ -18860,7 +18861,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@/hitCount.$script,domain=on.cc
 @@/hitCount_$xmlhttprequest,domain=on.cc
 @@/iplookup.$domain=cankaoxiaoxi.com|dongfeng-nissan.com.cn|huomao.com|loldk.com|sina.com.cn
-@@/sensorsdata.$domain=36kr.com|imooc.com|modian.com|shanbay.com
+@@/sensorsdata.$domain=36kr.com|imooc.com|modian.com|shanbay.com|tianyancha.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/urchin.js$domain=on.cc
 @@||10010.com/mall/common/js/fa.js?referer=
