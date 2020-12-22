@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-21T00:09:40.968Z
+! Last modified: 2020-12-22T00:11:58.323Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,12 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||codeopensource.online^
+||nickeeha.net^
+||safeattributeexcept.com^
+||son-in-lawmorbid.com^
+||revenuenetworkcpm.com^
+||kihoadoa.com^
 ||luqafzbdscd.com^
 ||ecgopezooczg.com^
 ||douhooke.net^
@@ -33,6 +39,7 @@
 ||click.hooligapps.com^
 ||hyperoi.com^
 ||adstudio.cloud^
+||tafimedia.com^
 ||peppy2lon1g1stalk.com^
 ||evasiondemandedlearning.com^
 ||promos.camsoda.com^
@@ -629,7 +636,6 @@
 ||aijiboft.com^
 ||psadsoob.com^
 ||ad.pentabox.net^
-||g--o.info^
 ||popcent.net^
 ||roupsouk.com^
 ||itad.linetv.tw^
@@ -1996,13 +2002,9 @@ www.llllllllllll.net^
 ||s1-a*.dnvod.tv
 !
 !+ NOT_OPTIMIZED PLATFORM(ios, ext_android_cb, ext_safari)
-||uerzyr.cn^
-!+ NOT_OPTIMIZED PLATFORM(ios, ext_android_cb, ext_safari)
 ||juejdkio.com^
 ||ere.wew.92kkdy.cc^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
-||lulu.dian500.com.cn^
-||bobo.xmwty.com^
 ||dota.sykty.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/17278
 ||subs.vingd.com^
@@ -2015,9 +2017,6 @@ www.llllllllllll.net^
 ||bannery.navratdoreality.cz^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58569
 ||a.b.napiszar.com^
-! Indonesian telco injecting its ads
-||cfs1.uzone.id^
-||jor-el.net^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/19323
 ||pijama.*.elasticbeanstalk.com^
 ||zumads.vrixon.com^
@@ -2818,6 +2817,7 @@ vkcdnservice.appspot.com^
 ||agrammemarg.info^
 ||agrarianeruption.com^
 ||agreenikeru.site^
+||agriculturaltherapist.com^
 ||agzfxovg.com^
 ||agzlxyylf.com^
 ||ahadsply.com^
@@ -10381,6 +10381,7 @@ vkcdnservice.appspot.com^
 ||sedativesandhandbook.com^
 ||seditieusement.website^
 ||seducehandbookspecific.com^
+||seephoak.net^
 ||seepsocu.net^
 ||seeptauw.net^
 ||seeptoag.net^
@@ -18834,6 +18835,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||log002.commutil.kr^
 ||analy1.dtnnetwork.be^
 ||track.customer.io^
 ||lcs.loginfra.com^
@@ -24085,6 +24087,35 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zroitracker.com^
 ||ztsrv.com^
 ||zuzab.com^
+! https://blog.confiant.com/the-trend-of-client-side-fingerprinting-in-cloaked-landing-pages-21915eb473df
+||artfin.club^
+||bemarts.club^
+||bogglecool.club^
+||bosetoo.club^
+||chanelventure.club^
+||cyrstalventure.club^
+||docileyellow.club^
+||elevagant.club^
+||halospring.club^
+||hollydeal.club^
+||iconstab.club^
+||kungfupan.club^
+||leono.club^
+||localbeige.club^
+||lomeldeer.club^
+||makedosupport.club^
+||mandatebright.club^
+||migrati.xyz^
+||morozhko.club^
+||muatui.com^
+||polobook.club^
+||santuforward.club^
+||supertraders.club^
+||supertraders.info^
+||tantrumall.club^
+||tradesecretz.info^
+||vicspendig.club^
+||vinchenmedia.club^
 ! revprotect
 ||pphwrevr.com^
 ||protectcrev.com^
@@ -25272,6 +25303,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||impress.vcita.com^
 ||infinityid.condenastdigital.com^
 ||informer.yandex.ru^
+||ingest.sentry.io^
 ||insight.mintel.com^
 ||insight.rapid7.com^
 ||insights.plista.com^
@@ -33814,6 +33846,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||suning.fit^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -36923,6 +36956,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||kpirog.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -39745,12 +39779,14 @@ adbetnet.com
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/514
+@@||logentries.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/517
+@@||email.*.skyeng.ru^|
 ! cdn.rozetka.com.ua is blocked by CNAME 'rozetka-cdn.exponea.com'
 @@||cdn.rozetka.com.ua^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/510
 @@||c.digikey.com^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/506
-@@||email.corp.skyeng.ru^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/65326
 @@||go.scorptec.com.au^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/468
