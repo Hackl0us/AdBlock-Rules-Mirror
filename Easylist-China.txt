@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ws151L2xMWWiggqyziwQhQ
-! Version: 202012260022
+! Checksum: XMxAcP8rHyF2fRFxeXrXDQ
+! Version: 202012270023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 26 Dec 2020 00:22 UTC
+! Last Modified: 27 Dec 2020 00:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -2329,6 +2329,7 @@ ubmcmm.baidustatic.com
 ||h41s.com^
 ||h501.cn^$third-party
 ||h9377c.com^
+||hahazl.com^
 ||haidaocn.com^
 ||hailuoxiang.com^$third-party
 ||haimaokj.com^
@@ -5026,7 +5027,7 @@ _yad_jsonp_
 ||alicdn.com/tfscom/*.sina.
 ||alicdn.com/tps/*-950-90.
 ||alicdn.com/tps/i3/T19NaCFKFaXXckTCTS-300-100.jpg
-||alicdn.com^$domain=1024gu.com|11papapa.com|1avlang.com|1yingdoutv.com|2334n.com|51dll.com|52kpop.com|55cc.cc|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|acglover.me|aotu101.com|btdp.online|c7cc.cc|camelliadali.com|ccxx99.com|dytt.com|f6hx.site|feifei6.com|haicao32.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|ppx116.com|qingmanyong.com|qqtenglong.com|qyl00.com|qyl222.com|spqi.xyz|supfree.net|thztv.cc|ttww22.com|tv4.cc|viidii.info|wenkuxiazai.com|xiaomingming.org|xinchen2.com|xingzhiyin44.com|yeyemo6.com|yuese46.com|yy6080.cn|yzz12.com|zhuankezhijia.com
+||alicdn.com^$domain=1024gu.com|11papapa.com|1avlang.com|1yingdoutv.com|2334n.com|51dll.com|52kpop.com|55cc.cc|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|acglover.me|aotu101.com|btdp.online|c7cc.cc|camelliadali.com|ccxx99.com|dytt.com|f6hx.site|feifei6.com|haicao32.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|ppx116.com|qingmanyong.com|qqtenglong.com|qyl00.com|qyl222.com|spqi.xyz|supfree.net|that2.info|thztv.cc|ttww22.com|tv4.cc|viidii.info|wenkuxiazai.com|xiaomingming.org|xinchen2.com|xingzhiyin44.com|yeyemo6.com|yuese46.com|yy6080.cn|yzz12.com|zhuankezhijia.com
 ||alicdn.com^*.gif$domain=15yc.cc|hmog.me
 ||alicdn.com^*.jpg$domain=hmog.me
 ||alicdn.com^*_!!3361094544.
@@ -9276,7 +9277,7 @@ lohas.pixnet.net###box785805
 finance.ifeng.com###box_img
 zhan.com###box_tips
 sogou.com###browser_ad
-7down.com,newasp.net###btndowns
+05sun.com,7down.com,newasp.net###btndowns
 xz7.com###bz-ad-position1
 xz7.com###bz-ad-position2 + div
 pchome.net###bzhref
@@ -9858,6 +9859,7 @@ mtrend.cn###morecontent > .morecontent_next[style]
 wenxuecity.com###morehealth-banner-1
 nick18.com,niko18.com###mov > .content
 gd163.cn,itavcn.com,jmnews.com.cn,xt700.com###msg_win
+kudm.net###msn
 yahoo.com###my-adsHPSPON
 yahoo.com###my-adsMBAR
 pianhd.com###myCarousel
@@ -9881,6 +9883,7 @@ chinaqking.com###newsAD
 hexun.com###newsPopWin
 ilxdh.com###nice-banner0
 live.win007.com###notify > a[target="_blank"]
+05sun.com###nowDown1
 qq.com###nqsnqsad02
 ssnn.net###nrk_gg
 fx168.com###oilTopAd
@@ -15312,7 +15315,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||7car.com.cn^
 ||80juqing.com^
 ||8131.qizhihaotian.cn^
-||8dp.net^
 ||91friend.com^$third-party
 ||94ab.com^$third-party
 ||999d.com^$third-party
@@ -18266,6 +18268,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||wuyanauto.com^
 ||wuylp.com^
 ||wvcdn.cn^
+||wvfgiio.cn^
 ||wvver.com^
 ||wxhdwy.com^
 ||wxmg2016.com^
