@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-31T00:17:22.836Z
+! Last modified: 2021-01-01T00:16:04.831Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -35224,6 +35224,7 @@ adbetnet.com
 ||phvmax.com^
 ||pic12x20.com^
 ||pingping888.com^
+||pinwu123.com^
 ||pinyoux.com^
 ||pjshw.cn^
 ||pjtymy.cn^
@@ -36699,6 +36700,7 @@ adbetnet.com
 ||dm.taobaojuhuasuan.cn^
 ||dm.wenshenxiu.com^
 ||dm.zuowenku.net^
+||dm1.ddwk8.cn^
 ||dm1.dnpz123.com^
 ||dm1.guanwawa.com^
 ||dm1.zjydt.com^
@@ -37905,6 +37907,7 @@ adbetnet.com
 ||guvdfs.cn^
 ||guxiaom.cn^
 ||gwdqp.com^
+||gxfc2021.top^
 ||gxklsftz.cn^
 ||gxkyl.com^
 ||gybdtg.com^
@@ -38036,6 +38039,7 @@ adbetnet.com
 ||hyxca.top^
 ||hyyazhaji.com^
 ||hyzhongchuang.com^
+||hzhfhkj.cn^
 ||hzht666.com^
 ||hzqzxf.com^
 ||hzsrjs.com^
@@ -39102,6 +39106,7 @@ adbetnet.com
 ||xnghmc.com^
 ||xnjzsn.com^
 ||xnzkqew.cn^
+||xpxvok.cn^
 ||xrain.net^
 ||xsc.x81zw.com^
 ||xswfkco.cn^
@@ -39267,6 +39272,7 @@ adbetnet.com
 ||zhengzhoupengbo.com^
 ||zhfyws.com^
 ||zhide-edu.cn^
+||zhipinbook.cn^
 ||zhivalley.cn^
 ||zhixd.cn^
 ||zhiyaowan.cn^
