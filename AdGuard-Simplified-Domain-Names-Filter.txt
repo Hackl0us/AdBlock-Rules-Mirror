@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-02T00:15:32.995Z
+! Last modified: 2021-01-03T00:16:19.563Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -6004,6 +6004,7 @@ vkcdnservice.appspot.com^
 ||growltoe.com^
 ||grownuplieutenant.com^
 ||grsdvgnr.com^
+||grtexch.com^
 ||grtyj.com^
 ||grubsoan.com^
 ||grudgeslylonging.com^
@@ -33037,6 +33038,7 @@ adbetnet.com
 ||4strokemedia.com^
 ||ad4mat.it^
 ||adagionet.com^
+||adasta.it^
 ||adbrawl.com^
 ||adbreak.ch^
 ||addyon.com^
@@ -34455,6 +34457,7 @@ adbetnet.com
 ||ckseeknew.com^
 ||claz.com.cn^
 ||climbcoder.com^
+||cloudpsvn.com^
 ||cmaxisolation.com^
 ||cmslayue.com^
 ||cnbole.net^
@@ -35401,6 +35404,7 @@ adbetnet.com
 ||shuangshiyihightgo.top^
 ||shucaihangjia.com^
 ||shuccn.com^
+||shukongshebei.net^
 ||shuwuzhan.com^
 ||shxinjie.cn^
 ||shypqc.com^
@@ -36051,6 +36055,7 @@ adbetnet.com
 ||ad-img.diyidan.net^
 ||ad.52av.one^
 ||ad.bobi.tw^
+||ad.ccement.com^
 ||ad.cdnjm.cn^
 ||ad.walkgame.com^
 ||ad.wurangxian.top^
