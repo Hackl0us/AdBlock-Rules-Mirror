@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-04T00:17:51.963Z
+! Last modified: 2021-01-05T00:18:19.905Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||rapgasyogin.com^
+||top-performance.best^
+||anomaloustradingmerciful.com^
 ||jeerszitstoke.com^
 ||adieusyaktop.com^
 ||pc20160301.com^
@@ -376,7 +379,6 @@
 ||fuckthat.xyz^
 ||paripartner.com^
 ||thebestgame2020.com^
-||warumbistdusoarm.space^
 ||fouralered.pro^
 ||ookris.oferty-kredytowe.pl^
 ||albado.xyz^
@@ -1784,11 +1786,9 @@ www.llllllllllll.net^
 !
 ||sak.userreport.com^
 ||api.flygame.io^
-||d2sbzwmcg5amr3.cloudfront.net^
 ||tontent.powv1deo.cc^
 ||cintent.streanplay.cc^
 ||my.shymilftube.com^
-||d1f05vr3sjsuy7.cloudfront.net^
 ||s2.everydaygayporn.com^
 ||apiads.gg.pl^
 ||feedads.feedblitz.com^
@@ -1798,7 +1798,6 @@ www.llllllllllll.net^
 ||adilk.ilikecomix.com^
 ||a.letsjerk.to^
 ||d2j042cj1421wi.cloudfront.net^
-||dq3yxnlzwhcys.cloudfront.net^
 ||d3ithbwcmjcxl7.cloudfront.net^
 ||rek.www.wp.pl^
 ||d3mr7y154d2qg5.cloudfront.net^
@@ -3663,6 +3662,7 @@ vkcdnservice.appspot.com^
 ||buglethemfouls.casa^
 ||buhatfjrk9dje10eme.com^
 ||buildhoodpip.club^
+||buipovexhav.com^
 ||bulbsanctify.com^
 ||bullads.net^
 ||bulldogdemocracy.com^
@@ -4089,6 +4089,7 @@ vkcdnservice.appspot.com^
 ||comparencelabl.site^
 ||compensess.club^
 ||compensions.pro^
+||compiletormentboats.com^
 ||complicatedtelegraph.com^
 ||complified.club^
 ||composedwatchman.com^
@@ -6172,6 +6173,7 @@ vkcdnservice.appspot.com^
 ||heawzlvivkakly.com^
 ||heckagny.com^
 ||hedressive.info^
+||hedrvszms.com^
 ||heedlessdessertchips.com^
 ||heeevykjhujfy.com^
 ||hehraybryciyls.com^
@@ -6566,6 +6568,7 @@ vkcdnservice.appspot.com^
 ||immscjnenl.com^
 ||immunical.club^
 ||imounsos.com^
+||implementtransmitted.com^
 ||implicationdownloadpercy.com^
 ||implishing.club^
 ||impressionassassin.com^
@@ -6791,6 +6794,7 @@ vkcdnservice.appspot.com^
 ||jautouze.net^
 ||jaxwrwvxfscq.com^
 ||jaxxenpro.com^
+||jayhintcull.com^
 ||jazdoxthxiv.com^
 ||jazmonbetter.pro^
 ||jb7hvcksstar.com^
@@ -7447,6 +7451,7 @@ vkcdnservice.appspot.com^
 ||letheyemo.site^
 ||letsdoarbitrage.com^
 ||letsinfospree.com^
+||leukemiatwinklesagacious.com^
 ||leveloped.club^
 ||levenileheshe.site^
 ||leveryone.club^
@@ -7878,6 +7883,7 @@ vkcdnservice.appspot.com^
 ||mendprayer.com^
 ||menlochsuk.club^
 ||mentalbackie.site^
+||mentalsweatextent.com^
 ||mentcompa.club^
 ||mentpyjam.fun^
 ||mentredu.top^
@@ -8027,6 +8033,7 @@ vkcdnservice.appspot.com^
 ||moapuwhe.com^
 ||mob1ledev1ces.com^
 ||mobbahjug.com^
+||mobcrummymow.com^
 ||mobilehdmi.com^
 ||mobileoffers-al-download.com^
 ||mobreach.com^
@@ -9940,7 +9947,6 @@ vkcdnservice.appspot.com^
 ||rechampouinerai.website^
 ||rechaptalisent.xyz^
 ||recheriend.top^
-||recipetocook.recipes^
 ||reckedmane.club^
 ||recomine.club^
 ||recommendedscenery.com^
@@ -11789,6 +11795,7 @@ vkcdnservice.appspot.com^
 ||varylioness.com^
 ||vasgenerete.site^
 ||vashoaft.net^
+||vasstycom.com^
 ||vatname.info^
 ||vatskaylittl.club^
 ||vaultwrite.com^
@@ -12063,6 +12070,7 @@ vkcdnservice.appspot.com^
 ||warfarewithdigestion.com^
 ||warmmyselfharness.com^
 ||warsalsintrol.site^
+||warumbistdusoarm.space^
 ||wasp-182b.com
 ||wastedcooperate.com^
 ||wastesshimssat.world^
@@ -20524,6 +20532,8 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||tracking.game8.jp^
+||lcs.modoo.at^
 ||check.tadapi.info^
 ||count.munhwa.com^
 ||geo.mattel163.com^
@@ -20742,7 +20752,6 @@ t.yesware.com
 ||tr.junaroad.com^
 ||tracker.shopclues.com^
 ||beacon.itmedia.jp^
-||d3j1weegxvu8ns.cloudfront.net^
 ||trk.performanceplay.co.kr^
 ||atlas1.krone.at^
 ||spr.bild.de^
@@ -22122,6 +22131,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||christiantop1000.com^
 ||christmalicious.com^
 ||chrumedia.com^
+||chtbl.com^
 ||cintnetworks.com^
 ||circular-counters.com^
 ||ck-cdn.com^
@@ -24737,6 +24747,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cubchannel.com^
 ||culturedcrayon.com^
 ||curvycry.com^
+||cushionpig.com^
 ||damdoor.com^
 ||dampdock.com^
 ||dapperdiscussion.com^
@@ -25296,6 +25307,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d3cgm8py10hi0z.cloudfront.net^
 ||d3cxv97fi8q177.cloudfront.net^
 ||d3iouejux1os58.cloudfront.net^
+||d3j1weegxvu8ns.cloudfront.net^
 ||d3kyk5bao1crtw.cloudfront.net^
 ||d3l3lkinz3f56t.cloudfront.net^
 ||d3m6sept6cnil5.cloudfront.net^
@@ -25364,6 +25376,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||event.api.drift.com^
 ||event.getblue.io^
 ||event.syndigo.cloud^
+||event.webcollage.net^
 ||eventapi.libring.com^
 ||eventgateway.soundcloud.com^
 ||eventlog.inspsearchapi.com^
@@ -25449,6 +25462,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ingest.sentry.io^
 ||insight.mintel.com^
 ||insight.rapid7.com^
+||insights.algolia.io^
 ||insights.plista.com^
 ||insights.sitesearch360.com^
 ||insitez.blob.core.windows.net^
@@ -25998,6 +26012,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||uhytajrtpo-a.akamaihd.net^
 ||zvsuhljiha-a.akamaihd.net^
 ! fastly
+||7q1z79gxsi.global.ssl.fastly.net^
 ||clarium.global.ssl.fastly.net^
 ||dfapvmql-q.global.ssl.fastly.net^
 ! Unnecessary third-party scripts
@@ -27506,6 +27521,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||betemolgar.com^
 ||mp3dance.today^
 ||lidplay.net^
 ||bcvideod.com^
@@ -32742,6 +32758,7 @@ adbetnet.com
 ! Source name: EasyList Germany ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt
 !
+||4adtf.com^
 ||4rm.de^
 ||a3h.de^
 ||ablida-rotation.com^
@@ -32992,6 +33009,7 @@ adbetnet.com
 ||td-tracker.com^
 ||textklicks.de^
 ||textswap.de^
+||tfppp.com^
 ||tip-ads.de^
 ||topiaserv.net^
 ||trabro.com^
@@ -36747,7 +36765,6 @@ adbetnet.com
 ||dm.wenshenxiu.com^
 ||dm.zuowenku.net^
 ||dm1.ddwk8.cn^
-||dm1.dnpz123.com^
 ||dm1.guanwawa.com^
 ||dm1.zjydt.com^
 ||dmm.aizhan.com^
@@ -37469,7 +37486,7 @@ adbetnet.com
 ||babalink.top^
 ||baful.net^
 ||bahu.xyz^
-||baidu.bxwx666.org^
+||baidu.bxwx555.org^
 ||baiduspider1.cn^
 ||bailequan.net.cn^
 ||baitaoidc.com^
@@ -38670,6 +38687,7 @@ adbetnet.com
 ||r2wm5.cn^
 ||r3wd6.cn^
 ||raeqqe.cn^
+||ranqibio.com^
 ||rbign.cn^
 ||rbtjkx.cn^
 ||rbywg.com^

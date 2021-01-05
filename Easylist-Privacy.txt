@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101040029
+! Version: 202101050016
 ! Title: EasyPrivacy
-! Last modified: 04 Jan 2021 00:29 UTC
+! Last modified: 05 Jan 2021 00:16 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1192,6 +1192,7 @@
 /certona_$script
 /cfformprotect/*
 /cfm-realtime-marketing/*
+/cgAnalyticsPageView.
 /cgi-bin/cnt/*
 /cgi-bin/count.cgi?
 /cgi-bin/count.pl?
@@ -6164,6 +6165,7 @@ _mongo_stats/
 ||christiantop1000.com^$third-party
 ||christmalicious.com^$third-party
 ||chrumedia.com^$third-party
+||chtbl.com^$third-party
 ||cint.com^$third-party
 ||cintnetworks.com^$third-party
 ||circular-counters.com^$third-party
@@ -8949,6 +8951,7 @@ _mongo_stats/
 ||cubchannel.com^$third-party
 ||culturedcrayon.com^$third-party
 ||curvycry.com^$third-party
+||cushionpig.com^$third-party
 ||damdoor.com^$third-party
 ||dampdock.com^$third-party
 ||dapperdiscussion.com^$third-party
@@ -10809,6 +10812,7 @@ _mongo_stats/
 ||d3cxv97fi8q177.cloudfront.net^
 ||d3hb14vkzrxvla.cloudfront.net/health-check
 ||d3iouejux1os58.cloudfront.net^
+||d3j1weegxvu8ns.cloudfront.net^
 ||d3kyk5bao1crtw.cloudfront.net^
 ||d3l3lkinz3f56t.cloudfront.net^
 ||d3m6sept6cnil5.cloudfront.net^
@@ -10944,6 +10948,7 @@ _mongo_stats/
 ||event.api.drift.com^
 ||event.getblue.io^
 ||event.syndigo.cloud^
+||event.webcollage.net^
 ||eventapi.libring.com^
 ||eventful.com/apps/generic/$image,third-party
 ||eventgateway.soundcloud.com^
@@ -11070,6 +11075,7 @@ _mongo_stats/
 ||glam.com^*/log.act?
 ||glbdns.microsoft.com^
 ||gleam.io/seen?
+||gleam.io^$script,third-party
 ||go.com/capmon/GetDE/?
 ||go.optifuze.com^
 ||go.toutapp.com^$third-party
@@ -11185,6 +11191,7 @@ _mongo_stats/
 ||inq.com^*/onEvent?_
 ||insight.mintel.com^$third-party
 ||insight.rapid7.com^$third-party
+||insights.algolia.io^
 ||insights.plista.com^$third-party
 ||insights.sitesearch360.com^
 ||insitez.blob.core.windows.net^
@@ -12417,6 +12424,7 @@ _mongo_stats/
 ||uhytajrtpo-a.akamaihd.net^
 ||zvsuhljiha-a.akamaihd.net^
 ! fastly
+||7q1z79gxsi.global.ssl.fastly.net^
 ||clarium.global.ssl.fastly.net^
 ||dfapvmql-q.global.ssl.fastly.net^
 ||fastly.net/collect?
@@ -14089,7 +14097,7 @@ _mongo_stats/
 ||glamourmagazine.co.uk^*/LogPageView
 ||glassmoni.researchgate.net^
 ||global.canon^*/analytics.js
-||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|courier-journal.com|courierpress.com|desertsun.com|detroitnews.com|eddiebauer.com|freep.com|glassesusa.com|greenbaypressgazette.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|sheboyganpress.com|theadvertiser.com|thisweek.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
+||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|courier-journal.com|courierpress.com|desertsun.com|detroitnews.com|eddiebauer.com|freep.com|glassesusa.com|greenbaypressgazette.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|sheboyganpress.com|tallahassee.com|theadvertiser.com|thisweek.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
 ||globes.co.il/ga.asp
 ||globes.co.il/shared/s.ashx?
 ||globester.com^*/track.js
@@ -15274,6 +15282,7 @@ _mongo_stats/
 ||stomp.com.sg/site/servlet/tracker
 ||store.yahoo.net^*/ywa.js
 ||storenvy.com/tracking/
+||streamta.pe/stat/
 ||streetdirectory.com/tracking/
 ||streetfire.net/flash/trackingutility.swf
 ||streetfire.net/handlers/logstreamfileimpression.ashx?
@@ -15344,6 +15353,7 @@ _mongo_stats/
 ||tcpalm.com/metrics/
 ||tdwaterhouse.ca/includes/javascript/rtesurvey.js
 ||tdwaterhouse.co.uk^*/track.js
+||techspot.com/geoip/
 ||ted.dailymail.co.uk^
 ||ted.metro.co.uk^
 ||telegraph.co.uk^*/tmglmultitrackselector.js
@@ -15505,8 +15515,7 @@ _mongo_stats/
 ||triadretail.com^*/roverTrack.js
 ||trialpay.com/mi/
 ||triond.com/cntimp?
-||tripadvisor.*/PageMoniker?
-||tripadvisor.com/uvpages/page_moniker.html
+||tripadvisor.com^*/rum
 ||trivago.com/check-session-state?
 ||trivago.com/tracking/
 ||trk.flazio.com^
@@ -15561,6 +15570,8 @@ _mongo_stats/
 ||u46.pnc.com^
 ||u47.pnc.com^
 ||ua.indianexpress.com^
+||ubereats.com/_events
+||ubereats.com/_track
 ||ucoz.com/stat/
 ||ucweb.com/collect/
 ||ui-portal.com/1and1/mailcom/s?
