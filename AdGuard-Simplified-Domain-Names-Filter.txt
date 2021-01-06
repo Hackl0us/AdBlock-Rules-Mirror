@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-05T00:18:19.905Z
+! Last modified: 2021-01-06T00:18:25.934Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,10 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||saguvacu.xyz^
+||adcryp.to^
+||bitcointraffic.ltd^
+||laidauni.com^
 ||rapgasyogin.com^
 ||top-performance.best^
 ||anomaloustradingmerciful.com^
@@ -18970,6 +18974,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||log.perfecttitspics.com^
 ||analytics.mbga.jp^
 ||herald.loginside.co.kr^
 ||log002.commutil.kr^
@@ -21356,6 +21361,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.appsflyer.com^
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||smetrics.aem.playstation.com^
+||telemetry.api.playstation.com^
 ||trk2.pinterest.com^
 ||mobiletelemetry.ebay.com^
 ||tracker.departapp.com^
@@ -23300,6 +23307,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||perfdrive.com^
 ||perfectaudience.com^
 ||perfiliate.com^
+||perfops.io^
 ||performancerevenues.com^
 ||performtracking.com^
 ||perimeterx.net^
@@ -25282,6 +25290,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d25ezbwokoefx6.cloudfront.net^
 ||d28g9g3vb08y70.cloudfront.net^
 ||d2as12kgjg8gw5.cloudfront.net^
+||d2axgrpnciinw7.cloudfront.net^
 ||d2cpw6kwpff7n5.cloudfront.net^
 ||d2gbtcuv3w9qyv.cloudfront.net^
 ||d2ibu2ug0mt5qp.cloudfront.net^
@@ -25368,6 +25377,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ecommstats.s3.amazonaws.com^
 ||edge.bredg.com^
 ||edge.sqweb.com^
+||entitlement.auth.adobe.com^
 ||errors.snackly.co^
 ||event-api.contactatonce.co.uk^
 ||event-api.contactatonce.com.au^
@@ -25810,6 +25820,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tc.airfrance.com^
 ||tcheck.outbrainimg.com^
 ||te.supportfreecontent.com^
+||telemetrics.klaviyo.com^
 ||telemetry.api.wmcdp.io^
 ||telemetry.reembed.com^
 ||telemetry.soundcloud.com^
@@ -26015,16 +26026,23 @@ charlestownwyllie.oaklawnnonantum.com^
 ||7q1z79gxsi.global.ssl.fastly.net^
 ||clarium.global.ssl.fastly.net^
 ||dfapvmql-q.global.ssl.fastly.net^
-! Unnecessary third-party scripts
+! Seals, Websecurity, Protection etc. Unnecessary third-party scripts
+||beyondsecurity.com^
 ||cyveillance.com^
+||medals.bizrate.com^
 ||nsg.symantec.com^
 ||privacy-policy.truste.com^
+||scanverify.com^
+||seal.digicert.com^
 ||seal.godaddy.com^
 ||seal.networksolutions.com^
+||seal.qualys.com^
 ||seal.verisign.com^
 ||secure.trust-guard.com^
+||securitymetrics.com^
 ||shopperapproved.com^
 ||siteintercept.allegiancetech.com^
+||verify.authorize.net^
 ||websecurity.norton.com^
 ||widget.trustpilot.com^
 ||widgets.trustedshops.com^
@@ -37180,6 +37198,11 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||xiangyuym.cn^
+||qgdvyvd.cn^
+||wxebgpj.cn^
+||2shol4.cn^
+||1221dhb.xyz^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
