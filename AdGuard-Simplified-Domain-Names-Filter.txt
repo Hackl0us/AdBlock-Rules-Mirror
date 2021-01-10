@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-09T00:21:17.329Z
+! Last modified: 2021-01-10T00:21:56.731Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18501,7 +18501,6 @@ vkcdnservice.appspot.com^
 ||adtilt.com^
 ||adtrack.king.com^
 ||adultadworld.com^
-||adups.com^
 ||adv.mxmcdn.net^
 ||adversal.com^
 ||adverticum.net^
@@ -18988,6 +18987,9 @@ vkcdnservice.appspot.com^
 ||log.snssdk.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
+!
+! relateddigital.com domains
+||visilabs.com^
 !
 ||log.perfecttitspics.com^
 ||analytics.mbga.jp^
@@ -20590,7 +20592,6 @@ t.yesware.com
 ||stat.videonow.ru^
 ||insight.bellmetric.net^
 ||t.afi-b.com^
-||tag.cribnotes.jp^
 ||metrics.news.com.au^
 ||clientlog.midomi.com^
 ||t.webjavaskript.net^
@@ -21289,7 +21290,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hrumpoc.hotels.com^
 ||ibeat.indiatimes.com^
 ||iptracker-lb-*.amazonaws.com^
-||lgr.visilabs.net^
 ||lively-collect-elb-*.amazonaws.com^
 ||log-live.direct.ly^
 ||log.adap.tv^
@@ -21308,7 +21308,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qlog.adap.tv^
 ||qnajplxtvz-a.akamaihd.net^
 ||r.remarketingpixel.com^
-||rt.visilabs.net^
 ||s.frida.vse42.ru^
 ||saber.srvcs.tumblr.com^
 ||smetrics.uhc.com^
@@ -22173,7 +22172,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||christiantop1000.com^
 ||christmalicious.com^
 ||chrumedia.com^
-||chtbl.com^
 ||cintnetworks.com^
 ||circular-counters.com^
 ||ck-cdn.com^
@@ -25202,6 +25200,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cahf4eed.mooo.com^
 ||canvas-ping.conduit-data.com^
 ||canvas-usage-v2.conduit-data.com^
+||capi.connatix.com^
 ||capture.condenastdigital.com^
 ||capture.trackjs.com^
 ||carl.pubsvs.com^
@@ -25712,6 +25711,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rs.sinajs.cn^
 ||rss.tmgrup.com.tr^
 ||rt.flix360.com^
+||rtg-endpoint.global.ssl.fastly.net^
 ||rtt.campanja.com^
 ||rum.azion.com^
 ||rum.azioncdn.net^
@@ -26081,6 +26081,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||securitymetrics.com^
 ||shopperapproved.com^
 ||siteintercept.allegiancetech.com^
+||trusted-web-seal.cybertrust.ne.jp^
 ||verify.authorize.net^
 ||websecurity.norton.com^
 ||widget.trustpilot.com^
@@ -26671,6 +26672,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d-markets.net^
 ||deteql.net^
 ||docodoco.jp^
+||e-click.jp^
 ||e-kaiseki.com^
 ||ebis.ne.jp^
 ||ec-concier.com^
@@ -26678,6 +26680,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||eltex.co.jp^
 ||f-counter.jp^
 ||f-counter.net^
+||fw-ad.jp^
 ||genieessp.jp^
 ||gmodmp.jp^
 ||gsspcln.jp^
@@ -26956,6 +26959,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sayyac.com^
 ||sayyac.net^
 ||sitetistik.com^
+||visilabs.net^
 ||webservis.gen.tr^
 ||zirve100.com^
 ! Ukranian
@@ -27236,6 +27240,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analyzer51.fc2.com^
 ||asumi.shinobi.jp^
 ||bidder.mediams.mb.softbank.jp^
+||bvr.ast.snva.jp^
+||cookie.sync.usonar.jp^
 ||imgstat.ameba.jp^
 ||ip2c.landscape.co.jp^
 ||ipcheck.blogsys.jp^
@@ -27252,6 +27258,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t.adlpo.com^
 ||t.felmat.net^
 ||t.seesaa.net^
+||tag.cribnotes.jp^
 ||torimochi.line-apps.com^
 ||track.thebase.in^
 ||tracker.520call.me^
@@ -32266,8 +32273,6 @@ adbetnet.com
 ||ukbet99.com^
 ||uzmanreklam.com^
 ||videoustu.com^
-||visilabs.com^
-||visilabs.net^
 ||winaffiliates.com^
 ||xpornoizlex.net^
 ||xyztanitim.com^
@@ -34123,7 +34128,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||7cbwus.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34300,6 +34304,7 @@ adbetnet.com
 ||77power.com^
 ||7891655.cn^
 ||7a096v.cn^
+||7cbwus.cn^
 ||7dah8.com^
 ||7gg.cc^
 ||7jiajiao.com^
@@ -36500,6 +36505,7 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
+||d.8181zx.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
@@ -37251,16 +37257,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||yjxqy.com^
-||m06nev.com^
-||zhmyq.cn^
-||ql01t4.com^
-||tzh019.cn^
-||aoyou4.top^
-||xiangyuym.cn^
-||wangjulm.com^
-||ahwczn.cn^
-||dacedsfa.cn^
+||huosuniao.com^
+||mohaijishu.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37494,6 +37492,7 @@ adbetnet.com
 ||ahunai.cn^
 ||ahunui.cn^
 ||ahw3.com^
+||ahwczn.cn^
 ||aibangzs.com^
 ||aicydb.com^
 ||aikan6.com^
@@ -37539,6 +37538,7 @@ adbetnet.com
 ||aox7.xyz^
 ||aoyou2.top^
 ||aoyou3.top^
+||aoyou4.top^
 ||apdingqian.com^
 ||apjiangte.com^
 ||apmengxin.com^
@@ -37789,6 +37789,7 @@ adbetnet.com
 ||d5a5a.xyz^
 ||d663q.cn^
 ||d72l4.com^
+||dacedsfa.cn^
 ||dachadu.cn^
 ||dadawm.cc^
 ||dailiq.cn^
@@ -38477,6 +38478,7 @@ adbetnet.com
 ||lzida.com^
 ||lzkjsj.com^
 ||lzytt.com^
+||m06nev.com^
 ||mababa.info^
 ||mabioe.cn^
 ||maicaoren.cn^
@@ -38746,6 +38748,7 @@ adbetnet.com
 ||qjxszp.cn^
 ||qkptx.com^
 ||qkykxrm.cn^
+||ql01t4.com^
 ||qlaot.com^
 ||qlssbq.cn^
 ||qmlcdlo.cn^
@@ -39036,6 +39039,7 @@ adbetnet.com
 ||tymsyx.com^
 ||tyrghj.cn^
 ||tyyjzs.cn^
+||tzh019.cn^
 ||u05m.cn^
 ||u0r9.cn^
 ||u2c8.cn^
@@ -39103,6 +39107,7 @@ adbetnet.com
 ||w5wm7.cn^
 ||wabizc.cn^
 ||wagenlux.cn^
+||wangjulm.com^
 ||wangkeduo.cn^
 ||wangliqin.top^
 ||wangqing7.top^
@@ -39209,6 +39214,7 @@ adbetnet.com
 ||xiandafood.cn^
 ||xiangchim0.com^
 ||xiangwangdesh.com^
+||xiangyuym.cn^
 ||xiansenmeng.cn^
 ||xiaobingmai.cn^
 ||xiaogouzhuanqian.cn^
@@ -39332,6 +39338,7 @@ adbetnet.com
 ||yizhijin.cn^
 ||yjegf.com^
 ||yjiaj.com^
+||yjxqy.com^
 ||ykanx.com^
 ||yknhcl.com^
 ||ykpbgqc.top^
@@ -39433,6 +39440,7 @@ adbetnet.com
 ||zhivalley.cn^
 ||zhixd.cn^
 ||zhiyaowan.cn^
+||zhmyq.cn^
 ||zhongchengzp.com^
 ||zhongfujiaoyu.cn^
 ||zhongwangmy.cn^
