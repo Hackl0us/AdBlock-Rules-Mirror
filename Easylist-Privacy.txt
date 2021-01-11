@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101100039
+! Version: 202101110000
 ! Title: EasyPrivacy
-! Last modified: 10 Jan 2021 00:39 UTC
+! Last modified: 11 Jan 2021 00:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1021,6 +1021,7 @@
 /beacon/cpcookie.
 /beacon/event/*
 /beacon/event?
+/beacon/get/*
 /beacon/metrics
 /beacon/perf
 /beacon/performance?
@@ -2133,6 +2134,7 @@
 /getcookie.php?
 /getcount?ids=
 /getIbleStats?
+/getlog.gif?
 /getnortonsealimaget.js
 /getPixels?*&referer=
 /getPixelSso
@@ -4285,6 +4287,7 @@
 /tPx.gif?
 /tr.gif?
 /tr/p.gif?
+/tr/pageview/*
 /tracciamento.php?
 /traccoon.js
 /tracdelight.js
@@ -9765,12 +9768,15 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ! Japanese
 ||accesstrade.net^$third-party
 ||admatrix.jp^$third-party
+||adplan7.com^$third-party
 ||adpon.jp^$third-party
 ||af-z.jp^$third-party
 ||afi-b.com^$third-party
 ||aid-ad.jp^$third-party
 ||amoad.com^$third-party
 ||analyticsip.net^$third-party
+||ar-x.site^$third-party
+||aspservice.jp^$third-party
 ||bigmining.com^$third-party
 ||blogranking.net^$third-party
 ||cetlog.jp^$third-party
@@ -9797,6 +9803,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gmodmp.jp^$third-party
 ||gmossp-sp.jp^$third-party
 ||gsspcln.jp^$third-party
+||gyro-n.com^$third-party
 ||hitgraph.jp^$third-party
 ||i2ad.jp^$third-party
 ||i2i.jp^$third-party
@@ -9810,6 +9817,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||letro.jp^$third-party
 ||macromill.com^$third-party
 ||mobylog.jp^$third-party
+||moshimo.com^$third-party
 ||msgs.jp^$third-party
 ||nex8.net^$third-party
 ||omiki.com^$third-party
@@ -9825,6 +9833,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||research-artisan.com^$third-party
 ||rtoaster.jp^$third-party
 ||seesaa.jp^$third-party
+||segs.jp^$third-party
 ||sibulla.com^$third-party
 ||smart-counter.net^$third-party
 ||smartnews-ads.com^$third-party
@@ -10551,7 +10560,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||canecto.info/analytics.js
 ||canvas-ping.conduit-data.com^
 ||canvas-usage-v2.conduit-data.com^
-||capi.connatix.com^
+||capi.connatix.com/rtb/
+||capi.connatix.com/tr/
 ||capture.condenastdigital.com^
 ||capture.trackjs.com^$third-party
 ||carambo.la/analytics/
@@ -10619,6 +10629,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cloudfront.net/analytics_$script
 ||cloudfront.net/analyticsengine/
 ||cloudfront.net/autotracker
+||cloudfront.net/beaver.js
 ||cloudfront.net/bti/
 ||cloudfront.net/code/keen-2.1.0-min.js
 ||cloudfront.net/dough/*/recipe.js
@@ -12028,6 +12039,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tm-awx.com/felix.min.js
 ||tm.tradetracker.net^
 ||tm.vendemore.com^
+||to.getnitropack.com^
 ||toast.com/log
 ||toast.com/sendid?
 ||top-fwz1.mail.ru^
@@ -12466,6 +12478,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||privacy-policy.truste.com^$third-party
 ||scanverify.com^$third-party
 ||seal.digicert.com^$third-party
+||seal.globalsign.com^$third-party
 ||seal.godaddy.com^$third-party
 ||seal.networksolutions.com^$third-party
 ||seal.qualys.com^$third-party
@@ -12992,6 +13005,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||asumi.shinobi.jp^
 ||bidder.mediams.mb.softbank.jp^
 ||bvr.ast.snva.jp^
+||bvr.snva.jp^
 ||cnobi.jp^*/js/imp.
 ||cookie.sync.usonar.jp^
 ||counter2.blog.livedoor.com^
@@ -13021,6 +13035,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pia.jp/images/pt.gif$image
 ||popin.cc/td_js_
 ||quant.jp/track/
+||ranking.apis.sankei-digital.co.jp^
 ||rcm.shinobi.jp^
 ||rd.rakuten.co.jp^$script
 ||rlog.popin.cc^
@@ -13030,6 +13045,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||seesaa.jp/ot_square.pl?
 ||shinobi.jp/track?
 ||shinobi.jp/zen?
+||sitest.jp/tracking/
 ||snva.jp/api/bcon/basic?
 ||snva.jp/javascripts/reco/
 ||speee-ad.akamaized.net^
@@ -13042,6 +13058,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.seesaa.net^
 ||tag.cribnotes.jp^
 ||torimochi.line-apps.com^
+||tr.reco.combz.jp^
 ||track.thebase.in^
 ||tracker.520call.me^
 ||userdive.com^$third-party
@@ -15112,6 +15129,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||soundcloud.com/v1/events
 ||sourceforge.net/images/mlopen_post.html?
 ||sourceforge.net/log/
+||sourcepoint.dexerto.com^
 ||sourcepoint.vice.com^$image
 ||sovereignbank.com/utils/track.asp
 ||sp-mms.weather.com^
@@ -17771,6 +17789,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||clearcode.cc/piwik.pro/$image,domain=piwik.pro
 @@||clicsante.ca^*/angulartics-google-tag-manager.min.js$domain=clicsante.ca
 @@||cloud.talend.com/api/ipaas/services/analytics/$~third-party,xmlhttprequest
+@@||cloudflareinsights.com/beacon.min.js$script,domain=app.uniswap.org
 @@||cloudfront.net/atrk.js$domain=luxuryrealestate.com
 @@||cloudfront.net/opentag-*.js$domain=telegraph.co.uk
 @@||cloudfront.net/vis_opt.js$script,domain=gre.magoosh.com
@@ -18419,6 +18438,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||sanspo.com/parts/chartbeat/$xmlhttprequest
 @@||suumo.jp/sp/js/beacon.js$script,~third-party
 @@||uliza.jp/IF/RequestVideoTag.aspx$script,domain=kobe-np.co.jp|toonippo.co.jp
+@@||useinsider.com/ins.js$domain=pizzahut.jp
 @@||webcdn.stream.ne.jp^*/referrer.js$domain=stream.ne.jp
 @@||yu.xyz.mn/images/event.gif?$image,~third-party
 ! 
@@ -18498,7 +18518,9 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ! 
 ! ---------- Romanian ----------
 ! 
+@@||googletagmanager.com/gtm.js$script,domain=olx.ro
 @@||homebank.ro/public/HomeBankLogin/js/fingerprint/fingerprint.js
+@@||imobiliare.ro/js/gtm.js$script,~third-party
 ! 
 ! ---------- Russian ----------
 ! 
