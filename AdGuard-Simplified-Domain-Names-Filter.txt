@@ -3,10 +3,23 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-11T00:21:39.071Z
+! Last modified: 2021-01-12T00:24:41.684Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
+!
+! Source name: AdGuard Base filter ad servers
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
+!
+!
+! Section contains list of advertising networks
+!
+! The rules with hints are at the end of file
+!
+!! https://a.bestcontentitem.top/warp/*?r=
+!
+||hosupshunk.com^
+||download-file.ml^
 !+ NOT_OPTIMIZED
 ||resumersvo.fun^
 !+ NOT_OPTIMIZED
@@ -27,7 +40,6 @@
 ||top-performance.best^
 ||anomaloustradingmerciful.com^
 ||jeerszitstoke.com^
-||adieusyaktop.com^
 ||pc20160301.com^
 ||pc180101.com^
 ||cbmiocw.com^
@@ -1147,7 +1159,6 @@ www.llllllllllll.net^
 ||jiwvbck.com^
 ||pgcode.org^
 ||cashpartners.eu^
-||clickaine.com^
 ||nmpmgmldzvrmra.com^
 ||ojiffvsutzrx.com^
 ||yoredi.com^
@@ -1806,7 +1817,6 @@ www.llllllllllll.net^
 ||d2j042cj1421wi.cloudfront.net^
 ||d3ithbwcmjcxl7.cloudfront.net^
 ||rek.www.wp.pl^
-||d3mr7y154d2qg5.cloudfront.net^
 ||centent.streamp1ay.cc^
 ||dz5bomaog2c5t.cloudfront.net^
 ||s.remonti.org^
@@ -1879,7 +1889,6 @@ www.llllllllllll.net^
 ||tm-banners.gamingadult.com^
 ||blyxb.27667.club^
 ||delivery.porn.com^
-||d10lumateci472.cloudfront.net^
 ||d1qc76gneygidm.cloudfront.net^
 ||d9tnvwv7i2n85.cloudfront.net^
 ||d35r45qhjmgs3g.cloudfront.net^
@@ -1889,7 +1898,6 @@ www.llllllllllll.net^
 ||d985a9d2clzq5.cloudfront.net^
 ||d2kz60b0gq4lg.cloudfront.net^
 ||d3ud741uvs727m.cloudfront.net^
-||d1nmxiiewlx627.cloudfront.net^
 ||dc5ig2fc8lg83.cloudfront.net^
 ||d3q33rbmdkxzj.cloudfront.net^
 ||ads2.contentabc.com^
@@ -2727,6 +2735,7 @@ vkcdnservice.appspot.com^
 ||adhealers.com^
 ||adhits.cf^
 ||adhoc4.net^
+||adieusyaktop.com^
 ||adifficiente.top^
 ||aditingunfav.club^
 ||adjectivates.xyz^
@@ -3360,6 +3369,7 @@ vkcdnservice.appspot.com^
 ||baysexthy.com^
 ||bb1acb0ea5ddb1fed8.com^
 ||bb475d71fa0b1b2.com^
+||bbaahc.com^
 ||bbckaxifryxcno.com^
 ||bbitetuncmwfjd.com^
 ||bbnfcfrvjs.com^
@@ -4038,6 +4048,7 @@ vkcdnservice.appspot.com^
 ||cloakroomobsceneredress.com^
 ||cloudgallery.net^
 ||cloudimagesa.com^
+||cluethydash.com^
 ||cluodlfare.com^
 ||clxgmlpfkoj.com^
 ||clzfurcqmlgw.com^
@@ -4418,6 +4429,7 @@ vkcdnservice.appspot.com^
 ||definitedikdra.site^
 ||defutohy.pro^
 ||dehydratedpredestinationplenty.com^
+||deicemaptwin.com^
 ||deiligejenter.com^
 ||deiqehvcdnntg.com^
 ||dejourned.club^
@@ -4612,6 +4624,7 @@ vkcdnservice.appspot.com^
 ||dmsqzqvuapb.com^
 ||dmvbdfblevxvx.com^
 ||dmypkmieippdq.com^
+||dnemkhkbsdbl.com^
 ||dnkwgzmuxv.com^
 ||dnyjhikistbhvg.com^
 ||dnzwjlbknhe.com^
@@ -7066,6 +7079,7 @@ vkcdnservice.appspot.com^
 ||kagrooxa.net^
 ||kaiphapt.net^
 ||kakyomloctqiu.com^
+||kalespurhoes.com^
 ||kamnebo.info^
 ||kapphtskno.com^
 ||kapuaawase.com^
@@ -10142,6 +10156,7 @@ vkcdnservice.appspot.com^
 ||rindicalapa.fun^
 ||rinedcountilconsiden.info^
 ||ringassum.club^
+||ringsnutdaze.com^
 ||rintellsfundrew.info^
 ||riodovernprovi.club^
 ||riokl.com^
@@ -10443,6 +10458,7 @@ vkcdnservice.appspot.com^
 ||scripsjeermint.com^
 ||scrutchother.club^
 ||scswlgxttvekd.com^
+||scudspulsedrail.com^
 ||sculifinanthools.site^
 ||scvdxxgbvoz.com^
 ||sczcxmaizy.com^
@@ -10777,6 +10793,7 @@ vkcdnservice.appspot.com^
 ||specimensspittleentrepreneur.com^
 ||speckdiversitypiety.com^
 ||specularpro.site^
+||spedhowusing.com^
 ||speechmomentarily.com^
 ||speedlinkdown.com^
 ||speedometergreatness.com^
@@ -11089,6 +11106,7 @@ vkcdnservice.appspot.com^
 ||teipgupp.com^
 ||tek-tek-trek.com^
 ||tel-tel-fie.com^
+||telegramspun.com^
 ||telephants.club^
 ||telesscolitical.club^
 ||televeniesuc.pro^
@@ -12621,6 +12639,7 @@ vkcdnservice.appspot.com^
 ||xxutoyreg.com^
 ||xxxadu.com^
 ||xxxbyhxp.com^
+||xygediwe.xyz^
 ||xymtglljft.com^
 ||xywwomayptsd.com^
 ||xzdlleawpx.com^
@@ -18987,6 +19006,10 @@ vkcdnservice.appspot.com^
 ! relateddigital.com domains
 ||visilabs.com^
 !
+||counter.daara.kr^
+||tr.line.me^
+||log22.makeshop.co.kr^
+||piclick.kr^
 ||log.perfecttitspics.com^
 ||analytics.mbga.jp^
 ||herald.loginside.co.kr^
@@ -21385,6 +21408,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.appsflyer.com^
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||ad-creative.projectcarmen.com^
+||analytics.projectcarmen.com^
+||monitoring-sdk.experimentation.intuit.com^
+||logging.api.intuit.com^
 ||analytics.prod.mybuddy.ai^
 ||logs.amap.com^
 ||edmanalytics.pandahall.com^
@@ -22720,6 +22747,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hentaicounter.com^
 ||hexagon-analytics.com^
 ||heyhelga.net^
+||heyloyalty.com^
 ||heystaks.com^
 ||hiconversion.com^
 ||hif.to^
@@ -23318,6 +23346,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pages05.net^
 ||pagesense.io^
 ||paidstats.com^
+||parametre.online^
 ||parklogic.com^
 ||parrable.com^
 ||pass-1234.com^
@@ -27247,6 +27276,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bvr.ast.snva.jp^
 ||bvr.snva.jp^
 ||cookie.sync.usonar.jp^
+||delivery.satr.jp^
 ||imgstat.ameba.jp^
 ||ip2c.landscape.co.jp^
 ||ipcheck.blogsys.jp^
@@ -32415,6 +32445,8 @@ adbetnet.com
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||adtechjp.com^
+||bannerfarm.aolp.jp^
 ||koukoku.red^
 ||afi-b.com^
 ||p.storage-ad.com^
@@ -33517,9 +33549,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Jan 2021 15:56 UTC+7
-! Version: 2101081556
-! Blocked: 607 rules
+! Last modified: 11 Jan 2021 15:25 UTC+7
+! Version: 2101111525
+! Blocked: 626 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33577,7 +33609,6 @@ adbetnet.com
 ||clevernet.vn^
 ||clickbuy.bz^
 ||contineljs.com^
-||d2ox6x0y9xhicd.cloudfront.net^
 ||dable.io^
 ||discovery.api.zaloapp.com^
 ||donglogs.com^
@@ -33627,6 +33658,7 @@ adbetnet.com
 ||phanquang.vn^
 ||philacct.com^
 ||photo-ads.zaloapp.com^
+||piads.vn^
 ||pinetech.vn^
 ||polyad.net^
 ||proadscdn.com^
@@ -33651,8 +33683,12 @@ adbetnet.com
 ||sporttv.today^
 ||static-ads.zaloapp.com^
 ||stats.zaloapp.com^
+||subiz-cdn.com^
 ||surfcountor.com^
+||takataka.coccoc.com^
+||testcentre.vn^
 ||tracking.playzing.g6.zing.vn^
+||trk-pcweb.api.zaloapp.com^
 ||tuiiu.com^
 ||vads.net.vn^
 ||vads.vn^
@@ -33687,9 +33723,11 @@ adbetnet.com
 ||ad.sunflower.vn^
 ||ad.vkool.net^
 ||adadmin.headlines.pw^
+||adapi.tuyensinh247.com^
 ||adc.quantrimang.com^
 ||adchoice.com^
 ||adclient.vietnamnetjsc.vn^
+||addtop.trangvangvietnam.com^
 ||adfox.vn^
 ||adjusts.info^
 ||adm.phunuvagiadinh.vn^
@@ -33706,6 +33744,7 @@ adbetnet.com
 ||ads.fptplay.net.vn^
 ||ads.home.vn^
 ||ads.ictnews.vn^
+||ads.itsgroup.vn^
 ||ads.khoahocdoisong.vn^
 ||ads.kiemsat.vn^
 ||ads.lamchame.vn^
@@ -33758,6 +33797,7 @@ adbetnet.com
 ||avoadsservices.com^
 ||banhtv.org^
 ||banner.5giay.vn^
+||banner.trangvangvietnam.com^
 ||banner.vietnamfinance.vn^
 ||bgadx.com^
 ||bluemaulpuffs.com^
@@ -33803,6 +33843,7 @@ adbetnet.com
 ||phimmedia03.com^
 ||polyad.galaxypub.vn^
 ||qc.designervn.net^
+||qc.itsgroup.vn^
 ||qcv5.blogtruyen.vn^
 ||quangcao.24h.com.vn^
 ||quangcao.baovannghe.com.vn^
@@ -33837,6 +33878,7 @@ adbetnet.com
 ||vnd247.vn^
 ||vtvcab.xyz^
 ||widget.headlines.pw^
+||a.vtvdigital.vn^
 ||addlog.thuvienphapluat.vn^
 ||admin.phunusuckhoe.vn^
 ||alexajstrack.com^
@@ -33851,9 +33893,11 @@ adbetnet.com
 ||analytics.sohatv.vn^
 ||analytics.thethao247.org^
 ||analytics.tiki.vn^
+||analytics.viblo.asia^
 ||analytics.videocloud.top^
 ||analytics.vietnamfinance.vn^
 ||analytics.vnreview.vn^
+||api.sbz.vn^
 ||apl.headlines.pw^
 ||clientinfo.phimmoizz.net^
 ||counter.ntdvn.com^
@@ -33876,6 +33920,7 @@ adbetnet.com
 ||log.baonghean.vn^
 ||log.baophapluat.vn^
 ||log.batdongsan.com.vn^
+||log.beecost.vn^
 ||log.daidoanket.vn^
 ||log.dantocmiennui.vn^
 ||log.doanhnhan.vn^
@@ -33884,6 +33929,7 @@ adbetnet.com
 ||log.kienthuc.net.vn^
 ||log.ngaynay.vn^
 ||log.nhipcaudautu.vn^
+||log.oto.com.vn^
 ||log.sggp.org.vn^
 ||log.tapchimattran.vn^
 ||log.tapchitaichinh.vn^
@@ -33891,6 +33937,7 @@ adbetnet.com
 ||log.theleader.vn^
 ||log.tienphong.vn^
 ||log.tinnhanhchungkhoan.vn^
+||log.tinxe.vn^
 ||log.vietnamdaily.net.vn^
 ||log.vietnamfinance.vn^
 ||log.vietnamplus.vn^
@@ -33915,7 +33962,9 @@ adbetnet.com
 ||s.kenh14.vn^
 ||s.soha.vn^
 ||s.tuoitre.vn^
+||sentry.mediacdn.vn^
 ||sharefb.cnnd.vn^
+||st-a.vtvdigital.vn^
 ||stat.headlines.pw^
 ||static.accesstrade.vn^
 ||static.subiz.com^
@@ -33947,6 +33996,7 @@ adbetnet.com
 ||tracking.fado.vn^
 ||tracking.fff.com.vn^
 ||tracking.hongtinnhanh.com^
+||tracking.tinxe.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
 ||tracking.vtc.vn^
@@ -33962,6 +34012,7 @@ adbetnet.com
 ||webpush.bizfly.vn^
 ||webpush.todo.vn^
 ||widget.sbz.vn^
+||widget.subiz.net^
 ||widget.subiz.xyz^
 ||11bet.com^
 ||11bet.net^
@@ -34135,8 +34186,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||yzbqz.com^
-||tlmybj.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35646,6 +35695,7 @@ adbetnet.com
 ||tjwmtrw.cn^
 ||tjys88.com^
 ||tkd777.cn^
+||tlmybj.cn^
 ||tnarzc.com^
 ||tngmn.com^
 ||togo666.com^
@@ -36006,6 +36056,7 @@ adbetnet.com
 ||yyy6999.com^
 ||yyylg.cn^
 ||yzaosite.com^
+||yzbqz.com^
 ||yzh360.com^
 ||yzwr588.com^
 ||yzygo.com^
@@ -36275,6 +36326,7 @@ adbetnet.com
 ||dybee.tv^*.php
 ||dydab.com^
 ||dysitecdn.com^*.php
+||dytt.com^*yb.js
 ||e.yycqc.com^
 ||eap.big5.enorth.com.cn^
 ||eap.enorth.com.cn^
@@ -37266,8 +37318,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||qysyyg.com^
-||erkesi.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37906,6 +37956,7 @@ adbetnet.com
 ||enq5ur.cn^
 ||epanr.com^
 ||epcqyac.cn^
+||erkesi.cn^
 ||erocw.com^
 ||esuzm.cn^
 ||esyzdb.com^
@@ -38777,6 +38828,7 @@ adbetnet.com
 ||qwesgwg.cn^
 ||qxyu.top^
 ||qyhwqie.cn^
+||qysyyg.com^
 ||qyttl.cn^
 ||qzbxfs.com^
 ||qzdag.com^
@@ -39548,6 +39600,11 @@ adbetnet.com
 ||sa669.com^
 ||xdh0808.com^
 ||yunsennet.com^
+||3337735.com^
+||3337736.com^
+||3337780.com^
+||alime-pic.oss-cn-hangzhou.aliyuncs.com^
+||dietfd.com^
 ||webkaka.com^*x50.
 ||69lm.com.cn^
 ||qhdfxkj.com^
