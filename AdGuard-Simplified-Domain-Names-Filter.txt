@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-13T00:31:55.130Z
+! Last modified: 2021-01-14T00:38:58.858Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,12 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||runnersgunpowder.com^
+||livezombymil.com^
+||ilohfbiph.com^
+||nichedlinks.com^
+||departmentunsuccessful.com^
+||xcsypkknp.com^
 ||selfswayjay.com^
 ||0x01n2ptpuz3.com^
 ||spyglass.reklamko.pro^
@@ -141,7 +147,6 @@
 ||srtrak.com^
 ||horacomerciar.com^
 ||yogar2ti8nf09.com^
-||bulletprofitpop.com^
 ||bulletprofitadclick.com^
 ||tombspyelates.com^
 ||nwa88nx9uxzh.com^
@@ -2238,6 +2243,7 @@ vkcdnservice.appspot.com^
 ||23205523023daea6.com^
 ||2334ea708ab6d79.com^
 ||233fb5b59351.com^
+||24-sportnews.com^
 ||2444efc8cd8e.com^
 ||24ad89fc2690ed9369.com^
 ||24smile.org^
@@ -3692,6 +3698,7 @@ vkcdnservice.appspot.com^
 ||bulletfeedspy.com^
 ||bulletindualpartial.com^
 ||bulletprofitads.com^
+||bulletprofitpop.com^
 ||bullionyield.com^
 ||bulovuni.pro^
 ||bumblecash.com^
@@ -6661,6 +6668,7 @@ vkcdnservice.appspot.com^
 ||interdfp.com^
 ||interferingchauffeurorbit.com^
 ||intermediaryinvoluntaryflippant.com^
+||internewsweb.com^
 ||interst12.com^
 ||intimidatingclinchwily.com^
 ||intimidatinggodlessketchup.com^
@@ -7886,6 +7894,7 @@ vkcdnservice.appspot.com^
 ||mediaappletree.com^
 ||mediadisclose.com^
 ||mediaserf.net^
+||mediatechbuzz.com^
 ||medyagundem.com^
 ||meehaina.net^
 ||meepwrite.com^
@@ -8254,6 +8263,7 @@ vkcdnservice.appspot.com^
 ||myrtlerepresentationathwart.com^
 ||mytrackf73.com^
 ||myuffcmf.com^
+||mywondertrip.com^
 ||mzjotkigwu.com^
 ||mzmnrczlsqtlya.com^
 ||mzmtpdcouoa.com^
@@ -10402,6 +10412,7 @@ vkcdnservice.appspot.com^
 ||salarmers.club^
 ||saliencege.top^
 ||sallyminority.com^
+||samage-bility.icu^
 ||samtrg.com^
 ||sanddevelto.fun^
 ||sankaudacityrefine.com^
@@ -11294,6 +11305,7 @@ vkcdnservice.appspot.com^
 ||topdisplaycontent.com^
 ||topdisplaynetwork.com^
 ||toplesstacticsdepend.com^
+||topmaincash.com^
 ||topperformance.xyz^
 ||topperyregard.fun^
 ||topprofitablecpm.com^
@@ -13363,6 +13375,7 @@ vkcdnservice.appspot.com^
 ||addoor.net^
 ||addroid.com^
 ||addroplet.com^
+||addvantagetechnology.com^
 ||addynamix.com^
 ||addynamo.net^
 ||adecn.com^
@@ -17281,7 +17294,6 @@ vkcdnservice.appspot.com^
 ||vibrant.co^
 ||vibrantmedia.com^
 ||vidcoin.com^
-||vidcpm.com^
 ||video-loader.com^
 ||videoadex.com^
 ||videoclick.ru^
@@ -25615,6 +25627,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||metrics.brightcove.com^
 ||metrics.ctvdigital.net^
 ||metrics.el-mundo.net^
+||metrics.getvitals.io^
 ||metrics.readme.io^
 ||metrics.scribblelive.com^
 ||metrics.sonymusicd2c.com^
@@ -25871,6 +25884,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tag-manager.playbuzz.com^
 ||tag.aumago.com^
 ||tag.brandcdn.com^
+||tag.elevaate.io^
 ||tag.myplay.com^
 ||tag.rightmessage.com^
 ||tag.rmp.rakuten.com^
@@ -27631,6 +27645,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||xsa2zq7q2l.ru^
 ||tiz.jsite.top^
 ||news-network.ru^
 ||alboist7crphfrg.ru^
@@ -27668,6 +27683,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||farantitid.racing^
 ||zgxrht.com^
 ||gswtol.com^
+||yxhstwzjbu.info
 ||sayhinews.com^
 ||traffer.biz^
 ||tophitbit.com^
@@ -33080,6 +33096,7 @@ adbetnet.com
 ||onlymega.com^
 ||paidlinkz.net^
 ||paidsolution.de^
+||partner-versicherung.de^
 ||performance-netzwerk.de^
 ||performanceanalyser.net^
 ||planetactive.com^
@@ -33538,7 +33555,7 @@ adbetnet.com
 ||uoarbhxfyygn.com^
 ||uofmnbkm.com^
 ||useads.com^
-||vidcpm.com^third-party
+||vidcpm.com^
 ||vrewpywootyu.com^
 ||wbaogaqvrukprx.com^
 ||webiklan.com^
@@ -33561,9 +33578,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Jan 2021 15:01 UTC+7
-! Version: 2101121501
-! Blocked: 631 rules
+! Last modified: 13 Jan 2021 20:49 UTC+7
+! Version: 2101132049
+! Blocked: 636 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33668,6 +33685,7 @@ adbetnet.com
 ||nv-ad*.24hstatic.com^
 ||ohchat.net^
 ||oncustomer.asia^
+||onfluencer.net^
 ||phanquang.vn^
 ||philacct.com^
 ||photo-ads.zaloapp.com^
@@ -33924,6 +33942,7 @@ adbetnet.com
 ||event.vntoday.news^
 ||fa.fpt.shop^
 ||follow.vnay.vn^
+||google-shopping.sapoapps.vn^
 ||hit.123c.vn^
 ||invite.baomoi.com^
 ||la.vietid.net^
@@ -33954,6 +33973,8 @@ adbetnet.com
 ||log.tienphong.vn^
 ||log.tinnhanhchungkhoan.vn^
 ||log.tinxe.vn^
+||log.trithuctructuyen.com.vn^
+||log.trithuctructuyen.vn^
 ||log.vietnamdaily.net.vn^
 ||log.vietnamfinance.vn^
 ||log.vietnamplus.vn^
@@ -34063,6 +34084,7 @@ adbetnet.com
 ||bong88net.com^
 ||bong99.com^
 ||bong99.fun^
+||bong99.vip^
 ||cacuoc247.com^
 ||cacuoc79.com^
 ||casino888vn.com^
@@ -34203,8 +34225,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||govjiangsu.cn^
-||govbeijing.cn^
+||iwwacgx.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34895,8 +34916,10 @@ adbetnet.com
 ||gouhei.top^
 ||gouweida.cn^
 ||gouzhibao.cn^
+||govbeijing.cn^
 ||govgift.com^
 ||govhunan.cn^
+||govjiangsu.cn^
 ||gowin01.com^
 ||gqswg.com^
 ||greenbetterkids.com^
@@ -37337,8 +37360,10 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||gongxifacai21.top^
-||wenjianzhongxin.com^*.gif
+||9weg7b.com^
+||iibahmd.cn^
+||daylskg.cn^
+||weinin99.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -38109,6 +38134,7 @@ adbetnet.com
 ||gnncc.cc^
 ||gobali.cn^
 ||gongfanglong.cn^
+||gongxifacai21.top^
 ||goodkee.cn^
 ||goodwold.top^
 ||googlespider1.cn^
@@ -39221,6 +39247,7 @@ adbetnet.com
 ||weiziqiang.top^
 ||welted.cn^
 ||wenbangsh.com.cn^
+||wenjianzhongxin.com^*.gif
 ||wenzhougy.cn^
 ||wervp.com^
 ||wfaffwshop.xyz^
