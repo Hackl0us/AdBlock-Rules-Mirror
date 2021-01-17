@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-16T00:37:02.893Z
+! Last modified: 2021-01-17T00:33:19.320Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -21,10 +21,8 @@
 ||mxuiso.com^
 ||runnersgunpowder.com^
 ||livezombymil.com^
-||ilohfbiph.com^
 ||nichedlinks.com^
 ||departmentunsuccessful.com^
-||xcsypkknp.com^
 ||selfswayjay.com^
 ||0x01n2ptpuz3.com^
 ||spyglass.reklamko.pro^
@@ -6274,6 +6272,7 @@ vkcdnservice.appspot.com^
 ||hingenerall.club^
 ||hinkslovel.top^
 ||hiouschron.club^
+||hiperdex.ml^
 ||hipfowlzeal.cam^
 ||hiredringjuices.com^
 ||hislationaler.club^
@@ -6588,6 +6587,7 @@ vkcdnservice.appspot.com^
 ||illazkka.com^
 ||illustrationmanlypageant.com^
 ||ilmijlktgjx.com^
+||ilohfbiph.com^
 ||ilsuuqcab.com^
 ||ilypsycholasg.club^
 ||ilzjjdujrgaa.com^
@@ -9169,6 +9169,7 @@ vkcdnservice.appspot.com^
 ||pcon.space^
 ||pcrhfkuwp.com^
 ||pcskkmgjnubi.com^
+||pctsrv.com^
 ||pd-news.com^
 ||pdgxtdughbeks.com^
 ||pdmtmribgaqctz.com^
@@ -12470,6 +12471,7 @@ vkcdnservice.appspot.com^
 ||xclgusxcdjd.com^
 ||xclofrfa.com^
 ||xcqgkkccjjucf.com^
+||xcsypkknp.com^
 ||xcttavcu.com^
 ||xcvibxsdchxh.com^
 ||xcvtpwxz.com^
@@ -23202,6 +23204,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mpstat.us^
 ||msecure108.com^
 ||msgapp.com^
+||msgfocus.com^
 ||msgtag.com^
 ||msparktrk.com^
 ||mstat.ga^
@@ -23585,6 +23588,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rep0pkgr.com^
 ||repixel.co^
 ||report-uri.io^
+||requestmetrics.com^
 ||research-tool.com^
 ||reson8.com^
 ||responsetap.com^
@@ -24247,6 +24251,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||webtrends-optimize.com^
 ||webtrendslive.com^
 ||webtuna.com^
+||wecantrack.com^
 ||wemfbox.ch^
 ||wgsas.com^
 ||wheredoyoucomefrom.ovh^
@@ -24963,6 +24968,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||quizzicalzephyr.com^
 ||railwayreason.com^
 ||raintwig.com^
+||rangecake.com^
 ||raresummer.com^
 ||readymoon.com^
 ||realizerecess.com^
@@ -26473,6 +26479,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||galaxiemedia.fr^
 ||geocompteur.com^
 ||geovisite.ovh^
+||getjad.io^
 ||goutee.top^
 ||graphinsider.com^
 ||hunkal.com^
@@ -34249,8 +34256,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||fangniaowang.net^
-||ue2bm3.cn^
+||xuanmin.wang^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34860,6 +34866,7 @@ adbetnet.com
 ||f70123.com^
 ||facebookma.cn^
 ||family-joy.com^
+||fangniaowang.net^
 ||fanli.in^
 ||farm-cn.plista.com^
 ||fastable.com^
@@ -35802,6 +35809,7 @@ adbetnet.com
 ||uchaoqiang.top^
 ||ucstatic.cn^
 ||ucxgg.com^
+||ue2bm3.cn^
 ||ugg66.com^
 ||uhijmv.cn^
 ||ukeiae.com^
@@ -37388,13 +37396,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||buyuninfo.com^
-||hnyoufan.com^
-||g1mm3d.cn^
-||liulu888.com^
-||dnfkong.com^
-||yanyanbiji.com^
-||zln44.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37794,6 +37795,7 @@ adbetnet.com
 ||bugcreator.cn^
 ||bulankk.com^
 ||bulkeach.com^
+||buyuninfo.com^
 ||bvoer.com^
 ||bvosv.com^
 ||bx9000.top^
@@ -37986,6 +37988,7 @@ adbetnet.com
 ||dmpsj.cn^
 ||dmswhw.cn^
 ||dn189.com^
+||dnfkong.com^
 ||dodomo.info^
 ||doryhome.com^
 ||downcdn.top^
@@ -38118,6 +38121,7 @@ adbetnet.com
 ||fyzyf.com^
 ||fzdfwy.com^
 ||fzxrjx.com^
+||g1mm3d.cn^
 ||g3ao2q.cn^
 ||g4rre.xyz^
 ||g8waw1.cn^
@@ -38291,6 +38295,7 @@ adbetnet.com
 ||hntiantai.cn^
 ||hnwjlhg.cn^
 ||hnxahz.com^
+||hnyoufan.com^
 ||hnzyzhy.cn^
 ||hogyp.com^
 ||hondajd.cn^
@@ -38584,6 +38589,7 @@ adbetnet.com
 ||listenother.com^
 ||liufang1994.top^
 ||liujiaqi.top^
+||liulu888.com^
 ||liuzishen.com^
 ||lixianze.top^
 ||lixudong.top^
@@ -39445,6 +39451,7 @@ adbetnet.com
 ||yangzhenpeng.top^
 ||yanjunbo.com^
 ||yantairuide.com^
+||yanyanbiji.com^
 ||yaodianzhineng.cn^
 ||yaoquanshumeiyu.com^
 ||yauwsd.cn^
@@ -39616,6 +39623,7 @@ adbetnet.com
 ||zkwsdf.com^
 ||zlauk.cn^
 ||zlfhe8.cn^
+||zln44.cn^
 ||zmlfk.com^
 ||zmyuer.com^
 ||zoepb.cn^
