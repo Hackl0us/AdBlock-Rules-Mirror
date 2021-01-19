@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-18T00:32:56.297Z
+! Last modified: 2021-01-19T00:36:37.047Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,11 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||ximupea.ru^
+||nicksstevmark.com^
+||wcwcads.net^
+||crisistuesdayartillery.com^
+||avkyu1tesnwy.com^
 ||mxuiso.com^
 ||runnersgunpowder.com^
 ||livezombymil.com^
@@ -220,7 +225,6 @@
 ||protawe.com^
 ||awprt.com^
 ||overkirliaan.com^
-||chatintr.com^
 ||delivery.fabrouter.com^
 ||rdr.wargaming.net^
 ||ppcmate.com^
@@ -1821,7 +1825,6 @@ www.llllllllllll.net^
 ||d7dza8s7j2am6.cloudfront.net^
 ||adilk.ilikecomix.com^
 ||a.letsjerk.to^
-||d2j042cj1421wi.cloudfront.net^
 ||d3ithbwcmjcxl7.cloudfront.net^
 ||rek.www.wp.pl^
 ||centent.streamp1ay.cc^
@@ -1846,11 +1849,7 @@ www.llllllllllll.net^
 ||ddvfoj5yrl2oi.cloudfront.net^
 ||concertads-configs.vox-cdn.com^
 ||ads.roku.com^
-!+ NOT_OPTIMIZED
-||dc5k8fg5ioc8s.cloudfront.net^
 ||direct.apus.tech^
-!+ NOT_OPTIMIZED
-||d1r90st78epsag.cloudfront.net^
 ||searchad-phinf.pstatic.net^
 ||d31mxuhvwrofft.cloudfront.net^
 ||d3d52lhoy0sh2w.cloudfront.net^
@@ -3938,6 +3937,7 @@ vkcdnservice.appspot.com^
 ||chargingsensationmetropolitan.com^
 ||charmour.club^
 ||chasteminihaunting.com^
+||chatintegrationastonishing.com^
 ||chauksoa.net^
 ||chdaismlykqep.com^
 ||check-now.online^
@@ -4447,6 +4447,7 @@ vkcdnservice.appspot.com^
 ||delayedtemporarilybakery.com^
 ||deliberateporridge.com^
 ||delightfulold.com^
+||deline-sunction.com^
 ||deliverymodo.com^
 ||deloplen.com^
 ||deludesobbingdeliberately.com^
@@ -5317,6 +5318,7 @@ vkcdnservice.appspot.com^
 ||f35c5dba3b0b5b017.com^
 ||f35ec1cf813.com^
 ||f3a2dc11dfb33.com^
+||f3rs4np1c5.site^
 ||f40f89d54b8.com^
 ||f45ff72fec5426ae.com^
 ||f47cecd3f0a29874f.com^
@@ -14423,7 +14425,6 @@ vkcdnservice.appspot.com^
 ||clickable.com^
 ||clickad.pl^
 ||clickadilla.com^
-||clickagy.com^
 ||clickbet88.com^
 ||clickbooth.com^
 ||clickboothlnk.com^
@@ -16655,6 +16656,7 @@ vkcdnservice.appspot.com^
 ||s2block.com^
 ||s2blosh.com^
 ||s2d6.com^
+||s99i.org^
 ||sa.entireweb.com^
 ||sadsimz.com^
 ||sadsipz.com^
@@ -17115,7 +17117,6 @@ vkcdnservice.appspot.com^
 ||trafficbarads.com^
 ||trafficbee.com^
 ||trafficbroker.com^
-||trafficfabrik.com^
 ||trafficfactory.biz^
 ||trafficforce.com^
 ||trafficformoney.com^
@@ -19219,7 +19220,6 @@ vkcdnservice.appspot.com^
 ||trafficscanner.pl^
 ||stat.livesportbar.net^
 ||collect.blishtech.co^
-||s99i.org^
 ||g.vev.io^
 ||rob.megaopen.ru^
 ||srv.dc-1.net^
@@ -20600,6 +20600,9 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||sstats.adobe.com^
+||ma.news.naver.com^
+||l.msdl.naver.com^
 ||analytics.move.ru^
 ||telegraf.detmir-stats.ru^
 ||track.tproger.ru^
@@ -25192,6 +25195,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.ziftsolutions.com^
 ||analyticsengine.s3.amazonaws.com^
 ||analyze.full-marke.com^
+||aorta.clickagy.com^
 ||ape-tagit.timeinc.net^
 ||api.wipmania.com^
 ||argos.citruserve.com^
@@ -25911,6 +25915,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tag.sonymusic.com^
 ||tagger.opecloud.com^
 ||tags.cdn.circlesix.co^
+||tags.clickagy.com^
 ||tags.creativille.co.uk^
 ||tags.master-perf-tools.com^
 ||tags.newscgp.com^
@@ -27666,6 +27671,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||dtashjvcjswq.info^
+||sm-ini2.com^
+||node.sm-dafa.com^
 ||7nkbwdf1uq.ru^
 ||33a89nw03k.ru^
 ||biocdn.net^
@@ -32914,6 +32922,7 @@ adbetnet.com
 ! Source name: EasyList Germany ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt
 !
+||4adtf.com.^
 ||4adtf.com^
 ||4rm.de^
 ||a3h.de^
@@ -32994,6 +33003,7 @@ adbetnet.com
 ||bannerchange.net^
 ||bannerheld.de^
 ||bauernative.com^
+||bb2022.info^
 ||biallo1.de^
 ||biallo2.de^
 ||biallo3.de^
@@ -33006,6 +33016,7 @@ adbetnet.com
 ||bwads24.com^
 ||c-points.de^
 ||cashdorado.de^
+||chatintr.com^
 ||ci-marketing.de^
 ||codes.wai.it^
 ||comads.de^
@@ -33015,6 +33026,7 @@ adbetnet.com
 ||cowana-adserver.de^
 ||cuiron.de^
 ||cussixia.de^
+||data-analyst.biz^
 ||data-slimspots.com^
 ||de-ads.de^
 ||def-platform.com^
@@ -33174,6 +33186,7 @@ adbetnet.com
 ||topiaserv.net^
 ||trabro.com^
 ||tracknet.twyn.com^
+||trafficfabrik.com^
 ||trafficlayer.de^
 ||traffictrack.de^
 ||transmatico.com^
@@ -33204,6 +33217,7 @@ adbetnet.com
 ||wz-werbewelt.de^
 ||xaded.de^
 ||xiji.de^
+||xtreff69.com^
 ||yoomedia.de^
 ||youads.de^
 ||z0a.de^
@@ -37453,6 +37467,7 @@ adbetnet.com
 ||17bqg.top^
 ||17ys.top^
 ||183pu.cn^
+||199zw.com^
 ||1fv3b.cn^
 ||1pzskg.cn^
 ||1x26q3.cn^
@@ -38322,6 +38337,7 @@ adbetnet.com
 ||huhuhiiuio.com^
 ||huician.cn^
 ||huigoushop.com^
+||huitiankuaiji.com^
 ||huixingcheng.cn^
 ||hunpp.com^
 ||huodiyun.cn^
@@ -38612,6 +38628,7 @@ adbetnet.com
 ||lousivency.com.cn^
 ||lownguw.top^
 ||lq.booktxt.net^
+||lq0s3c.cn^
 ||lq1.abcxs.com^
 ||lr96.top^
 ||lsiwd.cn^
@@ -38819,6 +38836,7 @@ adbetnet.com
 ||pdfmxsh.cn^
 ||pdkuai.com^
 ||peatoc.cn^
+||peiliao-china.com^
 ||pentaxaws.cn^
 ||petsfairy.com^
 ||petsheying.com^
@@ -39452,6 +39470,7 @@ adbetnet.com
 ||yaba.org.cn^
 ||yajiuwz.xyz^
 ||yanbenji.cn^
+||yangtzeev.com^
 ||yangzhenpeng.top^
 ||yanjunbo.com^
 ||yantairuide.com^
