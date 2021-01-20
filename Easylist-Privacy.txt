@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101181754
+! Version: 202101200055
 ! Title: EasyPrivacy
-! Last modified: 18 Jan 2021 17:54 UTC
+! Last modified: 20 Jan 2021 00:55 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6414,6 +6414,7 @@ _mongo_stats/
 ||dmtracker.com^$third-party
 ||dmtry.com^$third-party
 ||dmxleo.com^$third-party
+||dnsdelegation.io^$third-party
 ||doceree.com^$third-party
 ||doclix.com^$third-party
 ||dojomojo.com^$third-party
@@ -12549,6 +12550,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||clipkit.de/metrics?
 ||cloudfront.net/customers/24868.min.js
 ||cnt2.stroeerdp.de^
+||collector.ozeex.com^
 ||collector.rn.de^
 ||com.econa.com^
 ||counter.1i.kz^
@@ -16709,6 +16711,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||gg24.de^*/count.cgi?
 ||giessener-anzeiger.de/stat/
 ||global.ssl.fastly.net^$script,domain=wayfair.de
+||golem.de/sensor.modern.ncl.min.js
 ||golem.de/staticrl/scripts/golem_cpx_
 ||golem.de/staticrl/scripts/golem_cpxl_
 ||goyellow.de/trackbrowser.jsp
@@ -17801,6 +17804,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||att.com/scripts/adobe/virtual/detm-container-hdr.js
 @@||att.com/ui/*/jsnlog.js
 @@||audioeye.com/ae.js$domain=woodlanddirect.com
+@@||azureedge.net/prod/smi/loader-config.json$domain=pressdemocrat.com
 @@||azureedge.net^*/eventtracking.js$domain=crimemapping.com
 @@||banned.video/videojs-event-tracking/dist/videojs-event-tracking.js$script,domain=banned.video|infowars.com
 @@||barclays.co.uk/content/dam/$script
@@ -17899,6 +17903,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||events-collector.spot.im/api/$xmlhttprequest
 @@||evestment.com/api/analytics/$domain=evestment.com
 @@||evil-inc.com/comic/advertising-age/$~third-party,xmlhttprequest
+@@||fast.appcues.com^$script,domain=static.abcmouse.com
 @@||fccbrea.org^*/swfaddress.js
 @@||fifa.com^*/webanalytics.js?
 @@||files.mycloud.com/js/analytics/google_analytics.js
