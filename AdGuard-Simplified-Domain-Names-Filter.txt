@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-20T00:38:12.800Z
+! Last modified: 2021-01-21T00:37:39.288Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||parkurl.com^
 ||phirgese.com^
 ||mightreservoir.com^
 ||refpaiwqkk.top^
@@ -103,7 +104,6 @@
 ||mughaymil.site^
 ||sellerbackstagejolly.com^
 ||jc743hbc6.info^
-||fathuntsgall.com^
 ||maphuahin.com^
 ||t.ajrkm.link^
 ||secureaddisplay.com^
@@ -4028,6 +4028,7 @@ vkcdnservice.appspot.com^
 ||ckotfhgn.com^
 ||claimbit.tk^
 ||clairedikio.club^
+||clairvoyantvigourcelebrity.com^
 ||clarizonsimp.top^
 ||clasphs.xyz^
 ||classisingew.club^
@@ -5393,6 +5394,7 @@ vkcdnservice.appspot.com^
 ||fasvgvzxsqxqhu.com^
 ||fatbuydoc.com^
 ||fatchilli.media^
+||fathuntsgall.com^
 ||fatrjjcm.com^
 ||fatrvclgpnb.com^
 ||fatwalkinger.club^
@@ -16705,6 +16707,7 @@ vkcdnservice.appspot.com^
 ||sedatorsinted.info^
 ||sedatorslegallock.info^
 ||sedidencesothere.info^
+||sedodna.com^
 ||sedoparking.com^
 ||seductionprofits.com^
 ||seecontentdelivery.info^
@@ -20605,6 +20608,10 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||e-stat.huya.com^
+||statwup.huya.com^
+||metric.huya.com^
+||tms.dmp.wi-fi.ru^
 ||sstats.adobe.com^
 ||ma.news.naver.com^
 ||l.msdl.naver.com^
@@ -23718,7 +23725,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||semanticverses.com^
 ||semasio.net^
 ||sendtraffic.com^
-||sentry.io^
 ||seomonitor.ro^
 ||seomoz.org^
 ||seoradar.ro^
@@ -27678,6 +27684,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||wevjjiolpse.mobi^
+||bpkbqp.com^
+||advmusic.com^
+||boetwu.com^
 ||rnldustal.com^
 ||dtashjvcjswq.info^
 ||sm-ini2.com^
@@ -27697,6 +27707,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mp3dance.today^
 ||lidplay.net^
 ||bcvideod.com^
+||atlaqs.com^
 ||allowandgo.link^
 ||jlpbyt.com^
 ||porno365go.com^
@@ -31898,6 +31909,7 @@ adbetnet.com
 ||unisound.cdnvideo.ru^
 ||pp.muzofon-online.com^
 ||ban.zab.ru^
+||prostoimya.kino-o-voine.ru^
 ||banner*.kinogo.by^
 ||m1.extrutor.org^
 ||a.kakoysegodnyaprazdnik.ru^
@@ -37423,6 +37435,10 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||qloved.cn^
+||haichengdzsp.com^
+||alicpd.top^
+||ddzeg.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -40346,6 +40362,8 @@ adbetnet.com
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/551
+@@||links.e.theatlantic.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/71289
 @@||app.appsflyer.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/71434
