@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-21T00:37:39.288Z
+! Last modified: 2021-01-22T00:35:17.801Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,11 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||flippantreprehensiblecharming.com^
+||anniversarytoothbrush.com^
+||povapeba.xyz^
+||freychang.fun^
+||lismcanalys.fun^
 ||parkurl.com^
 ||phirgese.com^
 ||mightreservoir.com^
@@ -2734,6 +2739,7 @@ vkcdnservice.appspot.com^
 ||actsvane.com^
 ||ad1data.com^
 ||ad1rtb.com^
+||adaranth.com^
 ||addressen.club^
 ||addression.club^
 ||adearsened.info^
@@ -3330,11 +3336,13 @@ vkcdnservice.appspot.com^
 ||ba6af3a0099c6cb9eb5.com^
 ||baa2e174884c9c0460e.com^
 ||backlogtop.xyz^
+||backwardkneesencroach.com^
 ||badgearsregra.site^
 ||badleasump.cam^
 ||badsbads.com^
 ||badsecs.com^
 ||badsims.com^
+||badskies.com^
 ||badskis.com^
 ||badspads.com^
 ||badtopwitch.work^
@@ -4850,6 +4858,7 @@ vkcdnservice.appspot.com^
 ||ecezkkrm.com^
 ||ecgopezooczg.com^
 ||echoazou.com^
+||eclkmpbn.com^
 ||ecominalber.club^
 ||econdardseeg.site^
 ||econverge.top^
@@ -5196,6 +5205,7 @@ vkcdnservice.appspot.com^
 ||estersparat.club^
 ||estferdita.top^
 ||estionexperime.info^
+||estoopsi.com^
 ||estranched.top^
 ||estrangefoolish.com^
 ||esumptive.club^
@@ -8828,6 +8838,7 @@ vkcdnservice.appspot.com^
 ||oipcqenejq.com^
 ||oiycak.com^
 ||ojbhoukw.com^
+||ojeergoy.com^
 ||ojktwzisvpb.com^
 ||ojstdedb.com^
 ||ojwd63thskiz.com^
@@ -9250,6 +9261,7 @@ vkcdnservice.appspot.com^
 ||phaignoo.com^
 ||phaikroo.net^
 ||pharougn.com^
+||phastoag.com^
 ||phauwooz.net^
 ||phdtryxlepjayf.com^
 ||pheekrie.com^
@@ -17308,6 +17320,7 @@ vkcdnservice.appspot.com^
 ||vibrant.co^
 ||vibrantmedia.com^
 ||vidcoin.com^
+||vidcpm.com^
 ||video-loader.com^
 ||videoadex.com^
 ||videoclick.ru^
@@ -19036,6 +19049,7 @@ vkcdnservice.appspot.com^
 ! relateddigital.com domains
 ||visilabs.com^
 !
+||jtracking.lulusoft.com^
 ||traceprof.com^
 ||livetracker.rfe.pangea-cms.com^
 ||trackerhqu.com^
@@ -20600,14 +20614,7 @@ t.yesware.com
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
-! end:
-!
-! This rule breaks Australian sites
-!+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
-!
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
-! Disabled in DNS filter
-!
+||prx.wayfair.com^
 ||e-stat.huya.com^
 ||statwup.huya.com^
 ||metric.huya.com^
@@ -22410,7 +22417,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||datacygnal.io^
 ||datadsk.com^
 ||datafeedfile.com^
-||datafront.co^
 ||datam.com^
 ||dataperforma.com^
 ||datasteam.io^
@@ -27684,6 +27690,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||multibux.org^
 ||wevjjiolpse.mobi^
 ||bpkbqp.com^
 ||advmusic.com^
@@ -33382,10 +33389,13 @@ adbetnet.com
 !
 ||05ee3a24ed11df058c8.com^
 ||188affiliates.com^
+||1b969cef84d93b43.com^
 ||2go7v1nes8.com^
 ||34667c8ece5.com^
 ||3r1kwxcd.top^
 ||64p3am9x95ct.com^
+||6631f33cf2a1032b.com^
+||995db2642d3d852b.com^
 ||9eb10b7a3d04a.com^
 ||9icmzvn6.website^
 ||a.brand.ad^
@@ -33397,8 +33407,6 @@ adbetnet.com
 ||a63t9o1azf.com^
 ||abrts.pro^
 ||accesstrade.co.id^
-||ad-loupe.com^
-||adaranth.com^
 ||adbsys.icu^
 ||addesigner.com^
 ||adflazz.com^
@@ -33429,11 +33437,11 @@ adbetnet.com
 ||auredzeon.com^
 ||axzsd.pro^
 ||azxsd.pro^
-||backwardkneesencroach.com^
-||badskies.com^
 ||baliadv.com^
 ||bcajjtbzmdrl.com^
 ||bellaads.com^
+||browsertelemetry.tk^
+||cea9d3d4f74fb831.com^
 ||cfs.u-ad.info^
 ||cfs.uzone.id^
 ||cfs2.uzone.id^
@@ -33452,6 +33460,7 @@ adbetnet.com
 ||d2jn12r3o7an7z.cloudfront.net^
 ||d3t5ngjixpjdho.cloudfront.net^
 ||d72gb9oukw3j.com^
+||d824d7f5cbcb0e00.com^
 ||daero.pw^
 ||dafa.io^
 ||dairouzy.net^
@@ -33464,12 +33473,10 @@ adbetnet.com
 ||drda5yf9kgz5p.cloudfront.net^
 ||dzbx8qv1at614.cloudfront.net^
 ||e7393e33565ce805.com^
-||eclkmpbn.com^
 ||eclkmpsa.com^
 ||edomz.com^
 ||edspectsm.fun^
 ||epfcfhtjxqd.com^
-||estoopsi.com^
 ||etoads.net^
 ||flexterkita.com^
 ||fnkyyrgraizy.com^
@@ -33543,7 +33550,6 @@ adbetnet.com
 ||octafx.com^
 ||offerjuice.me^
 ||ofphanpytor.com^
-||ojeergoy.com^
 ||olenation.org^
 ||olkrzytv.com^
 ||olmsoneenh.info^
@@ -33562,7 +33568,6 @@ adbetnet.com
 ||paypopup.com^
 ||pc3ads.com^
 ||peevopoy.com^
-||phastoag.com^
 ||phca85g3n400.com^
 ||pheersie.com^
 ||phudrour.net^
@@ -33616,7 +33621,6 @@ adbetnet.com
 ||uoarbhxfyygn.com^
 ||uofmnbkm.com^
 ||useads.com^
-||vidcpm.com^
 ||vrewpywootyu.com^
 ||wbaogaqvrukprx.com^
 ||webiklan.com^
@@ -36422,6 +36426,7 @@ adbetnet.com
 ||cp2.eastmoney.com^
 ||cpm.cm.kankan.com^
 ||d-test.39.net^
+||d.bodu365.co^*.js
 ||d0.xcar.com.cn^
 ||d1.3158.cn^
 ||d13jhr4vol1304.cloudfront.net^
@@ -37435,10 +37440,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||qloved.cn^
-||haichengdzsp.com^
-||alicpd.top^
-||ddzeg.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37696,6 +37697,7 @@ adbetnet.com
 ||alibdl.xyz^
 ||alibdm.xyz^
 ||alibdn.xyz^
+||alicpd.top^
 ||aligiao.info^
 ||alitx963.com^
 ||aliyoo999.com^
@@ -38010,6 +38012,7 @@ adbetnet.com
 ||ddhuangchao.com^
 ||ddpxhq.cn^
 ||ddskyuu.com^
+||ddzeg.com^
 ||de093o.cn^
 ||dehuaguanyin.com^
 ||dengfenzhang.cn^
@@ -38269,6 +38272,7 @@ adbetnet.com
 ||h4game.net^
 ||h5e6d5.xyz^
 ||h9wk2.cn^
+||haichengdzsp.com^
 ||hainufamliy.top^
 ||haiyinsiwang.com^
 ||hajuwang.cn^
@@ -38806,6 +38810,7 @@ adbetnet.com
 ||nsjpu.com^
 ||nthfds.xyz^
 ||ntpddq.com^
+||nuanyanghb.com^
 ||nuoqingck.cn^
 ||nv43.com^
 ||nwwap.com^
@@ -38953,6 +38958,7 @@ adbetnet.com
 ||qkykxrm.cn^
 ||ql01t4.com^
 ||qlaot.com^
+||qloved.cn^
 ||qlssbq.cn^
 ||qmlcdlo.cn^
 ||qneit.com^
@@ -39272,6 +39278,7 @@ adbetnet.com
 ||ut0ej.cn^
 ||uunewcar.com^
 ||uuopp.com^
+||uuu88.top^
 ||uuwhg.com^
 ||uvmqpum.cn^
 ||uwmoghx.cn^
