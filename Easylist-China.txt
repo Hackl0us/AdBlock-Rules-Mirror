@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: L9pYHZDNlg8LO/RE5IH+yQ
-! Version: 202101250052
+! Checksum: zJiDqyZTWfD7he/Gg8O8/A
+! Version: 202101260022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 25 Jan 2021 00:52 UTC
+! Last Modified: 26 Jan 2021 00:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -15542,6 +15542,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||baidujs.cnys.com^
 ||bas.boshi.tv^
 ||bd-s.baixing.net^
+||bd.beimap.com^
 ||bd.czxuexi.com^
 ||bd.ershenghuo.com^
 ||bd1-china.6789.com^
@@ -17131,6 +17132,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||exusr.com^
 ||ezfashion.com.cn^
 ||f1t5pb.cn^
+||f50b5.cn^
 ||fangjslc.com^
 ||fanglinwang.cn^
 ||fangzhanla.cn^
@@ -17591,6 +17593,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||jysbj.cn^
 ||jytjw.com^
 ||jzn360.cn^
+||jzrzpump.com^
 ||k22x6.cn^
 ||k2wx5.cn^
 ||k7tju.xyz^
@@ -17770,6 +17773,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||minglongtea.cn^
 ||mitjg.xyz^
 ||mjita.cn^
+||mjtowot.cn^
 ||ml44.cn^
 ||mlion.cn^
 ||mmfusheng.com^
@@ -17874,6 +17878,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||nyhnx.com^
 ||nykps.com^
 ||nyyxyx.com.cn^
+||o5ikm6.cn^
 ||obeip.com^
 ||obj9.cn^
 ||octopuszyw.cn^
