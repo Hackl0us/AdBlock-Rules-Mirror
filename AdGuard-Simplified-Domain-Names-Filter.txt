@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-26T00:10:07.483Z
+! Last modified: 2021-01-27T00:09:54.609Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
+||charitablemilletplumber.com^
 ||bitzad.com^
 ||baxusanu.pro^
 ||lgpumcja.com^
@@ -30,7 +32,6 @@
 ||flippantreprehensiblecharming.com^
 ||anniversarytoothbrush.com^
 ||povapeba.xyz^
-||freychang.fun^
 ||lismcanalys.fun^
 ||parkurl.com^
 ||phirgese.com^
@@ -644,7 +645,6 @@
 ||vestlitt.online^
 ||420147981.world^
 ||cepailru.com^
-||nanoadexchange.com^
 ||presatisfy.com^
 ||frtyo.com^
 ||westatess.info^
@@ -1617,7 +1617,6 @@ www.llllllllllll.net^
 ||ext.movixhub.com^
 ||f.asdfzxcv1312.com^
 ||f.iaftjs.info^
-||fabolele.com^
 ||fdgeen.com^
 ||filadmir.site^
 ||firstfirst.net^
@@ -1693,7 +1692,6 @@ www.llllllllllll.net^
 ||nefroto.net^
 ||newsforbest.net^
 ||newviralmobistore.com^
-||njmaq.com^
 ||nrged.com^
 ||nsdfsfi1q8asdasdzz.com^
 ||nuclersoncanthinger.info^
@@ -1845,7 +1843,6 @@ www.llllllllllll.net^
 ||d7dza8s7j2am6.cloudfront.net^
 ||adilk.ilikecomix.com^
 ||a.letsjerk.to^
-||d3ithbwcmjcxl7.cloudfront.net^
 ||rek.www.wp.pl^
 ||centent.streamp1ay.cc^
 ||dz5bomaog2c5t.cloudfront.net^
@@ -4907,6 +4904,7 @@ vkcdnservice.appspot.com^
 ||edspoiletkni.club^
 ||edsufferen.club^
 ||edsurrowin.club^
+||edthoutfre.fun^
 ||educatednicer.com^
 ||educationdemotediabete.com^
 ||eduyzcjsnoeokj.com^
@@ -5670,6 +5668,7 @@ vkcdnservice.appspot.com^
 ||frenchayan.club^
 ||frequestabure.site^
 ||freshborne.com^
+||freychang.fun^
 ||frfnlvnpzeju.com^
 ||frgbgwnbjkgco.com^
 ||frhbrkjgerikm2f8mjek09.com^
@@ -9352,6 +9351,7 @@ vkcdnservice.appspot.com^
 ||pkytbidauolavq.com^
 ||plainlycradlescalp.com^
 ||plaintiffalphabetslacken.com^
+||plannerladyreality.com^
 ||plantationthrillednoncommittal.com^
 ||plasminori.club^
 ||plathwardsve.site^
@@ -11981,6 +11981,7 @@ vkcdnservice.appspot.com^
 ||virashux.net^
 ||virgbmkmear.com^
 ||visariomedia.com^
+||visitsfunk.com^
 ||visitstrack.com^
 ||vitoryjober.club^
 ||viunypnvhcw.com^
@@ -19065,6 +19066,8 @@ vkcdnservice.appspot.com^
 ! relateddigital.com domains
 ||visilabs.com^
 !
+||tag.goadopt.io^
+||tag.hariken.co^
 ||tracker.cauly.co.kr^
 ||tk.mediacategory.com^
 ||jscdn.appier.net^
@@ -19215,7 +19218,6 @@ vkcdnservice.appspot.com^
 ||cicero-mit.com^
 ||sys.refocus.ru^
 ||apn.c.appier.net^
-||d1gwclp1pmzk26.cloudfront.net^
 ||stats2.agilecrm.com^
 ||doorbrazil.com^
 ||dmzls.safe-installation.com^
@@ -19304,6 +19306,7 @@ vkcdnservice.appspot.com^
 ||app.shoptarget.com.br^
 ||netdeal.com.br^
 ||ibclick.stream^
+||v*.denakop.com^
 ||trv.upperbooking.com^
 ||trl.upperbooking.com^
 ||meapk.com^
@@ -19327,6 +19330,7 @@ vkcdnservice.appspot.com^
 ||shifoagn.uk^
 ||stats.coronalabs.com^
 ||track.special-offers.online^
+||crm.agency^
 ||i.clean.gg^
 ||xl-trk.com^
 ||nxcount.com^
@@ -19403,6 +19407,7 @@ vkcdnservice.appspot.com^
 ||admdspc.com^
 ||admeo.ru^
 ||adtraction.com^
+||adagency.digital^
 ||affiliates-pro.com^
 ||akavita.com^
 ||amazy.ru^
@@ -20475,6 +20480,12 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||l.typesquare.com^
+||estat.zum.com^
+||statweb.egloos.com^
+||analytics.tio.ch^
+||d335luupugsy2.cloudfront.net^
+||d1gwclp1pmzk26.cloudfront.net^
 ||tracking.bonnier.news^
 ||jtp.expressen.se^
 ||prx.wayfair.com^
@@ -26945,6 +26956,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyPrivacy third-party international tracking servers
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt
 !
+||ablida.net^
 ||analytics.audionow.de^
 ||analytics.cnd-motionmedia.de^
 ||analytics.gameforge.de^
@@ -27562,6 +27574,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||mountrs.com^
 ||sthjoq.com^
 ||multibux.org^
 ||wevjjiolpse.mobi^
@@ -33517,9 +33530,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 Jan 2021 20:48 UTC+7
-! Version: 2101252048
-! Blocked: 669 rules
+! Last modified: 26 Jan 2021 16:34 UTC+7
+! Version: 2101261634
+! Blocked: 676 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33709,6 +33722,7 @@ adbetnet.com
 ||admedia.com.vn^
 ||admin.sothuchi.vn^
 ||adpostback.headlines.pw^
+||ads-backend.nhadatmoi.net^
 ||ads-cdn.fptplay.net^
 ||ads.1thegioi.vn^
 ||ads.baoangiang.com.vn^
@@ -33730,6 +33744,7 @@ adbetnet.com
 ||ads.lamchame.vn^
 ||ads.laodongnghean.vn^
 ||ads.nghenhinvietnam.vn^
+||ads.nhadatmoi.net^
 ||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
 ||ads.phunuvagiadinh.vn^
@@ -33960,6 +33975,7 @@ adbetnet.com
 ||partner.accesstrade.vn^
 ||report.vnay.vn^
 ||s.baomoi.xdn.vn^
+||s.homedy.com^
 ||s.kenh14.vn^
 ||s.soha.vn^
 ||s.tuoitre.vn^
@@ -34071,17 +34087,21 @@ adbetnet.com
 ||fb88go.com^
 ||fb88live.com^
 ||fb88sports.com^
+||fcb8.com^
+||fcb88d.com^
 ||five88.biz^
 ||five88.com^
 ||five88.net^
 ||gdwbetvn888.com^
 ||gdwviet.com^
+||gi888.cc^
 ||go88.club^
 ||go88.com^
 ||goal123.com^
 ||goal68.top^
 ||ibet889.com^
 ||income88.com^
+||interwinvn.com^
 ||jbovn.com^
 ||k8vn03.com^
 ||keotot.net^
@@ -34555,6 +34575,7 @@ adbetnet.com
 ||billionfocus.com^
 ||bingyinq.com^
 ||biochempop.com^
+||biohailijie.cn^
 ||bivitr.com^
 ||bj-bytsk.com^
 ||bjedpt.com^
@@ -34991,6 +35012,7 @@ adbetnet.com
 ||hnhycp.com^
 ||hnnuange.com^
 ||hntymg.com^
+||hnxbls.cn^
 ||hnyiche3.com^
 ||hnyny.com^
 ||hongchenzhilu.com^
@@ -37930,6 +37952,7 @@ adbetnet.com
 ||dglscm.cn^
 ||dgxzwj.com^
 ||dh54wf.xyz^
+||dhdgkj.com^
 ||dhuhui.cn^
 ||diangezan.me^
 ||dianshihuanping.cn^
@@ -38174,6 +38197,7 @@ adbetnet.com
 ||gzmzts.com^
 ||gznsyh.com^
 ||gznwn.com^
+||gzqswl.cn^
 ||gzrljx.cn^
 ||gzzena.com^
 ||h2pzh.cn^
@@ -38388,6 +38412,7 @@ adbetnet.com
 ||jingoulong.cn^
 ||jingxiangyalvji.cn^
 ||jingyuzuo.top^
+||jinkelai66.com^
 ||jinliaoyang.com^
 ||jinlubaojie.cn^
 ||jinrianshan.com^
@@ -39351,6 +39376,7 @@ adbetnet.com
 ||xieyanmin.com.cn^
 ||xindelin.cn^
 ||xinghao89.com^
+||xingnu.site^
 ||xingpingmaoyi.cn^
 ||xingsky.cn^
 ||xingtai0.com^
