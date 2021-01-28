@@ -3,20 +3,9 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-27T00:09:54.609Z
+! Last modified: 2021-01-28T00:09:44.685Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
-!
-!
-! Source name: AdGuard Base filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
-!
-!
-! Section contains list of advertising networks
-!
-! The rules with hints are at the end of file
-!
-!! https://a.bestcontentitem.top/warp/*?r=
 !
 ||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
 ||charitablemilletplumber.com^
@@ -33,7 +22,6 @@
 ||anniversarytoothbrush.com^
 ||povapeba.xyz^
 ||lismcanalys.fun^
-||parkurl.com^
 ||phirgese.com^
 ||mightreservoir.com^
 ||refpaiwqkk.top^
@@ -2788,6 +2776,7 @@ vkcdnservice.appspot.com^
 ||adscarrot.com^
 ||adservi.com^
 ||adspop.me^
+||adspyglass.com^
 ||adsrefundattempts.com^
 ||adsrv.me^
 ||adstarget.net^
@@ -9153,6 +9142,7 @@ vkcdnservice.appspot.com^
 ||parentful.club^
 ||paripartners.ru^
 ||parketbedde.info^
+||parkurl.com^
 ||parpapsit.com^
 ||parsruingmeld.com^
 ||particlesmanuscript.com^
@@ -18065,6 +18055,10 @@ vkcdnservice.appspot.com^
 ! ||mobileapptracking.com^ - don't block this domain with all subdomains. https://forum.adguard.com/index.php?threads/23917/
 !
 !
+! Apps by Ketchapp
+||ketchapp.org^
+||cdn-ketchapp.akamaized.net^
+!
 ! Samsung mobile ads
 ||sspapi-prd.samsungrs.com^
 !
@@ -19065,7 +19059,6 @@ vkcdnservice.appspot.com^
 !
 ! relateddigital.com domains
 ||visilabs.com^
-!
 ||tag.goadopt.io^
 ||tag.hariken.co^
 ||tracker.cauly.co.kr^
@@ -20931,6 +20924,7 @@ t.yesware.com
 ||om.cbsi.com^
 ||om.dowjoneson.com^
 ||oimg.nbcuni.com^
+||analytics.ovh.com^
 ||qos.video.yimg.com^
 ||px.dynamicyield.com^
 ||production-eqbc.lvp.llnw.net^
@@ -21302,8 +21296,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||app-analytics-ru.huami.com^
 ! spb tv android app
 ||metrics.spbtv.com^
-! wifire tv android app
-||sas53netbynet.visualon.info^
 ! acestream android app
 ||android-stat.acestream.net^
 ! whatsapp android app
@@ -26871,6 +26863,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stattds.club^
 ||tbex.ru^
 ||tds.io^
+||theactivetag.com^
 ||tnative.ru^
 ||tpm.pw^
 ||uarating.com^
@@ -27338,6 +27331,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||scounter.rambler.ru^
 ||sepyra.com^
 ||service-stat.tbn.ru^
+||st.hbrd.io^
 ||stat.eagleplatform.com^
 ||stat.radar.imgsmail.ru^
 ||stat.rum.cdnvideo.ru^
@@ -27355,6 +27349,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||telemetry.jivosite.com^
 ||top.elec.ru^
 ||track.recreativ.ru^
+||track.spacepush.ru^
 ||tracking.gpm-rtv.ru^
 ||tracking.retailrocket.net^
 ||upstats.yadro.ru^
@@ -28433,7 +28428,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wp-tk.ru^
 ||brilliantbc9.club^
 ||ezcore.pro^
-||clickiocdn.com^
+||s.clickiocdn.com^
 ||xoor.ru^
 ||5visions.com^
 ||mypictures-onlinemaxpark.info^
@@ -32296,6 +32291,7 @@ adbetnet.com
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||reklam1.akhisar.bel.tr^
 ||partnerx.bethub.io^
 ||ttauri.livescience.com^
 ||adn.bursadabugun.com^
@@ -37879,6 +37875,7 @@ adbetnet.com
 ||cqbaitong.cn^
 ||cqgya.com^
 ||cqlxscdc.top^
+||cqshaseng.com^
 ||crzytm.com^
 ||cs12d.com^
 ||csalsylqx.com^
@@ -38049,6 +38046,7 @@ adbetnet.com
 ||feimotailan.cn^
 ||feipaihehuoren.cn^
 ||fenbengpan.cn^
+||fengmishop.cn^
 ||ff01s.cn^
 ||ffanq.com^
 ||ffg34fg.78zw.com^
@@ -38408,6 +38406,7 @@ adbetnet.com
 ||jiirz.com^
 ||jilinxinfukeji.com^
 ||jinchaoyu.com^
+||jindowins.com^
 ||jingdayiyuan.com^
 ||jingoulong.cn^
 ||jingxiangyalvji.cn^
@@ -38600,6 +38599,7 @@ adbetnet.com
 ||lq0s3c.cn^
 ||lq1.abcxs.com^
 ||lr96.top^
+||lshmjz.com^
 ||lsiwd.cn^
 ||lssqxbj.cn^
 ||lusrg.cn^
@@ -39163,6 +39163,7 @@ adbetnet.com
 ||toissue.cn^
 ||tongbuchi.com^
 ||tongjiwo.com^
+||topazedu.com^
 ||topvcbank.com^
 ||toujing4.top^
 ||toujing5.top^
@@ -39536,6 +39537,7 @@ adbetnet.com
 ||ytdksb.com^
 ||ytmaitian.com^
 ||ytmaksim.cn^
+||yuandongoffice.com^
 ||yuanhangpiju.cn^
 ||yuanqitu.com^
 ||yueduyy.com^
