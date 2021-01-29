@@ -3,15 +3,33 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-28T00:09:44.685Z
+! Last modified: 2021-01-29T00:09:43.939Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
+!
+! Source name: AdGuard Base filter ad servers
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
+!
+!
+! Section contains list of advertising networks
+!
+! The rules with hints are at the end of file
+!
+!! https://a.bestcontentitem.top/warp/*?r=
+!
+||idswinpole.casa^
+||irkerecue.com^
+||paychat.fuse-cloud.com^
+||rqhere2.com^
+||stewlinedull.com^
+||gobicyice.com^
+||riverpush.com^
+||e-v-e-n.me^
 ||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
 ||charitablemilletplumber.com^
 ||bitzad.com^
 ||baxusanu.pro^
-||lgpumcja.com^
 ||sadesriffsmap.com^
 ||odiumdrawlip.com^
 ||lostincunt.space^
@@ -26,7 +44,6 @@
 ||mightreservoir.com^
 ||refpaiwqkk.top^
 ||1xredir89908.top^
-||tfzznclztl.com^
 ||ximupea.ru^
 ||nicksstevmark.com^
 ||wcwcads.net^
@@ -389,7 +406,6 @@
 ||cdn.digitalpush.org^
 ||sauwoaptain.com^
 ||aj2041.online^
-||stab.thench.net^
 ||euwtn.5081.site^
 ||cdn.advsmedia.net^
 ||cdn.sports-streams-online.club^
@@ -1828,7 +1844,6 @@ www.llllllllllll.net^
 ||feedads.feedblitz.com^
 ||leroj.elitegol.tv^
 ||algat.intergoles.me^
-||d7dza8s7j2am6.cloudfront.net^
 ||adilk.ilikecomix.com^
 ||a.letsjerk.to^
 ||rek.www.wp.pl^
@@ -7524,6 +7539,7 @@ vkcdnservice.appspot.com^
 ||lgcblkbn.com^
 ||lgjboylszpij.com^
 ||lgmsekxqwxe.com^
+||lgpumcja.com^
 ||lgsvywogylblv.com^
 ||lgtiaqukf.com^
 ||lguqeppylijw.com^
@@ -8102,6 +8118,7 @@ vkcdnservice.appspot.com^
 ||modgirtspod.work^
 ||modificant.club^
 ||modificantra.club^
+||modificationdispatch.com^
 ||modpotcue.com^
 ||modraytor.com^
 ||modulepush.com^
@@ -11191,6 +11208,7 @@ vkcdnservice.appspot.com^
 ||tfncnhd8p95c.com^
 ||tfpayjwjphuk.com^
 ||tfqexqeldxjvet.com^
+||tfzznclztl.com^
 ||tgbdjyryn.com^
 ||tgbjtcgkdu.com^
 ||tgdhimcwww.com^
@@ -19059,6 +19077,9 @@ vkcdnservice.appspot.com^
 !
 ! relateddigital.com domains
 ||visilabs.com^
+!
+||sprocket-ping.s3.amazonaws.com^
+||eclog*.cafe24.com^
 ||tag.goadopt.io^
 ||tag.hariken.co^
 ||tracker.cauly.co.kr^
@@ -19633,6 +19654,8 @@ vkcdnservice.appspot.com^
 ||xa-counter.com^
 ||xl-counti.com^
 ||xpanama.net^
+||x.clearbit.com^
+||x.clearbitjs.com^
 ||ycctrk.co.uk^
 ||youcanoptin.com^
 ||youcanoptin.org^
@@ -20473,6 +20496,7 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||c1.wfinterface.com^
 ||l.typesquare.com^
 ||estat.zum.com^
 ||statweb.egloos.com^
@@ -25474,6 +25498,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jac.yahoosandbox.com^
 ||javascriptcounter.appspot.com^
 ||jelly.mdhv.io^
+||jill.fc.yahoo.com^
 ||js-agent.newrelic.com^
 ||k.streamrail.com^
 ||kalstats.kaltura.com^
@@ -26807,6 +26832,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cityua.net^
 ||clubcollector.com^
 ||cnstats.ru^
+||culturaltracking.ru^
 ||dircont3.com^
 ||directcrm.ru^
 ||e-kuzbass.ru^
@@ -32416,6 +32442,7 @@ adbetnet.com
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||thench.net^
 ||adtechjp.com^
 ||bannerfarm.aolp.jp^
 ||koukoku.red^
@@ -34264,6 +34291,7 @@ adbetnet.com
 ||17tuozhai.com^
 ||17un.co^
 ||1818bobo.com^
+||1888pro.com^
 ||188xiaoba.net^
 ||18tzx.com^
 ||1999sg.com^
@@ -35017,6 +35045,7 @@ adbetnet.com
 ||hot-eam.com^
 ||houtanyun.com^
 ||hpyx365.cn^
+||hqwlm.com^
 ||hqygz.com^
 ||hr44.com^
 ||hrbpay.com^
@@ -35457,6 +35486,7 @@ adbetnet.com
 ||penxiangge.com^
 ||pg88cdn.com^
 ||phvmax.com^
+||pianjjiicdn.com^
 ||pic12x20.com^
 ||pingping888.com^
 ||pinwu123.com^
@@ -38261,6 +38291,7 @@ adbetnet.com
 ||hjkl888.com^
 ||hjues.com^
 ||hjyll.top^
+||hk50606.cn^
 ||hk9600.com^
 ||hkdyys.cn^
 ||hldwmly.com^
