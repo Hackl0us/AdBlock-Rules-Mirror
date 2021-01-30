@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-29T00:09:43.939Z
+! Last modified: 2021-01-30T00:08:19.294Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,15 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||roduster.com^
+||xtraff1cx.space^
+||ptongouh.net^
+||shar3yourf1le.com^
+||rdsb21.club^
+||qbcpicrtdje.com^
+||hugregregy.pro^
+||wvekalpmn.com^
+||icoawhou.com^
 ||idswinpole.casa^
 ||irkerecue.com^
 ||paychat.fuse-cloud.com^
@@ -1172,6 +1181,7 @@ www.llllllllllll.net^
 ||ibjivzn.com^
 ||ssl4go.ga^
 ||compass.adop.cc^
+||compasscdn.adop.cc^
 ||fridrici.info^
 ||stampshire.info^
 ||noqukjy.com^
@@ -19078,6 +19088,9 @@ vkcdnservice.appspot.com^
 ! relateddigital.com domains
 ||visilabs.com^
 !
+||breathebuds.com^
+||a-i-ad.com^
+||4sqt6jq.de^
 ||sprocket-ping.s3.amazonaws.com^
 ||eclog*.cafe24.com^
 ||tag.goadopt.io^
@@ -19489,7 +19502,6 @@ vkcdnservice.appspot.com^
 ||junbi-tracker.com^
 ||jwpltx.com^
 ||kerebro.com^
-||lciapi.ninthdecimal.com^
 ||lead-or-call.ru^
 ||lightboxcdn.com^
 ||loger.ru^
@@ -20496,6 +20508,7 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||stat.adultium.com^
 ||c1.wfinterface.com^
 ||l.typesquare.com^
 ||estat.zum.com^
@@ -22917,6 +22930,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||knowledgevine.net^
 ||koddi.com^
 ||komtrack.com^
+||konduit.me^
 ||kontagent.net^
 ||kopsil.com^
 ||kqzyfj.com^
@@ -23200,6 +23214,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nik.io^
 ||ninjacat.io^
 ||nitropay.com^
+||nmrodam.com^
 ||noibu.com^
 ||noowho.com^
 ||nordicresearch.com^
@@ -25510,6 +25525,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||l.sharethis.com^
 ||laurel.macrovision.com^
 ||laurel.rovicorp.com^
+||lciapi.ninthdecimal.com^
 ||leadtracking.plumvoice.com^
 ||leadvision.dotmailer.co.uk^
 ||licensing.bitmovin.com^
@@ -27595,6 +27611,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||kkmacsqsbf.info^
+||xxyolk.com^
+||zswzri7ju3.ru^
+||ksdbbf14.online^
 ||mountrs.com^
 ||sthjoq.com^
 ||multibux.org^
@@ -32442,6 +32462,7 @@ adbetnet.com
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||managedweb.net^
 ||thench.net^
 ||adtechjp.com^
 ||bannerfarm.aolp.jp^
@@ -35072,6 +35093,7 @@ adbetnet.com
 ||hxlif.com^
 ||hxnzyy.com^
 ||hxscba.com^
+||hxssj.cn^
 ||hxtwl.cn^
 ||hxyifu.com^
 ||hxyx360.com^
@@ -38021,6 +38043,7 @@ adbetnet.com
 ||dzooo.cn^
 ||dzrenju2.cn^
 ||e9emh.cn^
+||ebuysolar.com^
 ||echomilly.com^
 ||ecuwa.cn^
 ||edajin.com^
@@ -38363,6 +38386,7 @@ adbetnet.com
 ||iangs.com^
 ||iavfta8090.com^
 ||ibeiling.cn^
+||ic86doc.com^
 ||icebeatuy.com^
 ||icyrd.com^
 ||idanmei.cn^
@@ -39361,6 +39385,7 @@ adbetnet.com
 ||wuwuhh.top^
 ||wuyanauto.com^
 ||wuylp.com^
+||wuyuande.com^
 ||wvcdn.cn^
 ||wvfgiio.cn^
 ||wvver.com^
@@ -39435,6 +39460,7 @@ adbetnet.com
 ||xmndrx.cn^
 ||xmseaside.com^
 ||xmstcw.cn^
+||xmstpay.com^
 ||xn--2qu92fhtx4ff.club^
 ||xn--2qu92fhtx4ff.gold^
 ||xn--2qu92fhtx4ff.ink^
@@ -39483,6 +39509,7 @@ adbetnet.com
 ||y7wr7.cn^
 ||yaba.org.cn^
 ||yajiuwz.xyz^
+||yamahahb.com^
 ||yanbenji.cn^
 ||yangtzeev.com^
 ||yangzhenpeng.top^
