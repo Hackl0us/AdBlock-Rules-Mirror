@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-30T00:08:19.294Z
+! Last modified: 2021-01-31T00:09:44.030Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||baresi.xyz^
 ||roduster.com^
 ||xtraff1cx.space^
 ||ptongouh.net^
@@ -3408,6 +3409,7 @@ vkcdnservice.appspot.com^
 ||batwaxwok.site^
 ||baudgassedtarot.com^
 ||bauthair.net^
+||bavftcgoapga.com^
 ||bayonetbikes.com^
 ||baysexthy.com^
 ||bb1acb0ea5ddb1fed8.com^
@@ -3902,6 +3904,7 @@ vkcdnservice.appspot.com^
 ||cddjdjwatndgja.com^
 ||cdn4ads.com^
 ||cdnads.com^
+||cdncontentdelivery.com^
 ||cdnmr.net^
 ||cdnvideo.mobi^
 ||cdooewrzvec.com^
@@ -19089,7 +19092,6 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 !
 ||breathebuds.com^
-||a-i-ad.com^
 ||4sqt6jq.de^
 ||sprocket-ping.s3.amazonaws.com^
 ||eclog*.cafe24.com^
@@ -19223,6 +19225,7 @@ vkcdnservice.appspot.com^
 ||track.thevtk.com^
 ||track.mp3vizor.com^
 ||track.mp3bars.com^
+||hs-scripts.com^
 ||parkdomainreal*.site^
 ||telemetry.swe.quicinc.com^
 ||i-*.ci360.sas.com^
@@ -20508,6 +20511,7 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||pvtag.yahoo.co.jp^
 ||stat.adultium.com^
 ||c1.wfinterface.com^
 ||l.typesquare.com^
@@ -22750,7 +22754,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hotjar.io^
 ||hotlog.ru^
 ||hs-analytics.net^
-||hs-scripts.com^
 ||hsadspixel.net^
 ||hscta.net^
 ||htlbid.com^
@@ -24051,7 +24054,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||urlself.com^
 ||usabilitytools.com^
 ||usabilla.com^
-||usablenet.com^
 ||usefathom.com^
 ||useinsider.com^
 ||useitbetter.com^
@@ -25433,6 +25435,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||events.medio.com^
 ||events.ocdn.eu^
 ||events.realgravity.com^
+||events.shareably.net^
 ||events.tubecup.org^
 ||events.whisk.com^
 ||events.yourcx.io^
@@ -27407,6 +27410,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hits.eluniversal.com.mx^
 ||pixel.zumby.io^
 ||reachandrich.antevenio.com^
+||stats.bitban.com^
 ||stats.miarroba.info^
 ||stats.sec.telefonica.com^
 ||tag.shopping-feed.com^
@@ -32462,6 +32466,7 @@ adbetnet.com
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||a-i-ad.com^
 ||managedweb.net^
 ||thench.net^
 ||adtechjp.com^
@@ -37224,6 +37229,7 @@ adbetnet.com
 ||sdd.hi1718.com^
 ||sh996.dftoutiao.com^
 ||shili.downxia.com^
+||shili.wanyx.com^
 ||shiyaokejishanghai.com^
 ||shzzzz.dftoutiao.com^
 ||sjbaiduadv1.redou.com^
@@ -39163,6 +39169,7 @@ adbetnet.com
 ||sytsr.com^
 ||syxchj.cn^
 ||syxsa.cn^
+||szhgmd.com^
 ||szmxwjm.com^
 ||szqifu.com^
 ||szshouzhai.com^
@@ -39171,6 +39178,7 @@ adbetnet.com
 ||t3s9j.xyz^
 ||tabwl.com^
 ||tabyee.cn^
+||taikangshenyuan.com^
 ||tajxgs.com^
 ||taobaocoupon.cn^
 ||taolicloud.com^
