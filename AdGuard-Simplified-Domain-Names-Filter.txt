@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-01T00:09:14.522Z
+! Last modified: 2021-02-02T00:09:53.407Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||drawnperink.com^
+||unrulyrotate.com^
 ||submissionspurtgleamed.com^
 ||tracot.com^
 ||baresi.xyz^
@@ -443,7 +445,6 @@
 ||ookris.oferty-kredytowe.pl^
 ||albado.xyz^
 ||o3sndvzo25.com^
-||goo4anywhere.com^
 ||assandart.site^
 ||zarpop.com^
 ||black77854.com^
@@ -2031,7 +2032,6 @@ www.llllllllllll.net^
 ||code.ainsyndication.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/54572
 ||ads1-adselo.com^
-! https://github.com/AdguardTeam/AdguardFilters/issues/51510
 ||adsy.mail.bg^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/44471
 !+ NOT_OPTIMIZED
@@ -4099,6 +4099,7 @@ vkcdnservice.appspot.com^
 ||clnlyfxit.com^
 ||clnyonxgsvov.com^
 ||cloakroomobsceneredress.com^
+||closiner.com^
 ||cloudgallery.net^
 ||cloudimagesa.com^
 ||cluethydash.com^
@@ -4419,6 +4420,7 @@ vkcdnservice.appspot.com^
 ||daqijjpjow.com^
 ||dardwebertoha.info^
 ||dartsirhose.icu^
+||dasfelynsaterr.webcam^
 ||dashcreakyock.com^
 ||dasimporary.club^
 ||data-data-vac.com^
@@ -6007,6 +6009,7 @@ vkcdnservice.appspot.com^
 ||goldenbettingefforlessefforless.com^
 ||gondzizo.com^
 ||gongeeta.net^
+||goo4anywhere.com^
 ||googlesierai.xyz^
 ||goozbkcchscvb.com^
 ||gopejk.com^
@@ -10260,6 +10263,7 @@ vkcdnservice.appspot.com^
 ||rjzwheddxjuk.com^
 ||rkauzlyh.com^
 ||rkcqlsiu9fr6.top^
+||rkfnrkjfnrkfnkjh.xyz^
 ||rkpecade.com^
 ||rkvduvtdz.com^
 ||rlbvwdviqx.com^
@@ -12244,6 +12248,7 @@ vkcdnservice.appspot.com^
 ||welcomingprotective.com^
 ||welllwrite.com^
 ||wellmov.com^
+||wellnesszap.com^
 ||welsworn.info^
 ||wemgcdygokm.com^
 ||wengesog.net^
@@ -19093,6 +19098,7 @@ vkcdnservice.appspot.com^
 ! relateddigital.com domains
 ||visilabs.com^
 !
+||dataunion.com.br^
 ||breathebuds.com^
 ||4sqt6jq.de^
 ||sprocket-ping.s3.amazonaws.com^
@@ -20654,7 +20660,6 @@ t.yesware.com
 ||journey.unicef.de^
 ||telemetry.art19.com^
 ||track.berliner-kurier.de^
-||collect.usefathom.com^
 ||wwwlog.thebell.co.kr^
 ||d1miwkthq39xj8.cloudfront.net^
 ||stats1.wpmudev.com^
@@ -24056,7 +24061,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||urlself.com^
 ||usabilitytools.com^
 ||usabilla.com^
-||usefathom.com^
 ||useinsider.com^
 ||useitbetter.com^
 ||useproof.com^
@@ -25208,6 +25212,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cc.swiftype.com^
 ||ccexperimentsstatic.oracleoutsourcing.com^
 ||cdn.trafficexchangelist.com^
+||cdn.usefathom.com^
 ||ce.lijit.com^
 ||cf.overblog.com^
 ||cgicounter.oneandone.co.uk^
@@ -25233,6 +25238,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||collect.*.miui.com^
 ||collect.igodigital.com^
 ||collect.rewardstyle.com^
+||collect.usefathom.com^
 ||collector-*.px-client.net^
 ||collector-*.tvsquared.com^
 ||collector-api.99designs.com^
@@ -25749,6 +25755,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ssr.streamrail.net^
 ||st.cdnco.us^
 ||st.linkfire.com^
+||starman.fathomdns.com^
 ||stas.outbrain.com^
 ||stat.boredomtherapy.com^
 ||stat.glaze.ai^
@@ -32086,6 +32093,7 @@ adbetnet.com
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
 !
 !
+||caliskankoylu.com^
 ||n69adserv.com^
 ||adhouse.pro^
 ||dmcdn.yieldbird.com^
@@ -34269,7 +34277,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||reendian.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35608,6 +35615,7 @@ adbetnet.com
 ||rdiqt.cn^
 ||re.taotaosou.com^
 ||rebdy.com^
+||reendian.cn^
 ||reliancevalve.com^
 ||remotedu.cn^
 ||rencai56.com^
@@ -35727,6 +35735,7 @@ adbetnet.com
 ||stsywl.com^
 ||suangtianw.com^
 ||sufficient.cn^
+||sundady.online^
 ||suning.beer^
 ||suning.design^
 ||suning.fit^
@@ -36671,7 +36680,6 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
-||rc.ie13.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
@@ -37213,6 +37221,7 @@ adbetnet.com
 ||r.99waiyu.com^
 ||rabc1.iteye.com^
 ||rbmry.com^
+||rc.ie13.com^
 ||rdbd.xsread.com^
 ||rmcxw.cn^
 ||rmcxw.net^
@@ -37426,7 +37435,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||lantuyj.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -38385,6 +38393,7 @@ adbetnet.com
 ||hyyazhaji.com^
 ||hyzhongchuang.com^
 ||hzhfhkj.cn^
+||hzhongjianfund.com^
 ||hzht666.com^
 ||hzqzxf.com^
 ||hzsrjs.com^
@@ -38609,6 +38618,7 @@ adbetnet.com
 ||lalaaal.cn^
 ||lalaxit.cn^
 ||lanshiwan.cn^
+||lantuyj.com^
 ||laojiayoufang.com^
 ||lawumi.cn^
 ||lchar.com^
@@ -38847,6 +38857,7 @@ adbetnet.com
 ||okshishi.com^
 ||okuis.com^
 ||okwan.cn^
+||ol6nhf.cn^
 ||olc0.cn^
 ||on1q0.cn^
 ||once88.cn^
