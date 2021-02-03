@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-02T00:09:53.407Z
+! Last modified: 2021-02-03T00:05:56.588Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -30,7 +30,6 @@
 ||rdsb21.club^
 ||qbcpicrtdje.com^
 ||hugregregy.pro^
-||wvekalpmn.com^
 ||icoawhou.com^
 ||idswinpole.casa^
 ||irkerecue.com^
@@ -2055,6 +2054,7 @@ www.llllllllllll.net^
 ||rsz.sk^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/41373
 ||bannery.navratdoreality.cz^
+||report.seznamzpravy.cz^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58569
 ||a.b.napiszar.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/19323
@@ -2819,6 +2819,7 @@ vkcdnservice.appspot.com^
 ||adultcamchatfree.com^
 ||adultcamfree.com^
 ||adultcamliveweb.com^
+||adultiq.club^
 ||adultlinkexchange.com^
 ||adultmoviegroup.com^
 ||adultsense.net^
@@ -2845,6 +2846,7 @@ vkcdnservice.appspot.com^
 ||adxite.com^
 ||adxnexus.com^
 ||adxpansion.com^
+||adxpartner.com^
 ||adziondin.club^
 ||ae1a1e258b8b016.com^
 ||ae21a0ad95016488.com^
@@ -3265,6 +3267,7 @@ vkcdnservice.appspot.com^
 ||autoremerciez.xyz^
 ||auvillargeois.site^
 ||auxml.com^
+||avbpaaypbe.com^
 ||avenuehuminterpretation.com^
 ||averaladmi.info^
 ||averalist.club^
@@ -5813,6 +5816,7 @@ vkcdnservice.appspot.com^
 ||gaindemeanourimprovise.com^
 ||gaitdrummerauto.com^
 ||gaitheed.com^
+||galacticmenueasier.com^
 ||galaks.io^
 ||galampgab.com^
 ||galbrechen.club^
@@ -7772,6 +7776,7 @@ vkcdnservice.appspot.com^
 ||lucretius-ada.com^
 ||ludithyshi.pro^
 ||ludovwmhazsx.com^
+||luggagetumbledapple.com^
 ||lulrtvfcy.com^
 ||lupoot.com^
 ||luqafzbdscd.com^
@@ -9641,6 +9646,7 @@ vkcdnservice.appspot.com^
 ||ptpefoctzmmvd.com^
 ||ptrqrnadg.com^
 ||ptuarytannual.club^
+||ptuxinewhi.pro^
 ||ptvcfltikpdi.com^
 ||pucemara.com^
 ||puddingreluctantly.com^
@@ -11295,6 +11301,7 @@ vkcdnservice.appspot.com^
 ||tic-tic-toc.com^
 ||ticrowdingne.club^
 ||tidyboressire.com^
+||tidydownright.com^
 ||tieecstasythrong.com^
 ||tieyggub.com^
 ||tifbhyfrik.com^
@@ -12464,6 +12471,7 @@ vkcdnservice.appspot.com^
 ||wv63l89etbhe.com^
 ||wvahelphpfnhyx.com^
 ||wvbdtcyhgwy.com^
+||wvekalpmn.com^
 ||wvesvozyuoxg.com^
 ||wvgrpwdaol.bid^
 ||wvhsouzoan.com^
@@ -12559,6 +12567,7 @@ vkcdnservice.appspot.com^
 ||xelllwrite.com^
 ||xenddwrxygjcbq.com^
 ||xeqbdmuvjqt.com^
+||xesigyno.pro^
 ||xeverirpunyv.com^
 ||xevhszzauj.com^
 ||xfasadle.com^
@@ -19097,7 +19106,6 @@ vkcdnservice.appspot.com^
 !
 ! relateddigital.com domains
 ||visilabs.com^
-!
 ||dataunion.com.br^
 ||breathebuds.com^
 ||4sqt6jq.de^
@@ -27625,6 +27633,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||acmetex.ru^
+||prdlam.com^
 ||kkmacsqsbf.info^
 ||xxyolk.com^
 ||zswzri7ju3.ru^
@@ -31833,6 +31843,7 @@ adbetnet.com
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||adbn.masterinvest.info^
 ||bs.orsk.ru^
 ||vast4.kinogo.la^
 ||dsn-kuban.krasnodar.su^
@@ -33590,9 +33601,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 26 Jan 2021 16:34 UTC+7
-! Version: 2101261634
-! Blocked: 676 rules
+! Last modified: 02 Feb 2021 11:34 UTC+7
+! Version: 2102021134
+! Blocked: 688 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33652,7 +33663,6 @@ adbetnet.com
 ||clickbuy.bz^
 ||contineljs.com^
 ||dable.io^
-||discovery.api.zaloapp.com^
 ||donglogs.com^
 ||eclick.vn^
 ||eva*-ad.24hstatic.com^
@@ -33724,6 +33734,7 @@ adbetnet.com
 ||sharks.vn^
 ||shop-cdn.coccoc.com^
 ||shopping.coccoc.com^
+||slimads.vn^
 ||smartconvert.co^
 ||sourcetobin.com^
 ||sporttv.today^
@@ -33861,6 +33872,7 @@ adbetnet.com
 ||bluemaulpuffs.com^
 ||boxpr.aiservice.vn^
 ||cdn-ads.thesaigontimes.vn^
+||cdn.bongdadem.net^
 ||cdn2.cache.vn^
 ||cdnasset.dantri.com.vn^
 ||chiasephim.xyz^
@@ -34030,6 +34042,7 @@ adbetnet.com
 ||logsbin.dantri.com.vn^
 ||logscafef.channelvn.net^
 ||monitor.teko.vn^
+||myharavan.com^
 ||newlog.daidoanket.vn^
 ||nstat.headlines.pw^
 ||partner.accesstrade.vn^
@@ -34098,10 +34111,12 @@ adbetnet.com
 ||widget.subiz.net^
 ||widget.subiz.xyz^
 ||widgetv4.subiz.com^
+||1126bet.com^
 ||11bet.com^
 ||11bet.net^
 ||11bet.win^
 ||12b99.com^
+||179bet.net^
 ||1xbetvn.com^
 ||388bet.top^
 ||388bet.us^
@@ -34147,6 +34162,7 @@ adbetnet.com
 ||fb88go.com^
 ||fb88live.com^
 ||fb88sports.com^
+||fb88viet.com^
 ||fcb8.com^
 ||fcb88d.com^
 ||five88.biz^
@@ -34163,10 +34179,12 @@ adbetnet.com
 ||income88.com^
 ||interwinvn.com^
 ||jbovn.com^
+||k8vina17.com^
 ||k8vn03.com^
 ||keotot.net^
 ||letou8868.com^
 ||lixi88.info^
+||lixi888.online^
 ||lode88.vip^
 ||lucky88.com^
 ||lucky88.live^
@@ -34212,6 +34230,7 @@ adbetnet.com
 ||sodo14.com^
 ||sun.win^
 ||sv88.com^
+||t8betvip.com^
 ||tai789.net^
 ||taib52.club^
 ||taimacau.club^
@@ -34225,6 +34244,7 @@ adbetnet.com
 ||v7ac.com^
 ||v8.club^
 ||v9bet.com^
+||v9jvn.com^
 ||vic.fun^
 ||vic.win^
 ||vicwin.vip^
@@ -34239,6 +34259,9 @@ adbetnet.com
 ||vua1004.club^
 ||vua1005.club^
 ||vwinnow.com^
+||vwinthethao.com^
+||vx88.com^
+||vx88e.com^
 ||w388.com^
 ||w88.vin^
 ||w88bro.com^
@@ -35873,6 +35896,7 @@ adbetnet.com
 ||voocl.com^
 ||vs944.cn^
 ||vt863.cn^
+||vtfwgfo.cn^
 ||vtqifk86868.cn^
 ||vxsnk.com^
 ||w3989.com^
@@ -37711,6 +37735,7 @@ adbetnet.com
 ||amghvzn.cn^
 ||anmeilai.net^
 ||anweigongsi.com^
+||anyihuan.com^
 ||anyysz.com^
 ||aodepuo.cn^
 ||aoidf3.com^
@@ -38482,6 +38507,7 @@ adbetnet.com
 ||jiirz.com^
 ||jilinxinfukeji.com^
 ||jinchaoyu.com^
+||jindingguopin.com^
 ||jindowins.com^
 ||jingdayiyuan.com^
 ||jingoulong.cn^
@@ -39660,6 +39686,7 @@ adbetnet.com
 ||zanghaihua.org^
 ||zazkkk.com^
 ||zbieo.com^
+||zbqmsc.com^
 ||zcand.com^
 ||zdovrb.cn^
 ||zenwq.com^
