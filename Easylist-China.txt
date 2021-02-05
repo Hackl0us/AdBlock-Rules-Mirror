@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Uth9BbXswDmFk9Swv1zAqg
-! Version: 202102040012
+! Checksum: D742dp+2DP28IHbuVSZumg
+! Version: 202102050012
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 04 Feb 2021 00:12 UTC
+! Last Modified: 05 Feb 2021 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1729,6 +1729,7 @@ ubmcmm.baidustatic.com
 ||a907907.com^
 ||a9377j.com^
 ||aaaf.info^$script
+||aafuck.xyz^$third-party
 ||aasyy.com^
 ||aazcio.cn^
 ||abie14.top^
@@ -2004,6 +2005,7 @@ ubmcmm.baidustatic.com
 ||cj-cy.com^
 ||cjsdtj.com^
 ||cke199.com^
+||ckkc.cc^
 ||ckseeknew.com^
 ||claz.com.cn^
 ||climbcoder.com^
@@ -3012,7 +3014,6 @@ ubmcmm.baidustatic.com
 ||pg88cdn.com^
 ||phvmax.com^
 ||pianjjiicdn.com^
-||pic12x20.com^
 ||piclick.cn^$third-party
 ||pingping888.com^
 ||pinwu123.com^
@@ -4900,6 +4901,7 @@ _yad_jsonp_
 ||a2put.chinaz.com^
 ||a3v4.top/Picture/aiai.gif
 ||a5xiazai.com/z/
+||aaread.space/images/*0.gif
 ||aassy4.com/dm/
 ||abbao.cn^*adblock
 ||abc.hkepc.com^
@@ -6037,6 +6039,7 @@ _yad_jsonp_
 ||ebioweb.com/newsf/js/inpic.js
 ||ebp.renren.com^
 ||ebrun.com/jfile/position/js/*.js
+||eclassified.my/cp_featured
 ||ecma.bdimg.com^
 ||ecmb.bdimg.com^
 ||ecpoc.com/style/ad
@@ -8074,6 +8077,7 @@ _yad_jsonp_
 ||ssp.zf313.com^
 ||sspai.com/api/v1/recommends?*=article_
 ||sspai.com/attachment/sponsor/
+||sss777.net/Alove-A/
 ||sssvd.china.com^
 ||ssyy121.com/js/bo
 ||ssyy121.com/js/di
@@ -8413,6 +8417,7 @@ _yad_jsonp_
 ||vista.tgbusdata.cn/s.js
 ||vista.tuwan.com/s.js
 ||vjcdn.com/wp-content/uploads/*640x200
+||vk923.com/img/
 ||vkeke.net/public/agd
 ||vkugq.com/data/attachment/portal/
 ||vnet.cn^*.html
@@ -12102,6 +12107,7 @@ le.com##.lay_body[style^="width:980px;height:100px;"]
 le.com##.lay_body[style^="width:980px;height:90px;"]
 le.com##.lay_title[style^="width:490px;height:60px;"]
 firefoxchina.cn##.layout > .banner
+douyu.com##.layout-Slide-banner
 szonline.net##.layout_ad
 gkstk.com##.layui-layer
 toolfk.com##.layui-layer-content
@@ -13670,6 +13676,7 @@ bdimg.com,tieba.baidu.com,tieba.com#?#.tl_shadow:-abp-has(> .ti_item > .ti_infos
 bejson.com#?#:-abp-properties(/data:/)
 bejson.com#?#body>:-abp-has(>:-abp-properties(/新人|香港/))
 benyixiwang.com#?#p:-abp-has(a[href="http://www.sm9166.com"])
+bilibili.com#?#.video-card-common:-abp-has(>.card-pic>a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bili"]))
 api.so.lianmeng.360.cn,pos.baidu.com##body
 qzwb.com##body > .area[style^="height:60px;"]
 bkill.com##body > a:first-child
@@ -17461,6 +17468,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||huhuhiiuio.com^
 ||huician.cn^
 ||huigoushop.com^
+||huijiamei.cn^
 ||huitiankuaiji.com^
 ||huixingcheng.cn^
 ||hunpp.com^
@@ -17624,6 +17632,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||jswnuq.cn^
 ||jsyjwj.com^
 ||jtwlj.cn^
+||juhuandian.com^
 ||julitenj.com^
 ||jullycn.com^
 ||jundazulin.com^
@@ -17893,6 +17902,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||netfix8.info^
 ||newknowledge.cn^
 ||ngceq.cn^
+||ngmaul.cn^
 ||ngsaang.top^
 ||nickarini.com^
 ||niegg.com^
@@ -18387,6 +18397,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||u0r9.cn^
 ||u2c8.cn^
 ||uauwkfk.cn^
+||ubt573.org^
 ||ububyiw6655.xyz^
 ||uc4a.cn^
 ||ucaii.com^
@@ -19321,7 +19332,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||tmall.com/add?
 @@||tracklog.58.com/referrer$~third-party
 @@||udn.com/mall/images/spacer.gif?
-@@||viu.com/ott/*/js/tracking/
+@@||viu.com^*/tracking/tracking.js
 @@||wl.jd.com/joya.js
 @@||wl.jd.com/wl.js
 @@||xizixue.com/plus/count.php?
