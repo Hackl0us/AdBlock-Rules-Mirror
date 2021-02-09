@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-08T00:06:22.402Z
+! Last modified: 2021-02-09T00:05:41.910Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,10 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||localsnaughty.com^
+||alawachi.net^
+||vessoupy.com^
+||adshort.media^
 ||3sk7d418al8u.com^
 ||absorbingconstitution.com^
 ||acknowledgenightsabstain.com^
@@ -152,7 +156,6 @@
 ||safeattributeexcept.com^
 ||son-in-lawmorbid.com^
 ||kihoadoa.com^
-||zunsoach.com^
 ||assets.newsmaxwidget.com^
 ||waspaortascene.com^
 ||9997494f4d4b694d4f6702.online^
@@ -3798,6 +3801,7 @@ vkcdnservice.appspot.com^
 ||btemegxbnalq.com^
 ||btgxicdivmtv.com^
 ||btkxogjoxtd.com^
+||btnldivewzzfso.com^
 ||btonzfjleinuax.com^
 ||btrdlsehltu.com^
 ||btttmgxtziztqq.com^
@@ -5506,6 +5510,7 @@ vkcdnservice.appspot.com^
 ||fadskis.com^
 ||fadskiz.com^
 ||fadslims.com^
+||fadslimz.com^
 ||fadsoks.com^
 ||fadsokz.com^
 ||fadspms.com^
@@ -13389,6 +13394,7 @@ vkcdnservice.appspot.com^
 ||zudlddyzgogsh.com^
 ||zudrurta.com^
 ||zugnogne.com^
+||zunsoach.com^
 ||zuphaims.com^
 ||zurilito.online^
 ||zursiicizyhd.com^
@@ -19313,6 +19319,8 @@ vkcdnservice.appspot.com^
 ! relateddigital.com domains
 ||visilabs.com^
 !
+||tk.promit.ru^
+||ztest1track.com^
 ||phar.gu-web.net^
 ||stats.vk-portal.net^
 ||dataunion.com.br^
@@ -20738,6 +20746,7 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||pappagallu.onefootball.com^
 ||stat.adguard.com^
 ||pvtag.yahoo.co.jp^
 ||stat.adultium.com^
@@ -27830,6 +27839,21 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 ||zebestof.com^
+!
+
+!
+! Source name: AdGuard Russian filter ad servers
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers.txt
+!
+!
+! Содержит доменные имена, использующиеся рекламными сетями.
+!
+! AdsWell.ru
+! `window.adswellBaseDomain`
+! https://damskiy.xyz/vendor/lib/oY.js
+!
+||randiul.com^
+||alli-ti-hunter.com^
 ||bhiesfffga.com^
 ||ogtz5yn2u1.ru^
 ||8245.digital^
@@ -36899,6 +36923,8 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
+||3337723.com^
+||3337738.com^
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
@@ -37681,6 +37707,10 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||happyyong.com^
+||n18uji.xyz^
+||oppaid.com^
+||cndaizi.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -38845,6 +38875,7 @@ adbetnet.com
 ||kjdw.com.cn^
 ||kjhfy.com^
 ||kkhuhct.cn^
+||kl0ru78.xyz^
 ||klorn.cn^
 ||klsadm.com^
 ||kltent.cn^
