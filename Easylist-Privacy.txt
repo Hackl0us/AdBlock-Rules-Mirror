@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102092334
+! Version: 202102102210
 ! Title: EasyPrivacy
-! Last modified: 09 Feb 2021 23:34 UTC
+! Last modified: 10 Feb 2021 22:10 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10006,9 +10006,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||2iui01.com^$third-party
 ||2parale.ro^$third-party
 ||2performant.com^$third-party
+||aghtag.tech^$third-party
 ||best-top.ro^$third-party
 ||gtop.ro^$third-party
 ||hit100.ro^$third-party
+||pahtag.tech^$third-party
 ||profitshare.ro^$third-party
 ||retargeting.biz^$third-party
 ||statistics.ro^$third-party
@@ -10890,6 +10892,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d2cpw6kwpff7n5.cloudfront.net^
 ||d2gbtcuv3w9qyv.cloudfront.net^
 ||d2ibu2ug0mt5qp.cloudfront.net^
+||d2j1fszo1axgmp.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
 ||d2nq0f8d9ofdwv.cloudfront.net/track.js
 ||d2nxi61n77zqpl.cloudfront.net^
@@ -11153,6 +11156,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gcion.com/gcion.ashx?
 ||geckofoot.com/gfcounterimg.aspx?
 ||geckofoot.com/gfvisitormap.aspx?
+||gemius.mgr.consensu.org^
 ||geni.us/snippet.js
 ||geni.us/snippet.min.js
 ||geo.ertya.com^
@@ -11366,6 +11370,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||l.ooyala.com^
 ||l.player.ooyala.com^
 ||l.sharethis.com^
+||l.typesquare.com^
 ||l2.io/ip.js?var=$third-party
 ||laurel.macrovision.com^
 ||laurel.rovicorp.com^
