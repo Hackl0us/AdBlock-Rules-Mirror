@@ -3,14 +3,32 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-16T00:05:46.393Z
+! Last modified: 2021-02-17T00:05:54.469Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
+!
+! Source name: AdGuard Base filter ad servers
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
+!
+!
+! Section contains list of advertising networks
+!
+! The rules with hints are at the end of file
+!
+!! https://a.bestcontentitem.top/warp/*?r=
+!
+||rofwvvyp.com^
+||expendituredefeated.com^
+||seektravelingdiffident.com^
+||kumteerg.com^
+||directhourshoulders-1.life^
 ||motivesbreastchopped.com^
 ||konradsheriff.com^
 ||with0utdr0p.com^
 ||adlane.info^
+||vowifeba.xyz^
+||zebuaridromps.com^
 ||ppae8oe4eku9.com^
 ||psaughun.com^
 ||loopoohy.com^
@@ -3135,6 +3153,7 @@ vkcdnservice.appspot.com^
 ||ashchiasp.club^
 ||ashingcontro.top^
 ||asiangfsex.com^
+||asilslmkcanfm.com^
 ||asingsprxxebsx.com^
 ||asjdhajsdnweqwasdascxzccsdcsdcsdfewfwefqweqweqw.network^
 ||askallalb.club^
@@ -3223,6 +3242,7 @@ vkcdnservice.appspot.com^
 ||averaladmi.info^
 ||averalist.club^
 ||averallasew.club^
+||avfgoatbyyerys.com^
 ||avmftuama.com^
 ||avuvldbc.com^
 ||avwincall.info^
@@ -4233,6 +4253,7 @@ vkcdnservice.appspot.com^
 ||dasimporary.club^
 ||data-data-vac.com^
 ||datedissyuk.icu^
+||dateregionsmadman.com^
 ||dating2cloud.org^
 ||daugloon.net^
 ||dauntlessomelette.com^
@@ -4756,6 +4777,7 @@ vkcdnservice.appspot.com^
 ||elegantluckpersonally.com^
 ||elelrryoifogje.com^
 ||elemente.club^
+||elessecsta.top^
 ||elevantpds.club^
 ||elexgfzjpmo.com^
 ||elfcoexistbird.com^
@@ -5120,6 +5142,7 @@ vkcdnservice.appspot.com^
 ||fbfd396918c60838.com^
 ||fblbdytlhsc.com^
 ||fc2b9b7ce3165.com^
+||fc4eeee1c5.com^
 ||fcfd5de4b3be3.com^
 ||fcfhjuyanmlvgb.com^
 ||fcvwuevewdzpm.com^
@@ -5407,6 +5430,7 @@ vkcdnservice.appspot.com^
 ||gadsoks.com^
 ||gadsokz.com^
 ||gadspms.com^
+||gadspmz.com^
 ||gagnibcan.com^
 ||gagpetwet.com^
 ||gaietyejection.com^
@@ -6314,6 +6338,7 @@ vkcdnservice.appspot.com^
 ||jockeryfgtu.club^
 ||jodellbrought.pro^
 ||joeputa.xyz^
+||joeyzzvkpjha.com^
 ||joiningpreferencemobile.com^
 ||jokehow.com^
 ||jomtingi.net^
@@ -8543,6 +8568,7 @@ vkcdnservice.appspot.com^
 ||polishshinyspectacles.com^
 ||polituremil.club^
 ||pollscoopiffy.com^
+||pompeyperspire.com^
 ||ponchowafesargb.com^
 ||ponderaura.com^
 ||pooboafi.net^
@@ -8721,6 +8747,7 @@ vkcdnservice.appspot.com^
 ||psoaksoo.com^
 ||psoanouy.net^
 ||psonstrentie.info^
+||psougrie.com^
 ||psoumtou.net^
 ||psurdoak.com^
 ||psvgnczo.com^
@@ -8747,6 +8774,7 @@ vkcdnservice.appspot.com^
 ||ptoahaistais.com^
 ||ptogheeb.net^
 ||ptongouh.net^
+||ptookaih.net^
 ||ptoulsey.com^
 ||ptoumsid.net^
 ||ptoushoa.com^
@@ -9320,6 +9348,7 @@ vkcdnservice.appspot.com^
 ||rigourcrispblaspheme.com^
 ||rilelogicbuy.com^
 ||rimezvsto.com^
+||rincegath.fun^
 ||rindicalapa.fun^
 ||rinedcountilconsiden.info^
 ||ringassum.club^
@@ -9450,6 +9479,7 @@ vkcdnservice.appspot.com^
 ||run-syndicate.com^
 ||runative-syndicate.com^
 ||runbornto.com^
+||rungginlout.com^
 ||runghollow.com^
 ||rusenov.com^
 ||rushcostscomparison.com^
@@ -10081,6 +10111,7 @@ vkcdnservice.appspot.com^
 ||successcompassion.com^
 ||suctorado-wrivate.icu^
 ||sudvykphfph.com^
+||suecubrearrange.com^
 ||suedespadecomparatively.com^
 ||sufferench.club^
 ||suggestvideos.xyz^
@@ -10412,6 +10443,7 @@ vkcdnservice.appspot.com^
 ||tmhfbwgpvzcxly.com^
 ||tmjhdyghjm.com^
 ||tmjivakr.com^
+||tmnlsmvgrkoj.com^
 ||tmpnencifbe.com^
 ||tmtxtltrid.com^
 ||tmxmckanu.com^
@@ -11683,12 +11715,14 @@ vkcdnservice.appspot.com^
 ||xoekgcscpnipb.com^
 ||xogkpytfgyzy.com^
 ||xogvagdtgehxm.com^
+||xokikdassjjhrn.com^
 ||xorcibleboth.club^
 ||xorotmjjst.com^
 ||xotaiybjyj.com^
 ||xoyoijhp.com^
 ||xpgfsxoyijt.com^
 ||xpigohyzfdcgp.com^
+||xpsurtfhsllozy.com^
 ||xptslcoedn.com^
 ||xpwppacpda.com^
 ||xpwwqbkezdr.com^
@@ -13594,6 +13628,7 @@ vkcdnservice.appspot.com^
 ||commissionlounge.com^
 ||commissionmonster.com^
 ||commodationship.info^
+||communicationads.net^
 ||conderedtoget.info^
 ||conduit-banners.com^
 ||conduit-services.com^
@@ -18207,7 +18242,6 @@ vkcdnservice.appspot.com^
 ||msg.qy.net^
 ||hit.uptrendsdata.com^
 ||sitest.jp^
-||husfly.com^
 ||collect.lngtd.com^
 ||cdn.resonate.com^
 ||events.mapbox.com^
@@ -23129,6 +23163,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ventivmedia.com^
 ||vepxl1.net^
 ||vercel-analytics.com^
+||vercel-insights.com^
 ||vertical-leap.co.uk^
 ||vertical-leap.net^
 ||verticalscope.com^
@@ -31156,6 +31191,7 @@ adbetnet.com
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
 !
 !
+||tarpitbar.com^
 ||caliskankoylu.com^
 ||n69adserv.com^
 ||adhouse.pro^
@@ -31829,7 +31865,6 @@ adbetnet.com
 ! Section contains list of advertising networks
 !
 ||cdn.upthinking.cn^
-||quxiangkeji.cn^
 ||sogo.uc.continuefaf.top^
 ||local.hniux.cn^
 ||ce.wlaoc.cn^
@@ -32290,6 +32325,7 @@ adbetnet.com
 ||gbucket.ch^
 ||hbagency.it^
 ||hubaffiliations.net^
+||husfly.com^
 ||inaffiliago.it^
 ||ioladv.it^
 ||iperbanner.com^
@@ -33422,6 +33458,8 @@ adbetnet.com
 ||2polj.top^
 ||2zfzly.com^
 ||31365y.com^
+||3336657.com^
+||3337739.com^
 ||3337781.com^
 ||333dm.com^
 ||338336.com^
@@ -36630,6 +36668,7 @@ adbetnet.com
 ||5dydk.com^
 ||5glyqw.com^
 ||5hytr.xyz^
+||5j73de.cn^
 ||5mbd2.com^
 ||5mgurg.cn^
 ||5p68n.cn^
@@ -37915,6 +37954,7 @@ adbetnet.com
 ||nmqdnykj.com^
 ||nmtouzi.com^
 ||nongzhifu.cn^
+||nosensor.cn^
 ||notoboo.net^
 ||nouzhu.cn^
 ||nqfwx.cn^
@@ -38087,6 +38127,7 @@ adbetnet.com
 ||qucco.cn^
 ||quipin.cn^
 ||quxiandu.com^
+||quxiangkeji.cn^
 ||quyejianzhan.tech^
 ||qwesgwg.cn^
 ||qxyu.top^
@@ -38134,6 +38175,7 @@ adbetnet.com
 ||ruyiqufu.com^
 ||rxconkz.cn^
 ||rxxdq.cn^
+||rzlib.net^
 ||rzxlszy.vip^
 ||s7ww2.cn^
 ||s9wp1.cn^
@@ -38677,6 +38719,7 @@ adbetnet.com
 ||yimai51.cn^
 ||yimeize.cn^
 ||yingjiawm.com^
+||yingyeping.com^
 ||yinlt.com^
 ||yinvmh.com^
 ||yinzantouzi.com^
