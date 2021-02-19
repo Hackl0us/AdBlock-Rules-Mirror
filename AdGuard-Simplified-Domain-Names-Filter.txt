@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-18T00:06:11.606Z
+! Last modified: 2021-02-19T00:05:57.847Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,8 +18,15 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||adcentrum.net^
+||s.viites.com^
+||adsmodern.com^
+||glogoowo.net^
+||giwefepy.xyz^
 ||glassmilheart.com^
 ||feyl4mh5to.com^
+||bbocajxn.com^
+||tunviralbionic.com^
 ||expendituredefeated.com^
 ||seektravelingdiffident.com^
 ||kumteerg.com^
@@ -3462,6 +3469,7 @@ vkcdnservice.appspot.com^
 ||bestssn.com^
 ||bestvideo2019.xyz^
 ||betahit.click^
+||betjeyxf.com^
 ||betrayedregretdeadline.com^
 ||betteradsystem.com^
 ||bettercontentservice.top^
@@ -5982,6 +5990,7 @@ vkcdnservice.appspot.com^
 ||huovernment.club^
 ||hurchasisounci.site^
 ||husbandbazaar.com^
+||hustlereorganizesatin.com^
 ||huyqmtpqhemcv.com^
 ||hvato.info^
 ||hvawrj8yeqru.com^
@@ -17274,6 +17283,7 @@ vkcdnservice.appspot.com^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||ad.leap.app^
 ||cl-ad.x-flow.app^
 ||soundcloud-pax.pandora.com^
 ||promoted.sndcdn.com^
@@ -20461,6 +20471,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.appsflyer.com^
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||p.statp.com^
+||api.imqtyik.com^
 ||events.claspws.tv^
 ||tracking-receiver.prod-general.stocard-backend.com^
 ||metrics.happycolor.app^
@@ -22063,6 +22075,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||leadsius.com^
 ||leadsmonitor.io^
 ||leadsrx.com^
+||leafmedia.io^
 ||leanplum.com^
 ||legolas-media.com^
 ||les-experts.com^
@@ -23340,6 +23353,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ygsm.com^
 ||yieldbot.com^
 ||yieldify.com^
+||yieldlift.com^
 ||yieldsoftware.com^
 ||yjtag.jp^
 ||yldr.io^
@@ -25332,6 +25346,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hot-count.com^
 ||hotcounter.de^
 ||hstrck.com^
+||htm1.ch^
 ||hung.ch^
 ||iivt.com^
 ||imcht.net^
@@ -26721,6 +26736,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||hranakel.xyz^
 ||xokikdassjjhrn.com^
 ||glygrebedu.pro^
 ||tmnlsmvgrkoj.com^
@@ -33388,6 +33404,9 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||acptkgp.com^
+||szxhybj.com^
+||abcdlm.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35774,6 +35793,7 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
+||m.jsr9.com^*.js
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
