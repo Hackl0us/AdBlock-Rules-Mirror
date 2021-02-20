@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: jHsVo/7hc1GdxztOuHno9g
-! Version: 202102190012
+! Checksum: yhp0KFfmPcili0PO18O8YA
+! Version: 202102200012
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 19 Feb 2021 00:12 UTC
+! Last Modified: 20 Feb 2021 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -2806,6 +2806,7 @@ ubmcmm.baidustatic.com
 ||log.interest.mix.sina.com.cn^
 ||lolmp4.com^$third-party
 ||longchengtg.com^
+||longdidi.top^
 ||loveconer.com^
 ||lovestyl.com^
 ||lovexia.top^
@@ -10277,6 +10278,7 @@ hao.360.com###sidebar
 iyejie.com###sidebar > .widget:first-child
 ainuody.com###sidebar > .widget:nth-child(-n+6)
 appinn.com###sidebar > .widget_text:first-child
+ruyo.net###sidebar > :not(:first-child):not(:last-child):not([id^="recent-posts"])
 jiecao123.com###sidebar > a
 fuliba.net###sidebar > div:first-child
 fuliba.net###sidebar > div:last-child
@@ -13661,7 +13663,7 @@ aibing.cc##a[href^="https://aibing.cc/go/"]
 yahoo.com##a[href^="https://beap.gemini.yahoo.com/"] + .NoTextDecoration
 oschina.net##a[href^="https://citiccard.wjx.cn/"]
 acfun.cn##a[href^="https://click.dsp.com/"]
-github.com##a[href^="https://cloud.tencent.com/"]
+github.com##a[href^="https://cloud.tencent.com/redirect."] > img
 chongbuluo.com##a[href^="https://cn.udacity.com/"]
 tzfile.com##a[href^="https://d.oo14.com/"]
 3dmgame.com##a[href^="https://down.hyds360.com/"] > div[style]
@@ -15977,6 +15979,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||luolikong.net^$third-party
 ||luoshenbest.cn^
 ||lv.myapks.com^
+||lynr.com^
 ||lyz.radio366.com^
 ||m1.100how.com^
 ||m1.27com.com^
