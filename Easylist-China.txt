@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yhp0KFfmPcili0PO18O8YA
-! Version: 202102200012
+! Checksum: 5gPqRyCRC7glK3UeGeVNAA
+! Version: 202102210012
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 20 Feb 2021 00:12 UTC
+! Last Modified: 21 Feb 2021 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1274,6 +1274,7 @@ _xiuno_com_ad/
 /xdy_yyo.php
 /xxd.php?id=$script,third-party
 ://*:*/s.php?id=$script,third-party
+:12443/*/*-*-*.$script,third-party
 :8080/js/v1.js$third-party
 :8080/js/v2.1.js$third-party
 :81/c/i.php?id=$script
@@ -2676,6 +2677,7 @@ ubmcmm.baidustatic.com
 ||k12shequ.com^
 ||k1815.com^
 ||k3851.com^$third-party
+||k9dzax.cn^
 ||ka12138.top^
 ||kaixinjiehun.com^$third-party
 ||kakayy.com^$third-party
@@ -2806,7 +2808,6 @@ ubmcmm.baidustatic.com
 ||log.interest.mix.sina.com.cn^
 ||lolmp4.com^$third-party
 ||longchengtg.com^
-||longdidi.top^
 ||loveconer.com^
 ||lovestyl.com^
 ||lovexia.top^
@@ -2860,6 +2861,7 @@ ubmcmm.baidustatic.com
 ||meiti1.net^
 ||meituan.xn--io0a7i^
 ||meituan.yoga^
+||meituangov.cn^
 ||mengbingyuan.com^
 ||mengbli.com^
 ||mengheyu.com^
@@ -3473,6 +3475,7 @@ ubmcmm.baidustatic.com
 ||v-links.net^$third-party
 ||v.center^$third-party
 ||v.xi666.com^$third-party
+||v9wuyulou.com^
 ||vaedan.top^
 ||vamaker.com^$third-party
 ||vdazz.net^
@@ -5114,6 +5117,7 @@ _yad_jsonp_
 ||alicdn.com/kf/U693ffd2a78ac452895488e4e5426554cA.jpg
 ||alicdn.com/kf/U937e9421ce844d44a5977758f21b72eey.png
 ||alicdn.com/kf/Uc565e19948944fdb860e6847fb145811t.jpg
+||alicdn.com/kf/Ucdaf8165ce43491681d63dc26ecf5d75l.jpg
 ||alicdn.com/kf/Ufb1c57128ee14e7d88841812d0d280abo.gif
 ||alicdn.com/kf/Ufd682a9d70524fc895a0059f276998196.jpg
 ||alicdn.com/kf/UTB8tVxYvbPJXKJkSafS5jaqUXXac.gif
@@ -6009,6 +6013,8 @@ _yad_jsonp_
 ||dyjqd.com/images/js/dyjqd.js
 ||dysitecdn.com/gg
 ||dysitecdn.com^*.php
+||dytt.com/oj.js
+||dytt.com/pc.js
 ||dytt.com^*yb.js
 ||dytt8.net/js1/
 ||dytt8.net/js2/
@@ -6499,6 +6505,7 @@ _yad_jsonp_
 ||hkcoding.com/img/
 ||hkdm688.com/js/68/
 ||hkitblog.com^*-banner
+||hkmte.com/seo.js
 ||hktvmall.com/api/preroll/getList?
 ||hmghmg.com/tb
 ||hmog.me/tb
@@ -7179,6 +7186,7 @@ _yad_jsonp_
 ||longbahao.com/asd.js
 ||longbahao.com/js/ad-
 ||longdidi.top/tpl/mstyle/js/g.js
+||longdidi.top^*.js
 ||longzhu.com/i/api/playpage/recommendPop?
 ||longzhu.com/recommendad/
 ||lotour.net/bcef/388.js
@@ -8191,6 +8199,7 @@ _yad_jsonp_
 ||taoguba.com.cn/res/js/tgbgg/
 ||taoguba.com.cn/res/libs/tgbxc.js
 ||taosq.net/public/250x250.jpg
+||taotaoxiang.cc/111/
 ||taoziba.me/a*.js
 ||taoziba.me/sys
 ||taporn.com/d/
@@ -8387,6 +8396,8 @@ _yad_jsonp_
 ||uho.com.tw^$subdocument
 ||ulifestyle.com.hk/images/*_300x100
 ||ultraimg.com^$domain=18board.com|18p2p.com
+||ulzdk.com/statics/v2/js/kulis.js
+||ulzdk.com/Uploads/ulzdkgif/bfq.gif
 ||union.591.com.tw/cpt?
 ||union.china.com.cn^
 ||union.yihaodian.com^
@@ -12473,7 +12484,6 @@ wallstreetcn.com##.omg-container
 10jqka.com.cn,hepan.com##.onead
 duba.com##.oneone-search
 bilibili.com##.online + .adpos
-bilibili.com##.online + .operate-card
 udn.com##.only_web > .DisplayVideo
 wdzj.com##.opentb
 bilibili.com##.operate-card[data-target-url*=".miaozhen."]
@@ -12507,6 +12517,7 @@ cngold.org##.pageAdv
 baidu.com##.pageLeftFixedAD
 easyicon.net##.page_big_adv
 fastadmin.net##.panel-body > a[href$="="]
+qb-api.com##.panel-success
 xinhuanet.com##.part-ad1
 www.sina.com.cn##.part-l
 bbs.52life.cc##.part1
@@ -13415,7 +13426,7 @@ sinolub.com##[id^="xker"]
 32r.com##[onclick*="@"]
 zhangxinxu.com##[onclick*="Ad"]
 42xz.com##[onclick*="godownload"]
-1stchina.net,717dyi.com,86cg.me,aiqiyivip.com,duodada.com,liaocao.tv,qhdi.com##[onclick]
+1stchina.net,717dyi.com,86cg.me,aiqiyivip.com,duodada.com,liaocao.tv,qhdi.com,taotaoxiang.cc##[onclick]
 duonaolive.com##[onclick^="track"]
 717dyi.com,aiqiyivip.com,duodada.com,poxiaotv.com,qhdi.com##[ontouchstart]
 duodada.com##[style*="position: fixed; left: 0px;"]
@@ -14546,6 +14557,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
+@@||aternos.org^$generichide
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
 @@.jpg#$domain=huhupan.com
@@ -15860,6 +15872,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||fpb.sohu.com^
 ||fpb1.apple886.com^
 ||fpb1.chinacar.
+||fpb1.tabuzhe.com^
 ||fwccw.com^
 ||fxjs.2541.com^
 ||g.3lian.com^
@@ -16752,6 +16765,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||6945k6.cn^
 ||69yll.cn^
 ||6l1967.cn^
+||6s7v78.cn^
 ||6shuge.com^
 ||6yush.cn^
 ||70bhsd.cn^

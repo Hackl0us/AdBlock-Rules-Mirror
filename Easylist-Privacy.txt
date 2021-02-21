@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102191616
+! Version: 202102210020
 ! Title: EasyPrivacy
-! Last modified: 19 Feb 2021 16:16 UTC
+! Last modified: 21 Feb 2021 00:20 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3259,6 +3259,7 @@
 /pageviews_counter.
 /PageviewsTracker.
 /pap.swf?
+/parsely-events.
 /parsely.js
 /particles/analytics.
 /partner/transparent_pixel-$image
@@ -5782,6 +5783,7 @@ _mongo_stats/
 ||g6338698720.co^
 ||g6536783055.co^
 ||g6734867390.co^
+||g6932951725.co^
 ||mors22.com^
 ||nxakpj4ac8gkd53.info^
 ||propeller-tracking.com^
@@ -11806,6 +11808,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ptracker.nurturehq.com^
 ||ptsc.shoplocal.com^
 ||pub.sheknows.com^
+||public.cobrowse.oraclecloud.com/rely/storage/
 ||publicbroadcasting.net/analytics/
 ||pulsar.ebay.com^$third-party
 ||purevideo.com^*/pvshim.gif?
@@ -17801,6 +17804,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ! Vietnamese
 ||log.ttbc-hcm.gov.vn^
 ||logsbin.dantri.com.vn^
+||stats.muasamcong.gov.vn^
 ! Indonesian
 ||analytic20.detik.com^
 ||ktracker.kumparan.com^
