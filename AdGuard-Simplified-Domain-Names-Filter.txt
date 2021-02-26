@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-25T00:05:51.581Z
+! Last modified: 2021-02-26T00:06:04.405Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||rutpunishsnitch.com^
+||resalag.com^
+||solitudeelection.com^
 ||ruytvzdcavjsjh.com^
 ||papoptidu.pro^
 ||mrnpwuere.com^
@@ -67,7 +70,6 @@
 ||expendituredefeated.com^
 ||seektravelingdiffident.com^
 ||kumteerg.com^
-||directhourshoulders-1.life^
 ||continuedhostilityequipped.com^
 ||deductdoorwayfig.com^
 ||motivesbreastchopped.com^
@@ -3167,6 +3169,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||ad.holmesmind.com^
 ||j83ad.speedrun.com^
 ||12.beautifulero.com^
 ||d18t35yyry2k49.cloudfront.net^
@@ -4212,6 +4215,7 @@ vkcdnservice.appspot.com^
 ||advancellsclo.site^
 ||advantscivile.club^
 ||adventory.com^
+||adverdirect.com^
 ||adversolutions.com^
 ||advertisingsex.com^
 ||advertom.com^
@@ -4331,6 +4335,7 @@ vkcdnservice.appspot.com^
 ||allanetmilean.club^
 ||allartand.club^
 ||allayravage.com^
+||alli-ti-cod.com^
 ||alli-ti-hunter.com^
 ||alliedsurfgrace.com^
 ||alliedthirteen.com^
@@ -4714,6 +4719,7 @@ vkcdnservice.appspot.com^
 ||bbom2b434493.com^
 ||bbtwdpczir.com^
 ||bbyhjamzpkenvm.com^
+||bce97f29c40fc40.com^
 ||bckfnohmg.com^
 ||bcloudhost.com^
 ||bcnewltd.club^
@@ -4927,6 +4933,7 @@ vkcdnservice.appspot.com^
 ||breastfeedingfabricadorable.com^
 ||breated.club^
 ||breatedy.club^
+||breathebuds.com^
 ||breatmentbr.top^
 ||breedingcasual.com^
 ||breedom.club^
@@ -4965,6 +4972,7 @@ vkcdnservice.appspot.com^
 ||buipovexhav.com^
 ||bukash2jf8jfpw09.com^
 ||bulbsanctify.com^
+||bulgingfranklyphrase.com^
 ||bulldogdemocracy.com^
 ||bulletfeedspy.com^
 ||bulletindualpartial.com^
@@ -5018,6 +5026,7 @@ vkcdnservice.appspot.com^
 ||c0z.xyz^
 ||c10ed2b8b417880.com^
 ||c15fb199d1ea.com^
+||c25677a7c2.com^
 ||c26e9ccd4e063b.com^
 ||c3t-system-err.club^
 ||c61ec7314ee.com^
@@ -5421,6 +5430,7 @@ vkcdnservice.appspot.com^
 ||cqyirsc.com^
 ||cr-brands.net^
 ||cragbrasyeps.com^
+||crankybarge.com^
 ||craqueteriez.xyz^
 ||creasureeffe.club^
 ||createssque.club^
@@ -5535,6 +5545,7 @@ vkcdnservice.appspot.com^
 ||dantbritingd.club^
 ||danyhazo.online^
 ||daprocessary.club^
+||daringprobablywithin.com^
 ||dartsirhose.icu^
 ||dasfelynsaterr.webcam^
 ||dashcreakyock.com^
@@ -5842,6 +5853,7 @@ vkcdnservice.appspot.com^
 ||dungeonavenge.com^
 ||durpygckli.com^
 ||dustycondition.com^
+||dutorterraom.com^
 ||duwomuonxosyjf.com^
 ||duxumpou.com^
 ||dvuneqnrkukud.com^
@@ -6592,6 +6604,7 @@ vkcdnservice.appspot.com^
 ||ftssqcsl.com^
 ||ftuzhlqzmmp.com^
 ||ftvpqgmbovwzot.com^
+||ftwjubad.com^
 ||fudgenine.com^
 ||fuer.pro^
 ||fufoatch.com^
@@ -7010,6 +7023,7 @@ vkcdnservice.appspot.com^
 ||helessenge.club^
 ||heloymydva.com^
 ||hematuresl.club^
+||hempunevenfeminist.com^
 ||hemtatch.net^
 ||hequentsevent.club^
 ||heraldintimidatestipulate.com^
@@ -7095,6 +7109,7 @@ vkcdnservice.appspot.com^
 ||holdspreoccupation.com^
 ||holidates.club^
 ||home4loans.info^
+||homelessfunkenclose.com^
 ||homesicktitanic.com^
 ||homeyloanedmes.work^
 ||honeycshfferufrew.com^
@@ -7505,6 +7520,7 @@ vkcdnservice.appspot.com^
 ||jlemhcmft.com^
 ||jlhniewc.com^
 ||jltklmnmj.com^
+||jmrnews.pro^
 ||jmtitdorwfxe.com^
 ||jmvdzlkf.com^
 ||jmxecxpqq.com^
@@ -7539,6 +7555,7 @@ vkcdnservice.appspot.com^
 ||jqdkoslwjtn.com^
 ||jqnshpbuj.com^
 ||jqzlmjaph.com^
+||jrtswekysc.com^
 ||jrvcwxubg.com^
 ||js-kods.club^
 ||jstatic.org^
@@ -7724,6 +7741,7 @@ vkcdnservice.appspot.com^
 ||ksncmrkfrzkgla.com^
 ||ksqajdtvajakfi.com^
 ||ksvxikbr.com^
+||ktbhboeaqw.com^
 ||kueimatyr.com^
 ||kuldifatlje.com^
 ||kumanaun.net^
@@ -7766,6 +7784,7 @@ vkcdnservice.appspot.com^
 ||labortiontrifee.info^
 ||ladiumdh.top^
 ||ladnova.info^
+||ladsabs.com^
 ||ladsabz.com^
 ||ladsans.com^
 ||ladsanz.com^
@@ -8372,6 +8391,7 @@ vkcdnservice.appspot.com^
 ||moviestreamingonline.club^
 ||mowehrxikxhr.com^
 ||mozgvya.com^
+||mp3dance.today^
 ||mpanybac.club^
 ||mpay69.com^
 ||mpersonclu.club^
@@ -8541,6 +8561,7 @@ vkcdnservice.appspot.com^
 ||net00.biz^
 ||netcatx.com^
 ||netrosol.net^
+||netund.com^
 ||neurishot.info^
 ||neuronales.xyz^
 ||neveralexpect.fun^
@@ -8583,6 +8604,7 @@ vkcdnservice.appspot.com^
 ||ngumyydbupv.com^
 ||nguooqblyjrz.com^
 ||nhqxzqvkj.com^
+||nhrivytyo.com^
 ||nhtkbvafhre.com^
 ||ni6cdwf6w5xr.com^
 ||niaagentl.top^
@@ -8818,6 +8840,7 @@ vkcdnservice.appspot.com^
 ||oebadu.com^
 ||oedoxundnibwc.com^
 ||oefyjdykepx.com^
+||oegdmfjoqyyt.com^
 ||oegzbchydxbjkz.com^
 ||oeuanvyte.com^
 ||oevqxivhquovq.com^
@@ -8944,6 +8967,7 @@ vkcdnservice.appspot.com^
 ||orisapple.top^
 ||orminecommi.fun^
 ||ornamedev.club^
+||orozrpyxdigvwe.com^
 ||orrecede.top^
 ||ortymarvin.top^
 ||orvzvaqig.com^
@@ -9005,6 +9029,7 @@ vkcdnservice.appspot.com^
 ||overnmentil.site^
 ||overnmentsv.club^
 ||overnmenty.club^
+||overreactscout.com^
 ||overribleintena.info^
 ||oversightbullet.com^
 ||ovfuoico.com^
@@ -9236,6 +9261,7 @@ vkcdnservice.appspot.com^
 ||plausiblebyeshear.com^
 ||playerseo.club^
 ||playstream.media^
+||playwrightdine.com^
 ||pldsafpulgnw.com^
 ||pleatanxiety.com^
 ||pleatglossary.com^
@@ -9403,6 +9429,7 @@ vkcdnservice.appspot.com^
 ||propeanikob.site^
 ||propellerclick.com^
 ||properatery.club^
+||propmunchviper.com^
 ||proportly.club^
 ||prospergenerosityperformance.com^
 ||prosperousevictcrucial.com^
@@ -9957,6 +9984,7 @@ vkcdnservice.appspot.com^
 ||rouvoute.net^
 ||rovalionsa.fun^
 ||rovenancyde.top^
+||rowfeedire.casa^
 ||rpjzlykhkdc.com^
 ||rpqknedxr.com^
 ||rprygapywrk.com^
@@ -10100,6 +10128,7 @@ vkcdnservice.appspot.com^
 ||scarcelysorrow.com^
 ||scarecrowdelight.com^
 ||scarewalrusregulate.com^
+||scbywiqkm.com^
 ||sceieibhpdday.com^
 ||scenbe.com^
 ||schjmp.com^
@@ -10479,6 +10508,7 @@ vkcdnservice.appspot.com^
 ||stedintelo.club^
 ||stenosent.xyz^
 ||stepfatherparamedicthem.com^
+||stepmotherillegaldepressing.com^
 ||steroidtypesconviction.com^
 ||steverariso.fun^
 ||stewerdu.net^
@@ -10597,6 +10627,7 @@ vkcdnservice.appspot.com^
 ||swjvfwtypu.com^
 ||swoodlander.site^
 ||swoodlandsu.site^
+||swoopclusterbeasts.com^
 ||swqlzufnbngw.com^
 ||swstkrihg.com^
 ||swwpush.com^
@@ -10608,6 +10639,7 @@ vkcdnservice.appspot.com^
 ||sycbmucgctvha.com^
 ||sympatientcu.club^
 ||symphoneupcom.site^
+||syncwowsails.com^
 ||synthesissocietysplitting.com^
 ||syphilohmmaging.site^
 ||syrupmagical.com^
@@ -10787,6 +10819,7 @@ vkcdnservice.appspot.com^
 ||tifybecausingp.info^
 ||tightsaturdayi.com^
 ||tilltucked.com^
+||timbercooling.com^
 ||time4news.net^
 ||timeruniversalreligious.com^
 ||tin-tin-win.com^
@@ -11029,6 +11062,7 @@ vkcdnservice.appspot.com^
 ||ufwpwt.com^
 ||ugbadcqsqep.com^
 ||ughdqpwtfabsqg.com^
+||ugmovxfikvhct.com^
 ||ugoupams.com^
 ||ugqdykbxe.com^
 ||uh9qulew9rjj.com^
@@ -11187,6 +11221,7 @@ vkcdnservice.appspot.com^
 ||utq55kl9vyqv.com^
 ||utstancecaricit.info^
 ||utteredhandicappedsomebody.com^
+||utteroccupied.com^
 ||uuaajohul.com^
 ||uuaauw.com^
 ||uubforbdc2om.com^
@@ -11584,6 +11619,7 @@ vkcdnservice.appspot.com^
 ||wgrjizeaimbxx.com^
 ||wgwguxqij.com^
 ||wgxuexjrvo.com^
+||whackmaturityclosure.com^
 ||whadaupo.net^
 ||whaidruk.com^
 ||whaiweel.com^
@@ -18597,6 +18633,9 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||uncn.jp^
+||ad-spire.net^
+||f-counter.net^
 ||moshimo.com^
 ||counter.monkeybanana3.com^
 ||analytic-client.playful-fairies.com^
@@ -18608,7 +18647,6 @@ vkcdnservice.appspot.com^
 ||event.syndigo.cloud^
 ||event.webcollage.net^
 ||dataunion.com.br^
-||breathebuds.com^
 ||4sqt6jq.de^
 ||sprocket-ping.s3.amazonaws.com^
 ||events.launchdarkly.com^
@@ -22557,6 +22595,7 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||t.lidyana.com^
 ||stats.muasamcong.gov.vn^
 ||beacon.watch.impress.co.jp^
 ||metrics-broker.prod.p.tf1.fr^
@@ -24412,6 +24451,168 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nxakpj4ac8gkd53.info^
 ||sbgsodufuosmmvsdf.info^
 ||z0uolej1qnxzub1.info^
+! leadforensics.com / trafficmanager.net
+||aiea6gaza.com^
+||alda1mure.com^
+||alea6badb.com^
+||alga9frog.com^
+||amos5lynn.com^
+||aran9midi.com^
+||arid5glop.com^
+||badb5refl.com^
+||bait4role.com^
+||bali6nora.com^
+||benn8bord.com^
+||bolt8snap.com^
+||brie5jiff.com^
+||burn5tilt.com^
+||cage6west.com^
+||care5alea.com^
+||cart8draw.com^
+||cavy9soho.com^
+||ches5sort.com^
+||chic9usia.com^
+||chip2gift.com^
+||clue6load.com^
+||coax7nice.com^
+||coup7cold.com^
+||cuba7tilt.com^
+||dana8herb.com^
+||dawn3host.com^
+||deng3rada.com^
+||dens1raec.com^
+||dial4gwyn.com^
+||doll9jiva.com^
+||east2pony.com^
+||emeu0circ.com^
+||etym6cero.com^
+||fear7calk.com^
+||feed5baby.com^
+||feed5mown.com^
+||file3size.com^
+||flow8free.com^
+||frog9alea.com^
+||game9time.com^
+||gard4mass.com^
+||garm9yuma.com^
+||gaza2lote.com^
+||gift2pair.com^
+||golp4elik.com^
+||grow1maid.com^
+||haag0some.com^
+||haig7anax.com^
+||half1hell.com^
+||hall3hook.com^
+||harm6stop.com^
+||hazy4cant.com^
+||head3high.com^
+||hear8crew.com^
+||heat6have.com^
+||herb2warn.com^
+||herb7calk.com^
+||hims1nice.com^
+||hiss3lark.com^
+||iron0walk.com^
+||jaup0lake.com^
+||jebb8hurt.com^
+||jody0sora.com^
+||josh7cuba.com^
+||keet1liod.com^
+||kilo6alga.com^
+||kota3chat.com^
+||kpr2exp21.com^
+||lack4skip.com^
+||late6year.com^
+||lave6loki.com^
+||lazy8krti.com^
+||left5lock.com^
+||line6agar.com^
+||link5view.com^
+||list1holp.com^
+||loki8lave.com^
+||loom3otto.com^
+||lope4refl.com^
+||lote1otto.com^
+||mack7oyes.com^
+||make6pain.com^
+||mali4blat.com^
+||malm1coax.com^
+||mari4norm.com^
+||marx7loki.com^
+||mass1soma.com^
+||mews2ruck.com^
+||mile0tire.com^
+||misc1bulk.com^
+||mon-com-01.com^
+||mown5gaze.com^
+||navy9gear.com^
+||neck6bake.com^
+||nice3aiea.com^
+||nong3bram.com^
+||nora7nice.com^
+||norm0care.com^
+||oboe3broo.com^
+||oita4bali.com^
+||otto5loki.com^
+||ours3care.com^
+||page1monk.com^
+||path5wall.com^
+||pdxor02.com^
+||peak2poem.com^
+||peep1alea.com^
+||perk0mean.com^
+||plug1luge.com^
+||poor5zero.com^
+||raab3frog.com^
+||rals4alum.com^
+||rate2self.com^
+||rear9axis.com^
+||redd7liod.com^
+||refl3alea.com^
+||rigi9bury.com^
+||rime8lope.com^
+||ripe8book.com^
+||roar9beer.com^
+||rock5rice.com^
+||rote8mino.com^
+||ruth8badb.com^
+||ryke4peep.com^
+||saas-euw-1.com^
+||saon6harz.com^
+||scan6show.com^
+||shoo5woop.com^
+||shrfbdg004.com^
+||skye6oner.com^
+||slim2disc.com^
+||snta0034.com^
+||soma9vols.com^
+||sour1bare.com^
+||spit0stge.com^
+||sugh8yami.com^
+||svr007phz.com^
+||swat8toot.com^
+||tank3pull.com^
+||team8save.com^
+||tent0mown.com^
+||text6film.com^
+||tire1soak.com^
+||toru0vane.com^
+||tray0bury.com^
+||tula9mari.com^
+||vane3alga.com^
+||vice4beek.com^
+||vick6duty.com^
+||vols7feed.com^
+||wait8hurl.com^
+||want7feed.com^
+||wauk1care.com^
+||weed6tape.com^
+||wild0army.com^
+||wivo2gaza.com^
+||yama1hove.com^
+||yami8alea.com^
+||yeld9auto.com^
+||yirr5frog.com^
 ! Third-party
 ||123stat.com^
 ||15gifts.com^
@@ -24714,12 +24915,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hsadspixel.net^
 ||hscta.net^
 ||hudb.pl^
+||humanpresence.app^
 ||i401xox.com^
 ||iaudienc.com^
 ||ibeat-analytics.com^
 ||ifvox.com^
 ||imhd.io^
 ||impactradius-event.com^
+||impression.link^
 ||imtwjwoasak.com^
 ||indicative.com^
 ||infopro-insight.com^
@@ -24760,7 +24963,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kantartns.lt^
 ||kaptcha.com^
 ||kaxsdc.com^
-||keet1liod.com^
 ||keytiles.com^
 ||kilometrix.de^
 ||km-sea.net^
@@ -24812,6 +25014,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mediarithmics.com^
 ||mediaweaver.jp^
 ||memo.co^
+||metricode.com^
 ||metricool.com^
 ||miadates.com^
 ||mixi.mn^
@@ -24884,13 +25087,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pagesense.io^
 ||parametre.online^
 ||pdbu.net^
-||peep1alea.com^
 ||pendo.io^
 ||perf-serving.com^
 ||perfops.io^
 ||performanceanalyser.net^
 ||perimeterx.net^
-||perk0mean.com^
 ||perljs.com^
 ||permutive.app^
 ||personalicanvas.com^
@@ -24965,7 +25166,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rlets.com^
 ||rockincontent.net^
 ||roeye.com^
-||rote8mino.com^
 ||rp-rep.net^
 ||rstg.io^
 ||rtb123.com^
@@ -26341,6 +26541,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||siteintercept.allegiancetech.com^
 ||trusted-web-seal.cybertrust.ne.jp^
 ||verify.authorize.net^
+||verify.safesigned.com^
 ||websecurity.norton.com^
 ||widget.trustpilot.com^
 ||widgets.trustedshops.com^
@@ -26566,7 +26767,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ec-optimizer.com^
 ||eltex.co.jp^
 ||f-counter.jp^
-||f-counter.net^
 ||fspark-ap.com^
 ||fw-ad.jp^
 ||genieedmp.com^
@@ -27282,7 +27482,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bhghfsa.info^
 ||3kbktygzr5.ru^
 ||reashr.com^
-||mp3dance.today^
 ||lidplay.net^
 ||bcvideod.com^
 ||atlaqs.com^
@@ -31216,6 +31415,7 @@ adbetnet.com
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||yad.pandafilms.best^
 ||adbn.masterinvest.info^
 ||bs.orsk.ru^
 ||vast4.kinogo.la^
@@ -33099,7 +33299,6 @@ adbetnet.com
 ||sv-api-lottery.headlines.pw^
 ||sv-static-lottery.headlines.pw^
 ||sv-static1-lottery.headlines.pw^
-||syncwowsails.com^
 ||toppage.vn^
 ||trenddigital.vn^
 ||truoctran.com^
@@ -33496,6 +33695,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||quehq.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35813,6 +36013,7 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
+||cbjs.ciwei.in^
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
@@ -36587,6 +36788,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||jkdd.cc^*-
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
