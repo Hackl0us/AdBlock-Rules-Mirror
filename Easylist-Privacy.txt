@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102270010
+! Version: 202102272351
 ! Title: EasyPrivacy
-! Last modified: 27 Feb 2021 00:10 UTC
+! Last modified: 27 Feb 2021 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -140,7 +140,6 @@
 .cn/s.gif?
 .cn/sl.gif?
 .cn/z.gif?
-.co/e.gif?
 .com.au/HG?hc=
 .com.com/redir?timestamp
 .com/0.gif?
@@ -162,7 +161,6 @@
 .com/cm?tid
 .com/counter?
 .com/dc.gif?
-.com/e.gif?
 .com/f.gif?
 .com/g.gif?
 .com/ga-*.js
@@ -209,7 +207,6 @@
 .content_tracking.
 .core.tracking-min-
 .d-engine.js
-.de/e.gif?
 .de/h.gif?
 .de/l.gif?
 .de/o.gif?
@@ -259,7 +256,6 @@
 .me/l.gif?
 .net/0.gif?
 .net/c.gif?
-.net/e.gif?
 .net/HG?hc=&hb=
 .net/i.gif?
 .net/l.gif?
@@ -1713,7 +1709,7 @@
 /dynamicyield/*
 /dynaTraceMonitor^
 /dynimpression?rkey=
-/e.gif?data=
+/e.gif?
 /e086ec.aspx?q=l3mkwgak
 /e_stat?g_id=
 /ea-analytics/*
@@ -2319,6 +2315,7 @@
 /hittrack.cgi?
 /HitTracker/*
 /HitTracking.
+/hitv4.php
 /hkStatCms/ViewCount?
 /hlog.asp
 /hm.pl?p=
@@ -9213,6 +9210,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||distributiontomatoes.com^$third-party
 ||disturbedquiet.com^$third-party
 ||divehope.com^$third-party
+||dogcollarfavourbluff.com^$third-party
 ||dollardelta.com^$third-party
 ||dq95d35.com^$third-party
 ||drydrum.com^$third-party
@@ -9289,6 +9287,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||niftyhospital.com^$third-party
 ||oafishobservation.com^$third-party
 ||overconfidentfood.com^$third-party
+||panickycurtain.com^$third-party
 ||parcelcreature.com^$third-party
 ||parsimoniouspolice.com^$third-party
 ||partplanes.com^$third-party
@@ -9347,6 +9346,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||secretturtle.com^$third-party
 ||selectivesummer.com^$third-party
 ||selfishsea.com^$third-party
+||selfishsnake.com^$third-party
 ||separatesilver.com^$third-party
 ||sharppatch.com^$third-party
 ||shermore.info^$third-party
@@ -12408,6 +12408,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.searchmarketing.com^
 ||tracking.sembox.it^$third-party
 ||tracking.sezzle.com^
+||tracking.sharplink.us^
 ||tracking.skyword.com^$third-party
 ||tracking.sokrati.com^
 ||tracking.sponsorpay.com^$third-party
@@ -16230,6 +16231,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app1.maatwerkonline.nl^
 ||bc.semwerkt.nl^
 ||cdn3.lacoquepersonnalisee.fr^
+||cdn4.waisttrainer.co.nz^
 ||cms.fyndable.online^
 ||ds2.independer.nl^
 ||dtch.brunel.nl^
@@ -18381,7 +18383,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||q-examiner.online/api/Ping?
 @@||quantcast.com/wp-content/themes/quantcast/$domain=quantcast.com
 @@||quantcast.mgr.consensu.org/cmp.js$script,domain=cyclingnews.com|independent.co.uk|ladbible.com
-@@||quantcast.mgr.consensu.org^*/cmp2.js$script,domain=bikeperfect.com|cyclingnews.com|digitalcameraworld.com|einthusan.tv|f1aldia.com|gamesradar.com|guitarplayer.com|independent.co.uk|indy100.com|ladbible.com|laptopmag.com|livescience.com|livingetc.com|mirror.co.uk|musicradar.com|pcgamer.com|realhomes.com|researchgate.net|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|tumblr.com|whathifi.com|whattowatch.com
+@@||quantcast.mgr.consensu.org^*/cmp2.js$script,domain=bikeperfect.com|cyclingnews.com|digitalcameraworld.com|einthusan.tv|f1aldia.com|gamesradar.com|guitarplayer.com|independent.co.uk|indy100.com|ladbible.com|laptopmag.com|livescience.com|livingetc.com|mirror.co.uk|musicradar.com|pcgamer.com|porconocer.com|realhomes.com|researchgate.net|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|tumblr.com|whathifi.com|whattowatch.com
 @@||quantserve.com/quant.js$domain=apps.facebook.com|nymag.com
 @@||rasset.ie/dotie/js/tracker.js$domain=rte.ie
 @@||rba-screen.healthsafe-id.com/fp/tags.js$script,domain=myuhc.com
@@ -18864,6 +18866,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||marketingsolutions.com.pl^*/googleanalytics-$image,domain=marketingsolutions.com.pl
 @@||ninja.onap.io/ninja-cee.js$domain=olx.pl
 @@||olx.pl^*/js/tracking/ninja.js$domain=olx.pl
+@@||pataks.pl/core,_assets$script,~third-party
 @@||polfan.pl/*/fingerprint2.min.js$script,~third-party
 @@||sgqcvfjvr.onet.pl^$script,domain=kobieta.onet.pl
 @@||stat24.com/crossdomain.xml$domain=ipla.tv

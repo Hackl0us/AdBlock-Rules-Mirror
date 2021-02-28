@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-27T00:06:03.374Z
+! Last modified: 2021-02-28T00:07:00.843Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -3174,7 +3174,6 @@ www.llllllllllll.net^
 ||ad.holmesmind.com^
 ||j83ad.speedrun.com^
 ||12.beautifulero.com^
-||d18t35yyry2k49.cloudfront.net^
 ||sak.userreport.com^
 ||tontent.powv1deo.cc^
 ||cintent.streanplay.cc^
@@ -3688,7 +3687,6 @@ vkcdnservice.appspot.com^
 ||1ced38bdc42b883.com^
 ||1e310acae6aee.com^
 ||1ex4oemg99mv.com^
-||1f2f1472af32.com^
 ||1f58098dd54.com^
 ||1f7de8569ea97f0614.com^
 ||1f7wwaex9rbh.com^
@@ -3722,7 +3720,6 @@ vkcdnservice.appspot.com^
 ||25348f89a3.com^
 ||2559a303164ddde96.com^
 ||273920d845b.com^
-||27fa0ce65e.com^
 ||27vckaccbto7p761.pro^
 ||2894c9d5b32.com^
 ||29ae58661b9c7178.com^
@@ -3771,6 +3768,7 @@ vkcdnservice.appspot.com^
 ||39d1d397c97730.com^
 ||3a8c9b0ca405b5.com^
 ||3ab171502b3.com^
+||3abd17850c2.com^
 ||3ac901bf5793b0fccff.com^
 ||3c0012ab95c132f.com^
 ||3c513c1d3255c.com^
@@ -5103,6 +5101,7 @@ vkcdnservice.appspot.com^
 ||cbmawvknxwgxqd.com^
 ||cbpsdvozwsbf.com^
 ||cbyzgxhbovgwju.com^
+||cc2e81e8f9.com^
 ||cc380535d9ca0.com^
 ||ccc1063d848b.com^
 ||ccd8450321.com^
@@ -5402,6 +5401,7 @@ vkcdnservice.appspot.com^
 ||cotournas.xyz^
 ||councedvdvg.club^
 ||councingcan.space^
+||counsellorcolours.com^
 ||counterry.club^
 ||countertrck.com^
 ||countilde.online^
@@ -5572,6 +5572,7 @@ vkcdnservice.appspot.com^
 ||dc63bfb069ea522f.com^
 ||dccqzsmabz.com^
 ||dcdilhaybpzkvj.com^
+||dcfkalvbcs.com^
 ||dcontonalscho.info^
 ||dcop4khjxsmg.com^
 ||dcqthcwm.com^
@@ -5730,6 +5731,7 @@ vkcdnservice.appspot.com^
 ||disticked.club^
 ||distinctionlatent.com^
 ||distinesseqe.site^
+||distractchafe.com^
 ||districtbaloneywhiskers.com^
 ||dit-dit-dot.com^
 ||ditdotsol.com^
@@ -6063,6 +6065,7 @@ vkcdnservice.appspot.com^
 ||elsupposit.club^
 ||elyconsisterj.club^
 ||emagazing.fun^
+||emanpro.fun^
 ||emarhowedp.club^
 ||ematumes.club^
 ||embargainew.site^
@@ -6749,6 +6752,7 @@ vkcdnservice.appspot.com^
 ||ggregardtrad.club^
 ||ggzikbwrri.com^
 ||ghrbmfggqylld.com^
+||ghsmfmjcicgup.com^
 ||ghtpoitovskyr.club^
 ||ghudns8sbb.buzz^
 ||giddyattendant.com^
@@ -7626,6 +7630,7 @@ vkcdnservice.appspot.com^
 ||kbirdsind.top^
 ||kbqebfcubeiaa.com^
 ||kbugxeslbjc8.com^
+||kbxowbavadw.com^
 ||kbzdxt.com^
 ||kcampairsang.info^
 ||kcveufgl.com^
@@ -7686,6 +7691,7 @@ vkcdnservice.appspot.com^
 ||kitferdog.site^
 ||kitrigthy.com^
 ||kiuprocessary.club^
+||kiynew.com^
 ||kj2hy.com^
 ||kjegyqtqazui.com^
 ||kjfxjsqmn.com^
@@ -8021,6 +8027,7 @@ vkcdnservice.appspot.com^
 ||lovedearringschoolmaster.com^
 ||lowancein.club^
 ||loweredabhorrenceproposed.com^
+||lowestpendulousdistract.com^
 ||loxbeelid.com^
 ||lplesacciner.top^
 ||lpoggqfdlmdsg.com^
@@ -9966,6 +9973,7 @@ vkcdnservice.appspot.com^
 ||rogew.com^
 ||roikingdom.com^
 ||rollersadnessstranded.com^
+||rolmscvzkp.com^
 ||romashk9arfk10.com^
 ||rompuwit.net^
 ||ronbriticated.site^
@@ -9983,6 +9991,7 @@ vkcdnservice.appspot.com^
 ||roughthos.top^
 ||roujaufu.net^
 ||roujonoa.net^
+||rousedmilk.com^
 ||roustast.net^
 ||routeit.one^
 ||routeme.one^
@@ -10217,6 +10226,7 @@ vkcdnservice.appspot.com^
 ||seriencern.club^
 ||seriendly.club^
 ||seriodilov.club^
+||seriouslylargestnewsletter.com^
 ||seriy2sviter11o9.com^
 ||sersproposal.club^
 ||servantpantomimematch.com^
@@ -11315,6 +11325,7 @@ vkcdnservice.appspot.com^
 ||velocecdn.com^
 ||vendigamus.com^
 ||venetrigni.com^
+||ventrequmus.com^
 ||venuegirtjive.com^
 ||veodxsimctsgs.com^
 ||veopvpgxcrt.com^
@@ -11380,6 +11391,7 @@ vkcdnservice.appspot.com^
 ||visitimportantly.com^
 ||visitsfunk.com^
 ||visitstrack.com^
+||vitaminhen.com^
 ||vitoryjober.club^
 ||viunypnvhcw.com^
 ||viurihkwo.com^
@@ -11487,6 +11499,7 @@ vkcdnservice.appspot.com^
 ||vvczvfrbtwrvs.com^
 ||vvjlrhuzmhzlws.com^
 ||vvnmwfnpkat.com^
+||vvyhhrjigq.com^
 ||vwvnounnfteusv.com^
 ||vwvvaeor.com^
 ||vwxgxculdbybw.com^
@@ -11675,6 +11688,7 @@ vkcdnservice.appspot.com^
 ||winfreeprize.online^
 ||wingsenormous.com^
 ||winsistakesme.site^
+||wipedstuffed.com^
 ||wipeneighbour.com^
 ||wipowaxe.com^
 ||wirelessbabysitterphonebooth.com^
@@ -12307,6 +12321,7 @@ vkcdnservice.appspot.com^
 ||zcwjasfrog.com^
 ||zcyclbncgubccl.com^
 ||zdajdudqfq.com^
+||zdcuivnen.com^
 ||zdgmhsahttsj.com^
 ||zdhnepeadrwetg.com^
 ||zdjkzqwpqvwcmc.com^
@@ -17494,6 +17509,7 @@ vkcdnservice.appspot.com^
 ||d140sbu1b1m3h0.cloudfront.net^
 ||d15gt9gwxw5wu0.cloudfront.net^
 ||d15kdpgjg3unno.cloudfront.net^
+||d18t35yyry2k49.cloudfront.net^
 ||d18xeipe1243h6.cloudfront.net^
 ||d1aezk8tun0dhm.cloudfront.net^
 ||d1aqvw7cn4ydzo.cloudfront.net^
@@ -18682,7 +18698,6 @@ vkcdnservice.appspot.com^
 ||trackerhqu.com^
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
-||kiynew.com^
 ||stats.myangular.life^
 ||counter.daara.kr^
 ||tr.line.me^
@@ -25708,11 +25723,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cushionpig.com^
 ||distributiontomatoes.com^
 ||disturbedquiet.com^
+||dogcollarfavourbluff.com^
 ||enormousearth.com^
 ||glisteningguide.com^
 ||impulsejewel.com^
 ||lameletters.com^
 ||oafishobservation.com^
+||panickycurtain.com^
 ||pleasantpump.com^
 ||q20jqurls0y7gk8.info^
 ||railwayreason.com^
@@ -25720,6 +25737,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sablesong.com^
 ||screechingslip.com^
 ||seatsmoke.com^
+||selfishsnake.com^
 ||stepplane.com^
 ||teenytinycellar.com^
 
@@ -26421,6 +26439,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.searchmarketing.com^
 ||tracking.sembox.it^
 ||tracking.sezzle.com^
+||tracking.sharplink.us^
 ||tracking.waterfrontmedia.com^
 ||tracking.worldmedia.net^
 ||tracking1.brandmentions.com^
@@ -33673,6 +33692,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||adiniky.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -36770,8 +36790,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||po*.877zw.com^
-||whxjnwzhs.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37396,6 +37414,7 @@ adbetnet.com
 ||du9zgx.cn^
 ||duluoweiyu.com^
 ||duwowvo.cn^
+||duyousxtd.com^
 ||dvzk66.cn^
 ||dxcssc.cn^
 ||dxmci.com^
@@ -37464,7 +37483,7 @@ adbetnet.com
 ||fengmishop.cn^
 ||ff01s.cn^
 ||ffanq.com^
-||ffg34fg.78zw.com^
+||ffg34fg.877zw.com^
 ||ffhre.com^
 ||ffpp.xyz^
 ||ffupiiv.cn^
@@ -38011,7 +38030,7 @@ adbetnet.com
 ||ljuer.com^
 ||llffaev.cn^
 ||llqd5.cn^
-||lmdknj.xsbiquge.com^
+||lmdknj.vbiquge.com^
 ||lobmuc.cn^
 ||lolvsdota.cn^
 ||longfenfa.com^
@@ -38114,7 +38133,7 @@ adbetnet.com
 ||muqsad.xyz^
 ||muusn.cn^
 ||mwjpk.com^
-||mx.biquge.info^
+||mx.loubiqu.com^
 ||mxc87.org^
 ||mxhbkj.cn^
 ||mxtailor.com^
@@ -38255,6 +38274,7 @@ adbetnet.com
 ||pieaa.com^
 ||pincidao.cn^
 ||pingeds.cn^
+||pingseli.com^
 ||pinkmore.cn^
 ||pitena.top^
 ||pjbjzf.com^
@@ -38265,6 +38285,7 @@ adbetnet.com
 ||plerv.com^
 ||plokr.com^
 ||pmshy.cn^
+||po*.877zw.com^
 ||pomhz.com^
 ||pos68.cn^
 ||pougg.com^
@@ -38290,6 +38311,7 @@ adbetnet.com
 ||pzvlnh.cn^
 ||q671e.cn^
 ||q7wq7.cn^
+||qa7mp9j.cn^
 ||qaqact.cn^
 ||qbczpo.cn^
 ||qcsfxv.cn^
@@ -38738,6 +38760,7 @@ adbetnet.com
 ||whrles.com^
 ||whsjg.cn^
 ||whxhhjx.com^
+||whxjnwzhs.com^
 ||wikevs.cn^
 ||win999.com.cn^
 ||wjaa23.com^
