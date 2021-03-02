@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yizBwGIW9j7TOG9/AgbKlA
-! Version: 202103010012
+! Checksum: imhIC+VcMfeQ/YpLIZnOGA
+! Version: 202103020012
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 01 Mar 2021 00:12 UTC
+! Last Modified: 02 Mar 2021 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1119,6 +1119,7 @@ _xiuno_com_ad/
 ##a[href*=".yuanmengbi.com/"]
 ##a[href*=".yyk2.com/"]
 ##a[href*=".zhongguohao123.com/"]
+##a[href*="/111.231.78.194/"]
 ##a[href*="/602034.com"]
 ##a[href*="/?INTR="]
 ##a[href*="/?Intr="]
@@ -1933,6 +1934,7 @@ ubmcmm.baidustatic.com
 ||blogdaka.cc^
 ||blogdaka.xyz^
 ||bloggerads.net^$third-party
+||bmbaike.cn^
 ||bmw100.cn^$third-party
 ||bnq86.com^
 ||bnuni.com^$third-party
@@ -2005,6 +2007,7 @@ ubmcmm.baidustatic.com
 ||chapm.com^$third-party
 ||charlesfc.com^
 ||chaxinyong.net^
+||chayayeon.com^
 ||che0.com^$third-party
 ||chehuanjie.com^
 ||chenghangtech.com^
@@ -5501,6 +5504,7 @@ _yad_jsonp_
 ||bqiapp.com/api/config/ad?
 ||brand.sogou.com/micro?yyid=
 ||bs.baidu.com/app-ads%
+||bt.cn/bbs/newsimg/
 ||bt121.net/ats/
 ||bt888bf.com/da.aspx
 ||btbt.tv/dd/
@@ -9114,7 +9118,6 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||bt.cn/bbs/newsimg/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -9364,6 +9367,7 @@ qzone.qq.com###app_ads
 dmzj.com###app_home_ad
 dmzj.com###app_manhua
 hao123.com###append
+913e.com###appnote
 qzone.qq.com###appstore_sidebar_l
 qzone.qq.com###appstore_sidebar_r
 jdbbs.com###archy5
@@ -9714,6 +9718,7 @@ qq.com###focus_jordon
 fuliba2020.net,fulibus.net,wuzuowei.net###focusslide
 bitauto.com###folieAdNews
 w3school.com.cn###foogz
+913e.com###footad_913e
 wdzj.com###footbanner
 jxedt.com###footer
 ttzmz.vip###footer > div[style]
@@ -11485,6 +11490,7 @@ qingdaonews.com##.da30050
 qingdaonews.com##.da66050
 zhangxinxu.com##.da_bottom
 12580sky.com,xbyuan.com##.dad
+159i.com##.dai
 lenovo.com.cn##.daily-hotwords
 map.baidu.com##.damoce-search-item
 acfun.cn##.danmu-activity
@@ -11861,6 +11867,7 @@ eastday.com##.golden_adv_1
 eastday.com##.golden_adv_2
 awaker.cn##.good-price
 mail.pchome.com.tw##.good_ad
+jandan.net##.goods2-list
 56.com##.goods_show
 techbang.com##.google-dfp
 i-part.com.tw##.googleAD160x600
@@ -14972,6 +14979,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||icbc.com.cn/Portal_Resources/Common/AdRes/
 @@||ifengimg.com/a/201*Player
 @@||ifengimg.com/pdt/cfg/mudu/aplayer.xml$domain=v.ifeng.com
+@@||ifvod.tv/ads.js
 @@||ifvod.tv/assets/lib/ads.js
 @@||iis1.deliver.ifeng.com/showcode?$domain=v.ifeng.com
 @@||ikea.cn^*/img/ads/
@@ -16533,6 +16541,7 @@ $image,third-party,domain=258zw.com
 /c.js#pid=$script,third-party
 /CodeFiles/*.aspx?placeid=$third-party
 /svr/*.aspx?placeid=$third-party
+/w1xhtml?$script,third-party
 /w1xhtml|$script,third-party
 /xxgg/app.js
 ://*modelBudai*.js?$third-party
@@ -17328,6 +17337,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||enq5ur.cn^
 ||epanr.com^
 ||epcqyac.cn^
+||erhfnv.cn^
 ||erkesi.cn^
 ||erocw.com^
 ||esuzm.cn^
@@ -17383,6 +17393,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||fjtzjy.com^
 ||fjylcy.com^
 ||fkkse.com^
+||fkm2wv.cn^
 ||flbmfc.com^
 ||fll007.com^
 ||fnpet.cn^
@@ -17979,6 +17990,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||maoyumao.net^
 ||maro30.com^
 ||matchjia.cn^
+||mavuz.com^
 ||maxoi.cn^
 ||mbusdw.cn^
 ||mcjjibr.cn^

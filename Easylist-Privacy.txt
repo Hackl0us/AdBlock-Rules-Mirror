@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102282346
+! Version: 202103012257
 ! Title: EasyPrivacy
-! Last modified: 28 Feb 2021 23:46 UTC
+! Last modified: 01 Mar 2021 22:57 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1917,6 +1917,7 @@
 /fdlogger.
 /fdlogger/*
 /fe/track/*
+/fe_logger?
 /federated-analytics.
 /figanalytics.
 /figanalytics/*
@@ -14640,6 +14641,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||intercom.io/messenger/web/metrics
 ||internetslang.com/jass/$script
 ||intg.snapchat.com^
+||intuitcdn.net/analytics/
+||intuitvisitorid.api.intuit.com^
 ||investegate.co.uk/Weblogs/IGLog.aspx?
 ||iono.fm/tracking?
 ||ip-adress.com/gl?r=
@@ -18238,6 +18241,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||hitfile.net/platform/js/fdlogger/fdlogger.js$script,~third-party
 @@||hmhco.com/one/js/conf/trackjs.config.$script,~third-party,xmlhttprequest
 @@||hobbyking.com^*/gtm.js$script,~third-party
+@@||homedepotrebates11percent.com/js/third-party/angulartics-google-analytics/dist/angulartics-ga.min.js$script,~third-party
 @@||hopx.cedexis.com^$xmlhttprequest,domain=play.aetv.com|play.history.com|play.mylifetime.com
 @@||hscta.net/cta/current.js$script,domain=aucfan.com
 @@||i-scmp.com/production/mixpanel.$domain=scmp.com
@@ -18313,6 +18317,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||nike.com^*/optimizely.browser.umd.min.js$script,~third-party
 @@||nintendo.com/apps/noa/scripts/analytics.js
 @@||noaa.gov/maps/resources/scripts/ga.js$script,~third-party
+@@||noodid.ee/chordQuiz/$~third-party
 @@||nyt.com/analytics/json-$script,domain=nytimes.com
 @@||nyt.com/bi/js/tagx/tagx.js$domain=nytimes.com
 @@||nytimes.com^*/EventTracker.js
