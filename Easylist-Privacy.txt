@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103022301
+! Version: 202103032335
 ! Title: EasyPrivacy
-! Last modified: 02 Mar 2021 23:01 UTC
+! Last modified: 03 Mar 2021 23:35 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1310,6 +1310,7 @@
 /clicktale.
 /clicktale/*
 /clicktale_
+/clicktalecdn.
 /ClickTaleFilter.
 /clicktrack-*.gif?
 /ClickTrack.
@@ -1760,6 +1761,7 @@
 /elqnow/*
 /elqscr.js
 /elqtracking.
+/elqtrk.
 /elt.gif?
 /eluminate?
 /email/track/*$image
@@ -6955,6 +6957,7 @@ _mongo_stats/
 ||getrockerbox.com^$third-party
 ||getsmartcontent.com^$third-party
 ||getsmartlook.com^$third-party
+||getstat.net^$third-party
 ||getstatistics.se^$third-party
 ||getviously.com^$third-party
 ||gez.io^$third-party
@@ -8762,6 +8765,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||foxpush.com^$third-party
 ||foxpush.net^$third-party
 ||getback.ch^$third-party
+||getpush.net^$third-party
 ||getpushmonkey.com^$third-party
 ||getsupernova.com^$third-party
 ||gravitec.net^$third-party
@@ -16094,7 +16098,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wellsfargo.com/tracking/
 ||wellsphere.com/?hit=
 ||whatcar.com/Client/Stats/
-||whatleaks.com/check_ports/?
 ||whistleout.com.au/track
 ||whstatic.com^*/ga.js?
 ||wikihow.com/ev/*?events=
@@ -16241,6 +16244,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||zylom.com^*/global_tracking.jsp?
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
+! whatleaks.com
+||dns.whatleaks.com^
+||p0f.whatleaks.com
+||whatleaks.com/check_ports/?
 ! TraceDock
 ||apollo.plein.be^
 ||app1.maatwerkonline.nl^
@@ -16552,7 +16559,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||twch.20min.ch^
 ||vg247.com/wp-content/themes/vg247/scripts/mvg247-fsm.js
 ! CNAME
-||klaviyo.map.fastly.net^
 ! Eulerian
 ||0sbm.consobaby.co.uk^
 ||319dn.dieti-natura.com^
@@ -18131,7 +18137,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||cdn-ds.com/analytics/sockjs.js$script,domain=tuttleclickgenesis.com
 @@||cdn-net.com/cc.js$script,domain=uber.com|ubereats.com
 @@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com|historyvault.com|imageshack.com
-@@||certona.net^*/scripts/resonance.js$script,domain=canadiantire.ca
+@@||certona.net^*/scripts/resonance.js$script,domain=canadiantire.ca|finishline.com
 @@||changenow.io/js/tracking.js$script
 @@||chasecdn.com^*/@ccb-blueanalytics/$script,domain=chase.com
 @@||check.ddos-guard.net/check.js$script
