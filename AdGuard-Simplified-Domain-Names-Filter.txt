@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-05T00:06:06.496Z
+! Last modified: 2021-03-06T00:05:57.385Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,7 +18,17 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||soysapslad.com^
+||shareste.top^
+||deterindependentblocked.com^
+||ablebodiedcool.com^
 ||profitabletrustednetwork.com^
+||developerity.com^
+||scallionfib.com^
+||goaciptu.net^
+||goajuzey.com^
+||huglivoa.net^
+||edxlewni.com^
 ||stampseizeidly.com^
 ||itchimpish.com^
 ||cdnaqw.com^
@@ -5591,6 +5601,7 @@ vkcdnservice.appspot.com^
 ||data-data-vac.com^
 ||datedissyuk.icu^
 ||dateregionsmadman.com^
+||dateszone.net^
 ||dating2cloud.org^
 ||daugloon.net^
 ||dauntlessomelette.com^
@@ -18730,6 +18741,8 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||analytics.contents.by-fw.jp^
+||appier.net^
 ||depart.trinitymedia.ai^
 ||atrack.avplayer.com^
 ||log.gs3.goo.ne.jp^
@@ -26240,7 +26253,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mcdp-*.outbrain.com^
 ||mcs.delvenetworks.com^
 ||measure.refinery89.com^
-||medallia.com^
 ||mediametrics.mpsa.com^
 ||metering.pagesuite.com^
 ||metric.nwsource.com^
@@ -26731,7 +26743,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adskom.com^
 ||adxvip.com^
 ||affclkr.com^
-||appier.net^
 ||baifendian.com^
 ||cctvgb.com.cn^
 ||cdnmaster.cn^
@@ -32084,6 +32095,9 @@ adbetnet.com
 !
 ! Eimg.jp
 !
+||spreadlink.net^
+||woomy.me^
+||searsbushelbus.com^
 ||seedapp-creative.s3.amazonaws.com^
 ||cro.fi-tsunagu.com^
 ||admane.jp^
@@ -34149,7 +34163,6 @@ adbetnet.com
 ||beatriceeatr.com^
 ||bebelait.com^
 ||bedhdig.cn^
-||beizhoujt.cn^
 ||bejzz.top^
 ||bensezhiye.com^
 ||bfgg365.com^
@@ -34516,7 +34529,6 @@ adbetnet.com
 ||gwbangshou.com^
 ||gwylm.com^
 ||gxejgs.com^
-||gxfc2021.top^
 ||gxgzyny.com^
 ||gydag.com^
 ||gzdhzb.com^
@@ -36153,9 +36165,9 @@ adbetnet.com
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||1.07swz.com^
 ||003store.com^
 ||1.01fy.cn^
+||1.07swz.com^
 ||1.1010pic.com^
 ||1.11467.com^
 ||1.15lu.com^
@@ -36760,6 +36772,7 @@ adbetnet.com
 ||vv1.pyhfxdm.cn^
 ||vvv.ieduw.com^
 ||vyule.com^
+||w.anmeihe.cn^
 ||w.xiaopiaoyou.com^
 ||w11.zhongkaohelp.com^
 ||w18.9939.com^
@@ -36947,6 +36960,7 @@ adbetnet.com
 ||256k.xyz^
 ||258580w.cn^
 ||282l1.cn^
+||2bssjsq.com^
 ||2gvuukm1lm.com^
 ||2ktd0.cn^
 ||2l1f.cn^
@@ -37092,6 +37106,7 @@ adbetnet.com
 ||actingidekex.cn^
 ||adaog.com^
 ||adddyy.com^
+||adfangxiang.com^
 ||adhdsb.cn^
 ||admddc.com^
 ||aduic.com^
@@ -37212,6 +37227,7 @@ adbetnet.com
 ||bdxnc.com^
 ||bei7.clewx.com^
 ||beifmu.com^
+||beizhoujt.cn^
 ||bentengcn.com^
 ||berfd.xyz^
 ||bfbb.xyz^
@@ -37619,6 +37635,7 @@ adbetnet.com
 ||fyzyf.com^
 ||fzdfwy.com^
 ||g1mm3d.cn^
+||g1psz5.cn^
 ||g3ao2q.cn^
 ||g4rre.xyz^
 ||g8waw1.cn^
@@ -37700,6 +37717,7 @@ adbetnet.com
 ||guvdfs.cn^
 ||guxiaom.cn^
 ||gwdqp.com^
+||gxfc2021.top^
 ||gxklsftz.cn^
 ||gxkyl.com^
 ||gybdtg.com^
