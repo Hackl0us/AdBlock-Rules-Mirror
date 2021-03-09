@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103072318
+! Version: 202103082241
 ! Title: EasyPrivacy
-! Last modified: 07 Mar 2021 23:18 UTC
+! Last modified: 08 Mar 2021 22:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8326,7 +8326,6 @@ _mongo_stats/
 ||vbanalytics.com^$third-party
 ||vdna-assets.com^$third-party
 ||veduy.com^$third-party
-||vee24.com^$third-party
 ||veille-referencement.com^$third-party
 ||veinteractive.com^$third-party
 ||velaro.com^$third-party
@@ -8988,6 +8987,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||afraidlanguage.com^$third-party
 ||agreeabletouch.com^$third-party
 ||aheadday.com^$third-party
+||aheadmachine.com^$third-party
 ||alikeaddition.com^$third-party
 ||aliveachiever.com^$third-party
 ||allowmailbox.com^$third-party
@@ -9912,6 +9912,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||seesaa.jp^$third-party
 ||segs.jp^$third-party
 ||sibulla.com^$third-party
+||smart-bdash.com^$third-party
 ||smart-counter.net^$third-party
 ||smartnews-ads.com^$third-party
 ||socdm.com^$third-party
@@ -12230,6 +12231,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.fits.me^$third-party
 ||tracking.g2crowd.com^
 ||tracking.godatafeed.com^
+||tracking.hivecloud.net^
 ||tracking.html5games.com^
 ||tracking.interweave.com^$third-party
 ||tracking.jotform.com^
@@ -12360,6 +12362,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vast.com/vimpressions.js$third-party
 ||vcita.com/tr_
 ||vdo.ai/core/logger.php?
+||vee24.com/c/PageBehaviour?
 ||veeseo.com/tracking/
 ||ventunotech.com/beacon/
 ||venturify.at/pixel/
@@ -14594,6 +14597,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||log.optimizely.com^
 ||log.player.cntv.cn/stat.html?
 ||log.prezi.com^
+||log.quora.com^
 ||log.snapdeal.com^
 ||log.webnovel.com^
 ||logg.kiwi.com^
@@ -15273,6 +15277,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sourceforge.net/log/
 ||sourcepoint.dexerto.com^
 ||sourcepoint.vice.com^$image
+||sourcesync.io/analytics|
 ||sovereignbank.com/utils/track.asp
 ||sp-mms.weather.com^
 ||sp.app.com^
@@ -21258,6 +21263,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||segment.io/analytics.js/*/analytics.min.js$script
 @@||segment.io/v1/$xmlhttprequest,domain=greentoe.com
 @@||serve-ts.amagi.tv^*/beacon?$xmlhttprequest,domain=watch.truecrimenetworktv.com
+@@||shopify.com/*assets/pixel.gif$image,domain=metrovac.com
 @@||siteapps.caa.co.uk/scripts/plugins/analytics/ga.min.js$script,~third-party
 @@||smartclient.com/smartclient/isomorphic/system/modules/isc_analytics.js$xmlhttprequest
 @@||solr.sas.com/query/$xmlhttprequest,domain=jmp.com
