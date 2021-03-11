@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103092356
+! Version: 202103102358
 ! Title: EasyPrivacy
-! Last modified: 09 Mar 2021 23:56 UTC
+! Last modified: 10 Mar 2021 23:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5503,6 +5503,7 @@ cgi-bin/counter
 .list-manage.com/track/
 .members.babbel.com/mo/
 .ne16.com/do/
+.pstmrk.it/open/
 .publish0x.com/t/
 .sendcloud.net/track/
 .sendibm1.com/mk/
@@ -7546,7 +7547,6 @@ _mongo_stats/
 ||perfectaudience.com^$third-party
 ||perfiliate.com^$third-party
 ||perfops.io^$third-party
-||perfops.net^$third-party
 ||performanceanalyser.net^$third-party
 ||performancerevenues.com^$third-party
 ||performtracking.com^$third-party
@@ -11869,6 +11869,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rum.conde.io^
 ||rum.minutemediaservices.com^
 ||rum.nccgroup-webperf.com^
+||rum.perfops.net^
 ||rum.uptime.com^$third-party
 ||rva.outbrain.com^
 ||s-microsoft.com/mscc/$~stylesheet
@@ -21042,6 +21043,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||dplay.com^*/comscore.streaming.min.js
 @@||dplay.com^*/google_analytics.js
 @@||dpm.demdex.net/id?$xmlhttprequest,domain=foxnews.com
+@@||dropboxstatic.com/static/js/modules/clean/ux_analytics/$script,domain=dropbox.com
 @@||dw.cbsi.com/anonc.js$domain=gamespot.com|giantbomb.com
 @@||dw.com.com/js/dw.js$domain=cbsnews.com|gamespot.com|tv.com
 @@||dynamicyield.com/api/$script,domain=croma.com|fendi.com|flytap.com|thewarehouse.co.nz|zalora.com.my|zalora.com.ph|zalora.sg
