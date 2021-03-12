@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103102358
+! Version: 202103112316
 ! Title: EasyPrivacy
-! Last modified: 10 Mar 2021 23:58 UTC
+! Last modified: 11 Mar 2021 23:16 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2641,6 +2641,7 @@
 /leadgen/ga.js
 /leadgen_track
 /leads-tracker-
+/leadtag.js
 /lftracker.
 /lftracker_
 /lib.tailtarget/*
@@ -4267,6 +4268,7 @@
 /tealiumTagsData.
 /telemetry/log/*
 /tenping.cpa.
+/testImpressions/*
 /testImpressions/beacon
 /textlink.php?text
 /thbeacon/*
@@ -4645,6 +4647,7 @@
 /trackingapi.
 /TrackingBreadcrumbs.
 /TrackingCentral.js
+/trackingcheck.min.js
 /trackingCode-
 /trackingCode.js
 /TrackingCookieCheck.
@@ -5480,6 +5483,7 @@ cgi-bin/counter
 ||meetrics.netbb-
 ! Email tracking pixels
 -track-email-open?
+.acemlna.com/Prod/link-tracker?
 .alcmpn.com/
 .app.returnpath.net/
 .bhphotovideo.com/mo/
@@ -5509,6 +5513,7 @@ cgi-bin/counter
 .sendibm1.com/mk/
 .simplicitycrm.com/rd/
 .starbucks.com/a/
+.titus.de/oo/$image
 .webex.com/q/
 .wix.com/_api/ping/
 .zalando.com/images/probe.png
@@ -5814,6 +5819,7 @@ _mongo_stats/
 ||g6734867390.co^
 ||g6932951725.co^
 ||g7131036060.co^
+||g7329120395.co^
 ||mors22.com^
 ||nxakpj4ac8gkd53.info^
 ||propeller-tracking.com^
@@ -6524,6 +6530,7 @@ _mongo_stats/
 ||domodomain.com^$third-party
 ||donreach.com^$third-party
 ||dotaki.com^$third-party
+||dotjs.com^$third-party
 ||dotomi.com^$third-party
 ||doubleclick.net/activity$third-party
 ||doubleclick.net/imp%$third-party
@@ -7738,7 +7745,6 @@ _mongo_stats/
 ||reliablecounter.com^$third-party
 ||relmaxtop.com^$third-party
 ||remailtarget.com^$third-party
-||remarketingpixel.com^$third-party
 ||remarketstats.com^$third-party
 ||remind.me^$third-party
 ||rep0pkgr.com^$third-party
@@ -10486,7 +10492,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||arclk.net/trax?
 ||areyouahuman.com/kitten?
 ||argos.citruserve.com^
-||ariane.abtasty.com^$third-party
+||ariane.abtasty.com^
 ||asayer.io/tracker.js
 ||aserve.directorym.com^
 ||ask.com^*/i.gif?
@@ -10953,7 +10959,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||data.studybreakmedia.com^
 ||data.woosmap.com^
 ||data2.gosquared.com^$third-party
-||datacollect*.abtasty.com^$third-party
 ||datadog-service.mvfglobal.com^
 ||daumcdn.net/tiara/
 ||daxab.com/logger/
@@ -11871,6 +11876,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rum.nccgroup-webperf.com^
 ||rum.perfops.net^
 ||rum.uptime.com^$third-party
+||rum.vhwrz.net^
 ||rva.outbrain.com^
 ||s-microsoft.com/mscc/$~stylesheet
 ||s-vop.sundaysky.com^$third-party
@@ -11933,6 +11939,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sitefinity.com/collect/
 ||skimresources.com/api/ref-banners.js
 ||skysa.com/tracker/
+||slgnt.us/track
 ||sli-spark.com/b.png$third-party
 ||slidedeck.com^$image,third-party
 ||smartertravel.com/ext/pixel/
@@ -12314,7 +12321,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trustedform.com/trustedform.js?provide_referrer
 ||trustpilot.com/stats/
 ||trustsquare.net/trafficmonitor/
-||try.abtasty.com^$third-party
+||try.abtasty.com^
 ||ts.tradetracker.net^
 ||tsk5.com/17*?*=ex-
 ||ttdetect.staticimgfarm.com^
@@ -13391,11 +13398,13 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||g-stats.openhost.es^
 ||hits.eluniversal.com.mx^
 ||leadzu.com^$third-party
+||mtm.qdqmedia.com^
 ||pixel.zumby.io^
 ||reachandrich.antevenio.com^
 ||s3wfg.com/js/vortexloader.js
 ||stats.bitban.com^
 ||stats.miarroba.info^
+||stats.qdq.com^
 ||stats.sec.telefonica.com^
 ||tag.shopping-feed.com^
 ||track.sunmedia.tv^
@@ -15002,6 +15011,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||playstation.com/beacon/
 ||playstation.net/event/
 ||plentyoffish.com/tracking.js
+||pnc.com/content/
 ||pnet.co.za/js/ga.js
 ||pocket-lint.com/media/pf304.js
 ||pokernews.com/track-views.php?
@@ -21496,7 +21506,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ! 
 ! ---------- French ----------
 ! 
-@@||abtasty.com/datacollectHeatmap.php$xmlhttprequest,domain=cdiscount.com
 @@||actiris.be/urchin.js
 @@||adobedtm.com^*/mbox-contents-$script,domain=fcbarcelona.fr
 @@||adobedtm.com^*/satelliteLib-$script,domain=fcbarcelona.fr|icimusique.ca|laredoute.be|laredoute.ch|laredoute.fr|lci.fr|nrj.fr|tou.tv
