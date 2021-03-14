@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103122359
+! Version: 202103140013
 ! Title: EasyPrivacy
-! Last modified: 12 Mar 2021 23:59 UTC
+! Last modified: 14 Mar 2021 00:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15342,6 +15342,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stat.xhamsterpremium.com^
 ||statesmanjournal.com^*/articlepageview.php?
 ||static.ow.ly^*/click.gz.js
+||staticflickr.com/ap/build/javascripts/snow-$script,domain=flickr.com
 ||staticice.com.au/cgi-bin/stats.cgi?
 ||staticlp.com/analytics/
 ||staticwhich.co.uk/assets/*/track.js
@@ -16407,6 +16408,8 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||a8clk.xserver.ne.jp^
 ||a8cv.amiami.jp^
 ||afi.ssl.gmobb.jp^
+! plausible.io cname (https://plausible.io/docs/custom-domain)
+||custom.plausible.io^
 ! at-o.net (https://github.com/AdguardTeam/cname-trackers/blob/master/trackers/at-internet-(formerly-xiti).md)
 ||71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||a.20minutes.fr^
