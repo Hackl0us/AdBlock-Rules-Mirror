@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-14T00:06:43.290Z
+! Last modified: 2021-03-15T00:08:00.181Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,8 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||mopemodelingfrown.com^
 ||shindyadmittancemeal.com^
-||awecre.com^
 ||bhwcfwjz.com^
 ||asuppsttp.com^
 ||searsbushelbus.com^
@@ -30,7 +30,6 @@
 ||ograuwih.com^
 ||servboost.tech^
 ||traistecbole.com^
-||lubowitz.biz^
 ||pedestrianneighbourly.com^
 ||thugitori.pro^
 ||grainstucked.com^
@@ -3245,7 +3244,6 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
-||yotta.scrolller.com^
 ||tontent.povwideo.me^
 ||ad.holmesmind.com^
 ||j83ad.speedrun.com^
@@ -3269,7 +3267,6 @@ www.llllllllllll.net^
 ||d3v3bqdndm4erx.cloudfront.net^
 ||ads.farakav.com^
 ||rst.pornyhd.com^
-||d3c3uihon9kmp.cloudfront.net^
 ||d18g6t7whf8ejf.cloudfront.net^
 ||ads-media.gameforge.com^
 ||benefits.sovendus.com^
@@ -4895,6 +4892,7 @@ vkcdnservice.appspot.com^
 ||betahit.click^
 ||betemolgar.com^
 ||betrayedregretdeadline.com^
+||betshucklean.com^
 ||betteradsystem.com^
 ||bettercontentservice.top^
 ||betternoon.club^
@@ -5910,6 +5908,7 @@ vkcdnservice.appspot.com^
 ||dooptoug.net^
 ||doqapnez.com^
 ||dorbanise.pw^
+||dorimnews.com^
 ||dormitysature.info^
 ||dortoolr.com^
 ||dosveggietotem.casa^
@@ -8173,6 +8172,7 @@ vkcdnservice.appspot.com^
 ||lomkgojdoeffl.com^
 ||loobusir.com^
 ||loohiwez.net^
+||lootynews.com^
 ||lopetgohou.cf^
 ||lophaszip.com^
 ||lorassocialgr.club^
@@ -9772,6 +9772,7 @@ vkcdnservice.appspot.com^
 ||qgrazpvofra.com^
 ||qhdanxdyeuzdio.com^
 ||qhkhchjqawst.com^
+||qhmrasvwzbwjpz.com^
 ||qhqofqeivtno.com^
 ||qibbblerzykelr.com^
 ||qinxpsktrelpl.com^
@@ -10205,6 +10206,7 @@ vkcdnservice.appspot.com^
 ||rpuuwsjcu.com^
 ||rqbxfbls.com^
 ||rqhere.com^
+||rqusuqakwyejjn.com^
 ||rriedskillear.club^
 ||rrjgenyklff.com^
 ||rrriyoomil.com^
@@ -10258,6 +10260,7 @@ vkcdnservice.appspot.com^
 ||ruwithough.club^
 ||rvbibmaixelnq.com^
 ||rvdiwgntri.com^
+||rvedfxeljxo.com^
 ||rviceschoolr.club^
 ||rvkfiomrjn.com^
 ||rvlzsbmshtt.com^
@@ -10644,6 +10647,7 @@ vkcdnservice.appspot.com^
 ||soza6rsz3ezi.com^
 ||spanhamweb.com^
 ||spankswindlewatchman.com^
+||spareddepressing.com^
 ||sparedshabbylaugh.com^
 ||sparktrailerabonnement.com^
 ||spasbatwit.icu^
@@ -12411,6 +12415,7 @@ vkcdnservice.appspot.com^
 ||yonmzzszhf.com^
 ||yoomanies.com^
 ||yoqpnkhl.com^
+||yourcommonfeed.com^
 ||yourfreshposts.com^
 ||yourwebbars.com^
 ||yowlcapkegs.com^
@@ -15263,6 +15268,7 @@ vkcdnservice.appspot.com^
 ||lqcdn.com^
 ||lqw.me^
 ||ltassrv.com.s3.amazonaws.com^
+||lubowitz.biz^
 ||lucidmedia.com^
 ||luckypushh.com^
 ||lushcrush.com^
@@ -18088,6 +18094,7 @@ vkcdnservice.appspot.com^
 ||d3a49eam5ump99.cloudfront.net^
 ||d3asksgk2foh5m.cloudfront.net^
 ||d3b2hhehkqd158.cloudfront.net^
+||d3c3uihon9kmp.cloudfront.net^
 ||d3cod80thn7qnd.cloudfront.net^
 ||d3dq1nh1l1pzqy.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
@@ -18896,6 +18903,8 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||k-analytix.com^
+||i.btg360.com.br^
 ||tracdelight.io^
 ||goatcounter.com^
 ||gc.zgo.at^
@@ -25103,7 +25112,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jumplead.com^
 ||jumplead.io^
 ||junta.net^
-||k-analytix.com^
 ||k3node.com^
 ||kameleoon.eu^
 ||kantartns.lt^
@@ -33061,8 +33069,8 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Mar 2021 20:59 UTC+7
-! Version: 2103132059
+! Last modified: 14 Mar 2021 20:01 UTC+7
+! Version: 2103142001
 ! Blocked: 816 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -36802,6 +36810,7 @@ adbetnet.com
 ||apjiangte.com^
 ||apmnqut.cn^
 ||applequan.com^
+||appstreets.com^
 ||apxyz.com^
 ||aqvnurq.cn^
 ||archrug.com^
@@ -37231,6 +37240,7 @@ adbetnet.com
 ||gzqswl.cn^
 ||gzrljx.cn^
 ||gzzena.com^
+||h4kdxs.com^
 ||haichengdzsp.com^
 ||haiyinsiwang.com^
 ||hanmiyong.com^
@@ -37303,6 +37313,7 @@ adbetnet.com
 ||hongwenge.com^
 ||hongyangbg.com^
 ||houanjijuxie.cn^
+||houfang8.com^
 ||hp0hnj.cn^
 ||hpsszw.cn^
 ||hsbkr.com^
@@ -37361,6 +37372,7 @@ adbetnet.com
 ||ipchinatelecom.com^
 ||ipdxwtn.cn^
 ||ipqxibd.cn^
+||ir2aok.com^
 ||iruad.com^
 ||isgow.com^
 ||ishowms.com^
@@ -37369,6 +37381,7 @@ adbetnet.com
 ||iyouhu.cn^
 ||izuis.com^
 ||j1ybkf.cn^
+||j5sq8.com^
 ||j9wp6.cn^
 ||jacklm1.com^
 ||jacklm2.com^
@@ -38133,6 +38146,7 @@ adbetnet.com
 ||xiaobingmai.cn^
 ||xiaogouzhuanqian.cn^
 ||xiaokeaiapp.com^
+||xiaoshuoyun.cn^
 ||xieyanmin.com.cn^
 ||xindelin.cn^
 ||xinghao89.com^
