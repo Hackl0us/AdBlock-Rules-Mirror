@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-19T00:06:16.827Z
+! Last modified: 2021-03-20T00:06:06.793Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||interceptstephen.com^
+||go.loadingnow.me^
+||wishjus.com^
 ||jutyledu.pro^
 ||viitan.com^
 ||leapretrieval.com^
@@ -1025,7 +1028,6 @@
 ||cogleapad.com^
 ||dryzapsol.com^
 ||zendplace.pro^
-||cdfr.hot4k.org^
 ||gumk.pro^
 ||safety1connection.com^
 ||p.magicalthirteen.com^
@@ -7343,6 +7345,7 @@ vkcdnservice.appspot.com^
 ||hospitecor.top^
 ||hospitecrew.club^
 ||host-host-ads.com^
+||hot4k.org^
 ||houdodoo.net^
 ||houghtdespe.fun^
 ||hounicuy.com^
@@ -8823,6 +8826,7 @@ vkcdnservice.appspot.com^
 ||news07.biz^
 ||news19.biz^
 ||newsadst.com^
+||newsinform.net^
 ||newsm247.online^
 ||newspaperlove.com^
 ||newsubscribes.com^
@@ -8942,6 +8946,7 @@ vkcdnservice.appspot.com^
 ||notify-master.net^
 ||notify-service.com^
 ||notify.rocks^
+||notify6.com^
 ||notifypicture.info^
 ||notifysrv.com^
 ||notionnalisent.xyz^
@@ -18979,6 +18984,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||randiul.com^
 ||px.za.zaloapp.com^
 ||jg.wensixuetang.com^
 ||tapjoy.com^
@@ -19157,7 +19163,6 @@ vkcdnservice.appspot.com^
 ||clickcease.com^
 ||logs.juspay.in
 ||logs.datadoghq.eu^
-||logs.datadoghq.com^
 ||zprk.io^
 ||getstat.net^
 ||untidyrice.com^
@@ -21105,7 +21110,6 @@ vkcdnservice.appspot.com^
 ||qoijertneio.com^
 ||qsstats.com^
 ||qubitproducts.com^
-||questionpro.com^
 ||questradeaffiliates.com^
 ||quick-counter.net^
 ||quillion.com^
@@ -22982,6 +22986,8 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||metrika.lookmovie.io^
+||s.deepl.com^
 ||clicks.wawlabs.com^
 ||stat.5-tv.ru^
 ||log.zingnews.vn^
@@ -27640,7 +27646,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pkndawf.pro^
 ||tta3w6e98cka.ru^
 ||mydomainab5.space^
-||randiul.com^
 ||adl-hunter.com^
 ||ogtz5yn2u1.ru^
 ||bhiesfffga.com^
@@ -32453,6 +32458,13 @@ adbetnet.com
 !
 ! Section contains list of advertising networks
 !
+||ayqxx.com^
+||etxjbxs.top^
+||efyt6.com^
+||p.eikuaitao.com^
+||p.gmkykj.com^
+||fuoo1.top^
+||kebi1.top^
 ||tonghao.ltd^
 ||adserve.work^
 ||acgshenshicha.cn^
@@ -35095,6 +35107,7 @@ adbetnet.com
 ||shouwangba.cn^
 ||shouyouyou.com^
 ||show.kc.taotaosou.com^
+||shtiesen.cn^
 ||shuake.ink^
 ||shuangshiyihightgo.top^
 ||shucaihangjia.com^
@@ -36789,6 +36802,7 @@ adbetnet.com
 ||5glyqw.com^
 ||5j73de.cn^
 ||5mgurg.cn^
+||5nf0ec.cn^
 ||5p68n.cn^
 ||5q63n.cn^
 ||5q68n.cn^
@@ -37252,6 +37266,7 @@ adbetnet.com
 ||fkm2wv.cn^
 ||flbmfc.com^
 ||fll007.com^
+||fnbocll.cn^
 ||fnwll.cn^
 ||focuscat.com^
 ||fouas.com^
@@ -37918,6 +37933,7 @@ adbetnet.com
 ||qyttl.cn^
 ||qzbxfs.com^
 ||qzdaren.com^
+||qzmixun.com^
 ||qzqyw.cn^
 ||qzyiming.cn^
 ||qzylyp.com^
@@ -38350,6 +38366,7 @@ adbetnet.com
 ||yikuaiqian.com.cn^
 ||yimai51.cn^
 ||yimeize.cn^
+||yingfulook.cn^
 ||yingjiawm.com^
 ||yingyeping.com^
 ||yinlt.com^
@@ -38499,6 +38516,9 @@ adbetnet.com
 ||zzsdjq.com^
 ||zzsno1.com^
 ||zzxhx.com^
+||3337785.com^
+||huizeyoupin.com^
+||wrkdih.com^
 ||hy-dy.cn^
 ||liveappgirl.net^
 ||22588888.com^
