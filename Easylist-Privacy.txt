@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103192339
+! Version: 202103210018
 ! Title: EasyPrivacy
-! Last modified: 19 Mar 2021 23:39 UTC
+! Last modified: 21 Mar 2021 00:18 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1384,6 +1384,7 @@
 /collect/view?
 /collect?*&cid=
 /collect?*&tid=
+/collect?appName
 /collect?callback=
 /collect?d=
 /collect?data=
@@ -3274,6 +3275,7 @@
 /performance.fcgi?
 /performance_timing/*
 /performance_tracker-
+/performanceMetrics?
 /performancetimer.js
 /perimeterx/*
 /permalink-tracker.html?
@@ -5062,6 +5064,7 @@
 /weizenbock/dist/*
 /wf-beacon-
 /wffm-cookies.
+/wfmanalytics/*
 /wget?*&referer=
 /wh_tracking.
 /where-go-add.js
@@ -5532,7 +5535,7 @@ cgi-bin/counter
 /lzdmailer.letter.open?
 /mail-tracking/*$image
 /mail.sparksport.co.nz/forms/read/*
-/media.sailthru.com/*.gif
+/media.sailthru.com/5ik/1k4/9/*.gif
 /open.aspx?
 /page.bsigroup.com/*
 /pixel-prod.
@@ -6792,6 +6795,7 @@ _mongo_stats/
 ||getconversion.net^$third-party
 ||getdrip.com^$third-party
 ||getfreebl.com^$third-party
+||getpublica.com^$third-party
 ||getrockerbox.com^$third-party
 ||getsmartcontent.com^$third-party
 ||getsmartlook.com^$third-party
@@ -7369,7 +7373,7 @@ _mongo_stats/
 ||mytictac.com^$third-party
 ||mytrack.pro^$third-party
 ||myusersonline.com^$third-party
-||myvisualiq.net^$third-party
+||myvisualiq.net^$image,script,third-party
 ||mywebstats.com.au^$third-party
 ||mywebstats.org^$third-party
 ||n74s9.com^$third-party
@@ -10798,6 +10802,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||counter.cam-content.com^
 ||counter.digits.com^
 ||counter.hyipexplorer.com^
+||counter.jdi5.com^
 ||counter.maases.com^
 ||counter.packa2.cz^
 ||counter.powweb.com^
@@ -13938,6 +13943,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dilbert.com^*&tracker$script
 ||dippic.com/cgi-bin/index_dl.cgi?
 ||direct-events-collector.spot.im^
+||discord.com^*/science
 ||discordapp.com^*/track
 ||discordbots.org/api/auctions/impression
 ||discover-metrics.cloud.seek.com.au^
@@ -21247,6 +21253,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||siteinfo.libero.it^
 ||smsaffari.it/count_new.php?
 ||spaziogames.it/ajax/player_impression.ashx?
+||stats.dreamsub.cc^
 ||stats.splinder.com^
 ||stats.stylight.it^
 ||tantifilm.top^*/ping
@@ -21785,7 +21792,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
 @@||google.com/js/gweb/analytics/autotrack.js$domain=gradleplease.appspot.com|www.google.com
 @@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|m.putlocker.how
-@@||googletagmanager.com/gtm.js$domain=ads.spotify.com|aim.steelseries.com|atptour.com|bsa-whitelabel.com|chipotle.com|easternbank.com|hbomax.com|medibank.com.au|newsletter.co.uk|nflgamepass.com|pioneer.eu|porsche.com|readyrefresh.com|redbull.com|royalbank.com|scotsman.com|trademe.co.nz
+@@||googletagmanager.com/gtm.js$domain=ads.spotify.com|aim.steelseries.com|atptour.com|bsa-whitelabel.com|chipotle.com|cyclingnews.com|easternbank.com|hbomax.com|medibank.com.au|newsletter.co.uk|nflgamepass.com|pioneer.eu|porsche.com|readyrefresh.com|redbull.com|royalbank.com|scotsman.com|trademe.co.nz
 @@||gov.au/Scripts/ga.js$script,~third-party
 @@||guce.advertising.com/collectIdentifiers$domain=guce.advertising.com
 @@||hearstapps.com/static/comscore.$script,domain=womenshealthmag.com
