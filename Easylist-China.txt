@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: N6x5A+vgULEIFgDNiXYCQw
-! Version: 202103210022
+! Checksum: rGHBQl0yt4T1hU0sQUxLcA
+! Version: 202103220022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 21 Mar 2021 00:22 UTC
+! Last Modified: 22 Mar 2021 00:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1899,6 +1899,7 @@ ubmcmm.baidustatic.com
 ||bnq86.com^
 ||bnuni.com^$third-party
 ||bole.asia^
+||boleimg.com^
 ||bolimen.top^
 ||books.com.tw/exep/ap/$third-party
 ||bosatria.cn^
@@ -2266,6 +2267,7 @@ ubmcmm.baidustatic.com
 ||gugeys.com^$third-party
 ||guidashu.com^
 ||guominziben.com^
+||guotaotaoci.net^
 ||guoxintdh.com^
 ||gutouwang.net^
 ||guzijie.top^
@@ -2328,6 +2330,7 @@ ubmcmm.baidustatic.com
 ||hi760.com^
 ||hiad.myweb.hinet.net^
 ||hivecn.cn^
+||hizbpdu.cn^
 ||hk662.com^
 ||hkfuy.com^
 ||hktv10.com^
@@ -2852,6 +2855,7 @@ ubmcmm.baidustatic.com
 ||pos.baidu.com^
 ||poyang.cn^$third-party
 ||poyang.com^
+||ppcdweb.cc^
 ||pr00001.com^
 ||pro.cn^$third-party
 ||prohibited.cn^
@@ -3658,7 +3662,7 @@ ubmcmm.baidustatic.com
 ||zzwpsm.cn^
 ||zzyonghao.com^
 !------------------------------------Popups-----------------------------------!
-$popup,third-party,domain=76fengyun.com|88files.net|99files.net|avsdown.com|downdv.com|downdvs.com|downhhh.com|imedown.info|jandown.com|jxedt.com|mimima.com|rmdown.com|soyunpan.com|youtubeto.com
+$popup,third-party,domain=76fengyun.com|88files.net|99files.net|avsdown.com|downdv.com|downdvs.com|downhhh.com|imedown.info|jandown.com|jxedt.com|mimima.com|rmdown.com|soyunpan.com|vpsmm.com|youtubeto.com
 .189.gd^*.html?p=$popup,third-party
 .com/?aff=$popup,third-party
 .com/?Intr=$popup,third-party
@@ -6633,6 +6637,7 @@ _yad_jsonp_
 ||k99.cc^$third-party
 ||kaixin001.com.cn/js/cpm-
 ||kajila.cn/ad.html
+||kakadm.com/js/loadjs/jquery
 ||kalvin.cn/page/img/
 ||kan98.com/images/*.gif
 ||kan98.com/statics/js/k2017/kan98.js
@@ -8708,8 +8713,10 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||easyai.tech/wp-content/uploads/*-576x1024.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+easyai.tech##.sidebar-inner > .widget_media_image:nth-child(n+2)
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -9370,7 +9377,6 @@ ant.design###geektime
 ant.design###geektime-ads
 hitime5.com,zdzdm.com###gg
 sdgundam.cn###gg-banner
-vvshu.com###gg120
 hitime5.com###gg250
 qiyeku.com###gg2_box
 5173.com###gg330
@@ -11337,7 +11343,6 @@ yaolan.com##.footer_float_box
 image.baidu.com##.ford-tag
 chineseinla.com##.forum_banner_ads
 pcbeta.com##.forum_top ~ div[class]
-vvshu.com##.forviewda
 880sy.com##.fot_btom
 v2ex.com##.fr > a[href^="https://www.digitalocean.com/"]
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.frs_act_repost_wrapper_outter
@@ -11528,6 +11533,7 @@ jmw.com.cn##.head_3
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.head_middle > div[class]:first-child
 zhiding.cn##.headads
 biz.ifeng.com##.header
+vpsmm.com##.header + div
 ieforex.com##.header > .left
 i.maxthon.cn##.header-hotkeys
 animewld.club##.header-img
@@ -12368,6 +12374,7 @@ tbtdg.com##.s11text
 wenda.tianya.cn##.s1Tit + .sideBox
 finance.ifeng.com##.sConRbox
 laozuo.org##.s_ad125
+vansky.com##.safari_pop
 baidu.com##.sam_iebrowser_banner
 image.baidu.com##.sample0
 image.baidu.com##.sample1
@@ -12379,6 +12386,7 @@ image.so.com##.sc-similarcm
 hao123.com##.sc-tips
 mail.pchome.com.tw##.sceng
 wps.cn##.school
+vansky.com##.scol-banner
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.score_ecr_wrapper
 firefox.com.cn,firefoxchina.cn##.sd-promote
 playno1.com##.sd.pph
@@ -13030,6 +13038,7 @@ huya.com#?##J_spbg:-abp-has( > .J_hot > .drag-elem[data-href*=".360.cn"])
 cnxz.cn##[class*="-ad"]
 zhangxinxu.com##[class*="_block-"]
 zhangxinxu.com##[class*="bottom_"]
+vpsmm.com##[class*="max"]
 zhangxinxu.com##[class*="zxx"] + *,ARTICLE > .link:first-child
 jmw.com.cn##[class^="advertising"]
 zhicheng.com##[class^="piaofu"]
@@ -13350,6 +13359,7 @@ huaren.tv##a[style*="height:"]
 36dm.club,36dm.com,acgsou.com##a[style="color:red;"][href^="show-"]
 wandhi.com##a[style="display: inline-block;position: relative"]
 hanjutv2020.com##a[style="width: 1120px;height: 70px;overflow: hidden;display: block;"]
+vpsmm.com##a[style]
 mydrivers.com##a[style][href*=".jd.com/"]
 zhangxinxu.com##a[style^="background-image"]
 houdao.com##a[style^="background:url"]
@@ -14018,6 +14028,7 @@ sdzbcg.com##td[width="580"][height="279"] > table:nth-child(2n-1)
 62422.cn##td[width="760"][height="75"]
 cartoonmad.com##td[width="890"] > table > tbody > tr > td[valign="top"][height="118"]
 mgbbs.cn##td[width="960"][height="60"]
+vpsmm.com##th > a
 ningmengzhibo.com##th[style="width: 80px;"][colspan="3"]
 toolfk.com#?#div[class]:-abp-has(> a[href*=".aliyun.com"])
 toutiao.com#?#.J_ad
@@ -15202,6 +15213,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||5.douben8.com^
 ||5.gzfenda.com^
 ||51dengshan.cn^
+||51ertong.com^
 ||51gxqm.com^
 ||51yhzp.com^$third-party
 ||5pub.com^
@@ -15794,6 +15806,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||xiaoling.ixiunv.com^
 ||xiaomiaoquan.com^$third-party
 ||xiaopangtao.com^
+||xiaopinwo.com^
 ||xinju.cc^
 ||xitongku.cc^
 ||xne1ocient87zxz.360doc.cn^
@@ -17235,6 +17248,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||llffaev.cn^
 ||llqd5.cn^
 ||lmdknj.vbiquge.com^
+||lnalttc.com^
 ||lnwow.co/1.
 ||lnwow.net/1.gif
 ||lobmuc.cn^
