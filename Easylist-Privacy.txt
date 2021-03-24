@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103222245
+! Version: 202103232332
 ! Title: EasyPrivacy
-! Last modified: 22 Mar 2021 22:45 UTC
+! Last modified: 23 Mar 2021 23:32 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2563,7 +2563,9 @@
 /js/tracking/*
 /js/tracking_
 /js/trk_
+/js_gpt.
 /js_hotlink.php?
+/js_ibeat_ext.
 /js_log_error.
 /js_logger.
 /js_tracker.
@@ -2704,6 +2706,7 @@
 /log/jserr.php
 /log/log-event-
 /log/log.php?
+/log/logs?
 /log/p.gif?
 /log/pageview
 /log/report/*
@@ -6223,6 +6226,7 @@ _mongo_stats/
 ||bugsnag.com^$third-party
 ||buildkiteanalytics.com^$third-party
 ||bunchbox.co^$third-party
+||burpee.xyz^$third-party
 ||burstbeacon.com^$third-party
 ||burt.io^$third-party
 ||buzzdeck.com^$third-party
@@ -9006,6 +9010,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bandborder.com^$third-party
 ||basketballbelieve.com^$third-party
 ||baskettexture.com^$third-party
+||bawdybalance.com^$third-party
 ||boilingbeetle.com^$third-party
 ||borderbrush.com^$third-party
 ||breakfastboat.com^$third-party
@@ -12632,6 +12637,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||export.newscube.de^$~subdocument
 ||fc.webmasterpro.de^$third-party
 ||filmaster.tv^*/flm.tracker.min.js
+||freshclip.tv/tracking/
 ||frontlineshop.com/ev/co/frontline?*&uid=
 ||gameforge.de/init.gif?
 ||geo.mtvnn.com^
@@ -13003,6 +13009,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ! Icelandic
 ! Indian
 ||analytics.bhaskar.com^
+||indiatimes.com/pixel?
 ! Indonesian
 ||mediaquark.com/tracker.js
 ! Italian
@@ -13147,8 +13154,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tag.cribnotes.jp^
 ||torimochi.line-apps.com^
 ||tr.reco.combz.jp^
+||track.span-smt.jp^
 ||track.thebase.in^
 ||tracker.520call.me^
+||trk.fensi.plus^
 ||userdive.com^$third-party
 ||webbc.fivecdm.com^
 ||webtracker.jp^$third-party
@@ -13818,7 +13827,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||clvk.viki.io^
 ||clyp.it^*/log^
 ||cmap.alibaba.com^
-||cmstrendslog.indiatimes.com^
 ||cmstrendslog.timesnow.tv^
 ||cnn.com/analytics/
 ||cnt.iceporn.com^
@@ -14381,11 +14389,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||i.pokernews.com^
 ||i365.com^*/pv.aspx?
 ||iafrica.com/php-bin/iac/readcnt.php?
-||ibeat.indiatimes.com^
 ||iberia.com^*/ga/ga.js
 ||ibm.com/common/stats/
 ||ibm.com/gateway/?
-||ibs.indiatimes.com^
 ||ibt.com/front/js/counter.js
 ||icq.com/search/js/stats.js
 ||id.google.*/verify/*.gif
@@ -14418,9 +14424,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||imx.comedycentral.com^
 ||indeed.com/rpc/$~xmlhttprequest
 ||independentmail.com/metrics/
-||indiatimes.com/stats?
-||indiatimes.com/trackjs10.
-||indiatimes.com^*/notify.htm
+||indiatimes.com/personalisation/logdata/
 ||info.com/pingback
 ||infogr.am/js/metrics.js
 ||infomine.com/imcounter.js
@@ -15555,11 +15559,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tidaltv.com/Ping.aspx
 ||tiktok.com/api/impression/
 ||tiktok.com/captcha/report
+||tilanalytics.timesinternet.in^
 ||time.is/img/nod.png$image
 ||timeslogtn.timesnow.tv^
 ||timesofisrael.com/js/rgb_app.js
 ||timesrecordnews.com/metrics/
-||timestrends.indiatimes.com^
 ||timestrends.timesnow.tv^
 ||tinypic.com/track.php?
 ||tinyupload.com^*/ct_adkontekst.js
@@ -20599,7 +20603,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||dastelefonbuch.de^*/wws.js
 ||dat.de/inc/count.js
 ||dejure.org/cgi-bin/zux2?
-||derstandard.at/s/
 ||derwesten.de/stats/
 ||derwesten.de^*/click.js
 ||derwesten.de^*/omsv.js
@@ -20722,6 +20725,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||preisvergleich.de/setcookie/
 ||proactive.base.de^
 ||putpat.tv/tracking?
+||px.derstandard.at^
 ||pxc.otto.de^
 ||quoka.de^*/wtlog_02.js
 ||rem-track.bild.de^
@@ -21309,6 +21313,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||count.upc.rakuten.co.jp^
 ||dmm.com/analytics/
 ||dmm.com/imp?
+||fensi.plus^*/tracking/
 ||gizmodo.jp/api/SurveyCountCollection?
 ||goo.ne.jp^*/vltracedmd.js
 ||i2i.jp/bin/
@@ -21776,6 +21781,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||ensighten.com^*/serverComponent.php?$script
 @@||epicgames.com/id/api/analytics$~third-party,xmlhttprequest
 @@||events-collector.spot.im/api/$xmlhttprequest
+@@||evestment.com/api/analytics/$domain=evestment.com
 @@||evil-inc.com/comic/advertising-age/$~third-party,xmlhttprequest
 @@||fast.appcues.com^$script,domain=static.abcmouse.com
 @@||files.mycloud.com/js/analytics/google_analytics.js
