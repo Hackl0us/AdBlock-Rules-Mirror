@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103272338
+! Version: 202103282317
 ! Title: EasyPrivacy
-! Last modified: 27 Mar 2021 23:38 UTC
+! Last modified: 28 Mar 2021 23:17 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2764,6 +2764,7 @@
 /LogCompany.aspx?$image
 /logcount.php?
 /logcounter.
+/logdata/et/*
 /logduration/*
 /logevent.action?
 /logevent/v2?
@@ -14073,6 +14074,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||etonline.com/media/*/ctvconviva.swf
 ||etsy.com/bcn/beacon
 ||etui.fs.ml.com^
+||etx.indiatimes.com^
 ||eu.groupondata.com^
 ||ev.kck.st^
 ||event-api.reverb.com^
@@ -14720,7 +14722,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||moneysupermarket.com^*/ProphetInsert.js
 ||monitor.ebay.com^
 ||monkeyquest.com/monkeyquest/static/js/ga.js
-||monova.org/js/ga.js
 ||monstercrawler.com/__kl.gif
 ||mortgage101.com/tracking/
 ||mov-world.net/counter/
@@ -21750,6 +21751,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||bookmate.com^*/impressions?$~third-party,xmlhttprequest
 @@||cleverpush.com/channel/$script,domain=bsdex.de
 @@||community.brave.com/t/$xmlhttprequest
+@@||googleoptimize.com/optimize.js$script,domain=tentree.ca
 ! @@||browser.sentry-cdn.com^$domain=cardiffmedia.co.uk|connect.shore.com|crrowd.com|gina-phillips.com|gracevanberkum.com|imperial.ac.uk|loveotv.com|onginnovations.com|simonparkes.org|stockforecasttoday.com|tekku.co.za|theangryviking1776.com|thegivingblock.com|thepittsburghoratory.org|truenews4u.com|washingtonpost.com|wix.com
 @@||browser.sentry-cdn.com^$domain=eco-clobber.co.uk
 @@||brsrvr.com/api/$xmlhttprequest,domain=dollargeneral.com
