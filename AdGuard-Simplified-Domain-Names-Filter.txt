@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-01T00:29:18.152Z
+! Last modified: 2021-04-02T00:37:40.566Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -3625,6 +3625,7 @@ vkcdnservice.appspot.com^
 ||abonmgghehh.com^
 ||aboybvnm.com^
 ||abridgeinputcontraceptive.com^
+||abrjsiuuhet.com^
 ||abroadlynijiz.site^
 ||abserv123.com^
 ||absolubleldan.site^
@@ -4098,6 +4099,7 @@ vkcdnservice.appspot.com^
 ||askbegrag.com^
 ||askewpatienceblameless.com^
 ||askinsoner.club^
+||aslaprason.com^
 ||asonaloccu.info^
 ||asoulrox.com^
 ||asparagusmeaninglessyearly.com^
@@ -6969,6 +6971,7 @@ vkcdnservice.appspot.com^
 ||generatedough.com^
 ||genergyothe.top^
 ||genuinealiaspuzzled.com^
+||genuschaseslowly.com^
 ||geodestricy.site^
 ||geras-con.com^
 ||gerskatimi.club^
@@ -7835,6 +7838,7 @@ vkcdnservice.appspot.com^
 ||jicmutse.com^
 ||jientlysome.top^
 ||jigdigtry.com^
+||jighucme.com^
 ||jikpijfebfflia.com^
 ||jiltlargosirk.com^
 ||jincreasteregy.site^
@@ -9317,6 +9321,7 @@ vkcdnservice.appspot.com^
 ||noagloot.net^
 ||noaloheb.com^
 ||noamiagainst.pro^
+||noawhupt.net^
 ||noblefun.net^
 ||noblemagnition.com^
 ||noclef.com^
@@ -10267,6 +10272,7 @@ vkcdnservice.appspot.com^
 ||ptauphiw.net^
 ||ptaussee.net^
 ||ptauvuph.com^
+||ptauxofi.net^
 ||ptavizap.net^
 ||ptawehex.net^
 ||ptechait.com^
@@ -10418,6 +10424,7 @@ vkcdnservice.appspot.com^
 ||qmnyjs7jd1jp.com^
 ||qmokxgfz.com^
 ||qmovnrphbgqr.com^
+||qmripebxljdey.com^
 ||qmvezbh0l28w.com^
 ||qmxkmsmkjxlar.com^
 ||qn-5.com^
@@ -10764,6 +10771,7 @@ vkcdnservice.appspot.com^
 ||rightnativecontent.com^
 ||rightstaredstun.com^
 ||rigourcrispblaspheme.com^
+||rigourflickmarketing.com^
 ||rilelogicbuy.com^
 ||rimezvsto.com^
 ||rincegath.fun^
@@ -11631,6 +11639,7 @@ vkcdnservice.appspot.com^
 ||talhundrewr.club^
 ||taljnpgg.com^
 ||talk4anyone.com^
+||talkingaboutfirms.ga^
 ||talkingdom.club^
 ||talsauve.com^
 ||tamechangekn.info^
@@ -11727,6 +11736,7 @@ vkcdnservice.appspot.com^
 ||tf-con.com^
 ||tf2www.com^
 ||tfaa2.com^
+||tfaln.com^
 ||tfatalonepres.top^
 ||tfbqvqclg.com^
 ||tfiph.com^
@@ -11944,6 +11954,7 @@ vkcdnservice.appspot.com^
 ||tratefirearly.top^
 ||traumaticnoiseless.com^
 ||travangeind.club^
+||travelinskydream.ga^
 ||trawahdh2hd8nbvy09.com^
 ||trblocked.com^
 ||trc85.com^
@@ -12142,6 +12153,7 @@ vkcdnservice.appspot.com^
 ||ulzcieyihw.com^
 ||umannwig.com^
 ||umcbbt.com^
+||umdycgbklen.com^
 ||umehoars.club^
 ||umekana.ru^
 ||umfxefqtqd.com^
@@ -12753,6 +12765,7 @@ vkcdnservice.appspot.com^
 ||xaxoro.com^
 ||xbaulknerte.club^
 ||xbcnvj2mdk1dn1.com^
+||xbnvucutpcq.com^
 ||xbrfevoe.com^
 ||xcelltech.com^
 ||xcelsiusadserver.com^
@@ -18111,7 +18124,13 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||hktracker.hankookilbo.com^
+||ibeat-analytics.com^
+||tag-based.s3.*.amazonaws.com^
 ||oeqirr.com^
+||cbdatatracker.com^
+||pages-stats.rbl.ms^
+||res.rbl.ms^
 ||hubble.netease.com^
 ||im.cbsileads.com^
 ||heymatic.com^
@@ -18164,6 +18183,7 @@ vkcdnservice.appspot.com^
 ||stat.ustore.bz^
 ||logbor.com^
 ||click-plus.net^
+||stats.vliplatform.com^
 ||smart-bdash.com^
 ||analytics.contents.by-fw.jp^
 ||appier.net^
@@ -21011,6 +21031,7 @@ vkcdnservice.appspot.com^
 ! Admiral domains
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
+||fumblingform.com^
 ||aloofvest.com^
 ||bawdybalance.com^
 ||unwieldyhealth.com^
@@ -22036,6 +22057,8 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||cwt.citywire.info^
+||ua.indianexpress.com^
 ||a-reporting.nytimes.com^
 ||metrika.lookmovie.io^
 ||s.deepl.com^
@@ -24047,7 +24070,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||capturly.com^
 ||carambo.la^
 ||caramel.press^
-||cbdatatracker.com^
 ||cbtrk.net^
 ||ccscserver.com^
 ||cdn-net.com^
@@ -24217,7 +24239,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||humanpresence.app^
 ||i401xox.com^
 ||iaudienc.com^
-||ibeat-analytics.com^
 ||ifvox.com^
 ||imhd.io^
 ||impactradius-event.com^
@@ -25352,7 +25373,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hit.mybestpro.com^
 ||hits-*.iubenda.com^
 ||hits.informer.com^
-||hktracker.hankookilbo.com^
 ||hop.clickbank.net^
 ||hpr.outbrain.com^
 ||hspbotdetection.azurewebsites.net^
@@ -25442,7 +25462,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||orts.wixawin.com^
 ||p.delivery.net^
 ||p.eyebuydirect-cmr.net^
-||pages-stats.rbl.ms^
 ||pagesense-collect.zoho.com^
 ||pagesocket.glam.com^
 ||partner.cynapse.com^
@@ -25500,7 +25519,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||reporting.handll.net^
 ||reports-api.sqreen.io^
 ||reports.pagesuite-professional.co.uk^
-||res.rbl.ms^
 ||response.pure360.com^
 ||rich-agent.s3.amazonaws.com^
 ||rlinks.one.in^
@@ -25570,7 +25588,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.twistage.com^
 ||stats.varrando.com^
 ||stats.viddler.com^
-||stats.vliplatform.com^
 ||stats.webs.com^
 ||stats.webstarts.com^
 ||stats.zotabox.com^
@@ -31485,6 +31502,7 @@ adbetnet.com
 !
 ! Section contains list of advertising networks
 !
+||ef9i0f3oev47.com^
 ||oyvyxj.cn^
 ||ayqxx.com^
 ||etxjbxs.top^
@@ -31845,6 +31863,7 @@ adbetnet.com
 ||rapidads.de^
 ||revresrennab.de^
 ||rgadvert.com^
+||seitenaufruf.com^
 ||selfpuc.com^
 ||server4ads.com^
 ||servertraffic.de^
@@ -32210,8 +32229,8 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 31 Mar 2021 14:29 UTC+7
-! Version: 2103311429
+! Last modified: 01 Apr 2021 16:09 UTC+7
+! Version: 2104011609
 ! Blocked: 836 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -35065,6 +35084,7 @@ adbetnet.com
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||qiyegongqiu1.qiyegongqiu.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -35784,6 +35804,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||lylifa.com^
+||gssdsj.com^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
