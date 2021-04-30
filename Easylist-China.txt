@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: J2bHNazdvLBmI8fJxTr5DA
-! Version: 202104290032
+! Checksum: tfM/PhgVst1Ola2jaFoIBA
+! Version: 202104300022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 29 Apr 2021 00:32 UTC
+! Last Modified: 30 Apr 2021 00:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -2037,6 +2037,7 @@ ubmcmm.baidustatic.com
 ||daikuanfanli.com^
 ||dalianhengtai.com^
 ||daliantong.com.cn^
+||dameyuan.com^
 ||dami66.cn^
 ||damumu.xyz^
 ||dante2007.com^
@@ -7775,8 +7776,8 @@ _yad_jsonp_
 ||taoguba.com.cn/res/libs/tgbxc.js
 ||taosq.net/public/250x250.jpg
 ||taotaoxiang.cc/111/
-||taoziba.me/a*.js
-||taoziba.me/sys
+||taoziba.cc/a*.js
+||taoziba.cc/sys
 ||taporn.com/d/
 ||tb58.net/plugin.php?id=tb58_
 ||tbcdn.cn/mm/tanxssp-custom/sina_
@@ -8074,8 +8075,7 @@ _yad_jsonp_
 ||wanmcy.com/toolsda/
 ||wanwan.sina.com.cn/third_party/
 ||wanyx.com/Public/js/cqby.swf
-||wanyx.com/Public/js/qian.js
-||wanyx.com/Public/js/zhuan.js
+||wanyx.com/Public/js/fan.js
 ||wbzol.com/swf/352X76.swf
 ||wcjbb.com/data/attachment/freeaddon_banner/
 ||wdjm.com.cn/index.php?m=poster&
@@ -8109,9 +8109,6 @@ _yad_jsonp_
 ||weste.net/js/showpagead.js
 ||wew.dushiwenxue.net^
 ||whichav.*/qq/qq.js
-||whinfo.net/ad20
-||whinfo.net/js/adDuiLian_
-||whinfo.net/js/fly_right.js
 ||whnews.cn/news/data/*gg
 ||whnews.cn/wh_public/dl/
 ||whnews.cn/wh_public/xuxu/
@@ -8129,7 +8126,6 @@ _yad_jsonp_
 ||windows7en.com/images/
 ||windows7en.com/static/images/xiaobai_
 ||windows7en.com/statistics/statistics.js
-||windows7en.com/statistics/stats.js
 ||winning11cn.com/temp/*.gif
 ||winning11cn.com/temp/bifen/
 ||winvvv.com^$subdocument
@@ -8163,7 +8159,6 @@ _yad_jsonp_
 ||wowad.wow-classic.com^
 ||woyaoq.com/201904100958_5cad4dbac9c5f.png
 ||wp.com/tyenews.com/wp-content/uploads/*%E5%BB%A3%E5%91%8A
-||wpjam.com/wpjam/banner/qiniu.png
 ||wples.com/pc/common.js
 ||wrlwx.com/hello/
 ||wstimes.cn/public/wstimes/js/*ad
@@ -8644,6 +8639,7 @@ _yad_jsonp_
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+ahuys.cc##.vddb + a
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -8958,6 +8954,7 @@ bitauto.com###bitAd_background
 bitauto.com###bitAd_floatFlash
 nodejs.cn###biz_center
 nodejs.cn###biz_nav
+w3cplus.com###block-block-49
 e-learn.cn###block-gyouer
 zaobao.com###block-views-zb2016-freefrom-block-1
 e-learn.cn###block-youyi
@@ -9069,7 +9066,6 @@ nownews.com###crazy-video
 yahoo.com###crazyAD
 muchong.com###creditegg
 ipcfun.com###crumb_r
-wpsoso.com###cse-search-box > p
 wjx.cn###ctl01_ContentPlaceHolder1_divProMsg
 free.com.tw###custom_html-11
 hexieshe.cn,tlanyan.me###custom_html-2
@@ -9386,7 +9382,6 @@ duote.com###hengfu
 hexun.com,hexun.com.tw###hexunCouplet01
 eepw.com.cn###hiddenLayer
 yxdown.com###highdown
-w3cplus.com###home-page-widgets
 wacowla.com###home-top-narrow
 t.qq.com###homeBannerNew
 bjhockey.org###homeVideoModal
@@ -9793,7 +9788,6 @@ m.autohome.com.cn###s2205
 autohome.com.cn###s5473
 alu.cn###sanjia
 sm.cn###sc + .article.ali_row
-wpsoso.com###scontent > div[style]
 chyangwa.net,motorfans.com.cn###scrollPics
 youxi.kugou.com###scrollUp
 iqiyi.com###scrollWrap-vipbuy
@@ -9931,7 +9925,6 @@ hupu.com###threadLeftAd
 firefox.com.cn,firefoxchina.cn###thside-left-banner
 ettoday.net###ticker_3
 1ting.com###tingx_5
-wpsoso.com###tips
 dict.cn###tjcd
 yxdown.com###tl_adv
 hao.360.com###tmall-full-screen
@@ -11405,7 +11398,7 @@ owyb1688.com##.gray-show
 bioon.com##.grid_6
 newyx.net,veryhuo.com##.gs
 veryhuo.com##.gs2
-wanyx.com##.gs_down_common
+wanyx.com##.gs_box
 sci-hub.org.cn##.gs_r[data-cid=""]
 sci-hub.org.cn##.gs_red[style="color:#EB7F00"]
 32r.com##.gsabtn
@@ -12218,7 +12211,6 @@ guba.eastmoney.com##.redian
 baixing.com##.refashion-listing-banner
 gg-led.com##.regg
 e-learn.cn##.region-sidebar-second > .block:nth-child(2)
-w3cplus.com##.region-sidebar-second > :nth-last-child(n+3)
 xueqiu.com##.regist-guide-container
 baidu.com##.rel-exp-feed-ad-item
 mop.com##.rel-item-gg
@@ -12766,6 +12758,7 @@ ifeng.com##.v_adbox
 2345.com##.v_picConBox.height214
 tzfile.com##.vad
 douyu.com##.vcode9-sign
+taoziba.cc##.vddb + a
 vgtime.com##.vgart_top
 lenovo.com.cn##.video
 iqiyi.com##.video-ad_left
@@ -12830,7 +12823,6 @@ hao123.com##.widget-hlbar > span
 hao123.com##.widget-topbanner
 didispace.com##.widget-wrap > p[style="text-align: left;padding-bottom: 20px;line-height: 30px;"]
 97hj.net##.widget-zfb
-web20share.com##.widget:nth-of-type(5)
 doubibackup.com##.widgetRoller
 iplaysoft.com##.widget[style]
 fulibl.com##.widget_banner
@@ -12904,7 +12896,6 @@ xkb.com.cn##.xwAd
 my0832.com##.xx_div
 qq.com##.xxskj
 58pic.com##.xyyh
-wanyx.com##.xz_down
 xixiwg.com##.xz_left > ul:nth-last-child(3)
 42xz.com##.xzbox-lf > ul:not(:last-child)
 05sun.com,xitongtiandi.net##.xzq
@@ -13438,7 +13429,6 @@ hybbs.com##div[class^="adtop"]
 xiazaiba.com##div[class^="adv-"]
 ifeng.com##div[class^="adv0"]
 ifeng.com##div[class^="adv1"]
-whinfo.net##div[class^="adw"]
 kumi.cn##div[class^="adz"]
 zhicheng.com##div[class^="all-"][style^="position:relative;width:50%;float:"]
 265g.com##div[class^="ban"]
@@ -16504,6 +16494,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||cf89.gold^
 ||cfdanet.com^
 ||cfhijdsb.cn^
+||chaluoyi.cn^
 ||chang555.cn^
 ||changhehengqi.com^
 ||chayibu.com^
@@ -16915,6 +16906,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||hsbkr.com^
 ||htfmbt.com^
 ||htjsk.com^
+||huangyeqing.cn^
 ||huayange.com^
 ||huayangli.cn^
 ||huayi65.com^
@@ -17412,6 +17404,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||quxiandu.com^
 ||quxiangkeji.cn^
 ||qwddcwmwqiqwd18.cn^
+||qwddcwmwqiqwd19.cn^
 ||qxyu.top^
 ||qyhwqie.cn^
 ||qysyyg.com^
