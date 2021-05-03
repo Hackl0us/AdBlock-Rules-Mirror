@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-02T00:21:59.068Z
+! Last modified: 2021-05-03T00:20:38.992Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||tefumiji.xyz^
+||uhdokoq5ocmk.com^
 ||farcdnf.com^
 ||ohpdsplu.com^
 ||sorryfearknockout.com^
@@ -2031,7 +2033,6 @@ www.llllllllllll.net^
 ||plutusads.com^
 ||ritogaga.com^
 ||qaquzakalaka.com^
-||smilewanted.com^
 ||hitlnk.com^
 ||tjfot.com^
 ||fqsbi.com^
@@ -3871,6 +3872,7 @@ vkcdnservice.appspot.com^
 ||activealibi.com^
 ||actressact.com^
 ||actsvane.com^
+||acweb.online^
 ||acybrccvwoftb.com^
 ||ad120m.com^
 ||ad123m.com^
@@ -4514,6 +4516,7 @@ vkcdnservice.appspot.com^
 ||bainushe.com^
 ||baipagid.com^
 ||baitbrdwk.com^
+||baiweluy.com^
 ||balancedingrent.com^
 ||balanderramed.site^
 ||balcekonspn.com^
@@ -4605,6 +4608,7 @@ vkcdnservice.appspot.com^
 ||begunprescription.com^
 ||behavingsali.club^
 ||behybmunweid.com^
+||beklefkiom.com^
 ||belamicash.com^
 ||belaya2shu1ba1.com^
 ||belgradualuna.site^
@@ -5933,6 +5937,7 @@ vkcdnservice.appspot.com^
 ||detectorvenomouscutlery.com^
 ||deteran.club^
 ||deterindependentblocked.com^
+||determine-month-upward-shoot.xyz^
 ||detour.click^
 ||detourlearned.com^
 ||deturbcordies.com^
@@ -7721,6 +7726,7 @@ vkcdnservice.appspot.com^
 ||hhunvu.com^
 ||hhzejzwcqa.com^
 ||hiasor.com^
+||hibids10.com^
 ||hickunwilling.com^
 ||hicltgxzl.com^
 ||hicpm10.com^
@@ -8040,6 +8046,7 @@ vkcdnservice.appspot.com^
 ||ingoinghitchstick.com^
 ||ingratitudedaintyblockade.com^
 ||inheritwalter.com^
+||inigusyou.fun^
 ||initiateplayed.com^
 ||initiateshaky.com^
 ||injuredcandy.com^
@@ -9465,6 +9472,7 @@ vkcdnservice.appspot.com^
 ||nalrxmmcs.com^
 ||namel.net^
 ||namelyvulgarquote.com^
+||namesakeoscilloscopemarquis.com^
 ||nappybedcandid.com^
 ||narkalignevil.com^
 ||narrowperennialaffable.com^
@@ -12589,6 +12597,7 @@ vkcdnservice.appspot.com^
 ||utilizesailvehicle.com^
 ||utlawglouce.club^
 ||utoumine.net^
+||utoyoufio.fun^
 ||utpgxaylxurhbc.com^
 ||utq55kl9vyqv.com^
 ||utteredhandicappedsomebody.com^
@@ -16206,6 +16215,7 @@ vkcdnservice.appspot.com^
 ||smarttargetting.net^
 ||smartyads.com^
 ||smilered.com^
+||smilewanted.com^
 ||smileycentral.com^
 ||smintmouse.com^
 ||smljmp.com^
@@ -24995,6 +25005,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||beacon.statful.com^
 ||beacon.thred.woven.com^
 ||beacon.viewlift.com^
+||beam.mjhlifesciences.com^
 ||bento.agoda.com^
 ||bitdash-reporting.appspot.com^
 ||bmrg.reflected.net^
@@ -33361,6 +33372,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cy-wz.com^
 ||cyacc.com^
 ||cytcm.com^
+||cz09.com^
 ||cz9k8b.top^
 ||czpush.com^
 ||czpwm.com^
