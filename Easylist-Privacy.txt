@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105031559
+! Version: 202105050010
 ! Title: EasyPrivacy
-! Last modified: 03 May 2021 15:59 UTC
+! Last modified: 05 May 2021 00:10 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1571,6 +1571,7 @@
 /csp_204?
 /csp_log?
 /csp_report.gne?
+/cta-loaded.js
 /ctd-sourcepoint.
 /ctd-tealium.
 /ctr_tracker.
@@ -1974,6 +1975,7 @@
 /fpcookie?
 /fpcount.exe
 /fps/check.
+/fpTracker/*
 /fptrk.min.js
 /fpv2.js
 /freecgi/count.cgi?
@@ -2102,6 +2104,7 @@
 /gatrackthis.
 /gatrackwww.
 /gb-tracker-
+/gc?id=*&refurl=
 /gciAnalytics.
 /gClickTracking.
 /gcount.pl?
@@ -2702,13 +2705,14 @@
 /log.cfm?
 /log.collect.
 /log.gif?
-/log.htm?
+/log.htm?$domain=~192.168.0.1|~192.168.1.1
 /log.jphp?
 /log.jsp?
 /log.php?*http
 /log.php?id
 /log.php?owa_timestamp=
 /log/1.gif?
+/log/?pixel=
 /log/ad-
 /log/analytics
 /log/browser/event
@@ -4012,7 +4016,7 @@
 /stat.aspx?
 /stat.cgi?
 /stat.gif?
-/stat.htm?
+/stat.htm?$domain=~192.168.0.1|~192.168.1.1
 /stat.js?
 /stat.php?
 /stat.png?
@@ -5867,9 +5871,11 @@ _mongo_stats/
 ||g7329120395.co^
 ||g7527204730.co^
 ||g7725289065.co^
+||g792337340.co^
 ||g7923373400.co^
 ||g8121457735.co^
 ||g8319542070.co^
+||lltrck.com^
 ||mors22.com^
 ||nxakpj4ac8gkd53.info^
 ||propeller-tracking.com^
@@ -6799,6 +6805,7 @@ _mongo_stats/
 ||fueldeck.com^$third-party
 ||fuelx.com^$third-party
 ||fugetech.com^$third-party
+||fullcircleinsights.com^$third-party
 ||funneld.com^$third-party
 ||funstage.com^$third-party
 ||fuse-data.com^$third-party
@@ -7152,6 +7159,7 @@ _mongo_stats/
 ||keywee.co^$third-party
 ||keywordmax.com^$third-party
 ||keywordstrategy.org^$third-party
+||kickfire.com^$third-party
 ||kieden.com^$third-party
 ||killerwebstats.com^$third-party
 ||kilometrix.de^$third-party
@@ -7377,6 +7385,7 @@ _mongo_stats/
 ||movable-ink-6710.com^$third-party
 ||mparticle.com^$third-party
 ||mpianalytics.com^$third-party
+||mpio.io^$third-party
 ||mplxtms.com^$third-party
 ||mppapi.io^$third-party
 ||mpstat.us^$third-party
@@ -10484,6 +10493,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.tout.com^
 ||analytics.tribeca.vidavee.com^
 ||analytics.unibuddy.co^
+||analytics.unilogcorp.com^
 ||analytics.urx.io^
 ||analytics.vanillaforums.com^
 ||analytics.vendemore.com^
@@ -10492,6 +10502,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.wildtangent.com^
 ||analytics.witglobal.net^
 ||analytics.worldtable.co^
+||analytics.yext-static.com^
 ||analytics.yola.net^
 ||analytics.yolacdn.net^
 ||analytics.ziftsolutions.com^
@@ -11019,6 +11030,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||diagnose.igstatic.com^
 ||digimedia.com/pageviews.php?
 ||digitalgov.gov/Universal-Federated-Analytics-Min.js
+||digitaloceanspaces.com/pixel/
 ||directnews.co.uk/feedtrack/
 ||dirt.dennis.co.uk^
 ||discovery.com^*/events
@@ -11370,6 +11382,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ipapi.tmbi.com^
 ||ipstatp.com/growth/fe_sdk/reportsdk/$third-party
 ||ipstatp.com/static_magic/pgc/tech/collect/$third-party
+||iq.sixaxisllc.com^
 ||irqs.ioam.de^
 ||isacglobal.com/sa.js
 ||isitelab.io/ite_sitecomV1ANA.min.js
@@ -12238,6 +12251,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.icerocket.com^
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
+||tracker.mrpfd.com^
 ||tracker.roitesting.com^
 ||tracker.softcube.com^
 ||tracker.timesgroup.com^
@@ -12416,6 +12430,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||videopress.com/plugins/stats/
 ||viglink.com/api/ping$third-party
 ||vimeocdn.com/add/player-stats?
+||vimeocdn.com/ga/
 ||vindicosuite.com/track/
 ||vindicosuite.com/tracking/
 ||vindicosuite.com/xumo/swf/$third-party
@@ -12529,6 +12544,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ziffdavisb2b.com^*/tracker.js
 ||zineone.com^*/event
 ||zmags.com/a/p/p.js
+||zoominfo.com/pixel/
 ||zoover.co.uk/tracking/
 ||zope.net^*/ghs_wa.js
 ! https://d3ward.github.io/toolz/src/adblock.html
@@ -14081,7 +14097,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||drudgereport.com/js/responsive-
 ||drugs.com/api/logger/
 ||dsm.com^*/searchenginetracking.js
-||duckduckgo.com/t.js
 ||duckduckgo.com/t/
 ||dumpster.cam4.com^
 ||dvdempire.com/images/empty2.asp
@@ -14816,6 +14831,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||msecnd.net^*/wt.js?
 ||mshcdn.com/assets/lib/aab-$script,domain=mashable.com
 ||msn.com/collect/
+||msn.com/OneCollector/
 ||msn.com/ro.aspx?
 ||msn.com/script/tracking*.js
 ||msn.com/tracker/
@@ -24375,6 +24391,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 @@||analytics.edgekey.net/config/$xmlhttprequest,domain=nhk.or.jp
 @@||analytics.edgekey.net/html5/akamaihtml5-min.js$domain=nhk.or.jp
 @@||analytics.edgekey.net/ma_library/javascript/javascript_malibrary.js$script,domain=nhk.or.jp
+@@||api.cxense.com/document/search?$xmlhttprequest,domain=friday.kodansha.co.jp
+@@||api.cxense.com/public/widget/data|$xmlhttprequest,domain=friday.kodansha.co.jp
 @@||assets.adobedtm.com^*-librarycode_source.min.js$script,domain=mora.jp
 @@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
 @@||browser.sentry-cdn.com^$domain=marshmallow-qa.com
