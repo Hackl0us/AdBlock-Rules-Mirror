@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-10T00:08:02.371Z
+! Last modified: 2021-05-11T00:07:25.160Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,10 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||gropsyruty.com^
+||hootersavour.com^
+||adsterra.org^
+||apexwantstar.com^
 ||c43a3cd8f99413891.com^
 ||ecjkroklyxvod.com^
 ||tluumnjyrc.com^
@@ -85,7 +89,6 @@
 ||a.dirtyasmr.com^
 ||papaneecorche.com^
 ||youngoutmatchthousand.com^
-||eabids.com^
 ||kdkgwhntslalwj.com^
 ||outblowtewhit.com^
 ||creamssicsite.com^
@@ -472,7 +475,6 @@
 ||talazywho.pro^
 ||sporedfryhum.com^
 ||toperw.com^
-||hotideiasnetwork.ml^
 ||s.bigbolz.com^
 ||7kjfbgkjbfgb.club^
 ||tearpilotzoo.com^
@@ -4545,6 +4547,7 @@ vkcdnservice.appspot.com^
 ||banusdona.top^
 ||baptismwitnesseddisobedience.com^
 ||baqcpdctexlwgp.com^
+||bardatm.ru^
 ||barefootedenvy.com^
 ||barefoottearworthy.com^
 ||baresi.xyz^
@@ -5783,6 +5786,7 @@ vkcdnservice.appspot.com^
 ||dartsirhose.icu^
 ||darwarvid.com^
 ||dasfelynsaterr.webcam^
+||dasfelynsaterr.win^
 ||dashbida.com^
 ||dashboardad.net^
 ||dashcreakyock.com^
@@ -5916,6 +5920,7 @@ vkcdnservice.appspot.com^
 ||despitalyt.club^
 ||destinationurl.com^
 ||deswhatlike.biz^
+||detachedbates.com^
 ||detecteddesigningspirited.com^
 ||detectorvenomouscutlery.com^
 ||deteran.club^
@@ -6254,6 +6259,7 @@ vkcdnservice.appspot.com^
 ||ea1abaf867.com^
 ||ea6353e47e0ab3f78.com^
 ||ea978ca12bb65.com^
+||eabids.com^
 ||eabyvnmt.com^
 ||eac0823ca94e3c07.com^
 ||eacdn.com^
@@ -7295,6 +7301,7 @@ vkcdnservice.appspot.com^
 ||gievalonjing.club^
 ||gigbyefly.com^
 ||gillheapsyears.icu^
+||gimpybedderump.com^
 ||gingoblindri.club^
 ||girlend.com^
 ||giscoeswork.space^
@@ -7620,6 +7627,7 @@ vkcdnservice.appspot.com^
 ||hearfromyou.biz^
 ||heartbrokendilapidation.com^
 ||hearthurstxz.club^
+||hechcandled.casa^
 ||heckagny.com^
 ||hedressive.info^
 ||hedrvszms.com^
@@ -14654,6 +14662,7 @@ vkcdnservice.appspot.com^
 ||gestionpub.com^
 ||get.com^
 ||getalinkandshare.com^
+||getdoge.io^
 ||getgamers.eu^
 ||getoptad360.com^
 ||getpopunder.com^
@@ -14941,6 +14950,7 @@ vkcdnservice.appspot.com^
 ||inuxu.biz^
 ||inuxu.co.in^
 ||inviziads.com^
+||involve.asia^
 ||ip-adress.com^
 ||ipraccessie.info^
 ||ipredictive.com^
@@ -15713,6 +15723,7 @@ vkcdnservice.appspot.com^
 ||q64a9ris0j.com^
 ||qadserve.com^
 ||qadservice.com^
+||qashbits.com^
 ||qaykb.com^
 ||qd3u5eeuos.com^
 ||qdmil.com^
@@ -15897,6 +15908,7 @@ vkcdnservice.appspot.com^
 ||sbscribeme.com^
 ||scanmedios.com^
 ||scanscout.com^
+||scarlet-clicks.info^
 ||sceno.ru^
 ||schedhomoso.pro^
 ||scootloor.com^
@@ -17114,6 +17126,7 @@ vkcdnservice.appspot.com^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||ad-channel.wikawika.xyz^
 ||media-router-flurry*.yahoo.com^
 ||cads.scalemonk.com^
 ||adspot.tfgapps.com^
@@ -23516,7 +23529,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||collector.brandify.com^
 ||counter.kingsoft.com^
 ||crasheye.cn^
-||data.mistat.*.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
 ||data.sec.miui.com^
 ||ep.xone.com^
 ||etl.xlmc.sandai.net^
@@ -24610,6 +24624,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pr0gram.org^
 ||rand.com.ru^
 ||reauthenticator.com^
+||rollercoin.com^
 ||rtb-seller.com^
 ||s7ven.com^
 ||seed.bitcoin.jonasschnelli.ch^
@@ -30980,6 +30995,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Eimg.jp
 !
+||ad.rarure.com^
 ||sda.seesaa.jp^
 ||affiliate-script-pr.firebaseapp.com^
 ||asia-northeast1-affiliate-pr.cloudfunctions.net^
@@ -31597,6 +31613,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sparkassen-partner.de^
 ||special-sponsor.de^
 ||sponsortown.de^
+||spoods.io^
 ||stilanzeigen.net^
 ||sunnysales.biz^
 ||superclix.de^
@@ -31959,9 +31976,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 May 2021 13:37 UTC+7
-! Version: 2105091337
-! Blocked: 863 rules
+! Last modified: 10 May 2021 22:02 UTC+7
+! Version: 2105102202
+! Blocked: 864 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32579,6 +32596,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aw8vn2.com^
 ||b29qc.win^
 ||b52.win^
+||bet365.com^
 ||betvietnam.info^
 ||betvisa.com^
 ||big88.one^
@@ -32785,7 +32803,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||wwwlongjiekejijishu.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -34118,6 +34135,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wuwho.cn^
 ||wwlolbs.com^
 ||www-sina-cn-com.com^
+||wwwlongjiekejijishu.com^
 ||wxiansen.cn^
 ||wxs666.cn^
 ||wxxfqc.com^
@@ -34632,6 +34650,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||super.cat898.com^
 ||super.kdnet.net^
 ||synacast.com^
+||tc.18moe.net^
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||tf.360.cn^
 ||theta.sogoucdn.com^
@@ -34662,7 +34681,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||z.nowscore.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||tc.18moe.net^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
@@ -36382,6 +36400,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lvkuaizi.com^
 ||lvsechufang.com^
 ||lwlscy.com^
+||lxanimation.cn^
 ||lxhjaq.cn^
 ||ly2si17.cn^
 ||ly5200.cn^
@@ -36783,6 +36802,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tieqifeng.com^
 ||tingfengyu.top^
 ||tiojk.com^
+||tirongtech.cn^
 ||tiwom.com^
 ||tjiaa.com^
 ||tjlms.cn^
@@ -36854,6 +36874,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vbanm.com^
 ||vchim.com^
 ||vf5yb4.cn^
+||vhh.23txt.com^
 ||vinuxhome.com^
 ||vivi87.cn^
 ||vjptye.cn^
