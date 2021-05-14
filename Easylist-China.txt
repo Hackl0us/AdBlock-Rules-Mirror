@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YA9ndpzSfpuZmdilDDzMIw
-! Version: 202105130032
+! Checksum: W1vAyC0CsjXwqaUF2jW4Bg
+! Version: 202105140032
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 13 May 2021 00:32 UTC
+! Last Modified: 14 May 2021 00:32 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1146,6 +1146,7 @@ _xiuno_com_ad/
 ##a[href*="/111.231.78.194/"]
 ##a[href*="/170hth.com/"]
 ##a[href*="/171hth.com/"]
+##a[href*="/3337818.com/"]
 ##a[href*="/33hth.cn"]
 ##a[href*="/602034.com"]
 ##a[href*="/?INTR="]
@@ -1159,6 +1160,8 @@ _xiuno_com_ad/
 ##a[href*="/hth104.com/"]
 ##a[href*="/hth107.com/"]
 ##a[href*="/hth567.cn"]
+##a[href*="/l1y5.com"]
+##a[href*="/ly288.net"]
 ##a[href*="/md0c.oss-cn-beijing.aliyuncs.com/"]
 ##a[href*="/mda1.site/"]
 ##a[href*="/mdapp03.com/"]
@@ -8670,6 +8673,7 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||alicdn.com/kf/Ue69786430095482ba55b38ae31ee44e7I.jpg
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -12188,6 +12192,7 @@ pcstore.com.tw##.priority1
 pcstore.com.tw##.priority_ad
 10fang.com##.pro-item
 duba.com,newduba.cn##.pro_r_t
+hao123.com##.product-banner-wrap
 meltoday.com,sydneytoday.com##.promo
 brtn.cn,btime.com##.promo-item > a[href^="http"]:not([href*=".b"])
 agmov.com,huaban.com##.promotion
@@ -12374,6 +12379,7 @@ tiboo.cn##.sectionAd
 romzj.com##.sectionThree
 brtn.cn,btime.com##.seed-item
 qq.com##.seeking-gg
+jianshu.com##.self-flow-ad
 zealer.com##.series_app
 wenku.baidu.com##.service-entry
 hoteastday.com##.sessionSub
@@ -13395,6 +13401,7 @@ weibo.com##div[ad-data]
 toutiao.com##div[ad_name]
 fx168.com##div[adisload]
 tw.stock.yahoo.com##div[align="center"][style="height:90px"]
+hao123.com##div[alog-alias="hot-goods"]
 zongheng.com##div[alog-group="index_04_game"]
 anjuke.com##div[class$="-ad"]
 elecinfo.com##div[class$="-advert"]
@@ -15362,6 +15369,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||c.mnjkw.cn^
 ||c.tvsou.com^
 ||c1.4qx.net^
+||c1.chajiaotong.com^
 ||c1.china.cn^
 ||c6.friok.com^
 ||ca.cydp5.com^
@@ -16883,6 +16891,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||gzzena.com^
 ||h4kdxs.com^
 ||haichengdzsp.com^
+||haishengwh123.cn^
 ||haiyinsiwang.com^
 ||hanmiyong.com^
 ||hanqingstudio.com^
@@ -17656,6 +17665,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||themaxmall.com^
 ||themee.cn^
 ||thindsoo.cn^
+||this-is-living.cn^
 ||tiandihui9450.top^
 ||tianhuafund.cn^
 ||tiankongzudui.com^
