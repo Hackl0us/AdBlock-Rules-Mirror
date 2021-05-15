@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-14T00:19:12.451Z
+! Last modified: 2021-05-15T00:18:50.733Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,12 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||tags.catapultx.com^
+||z.cdn.adpool.bet^
+||ccdnqxu.com^
+||harmoniousstrandbulk.com^
+||vidyceky.com^
+||delivery.contextads.live^
 ||vhlduhrldc.com^
 ||frshueaxf.com^
 ||jumotic.com^
@@ -17751,6 +17757,8 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||stats.fomo.com^
+||aghtag.tech^
 ||monitor.azure.com^
 ||static.herr.io^
 ||cli2020.com^
@@ -17796,6 +17804,7 @@ vkcdnservice.appspot.com^
 ||tag-based.s3.*.amazonaws.com^
 ||oeqirr.com^
 ||cbdatatracker.com^
+||user-stats.rbl.ms^
 ||pages-stats.rbl.ms^
 ||res.rbl.ms^
 ||hubble.netease.com^
@@ -21730,6 +21739,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||collector.rn.de^
 ||l.da-te.jp^
 ||log.shufoo.net^
 ||logcollect.totalcms.ncloud.or.kr^
@@ -25260,7 +25270,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.cmcigroup.com^
 ||stats.datahjaelp.net^
 ||stats.edicy.com^
-||stats.fomo.com^
 ||stats.geegain.com^
 ||stats.gifs.com^
 ||stats.highwire.com^
@@ -25812,7 +25821,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trugaze.io^
 ! Romanian
 ||2parale.ro^
-||aghtag.tech^
 ||pahtag.tech^
 ||profitshare.ro^
 ||retargeting.biz^
@@ -25918,7 +25926,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cdntrf.de^
 ||cgicounter.onlinehome.de^
 ||collector.ozeex.com^
-||collector.rn.de^
 ||com.econa.com^
 ||counter.1i.kz^
 ||counter.blogoscoop.net^
@@ -31018,6 +31025,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Eimg.jp
 !
+||ad.woman.mynavi.jp^
 ||ad.rarure.com^
 ||affiliate-script-pr.firebaseapp.com^
 ||asia-northeast1-affiliate-pr.cloudfunctions.net^
@@ -33631,6 +33639,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kanfaxing.com^
 ||kanwby.com^
 ||kdy365.vip^
+||keeyekey.xyz^
 ||kele4.com^
 ||keyyou.net^
 ||kf3msfm.com^
@@ -35334,6 +35343,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||w.xiaopiaoyou.com^
 ||w11.zhongkaohelp.com^
 ||w18.9939.com^
+||w3c.5txs.com^
 ||wap001.bytravel.cn^
 ||wap1.laogu.wang^
 ||wdfhl.weidianyuedu.com^
@@ -35893,6 +35903,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dkjdnq.cn^
 ||dldsrs.com^
 ||dlsdkw.cn^
+||dlyukun.cn^
 ||dmpsj.cn^
 ||dnfkong.com^
 ||dodolive.cn^
@@ -36185,6 +36196,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||huosuniao.com^
 ||hvie6u.cn^
 ||hxiak.com^
+||hxyssd.cn^
 ||hycfxdc.com^
 ||hytcsh.cn^
 ||hyuanprint.com^
@@ -36369,6 +36381,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lamaowei.com^
 ||lanshiwan.cn^
 ||lantuyj.com^
+||lanzuankeji.cn^
 ||lawumi.cn^
 ||lcrmm.top^
 ||legozu.com^
@@ -36970,6 +36983,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wxbdwj.cn^
 ||wxebgpj.cn^
 ||wxhdwy.com^
+||wxskqy.cn^
 ||wywna.cn^
 ||wyxcb6.top^
 ||wzjs1.oss-accelerate.aliyuncs.com^
@@ -37181,6 +37195,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhouqin520.top^
 ||zhuanquxian.com^
 ||zhuanyule.cn^
+||zhuhaiqilu.cn^
 ||zhujiafangchan.cn^
 ||zhuzaogangqiu.com^
 ||zhywyl.cn^
