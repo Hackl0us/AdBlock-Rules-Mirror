@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105171707
+! Version: 202105182246
 ! Title: EasyPrivacy
-! Last modified: 17 May 2021 17:07 UTC
+! Last modified: 18 May 2021 22:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1546,6 +1546,7 @@
 /countstat.php?
 /countubn.
 /countus.php
+/CoveoForSitecore.
 /cpeEvent.
 /cpeEventTracking.
 /cqcounter.
@@ -4316,6 +4317,7 @@
 /thirdPartyTags.js
 /thirdPartyTagscachebuster.js
 /ThirdPartyTracking.
+/thixel.js
 /thuzianayltics.
 /ti.gif?slotid=
 /tiara/tracker/*
@@ -5009,7 +5011,6 @@
 /vmtracking.
 /vpstats.
 /vptrack_
-/vrbo-analytics.
 /vs-track.js
 /vs.gif?
 /vs/track.
@@ -8242,6 +8243,7 @@ _mongo_stats/
 ||track-server-100.com^$third-party
 ||track-web.net^$third-party
 ||track2.me^$third-party
+||trackadm.com^$third-party
 ||trackalyzer.com^$third-party
 ||trackcb.com^$third-party
 ||trackcdn.com^$third-party
@@ -10413,6 +10415,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||amplifypixel.outbrain.com^
 ||an.yandex.ru^
 ||analyse.bcovery.com^
+||analytic.rollout.io^
 ||analytic.xingcloud.com^$third-party
 ||analyticcdn.globalmailer.com^
 ||analytics-beacon-*.amazonaws.com^
@@ -11518,6 +11521,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||logs-api.shoprunner.com^
 ||logs.datadoghq.com^$domain=~app.datadoghq.com
 ||logs.datadoghq.eu^$domain=~app.datadoghq.eu
+||logs.psm.wmcdp.io^
 ||logs.spilgames.com^
 ||logs.thebloggernetwork.com^
 ||logs.vmixcore.com^
@@ -11823,6 +11827,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||prism.app-us1.com^$script,third-party
 ||prismaconnect.fr/prd/ping
 ||privacy-center.org^*/events
+||privacy.outdoorsg.com^
 ||privacytool.org/AnonymityChecker/js/fontdetect.js$third-party
 ||processor.asccommunications.com^
 ||production-mcs.lvp.llnw.net^
@@ -11849,6 +11854,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pv.pjtsu.com^
 ||px-cdn.net/*main.min.js
 ||px-cdn.net/b/s
+||px-cdn.net^*/collector
 ||px.excitedigitalmedia.com^
 ||px.marchex.io^
 ||px.owneriq.net^
@@ -14229,6 +14235,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ez.no/statjs/
 ||ezinearticles.com/blank/
 ||f-secure.com^*/wtsdc.js
+||f.schemeflood.com^
 ||f.staticlp.com^
 ||facebook.com/a/bz?
 ||facebook.com/ajax/*/log.php
@@ -15561,6 +15568,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.pandora.com^
 ||stats.paste2.org^
 ||stats.piaggio.com^
+||stats.podcastwebsites.com^
 ||stats.propublica.org^
 ||stats.pstream.net^
 ||stats.searchftps.net^
@@ -24822,7 +24830,7 @@ ytics.disneyplus.com^
 @@||infowarsmedia.com/videojs-event-tracking/dist/videojs-event-tracking.js$script,~third-party
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.com
 @@||innovelsolutions.com^*/tracking/$~third-party
-@@||ipapi.co/json/$xmlhttprequest,domain=audius.co
+@@||ipapi.co/json/$xmlhttprequest,domain=168.dailymaverick.co.za|audius.co
 @@||ipinfo.io/?token=$domain=assurancemortgage.com|webtv.ert.gr
 @@||isgprivacy.cbsi.com/dist/optanon$script
 @@||iwin.com/gtm.json$~third-party,xmlhttprequest
