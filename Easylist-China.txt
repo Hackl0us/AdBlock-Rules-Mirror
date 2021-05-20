@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KKiOP9Ab4hLeLmH7ooN7Mg
-! Version: 202105190032
+! Checksum: Pr2ce4dG2IrVY9ACrBXg1Q
+! Version: 202105200022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 19 May 2021 00:32 UTC
+! Last Modified: 20 May 2021 00:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1146,6 +1146,7 @@ _xiuno_com_ad/
 ##a[href*="/111.231.78.194/"]
 ##a[href*="/170hth.com/"]
 ##a[href*="/171hth.com/"]
+##a[href*="/182hth.com"]
 ##a[href*="/3337818.com/"]
 ##a[href*="/33hth.cn"]
 ##a[href*="/602034.com"]
@@ -1162,6 +1163,7 @@ _xiuno_com_ad/
 ##a[href*="/hth567.cn"]
 ##a[href*="/l1y5.com"]
 ##a[href*="/l1y9.com"]
+##a[href*="/ly1111.vip"]
 ##a[href*="/ly288.net"]
 ##a[href*="/md0c.oss-cn-beijing.aliyuncs.com/"]
 ##a[href*="/mda1.site/"]
@@ -1227,6 +1229,8 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||lpsgc.cn^
+||yi71.com.cn^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/d/*-*-*.ap|$script,third-party
@@ -2552,6 +2556,7 @@ ubmcmm.baidustatic.com
 ||k3851.com^$third-party
 ||k9dzax.cn^
 ||ka12138.top^
+||kagdf.com^
 ||kaixinjiehun.com^$third-party
 ||kakayy.com^$third-party
 ||kan5.xyz^
@@ -3376,6 +3381,7 @@ ubmcmm.baidustatic.com
 ||xmshqh.com^$third-party
 ||xmtsyg.com^
 ||xmxxwl.com^
+||xmzwdgm.com^
 ||xn--2qu92fhtx4ff.icu^
 ||xn--2qu96gouvko1a.com^
 ||xn--2qux23c9ziyrq.video^
@@ -4463,6 +4469,7 @@ _yad_jsonp_
 ||8jkx.com^
 ||8maple.ru/dzcm$rewrite=abp-resource:1x1-transparent-gif,domain=8maple.ru
 ||8seaa.com/template/assets1/js/vue.js
+||8xia.com/otherhtml/
 ||8ziyuan.com/images/infolinksad.jpg
 ||900.la/imgs/1bb725da-974f-43da-9eb9-dfdebc224949/2015-12-18/zg3wwaug.gif
 ||900.la/imgs/d829d551-1d6e-4018-b3fe-78991bbbe2d6/2016-06-27/yiwmbica.gif
@@ -9316,6 +9323,7 @@ tahua.net###frameJjnBIp
 dabin69.com###frameOa2lrD
 ytshe.com###frameUTSzKE
 yangluo.cn###frameVw7574
+laowang.vip###frameYl5IOf
 gz0668.com###framec32DR1
 tvapk.net###framecd6V1M
 hcbbs.com###framedtSuR9
@@ -16024,11 +16032,6 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 ||dlkoo.com/down/$subdocument
 ||dlkoo.com/down/copy
 ||taobao.com^$popup,domain=dlkoo.com
-!#dm5.com
-$script,third-party,domain=m.1kkk.com|m.dm5.com
-@@||cdndm5.com^$script,domain=m.1kkk.com|m.dm5.com
-||lpsgc.cn^
-||yi71.com.cn^
 !#Dnvod.tv
 ##vg-pause-ads
 @@||flyv.tv/assets/lib/ads.js
@@ -17331,6 +17334,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||miyaluorenliziuan.cn^
 ||mjita.cn^
 ||mjtowot.cn^
+||mjvmypr.cn^
 ||mkjunc.cn^
 ||ml44.cn^
 ||mlion.cn^
@@ -18017,6 +18021,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||yjxqy.com^
 ||ykanx.com^
 ||ykpbgqc.top^
+||ylppppp.cn^
 ||ylykd.cn^
 ||ymxlm.cc^
 ||ynbzxh.com^
