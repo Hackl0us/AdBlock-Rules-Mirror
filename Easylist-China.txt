@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: n2CXyQIq3Ra3sJ/FuVKvFw
-! Version: 202105240032
+! Checksum: Z4g+1KuDCoB/1lbvvDbpzQ
+! Version: 202105250032
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 24 May 2021 00:32 UTC
+! Last Modified: 25 May 2021 00:32 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1050,7 +1050,6 @@ _xiuno_com_ad/
 ~aircn.org,~steamcn.com##.wp.a_t
 ##.wp_headline + .ad1
 ##.wpcom_ad_wrap
-##.wrap + #btmBox
 ##.wrap.mt10.clearfix > .box.top_box
 ##.wumii-bottom-popup
 ##.wumii-widget-ad
@@ -2165,6 +2164,7 @@ ubmcmm.baidustatic.com
 ||ejin56.com^$third-party
 ||emarbox.com^$third-party
 ||enohb.com^
+||eoncreativity.com^
 ||erdsyzb.com^
 ||ertongjiaju360.com^
 ||expo123.net^
@@ -6709,6 +6709,7 @@ _yad_jsonp_
 ||kuaihou.com/js/new/xiazai
 ||kuaishouba.com/themes/default/images/*.gif
 ||kuaizhan.com^$domain=yaoshe67.com|yuese46.com
+||kugoucdn.com/rest/*?_t=
 ||kukan5.com/ad
 ||kukan5.com/indexxzad.jpg
 ||kwflvcdn.000dn.com^*.flv
@@ -12104,6 +12105,9 @@ chinamedevice.cn##.news_ylqx
 chinamedevice.cn##.news_ylqx3
 mitbbs.ca,mitbbs.com##.newskuang2
 cnstock.com##.newslist[style="padding: 10px 0px;"]
+olgame.tw##.nex_floor_banner
+olgame.tw##.nex_index_ads
+olgame.tw##.nex_mid_ads
 zhibocool.com##.ng-scope[ng-repeat*="adMatchList"]
 gamersky.com##.ngg_down
 chongdiantou.com##.nice-sales
@@ -14469,6 +14473,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||ccllaa.com^$generichide
 @@||cdn.doublemax.net/js/rwd_cap.js$domain=ibf.tw
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*/videojs.ads.min.js$domain=linetv.tw
+@@||chaintv.xyz/homestatic/js/adjs.js
 @@||changyou.com^$generichide
 @@||cheshi-img.com/ad/csad_2019.js
 @@||china.com/dianbo/adv1.xml
@@ -15702,6 +15707,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||milk.yesky.com.cn^
 ||mipujia.com^$third-party
 ||mm.jbzj.com^
+||mnwor.xuanlishi.com^
 ||mo-tuo.com^
 ||mountain.zhidao.baidu.com^
 ||mpb1.iteye.com^
@@ -16185,6 +16191,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||libs.baidu.com^$domain=138txt.com|18xs.org|1biqu.com|1kanshu.cc|230book.com|23hh.com|23txt.com|23wxx.com|258zw.com|266ks.com|27xsw.com|2baob.com|30sy.com|33yq.com|37zw.la|39shubao.com|3yt.com|477zw.com|52biquge.com|5ccc.tw|81zw.me|877zw.com|99mk.com|99shumeng.net|aixswx.com|aomolit.com|aoyuge.com|balingtxt.com|baoshuu.com|biqiuge8.com|biqubao.com|biqudu.tv|biquduo.com|biquge.com.cn|biquge.lu|biquge.tv|biquge11.com|biquge98.net|biqugecd.com|biqugego.com|biqugemm.com|biqugesc.com|biqusan.com|biquyi.com|bixia.org|bodekang.net|boluoxs.com|bookbao.org|botaodz.com|bqkan.com|bshuku.com|bswtan.com|bxwx.org|bxwx.tw|bxwx8.la|bxwxorg.com|clewx.com|damengzhu1.com|dashenxiaoshuo.com|day66.com|ddxs0.com|ddxsku.com|dushuge.net|farpop.com|fbxsw.com|gdbzkz.com|guaili.org|hatxt.com|hbfie.org|hehuamei.com|heikexs.com|heiyanwang.com|hongyeshuzhai.com|hybiquge.com|iddwx.com|imiaobige.com|ishisetianxia.com|ixiatxt.com|ixs.la|jianlaixiaoshuo.com|jinshulo.com|jx.la|kkbiqu2.com|liewen.la|lindiankanshu.cc|liudatxt.com|loubiqu.com|lwtxt.net|lwxstxt.com|mhtwx.la|mubige.com|paoshu8.com|paoshuzw.com|pfwx.com|piaotianxs.com|ppskw.com|qbxs8.net|qianrenge.cc|qishusk.com|quge6.com|quledu.net|qushuba.com|rmxsba.com|shu008.com|shuhaiwu.com|shumil.co|siluke.tv|siluwx.org|sizhicn.com|skyzww.com|soxscc.com|tangsanshu.com|thxsw.com|ttzw.tv|tutengzw.com|txshuku.la|u33.me|uidzhx.com|v63xs.com|vipsk.org|wanwenhui.com|wenxuem.com|wrlwx.com|x23us.me|x81zw.com|xbiqugecc.com|xbiqugew.net|xbiquke.com|xbqge.net|xcmxsw.com|xdingdiann.com|xieyixs.com|xinshuhaige.com|xinxs.la|xs5200.com|xs98.com|xsbiqu.com|xsbiqugew.com|xsqishu.com|xsw55.net|xszww.com|xuanshu.com|xuehongxs.com|xyusk.com|yawenb.com|yikanxiaoshuoa.com|yq-888.com|yruan.com|yssm.info|yunxs.com|zbzw.la|zhnxcw.com|zhuaji.org|zmccx.com|zwdu.com|zzs5.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
+||habyc.com^
 bxwx3.org###addiv3
 bxwx3.org###bdstatic
 55shuba.com###botDiv
@@ -17971,6 +17978,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||xkqpco.com^
 ||xl4z7.cn^
 ||xlhwzx.cn^
+||xmcs99885.cn^
 ||xmcxz.com^
 ||xmljx.cn^
 ||xmseaside.com^
@@ -18278,6 +18286,8 @@ rjno1.com##div[style="display:none"]
 ##a[href^="/dasp.php?a="]
 !#sihu
 ##.search + #midBox
+##.wrap + #btmBox
+##.wrap + #midBox
 ##script[src="/skin/base.js"] + #couplet
 !#T66y.com
 redircdn.com##.al

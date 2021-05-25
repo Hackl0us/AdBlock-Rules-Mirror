@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105232241
+! Version: 202105250023
 ! Title: EasyPrivacy
-! Last modified: 23 May 2021 22:41 UTC
+! Last modified: 25 May 2021 00:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12,6 +12,7 @@
 ! 
 ! -----------------General tracking systems-----------------!
 ! *** easylist:easyprivacy/easyprivacy_general.txt ***
+&action=confection_send_data&
 &action=js_stats&
 &action=js_stats_
 &callback=hitStats_
@@ -328,6 +329,7 @@
 .v4.analytics.
 .vn/0.gif?
 .vsTracking.
+.web-vitals-reporting.
 .webmetrics.js
 .webstats.
 .wxAdTargeting.
@@ -2667,6 +2669,7 @@
 /lib.tailtarget/*
 /lib/analytics.
 /lib/ga.js
+/lib/snowplow-
 /lib/tracking/*
 /library/svy/*/broker.js
 /library/svy/broker.js
@@ -6287,6 +6290,7 @@ _mongo_stats/
 ||bstn-14-ma.com^$third-party
 ||btbuckets.com^$third-party
 ||btloader.com^$third-party
+||btncdn.com^$third-party
 ||btserve.com^$third-party
 ||btstatic.com^$third-party
 ||btttag.com^$third-party
@@ -7198,6 +7202,7 @@ _mongo_stats/
 ||knowlead.io^$third-party
 ||knowledgevine.net^$third-party
 ||koddi.com^$third-party
+||koji-analytics.com^$third-party
 ||kokos.click^$third-party
 ||komtrack.com^$third-party
 ||konduit.me^$third-party
@@ -7968,6 +7973,7 @@ _mongo_stats/
 ||sexystat.com^$third-party
 ||sf14g.com^$third-party
 ||shareasale.com^$third-party
+||sharedid.org^$third-party
 ||sharpspring.com^$third-party
 ||shinystat.com^$third-party
 ||shippinginsights.com^$third-party
@@ -8041,6 +8047,7 @@ _mongo_stats/
 ||sni-dat.com^$third-party
 ||sniperlog.ru^$third-party
 ||sniphub.com^$third-party
+||snitcher.com^$third-party
 ||snoobi.com^$third-party
 ||snowsignal.com^$third-party
 ||social-sb.com^$third-party
@@ -11035,6 +11042,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dadi.technology^$third-party
 ||daq0d0aotgq0f.cloudfront.net^
 ||data.alexa.com^
+||data.beop.io^
 ||data.circulate.com^
 ||data.gosquared.com^$third-party
 ||data.imakenews.com^$third-party
@@ -11970,6 +11978,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rva.outbrain.com^
 ||s-microsoft.com/mscc/$~stylesheet
 ||s-vop.sundaysky.com^$third-party
+||s.beop.io^
 ||s.clickability.com^
 ||s.clickiocdn.com^
 ||s.pinimg.com/ct/core.js
@@ -14165,12 +14174,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||eafyfsuh.net/track/
 ||easy2.com^*/logging/
 ||eba-amadeus.netdna-ssl.com/fastTrack/$domain=flyasiana.com
-||ebay-us.com/fp/
-||ebay.*/autotrk/
-||ebay.com/op/t.do?event
-||ebayobjects.com/*;dc_pixel_url=$image
-||ebaystatic.com^*/agof_survey_
-||ebaystatic.com^*/iam_
+||ebay.com^*/customer_image_service?
+||ebaystatic.com/rs/c/9527tracking/configuration.js$script,domain=ebay.com
 ||economist.com/geoip.php
 ||ectnews.com/shared/missing.gif?
 ||edgecastcdn.net^*/ehow_am.js$domain=ehow.com
@@ -16207,6 +16212,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||zylom.com/pixel.jsp
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
+! confection.io
+||hubspot.com/collected-forms/$xmlhttprequest,domain=confection.io
+||s3.amazonaws.com/downloads.mailchimp.com/$script,domain=confection.io
+||substation.confection.io^
 ! whatleaks.com
 ||dns.whatleaks.com^
 ||p0f.whatleaks.com
