@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105252142
+! Version: 202105262358
 ! Title: EasyPrivacy
-! Last modified: 25 May 2021 21:42 UTC
+! Last modified: 26 May 2021 23:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7623,7 +7623,7 @@ _mongo_stats/
 ||pclicks.com^$third-party
 ||pcspeedup.com^$third-party
 ||pdbu.net^$third-party
-||pdst.fm^$third-party
+||pdst.fm^$script,third-party
 ||peerius.com^$third-party
 ||pendo.io^$third-party
 ||percentmobile.com^$third-party
@@ -24844,7 +24844,8 @@ ytics.disneyplus.com^
 @@||geo-targetly.com/geolocation?id$script,third-party
 @@||geo.ngtv.io/locate/$domain=hbo.com
 @@||geoip-db.com/jsonp/$script,third-party
-@@||geoip-js.com^*/me?referrer=$xmlhttprequest,domain=ibanez.com
+@@||geoip-js.com/js/apis/geoip2/$script,domain=freshdesk.com
+@@||geoip-js.com^*/me?referrer=$xmlhttprequest,domain=freshdesk.com|ibanez.com
 @@||geoplugin.net/javascript.gp?$script,domain=suicidepreventionlifeline.org|virginmobile.ca
 @@||geoplugin.net/json.gp?jsoncallback=$script,domain=worldc.am
 @@||geostag.cardinalcommerce.com/DeviceFingerprintWeb/includes/js/fingerprint2.min.js$script
@@ -25060,6 +25061,7 @@ ytics.disneyplus.com^
 ! Cloudflare hcaptcha test
 @@/cdn-cgi/images/trace/captcha/js/h/transparent.gif$image,~third-party
 ! CNAME (Specific allowlists)
+@@||calo.extole.io^$script,xmlhttprequest,domain=refer.calo.app
 @@||mycleverpush.com/iframe?$domain=bsdex.de
 @@||n8s.jp^$script,domain=nikkei.com
 @@||takeda.com.dxcloud.episerver.net^$domain=takeda.com
