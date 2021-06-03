@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-02T01:09:33.914Z
+! Last modified: 2021-06-03T00:57:08.488Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||arecunamacaw.com^
+||ancienslogoi.com^
 ||lionquerychord.com^
 ||jawsfixture.com^
 ||tronglyre.club^
@@ -312,7 +314,6 @@
 ||praterswhally.com^
 ||ashtraysophomore.com^
 ||bypathaivr.com^
-||remusclerait.xyz^
 ||haradeiu.rocks^
 ||ledslevier.com^
 ||cupmidnithe.com^
@@ -9780,7 +9781,6 @@ vkcdnservice.appspot.com^
 ||notifypicture.info^
 ||notifysrv.com^
 ||notionnalisent.xyz^
-||notix.io^
 ||notorietycheerypositively.com^
 ||notorietyharvest.com^
 ||noughttrustthreshold.com^
@@ -11061,6 +11061,7 @@ vkcdnservice.appspot.com^
 ||remiumert.club^
 ||remoteeloise.com^
 ||remultiesbee.fun^
+||remusclerait.xyz^
 ||renaissanceregretfulpupil.com^
 ||renceriskie.fun^
 ||renormaliseras.xyz^
@@ -11650,6 +11651,7 @@ vkcdnservice.appspot.com^
 ||sitetoway.com^
 ||sitirkbit.com^
 ||sivedeciseim.club^
+||sixft-apart.com^
 ||sixteenabsorptionbreed.com^
 ||sixtuxfixer.com^
 ||sjeffrontagr.top^
@@ -16517,6 +16519,7 @@ vkcdnservice.appspot.com^
 ||trackword.net^
 ||trackyourlinks.com^
 ||tradeexpert.net^
+||tradplusad.com^
 ||traffboost.net^
 ||traffic-media.co.uk^
 ||traffic-media.co^
@@ -17348,6 +17351,7 @@ vkcdnservice.appspot.com^
 ||criteo.net^
 !
 ||appodeal.com^
+||a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com^
 ||a.76674bdad304297eda3d325f449f6f49.com^
 !
 ||banner.hpmdnetwork.ru^
@@ -17377,10 +17381,11 @@ vkcdnservice.appspot.com^
 !
 ! com.kakao.talk
 ||adcr.naver.com^
-.ad.kakaocorp.com^$important
-.ad.kakao.com^$important
+.ad.kakaocorp.com^
+.ad.kakao.com^
 !
-||tradplusad.com^
+||tapjoy.com^
+||tapjoy.net^
 ||ad-channel.wikawika.xyz^
 ||media-router-flurry*.yahoo.com^
 ||cads.scalemonk.com^
@@ -17989,6 +17994,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||reingod.com^
 ||pbjs.sskzlabs.com^
 ||mediarithmics.com^
 ||ivitrack.com^
@@ -18102,8 +18108,6 @@ vkcdnservice.appspot.com^
 ||randiul.com^
 ||px.za.zaloapp.com^
 ||jg.wensixuetang.com^
-||tapjoy.com^
-||tapjoy.net^
 ||logger.eigene.io^
 ||receiver.eigene.io^
 ||c-rings.net^
@@ -18138,8 +18142,6 @@ vkcdnservice.appspot.com^
 ||adsmetadata.startappk8s.com^
 ||counter.yandro.ru^
 ||track-aws.notsy.io^
-||cdn.notsy.io^
-||cdn-b.notsy.io^
 ||track.notsy.io^
 ||log.ca.gov.vn^
 ||tracking.gpm-rtv.ru^
@@ -26718,6 +26720,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||uvpzll.com^
+||ghjnpy.com^
 ||www-orbit-promo.ru^
 ||qntihf.com^
 ||mlgrtn.com^
@@ -31364,6 +31368,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Eimg.jp
 !
+||sokmil-ad.com^
+||ads-connect.com^
 ||affiliate.sonicsense.jp^
 ||daotag.com^
 ||ads.museum.or.jp^
@@ -31454,7 +31460,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||js.blozoo.info^
 ||xxxxxxxx.jp^
 ||act1-1.info^
-||ads-connect.com^
 ||blogroll.livedoor.net^
 ||dis.hogei.info^
 ||tokyo-tube-ad.com^
@@ -33194,6 +33199,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||yuailairuci.com^
+||yqgjq.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35281,7 +35288,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a1.gexing.me^
 ||a1.lshou.com^
 ||a1.q6u.com^
-||a1.qqjay.com^
+||b1.qqjay.com^
 ||a1.qqtn.com^
 ||a1.shusanqi.com^
 ||a1.sumiaowang.com^
@@ -35851,6 +35858,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||nanofine.cn^
+||888lianmeng.com^
+||wetips.cn^
+||xmcs99888.cn^
+||sydswxx.com^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
