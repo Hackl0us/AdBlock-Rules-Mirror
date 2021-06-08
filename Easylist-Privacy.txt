@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106062331
+! Version: 202106072325
 ! Title: EasyPrivacy
-! Last modified: 06 Jun 2021 23:31 UTC
+! Last modified: 07 Jun 2021 23:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1028,6 +1028,7 @@
 /beacon.html?
 /beacon.js
 /beacon.min.js
+/beacon/*?appKey=
 /beacon/affiliates
 /beacon/b.ashx?
 /beacon/baminsights.
@@ -5656,7 +5657,6 @@ _ad_impression.
 ! Admiral
 /admiral.js
 /js/admiral-
-_admiral.
 ! eventbrite tracking
 /search/log_requests/*
 ! Consent/GDPR tracking
@@ -5875,6 +5875,7 @@ _mongo_stats/
 ! *** easylist:easyprivacy/easyprivacy_trackingservers.txt ***
 ! Revolving trackers
 ||apxl.io^
+||cloudwp.io^
 ||g2178927685.co^
 ||g2377012020.co^
 ||g2575096355.co^
@@ -5916,6 +5917,7 @@ _mongo_stats/
 ||nxakpj4ac8gkd53.info^
 ||propeller-tracking.com^
 ||sbgsodufuosmmvsdf.info^
+||site24x7rum.eu^
 ||truffle.bid^
 ||wknd.ai^
 ||z0uolej1qnxzub1.info^
@@ -9134,6 +9136,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cautiouscredit.com^$third-party
 ||cloisteredcord.com^$third-party
 ||colorfulafterthought.com^$third-party
+||colossalcoat.com^$third-party
 ||complextoad.com^$third-party
 ||conditioncrush.com^$third-party
 ||confesschairs.com^$third-party
@@ -10609,7 +10612,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||appspot.com/api/track/
 ||appspot.com/collect
 ||appspot.com/stats?
-||arc.io/widget.min.js
 ||arclk.net/trax?
 ||areyouahuman.com/kitten?
 ||argos.citruserve.com^
@@ -10708,6 +10710,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bitdash-reporting.appspot.com^
 ||bitgravity.com/b.gif$third-party
 ||bitgravity.com^*/tracking/
+||bitmovin.com/impression
 ||bitrix.info/ba.js
 ||bizrate-images.co.uk^*/tracker.js
 ||bizrate-images.com^*/tracker.js
@@ -10751,7 +10754,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bzgint.com/CUNCollector/
 ||bzpics.com/jslib/st.js?
 ||c-date.com/pixel/
-||c.cloudwp.io^
 ||c.imedia.cz^
 ||c.live.com^
 ||c.mgid.com^
@@ -11526,7 +11528,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||letv.com/env/
 ||levelaccess.net/analytics/
 ||licdn.com/*.gif?rnd=
-||licensing.bitmovin.com^
 ||lift.acquia.com^
 ||ligatus.com/push/url.gif?
 ||ligatus.com/rms/rend?
@@ -12058,6 +12059,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sendibm4.com^*/op/$third-party
 ||sendtonews.com/player/loggingajax.php?
 ||sendtonews.com^*/data_logging.php
+||sentry.arc.io^
 ||session.timecommerce.net^
 ||sftrack.searchforce.net^
 ||share-online.biz/affiliate/$third-party
@@ -12135,7 +12137,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.bitgravity.com^
 ||stats.bluebillywig.com^
 ||stats.clickability.com^
-||stats.cloudwp.io^
 ||stats.cmcigroup.com^
 ||stats.datahjaelp.net^
 ||stats.edicy.com^
@@ -14297,6 +14298,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||everythinggirl.com/assets/tracker/
 ||evgnet.com/beacon/
 ||evisit.exeter.ac.uk^
+||evs.sgmt.loom.com^$script
 ||eweek.com/hqxapi/
 ||ex.ua/counter/
 ||exalead.com/search/pixel-ref/
@@ -25394,6 +25396,7 @@ ytics.disneyplus.com^
 @@||cm-beacon.nakanohito.jp/cm/comment_count/$xmlhttprequest
 @@||cm-widget.nakanohito.jp/cm/$script,stylesheet
 @@||cm-widget.nakanohito.jp/img/$image
+@@||deteql.net/recommend/provision?$xmlhttprequest,domain=t-fashion.jp
 @@||dev.visualwebsiteoptimizer.com^$script,domain=internetorder.dominos.jp
 @@||disneyplus.disney.co.jp/view/vendor/analytics/$~third-party
 @@||docodoco.jp^*/docodoco?key=$script,domain=jrtours.co.jp
@@ -25410,6 +25413,7 @@ ytics.disneyplus.com^
 @@||nihongo.alc.co.jp/theme/Japanese/img/home/nf/us.gif$image,~third-party
 @@||o-uccino.jp/api/v2/collector?$xmlhttprequest,domain=o-uccino.com
 @@||ovp.piksel.com/ipLookup.php$xmlhttprequest,domain=nhk.or.jp
+@@||s.yjtag.jp/tag.js$script,domain=www.epson.jp
 @@||sail-horizon.com/spm/spm.v1.min.js$script,domain=voguegirl.jp
 @@||sankei.co.jp/js/analytics/skd.Analysis.js$script
 @@||sanspo.com/parts/chartbeat/$xmlhttprequest
