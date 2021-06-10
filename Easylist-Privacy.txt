@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106082252
+! Version: 202106092351
 ! Title: EasyPrivacy
-! Last modified: 08 Jun 2021 22:52 UTC
+! Last modified: 09 Jun 2021 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5187,6 +5187,7 @@
 /wsStats_
 /wstat.pl
 /wstats.php?
+/wsTracking.
 /wt.js?http
 /wt.pl?p=
 /wt?p=
@@ -5610,6 +5611,7 @@ cgi-bin/counter
 /gp/r.html?$image
 /link.coindesk.com/img/*
 /link.e-mail.*/mo/*$image
+/link.morningbrew.com/img/*.gif
 /lzdmailer.letter.open?
 /mail-tracking/*$image
 /mail.sparksport.co.nz/forms/read/*
@@ -5619,11 +5621,13 @@ cgi-bin/counter
 /pixel-prod.
 /pixel?cid=
 /pqt.email/o/*$image
+/px/track?
 /rdir.inxmail.com^*/d.gif?
 /sendmail.backerupdate.com/t/*
 /shoutout.wix.com/*$image
 /sptracking.
 /ss/o/*.gif
+/t.yesware.com/t/*$image
 /track/open.php?
 /track/open?
 /tracking.fanbridge.com/*
@@ -5912,6 +5916,7 @@ _mongo_stats/
 ||g8517626405.co^
 ||g8715710740.co^
 ||g8913795075.co^
+||g9111879410.co^
 ||lltrck.com^
 ||mors22.com^
 ||nxakpj4ac8gkd53.info^
@@ -7213,6 +7218,7 @@ _mongo_stats/
 ||killerwebstats.com^$third-party
 ||kilometrix.de^$third-party
 ||kissmetrics.com^$third-party
+||kissmetrics.io^$third-party
 ||kitbit.net^$third-party
 ||kitcode.net^$third-party
 ||kiwihk.net^$third-party
@@ -11208,6 +11214,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||events.audiate.me^
 ||events.brightline.tv^
 ||events.demoup.com^
+||events.jokerly.com^
 ||events.jotform.com^
 ||events.launchdarkly.com^$third-party
 ||events.matterport.com^
@@ -13626,6 +13633,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||6waves.com/trker/
 ||99bitcoins.com/_load/
 ||a.huluad.com/beacons/
+||a4xo-eng.spankbang.com^
 ||a7.org/infol.php?
 ||aa.avvo.com^
 ||aax-eu-dub.amazon.com^
@@ -14956,6 +14964,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||msn.com/ro.aspx?
 ||msn.com/script/tracking*.js
 ||msn.com/tracker/
+||msn.com^*/_log?
 ||msn.com^*/report.js
 ||msn.com^*/track.js
 ||mstream.tech/view/
@@ -16278,6 +16287,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||zylom.com/pixel.jsp
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
+! Plausible selfhosted
+||jeremiahlee.com/p/js/script.js
 ! confection.io
 ||hubspot.com/collected-forms/$xmlhttprequest,domain=confection.io
 ||s3.amazonaws.com/downloads.mailchimp.com/$script,domain=confection.io
@@ -24960,6 +24971,7 @@ ytics.disneyplus.com^
 @@||lacoste.com/on/demandware.static/*/click-analytics.js$~third-party
 @@||legendstracking.com/js/legends-tracking.js$~third-party
 @@||lenovo.com/_ui/desktop/common/js/AdobeAnalyticsEvent.js$script,~third-party
+@@||linksynergy.com/minified_logic.js$third-party,xmlhttprequest
 @@||listrakbi.com^$image,script,stylesheet,domain=sks-bottle.com
 @@||live.bbc.co.uk^*/comscore.js$script,~third-party
 @@||logging.apache.org^$domain=apache.org
@@ -25173,7 +25185,6 @@ ytics.disneyplus.com^
 @@||adobedtm.com^*/satelliteLib-$script,domain=dhl.de|sbb.ch
 @@||analytics.edgekey.net/html5/akamaihtml5-min.js$domain=br.de
 @@||apps.derstandard.at^*/TrackingCookieCheck?$subdocument
-@@||asadcdn.com/adlib/pages/sport1.js$domain=sport1.de
 @@||assets.adobedtm.com^*-source.min.js$domain=manager-magazin.de
 @@||businessclick.ch/index.js$domain=finanzen.ch
 @@||darmstadt.ui-traffic.de/mobile/webapp/bower_components/heatmap.js$domain=darmstadt.ui-traffic.de
