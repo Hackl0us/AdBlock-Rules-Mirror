@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-11T00:16:04.263Z
+! Last modified: 2021-06-12T00:13:06.233Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,11 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||barlo.xyz^
+||fawhositho.com^
+||pinifafi.com^
+||wabekice.com^
+||cromo.name^
 ||yiopse.com^
 ||copperpolygraphforthwith.com^
 ||tiltgardenheadlight.com^
@@ -11125,6 +11130,7 @@ vkcdnservice.appspot.com^
 ||reductingds.club^
 ||redundancyphilosophicalwest.com^
 ||redvxjlmaehy.com^
+||reechokelvin.casa^
 ||reembrasserait.website^
 ||reenrageasse.xyz^
 ||refaucherais.site^
@@ -12493,6 +12499,7 @@ vkcdnservice.appspot.com^
 ||trackerislive.com^
 ||trackingsltns.click^
 ||trackingzen.com^
+||trackmundo.com^
 ||trackspeeder.com^
 ||tracot.com^
 ||tractorhuskforeground.com^
@@ -22215,6 +22222,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||t.simply-hentai.com^
+||track.nzz.ch^
 ||t.indeed.com^
 ||track.elpais.com.uy^
 ||pixel.nur.kz^
@@ -32607,8 +32616,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Jun 2021 15:14 UTC+7
-! Version: 2106101514
+! Last modified: 11 Jun 2021 11:02 UTC+7
+! Version: 2106111102
 ! Blocked: 866 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -35457,6 +35466,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||1017.cn^
 ||11.96131.com.cn^
 ||11.golang8.com^
+||11.yiqig.cn^
 ||11.yiqig.com^
 ||12.cookcai.com^
 ||1224.dxsbb.com^
@@ -36137,6 +36147,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||0713bzksl.xyz^
 ||0727vjdl.xyz^
 ||0755man.cn^
+||080120.com^
 ||0817zfbj.xyz^
 ||0824xfh.xyz^
 ||0851ok.com^
@@ -36296,6 +36307,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||agpligj.cn^
 ||ah808.com^
 ||ahidna.cn^
+||ahmibai.cn^
 ||ahuac.com^
 ||ahwczn.cn^
 ||ahzhongzhan.cn^
@@ -36687,6 +36699,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||flctbg.com^
 ||fll007.com^
 ||flmcju.cn^
+||fmketang.cn^
 ||fnbocll.cn^
 ||fnwll.cn^
 ||forwardhard.cn^
@@ -36737,6 +36750,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gerunsenbo.cn^
 ||gflcsiot.com^
 ||ggsgww.cn^
+||girli.top^
 ||giroud.top^
 ||gitma.info^
 ||glgelevator.com^
@@ -36889,6 +36903,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||huitiankuaiji.com^
 ||huixingcheng.cn^
 ||huodiyun.cn^
+||huojutt.com^
 ||huonvd.cn^
 ||huosuniao.com^
 ||hvie6u.cn^
