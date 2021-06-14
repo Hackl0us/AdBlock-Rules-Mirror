@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CZ0bmlyAoTrdy/E3I/j5Fg
-! Version: 202106130024
+! Checksum: /fsGZ7a0a18lEUfVQZY3aw
+! Version: 202106140023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 13 Jun 2021 00:24 UTC
+! Last Modified: 14 Jun 2021 00:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1155,6 +1155,7 @@ _xiuno_com_ad/
 ##a[href*=".yabovip2027.com/"]
 ##a[href*=".yb2843.vip"]
 ##a[href*=".ybvip5741.vip"]
+##a[href*=".youxi126.com"]
 ##a[href*=".youxi141.com"]
 ##a[href*=".yuanmengbi.com/"]
 ##a[href*=".yyk2.com/"]
@@ -1185,6 +1186,8 @@ _xiuno_com_ad/
 ##a[href*="/hth567.cn"]
 ##a[href*="/hth907.com"]
 ##a[href*="/hth908.com"]
+##a[href*="/hthty21.app"]
+##a[href*="/htvip21.app"]
 ##a[href*="/l1y5.com"]
 ##a[href*="/l1y9.com"]
 ##a[href*="/ly0909.com"]
@@ -1952,6 +1955,7 @@ ubmcmm.baidustatic.com
 ||bnq86.com^
 ||bnuni.com^$third-party
 ||bole.asia^
+||bole8dns.com^
 ||boleimg.com^
 ||bolimen.top^
 ||books.com.tw/exep/ap/$third-party
@@ -5089,6 +5093,7 @@ _yad_jsonp_
 ||baoliny.com/js/jing.js
 ||baomihua.com/yy/
 ||baomitu.duapp.com/js/layer.js
+||bashiyy.com/static/js/plugin.js
 ||bb1nn.com/js/i.js
 ||bb999.net/pic/n/agents/C-79.gif
 ||bbnnnb.com^*.js
@@ -6026,7 +6031,6 @@ _yad_jsonp_
 ||gdmm.com/api.php?mod=js&bid=2111
 ||gdmm.com/images/leftbottom.png
 ||gdt.qq.com^
-||gdzidong.com/static/js/plugin.js
 ||geekbang.org/public/serving/
 ||geekpark.net/api/v1/ads
 ||gegeyingshi.com/template/*/images/g_js/
