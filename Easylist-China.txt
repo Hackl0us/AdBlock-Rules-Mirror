@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /fsGZ7a0a18lEUfVQZY3aw
-! Version: 202106140023
+! Checksum: 47n1F2SygemKanmcV3zr7A
+! Version: 202106150023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 14 Jun 2021 00:23 UTC
+! Last Modified: 15 Jun 2021 00:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1638,6 +1638,7 @@ ubmcmm.baidustatic.com
 ||5551933.com^
 ||55803.net^$third-party
 ||55kk.tv^
+||560378.com^
 ||565882.com^$third-party
 ||56yk.com^$third-party
 ||5783.org^
@@ -2399,6 +2400,7 @@ ubmcmm.baidustatic.com
 ||hktv10.com^
 ||hlcnzz.com^
 ||hljyjm.cn^
+||hmaqz.top^
 ||hmnjf.com^
 ||hn163fck.com^$third-party
 ||hnasd.com^
@@ -2697,6 +2699,7 @@ ubmcmm.baidustatic.com
 ||lhusy.com^
 ||lhy1.xyz^
 ||lhzly.com^$third-party
+||liangxiaoru.cn^
 ||liangyi360.com^$third-party
 ||liangziweixg.com^
 ||lianjie.phpwind.com^$third-party
@@ -6261,6 +6264,7 @@ _yad_jsonp_
 ||hkitblog.com^*-banner
 ||hkmte.com/seo.js
 ||hktvmall.com/api/preroll/getList?
+||hltoon.com/hanman/static/dist/ppm/js/foot
 ||hmghmg.com/tb
 ||hmog.me/tb
 ||honglingjin.co.uk/wp-content/uploads/*-Homepage-Takeover-BG-
@@ -7857,6 +7861,7 @@ _yad_jsonp_
 ||sozi.cn/images/tj/hukead.gif
 ||sozi.cn/images/tj/szdown
 ||sozi.cn/templets/sozi/js/js.js
+||spanking.wiki/morning-bread-
 ||speedtest.cn/api/v2/show?
 ||speedtest.cn/assets/images/ce_
 ||sportscn.com/js/commerical
@@ -9184,6 +9189,7 @@ mangabz.com###cc1
 mangabz.com###cc2
 dapenti.com###center > div[align="center"][target="_blank"]
 55188.com###center-pic
+chinaz.com###centerTxt
 huarenjie.com###cftoutiao
 hao.rising.cn###change
 360.com###channel-game
@@ -15766,6 +15772,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||js.263y.com^
 ||js.9136.com^
 ||js.98158.com^
+||js.ccmeng.com^
 ||js.jianbihuadq.com^
 ||js.kt250.com^
 ||js.mscto.com^
@@ -16368,6 +16375,7 @@ duanwenxue.com##.qgzdwx
 /xxgg/gzh.js
 /xxgg/pv.js
 /xxgg/xsggs.js
+:4433/hm/cdn/static/jq_
 @@||31xiaoshuo.org/style/pxne5d.js
 @@||dzz8.com/public/ptcms/*.js?g=$domain=m.daizhuzai.com
 @@||meiwenfen.com^$xmlhttprequest,domain=520tingshu.com
@@ -17975,6 +17983,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||toujing7.top^
 ||toujing8.top^
 ||toujing9.top^
+||tpcdn.top^
 ||travel-together.cn^
 ||trhccn.cn^
 ||trpsm.xyz^
@@ -18700,6 +18709,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@/wp-content/*/social_$domain=servercat.me
 @@||126.net/163/frontend/share/js/
 @@||189.cn^*/shareBox.
+@@||aliyundrive.com^*/share_link/$xmlhttprequest
 @@||anyknew.com^$generichide
 @@||baidu.com/share/count?
 @@||bdimg.com/static/wapwenku/static/common/widget/share/share_
@@ -18796,6 +18806,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||gamersky.com/Common/GetHits.aspx?
 @@||genshuixue.com/??/*/counter/action_
 @@||geo.query.yahoo.com^$xmlhttprequest,domain=tw.autos.yahoo.com|tw.buy.yahoo.com
+@@||gias.jd.com/js/td.js
 @@||gifshow.com/rest/wd/common/log/collect/acfun
 @@||google-analytics.com/analytics.js$domain=citytalk.tw|ebb.io|komica.org|lenovo.com.cn|linetv.tw|maminews.com.tw|support.amd.com
 @@||google-analytics.com/plugins/ua/ec.js$domain=lenovo.com.cn
