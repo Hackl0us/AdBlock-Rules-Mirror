@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-15T00:15:54.278Z
+! Last modified: 2021-06-16T00:14:58.726Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||revoltprohibit.com^
+||therapistpopulationcommentary.com^
+||cdn.allsportsflix.best^
 ||vurobyde.xyz^
 ||adnxs-simple.com^
 ||main-ti-hub.com^
@@ -192,7 +195,6 @@
 ||softenedimmortalityprocedure.com^
 ||mfk-cpm.com^
 ||jycdnjnz.com^
-||xqzlgbbe.com^
 ||lavageethion.com^
 ||lebilui.ru^
 ||momijoy.ru^
@@ -10012,6 +10014,7 @@ vkcdnservice.appspot.com^
 ||oldqsuoemchpr.com^
 ||oldrummarim.club^
 ||olibenelading.xyz^
+||olivedinflats.space^
 ||olkrzytv.com^
 ||ollectusdign.top^
 ||olmsoneenh.info^
@@ -13436,6 +13439,7 @@ vkcdnservice.appspot.com^
 ||xqgzvsjmnmgv.com^
 ||xqheb9yszyrd.com^
 ||xqiaqb.com^
+||xqzlgbbe.com^
 ||xr117.xyz^
 ||xrhobrrgwhtlu.com^
 ||xroynaxvqvouy.com^
@@ -23981,6 +23985,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||api.appsee.com^
 ||api.apptentive.com^
 ||api.branch.io^
+||api2.branch.io^
 ||api.crittercism.com^
 ||api.gimbal.com^
 ||api.sec.miui.com^
@@ -24478,6 +24483,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lyngro.com^
 ||m-t.io^
 ||m0mentum.net^
+||m365log.com^
 ||mabipa.com^
 ||macandcheeseandads.com^
 ||magnuum.com^
@@ -24806,6 +24812,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||viraltrackings.com^
 ||virgul.com^
 ||visionsage.com^
+||visitorqueue.com^
 ||visto1.net^
 ||visx.net^
 ||volantix.com^
@@ -31181,6 +31188,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
 !
 !
+||kuzeyinyeri.site^
+||supertotobet736.com^
 ||youtubex.top^
 ||inegolreklam.net^
 ||reklam8.net^
@@ -32546,8 +32555,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Jun 2021 10:18 UTC+7
-! Version: 2106141018
+! Last modified: 15 Jun 2021 10:16 UTC+7
+! Version: 2106151016
 ! Blocked: 869 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -35971,7 +35980,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wap001.bytravel.cn^
 ||wap1.laogu.wang^
 ||wenhua.jiaoshou.com^
-||wenwen120.com^
 ||whfpbc.99.com.cn^
 ||wj.jiancai365.cn^
 ||wm.mipcdn.com^
@@ -36114,6 +36122,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||200ps.com^
 ||215to.cn^
 ||2227q.com^
+||22qzhao5.cn^
 ||23uuw3.com^
 ||24haitao.net^
 ||256k.xyz^
@@ -36253,6 +36262,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ahmibai.cn^
 ||ahuac.com^
 ||ahwczn.cn^
+||ahylong.cn^
 ||ahzhongzhan.cn^
 ||aibangzs.com^
 ||aikan6.com^
@@ -37029,6 +37039,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ktzte.cn^
 ||kuaidibiaoju.com^
 ||kuaidibox.cn^
+||kuaidube.cn^
 ||kuaipaobiaoju.com^
 ||kunloveyu.cn^
 ||kuzexinxi.com^
@@ -37200,6 +37211,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ngmaul.cn^
 ||ngsaang.top^
 ||nhrlzy.com^
+||nicelook.cn^
 ||niegg.com^
 ||nihao987654.top^
 ||ningbojipiao.com^
