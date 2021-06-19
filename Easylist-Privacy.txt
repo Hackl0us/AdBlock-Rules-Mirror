@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106171928
+! Version: 202106182238
 ! Title: EasyPrivacy
-! Last modified: 17 Jun 2021 19:28 UTC
+! Last modified: 18 Jun 2021 22:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -321,7 +321,6 @@
 .tv/t.png?
 .uk/o.gif?
 .uk/pv?
-.uk/track?
 .uk/traffic/?
 .usertracking_script.js
 .v4.analytics.
@@ -6913,6 +6912,7 @@ _mongo_stats/
 ||giddyuptrk.com^$third-party
 ||gigcount.com^$third-party
 ||gim.co.il^$third-party
+||glancecdn.net^$third-party
 ||glanceguide.com^$third-party
 ||glassboxcdn.com^$third-party
 ||glassboxdigital.io^$third-party
@@ -13210,6 +13210,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ! Dutch
 ||adult-trade.nl/lo/track.php
 ||analytics.belgacom.be^
+||apm.tnet.nl^
 ||bbvms.com/zone/js/zonestats.js
 ||cookies.reedbusiness.nl^
 ||hottraffic.nl^$third-party
