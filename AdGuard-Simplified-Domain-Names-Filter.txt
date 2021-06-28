@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-27T00:15:25.711Z
+! Last modified: 2021-06-28T00:15:49.265Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -14201,6 +14201,7 @@ vkcdnservice.appspot.com^
 ||admanmedia.com^
 ||admarketplace.net^
 ||admaster.net^
+||admatic.com.tr^
 ||admaxim.com^
 ||admaya.in^
 ||admaza.in^
@@ -18197,6 +18198,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||kaiseki-website.com^
+||site-kaiseki-tool.com^
 ||clarity.ms^
 ||plugins.soclminer.com.br^
 ||adrizer.com^
@@ -22230,6 +22233,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||events.sd-nbb.de^
 ||d2uhnetoehh304.cloudfront.net^
 ||c.sibnet.ru^
 ||bc.nhk.jp^
@@ -24488,6 +24492,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||infopro-insight.com^
 ||infoprodata.com^
 ||ingage.tech^
+||innertrends.com^
 ||innomdc.com^
 ||instant.page^
 ||intellimize.co^
@@ -31409,7 +31414,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adbuzz.com.tr^
 ||adcater.com^
 ||add.f5haber.com^
-||admatic.com.tr^
 ||adnexio.com^
 ||adpozitif.com^
 ||adrazzi.com^
@@ -31881,7 +31885,6 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains list of advertising networks
 !
-||my.my-hr.cn^
 ||one.toumppk.cn^
 ||trenhdg.com^
 ||youqunjx.com^
@@ -33493,7 +33496,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||jessicalaurax.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -34262,6 +34264,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jczzjx.com^
 ||jdlhg.com^
 ||jehudf.com^
+||jessicalaurax.com^
 ||jfjsp.com^
 ||jfqkj.com^
 ||jghcy.com^
@@ -35489,7 +35492,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||pic1.dianshu119.com^
+||s1.pipishu.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36033,6 +36036,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||p1.zhumengwl.com^
 ||panyh123456.cn^
 ||pb.shuxigua.com^
+||pic1.dianshu119.com^
 ||pic50.pingguolv.com^
 ||pkk1.zuimeiniwo.com^
 ||q1.yyxwzx.com^
@@ -36213,6 +36217,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||isles.cn^
+||my-hr.cn^
+||tpool.cn^
+||txuesoft.cn^
+||zgcqxjzny.cn^
+||hdketang.cn^
+||dzxzx.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
