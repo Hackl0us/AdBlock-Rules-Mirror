@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106272328
+! Version: 202106290023
 ! Title: EasyPrivacy
-! Last modified: 27 Jun 2021 23:28 UTC
+! Last modified: 29 Jun 2021 00:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2009,6 +2009,7 @@
 /ga*.js?PID=
 /ga-affiliates.
 /ga-async-
+/ga-audiences?
 /ga-beacon.*/UA-
 /ga-campaignTracker.
 /ga-collect?
@@ -7330,6 +7331,7 @@ _mongo_stats/
 ||lp4.io^$third-party
 ||lpbeta.com^$third-party
 ||lporirxe.com^$third-party
+||lr-ingest.io^$third-party
 ||lsfinteractive.com^$third-party
 ||lucidel.com^$third-party
 ||luckyorange.com^$third-party
@@ -14344,6 +14346,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||events.privy.com^
 ||events.reddit.com^
 ||events.redditmedia.com^
+||events.santander.co.uk^
 ||events.turbosquid.com^
 ||events.uber.com^
 ||everythinggirl.com/assets/tracker/
@@ -24904,6 +24907,7 @@ ytics.disneyplus.com^
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
 @@||static.wikia.nocookie.net^*/tracking-opt-in.min.js$script,domain=fandom.com
 @@||tapinfluence.com/tap.js$script,domain=titus2homemaker.com
+@@||tbs.com/modules/custom/ten_video/js/analytics.js$script,~third-party
 @@||travel-assets.com/platform-analytics-prime/$domain=chase.com
 @@||uniqlo.com^*/trackingservice/$~third-party
 @@||webapp.simplisafe.com^*/angulartics-ga.min.js$script,~third-party
