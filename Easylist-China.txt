@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: J8BxMzYVzG3byY0SkumzJQ
-! Version: 202107020023
+! Checksum: a2cSZDoEWXKDPam2m+0aHA
+! Version: 202107030023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 02 Jul 2021 00:23 UTC
+! Last Modified: 03 Jul 2021 00:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1119,7 +1119,6 @@ _xiuno_com_ad/
 ##a[href*=".com/?p="][target="_blank"] > img[src$=".gif"]
 ##a[href*=".com/Register.aspx?aid="]
 ##a[href*=".com/Register/?a="]
-##a[href*=".com/entry/register/?i_code="] > img
 ##a[href*=".com/register/?i_code="] > img
 ##a[href*=".com?aff="]
 ##a[href*=".com?intr="]
@@ -1199,6 +1198,7 @@ _xiuno_com_ad/
 ##a[href*="/ayx600.com/"]
 ##a[href*="/ayxbet846.vip"]
 ##a[href*="/du505.com"]
+##a[href*="/entry/register/?i_code="]
 ##a[href*="/htbet1536.com"]
 ##a[href*="/hth104.com/"]
 ##a[href*="/hth107.com/"]
@@ -2538,6 +2538,7 @@ ubmcmm.baidustatic.com
 ||jijunlongchengxinxi.cn^
 ||jikelian.xyz^
 ||jimeilm.com^
+||jindongsheng.top^
 ||jindu179.com^
 ||jinfu.love/maizhan/
 ||jinglongtang.cn^
@@ -3692,6 +3693,7 @@ ubmcmm.baidustatic.com
 ||zgyiyi.com^$third-party
 ||zhaibei112.top^
 ||zhandi.cc^$third-party
+||zhangbaochang.top^
 ||zhangkc.com^
 ||zhangranfilm.com^
 ||zhengyahong.cn^
@@ -10958,7 +10960,7 @@ boo.tw##.blockUI
 oschina.net##.blog-left-ad
 codexiu.cn##.blog-twitter:first-child
 house.qq.com##.bm
-1point3acres.com##.bm.a_c
+1point3acres.com,xianzhenyuan.cn##.bm.a_c
 tropica.cn##.bm.a_c1
 ydss.cn##.bm.bml.pbn > table > tbody > tr > td:nth-child(-n+2)
 jlmhk.com##.bn
@@ -13509,7 +13511,7 @@ caibaojian.com##a[onclick*="aly"]
 jokerlu.com,jokerlu1.com##a[onclick^="_czc."]
 fixdown.com##a[onclick^="count_down"]
 52pk.com##a[onclick^="ga"]
-3dmgame.com##a[onclick^="goxiazai"]
+3dmgame.com##a[onclick^="gotoxiazai"]
 edc1014070.pixnet.net##a[onmouseover*="_openBrWindow"]
 pixnet.net##a[onmouseover*="_openBrWindow('https://goo.gl/"]
 olevod.com##a[style*="/upload/site/"]
@@ -13862,6 +13864,7 @@ eyuyao.com##div[id^="x_ad_"]
 oschina.net##div[name="detail_show_footer"]
 oschina.net##div[name="floatAdbox"]
 oschina.net##div[name^="index_banner_"]
+mp4er.com##div[onclick*=".exing101.com"]
 mp4er.com##div[onclick*="exvip23.com"]
 jsr9.com##div[onclick*="location"]
 nfmovies.com##div[onclick="openurl()"]
@@ -14766,6 +14769,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||jav777.xyz/advertise/
 @@||jd.com/adclick?$popup,~third-party
 @@||jd.com/adclick?$~third-party
+@@||jiav000.com^$generichide
 @@||jin10.com^$generichide
 @@||jinyongci.com^$generichide
 @@||jjjgame.com/plus/ad_
@@ -16269,6 +16273,7 @@ $domain=googleads.g.doubleclick.net
 googleads.g.doubleclick.net###mys-wrapper
 !
 $image,third-party,domain=258zw.com
+&xhtml?$script,third-party
 (com?$script
 (com|$script
 .cn/1/$script,third-party
@@ -16778,6 +16783,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||boluoxs.com/js/digu.js
 ||book9.net^$third-party
 ||bostonceltics.com.cn^
+||bowei666.xyz^
 ||boweineng.cn^
 ||bpdffh.cn^
 ||bqhnj.cn^
@@ -16854,6 +16860,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||cityd.xyz^
 ||cityf.xyz^
 ||cjhbkj.cn^
+||cjv2gt.cn^
 ||cjyjqw.cn^
 ||ckaiv.com^
 ||ckjyck.qxs.la^
@@ -17934,6 +17941,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||shorug.cn^
 ||shrtswkj.com^
 ||shsnjj.top^
+||shufan.club^
 ||shumilou.co/style/html5.js
 ||shunxinyuancaiwu.cn^
 ||signstu.top^
@@ -18084,6 +18092,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||ttzw.tv/tz/h.js
 ||ttzw.tv/tz/true.js
 ||tuadong.com^
+||tuezse.cn^
 ||tukexiu.com^
 ||tunanchangban.com^
 ||tuoxintrade.cn^
@@ -18153,6 +18162,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||wangliqin.top^
 ||wangmingsort.cn^
 ||wangqing7.top^
+||wangyuekun.xyz^
 ||wannuochongkong.com^
 ||wantezy.cn^
 ||watchhouse.cn^
@@ -18183,6 +18193,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||wfyqc.com^
 ||whbhsoft.cn^
 ||whrles.com^
+||whsseqpcs.top^
 ||whxhhjx.com^
 ||whxjnwzhs.com^
 ||win999.com.cn^
@@ -18261,6 +18272,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||xinqiannv.com^
 ||xintaizhaoming.com^
 ||xinyuanstudio.com^
+||xisea.top^
 ||xiuqixuan.cn^
 ||xixizaix.cn^
 ||xjhjtz.cn^
@@ -18334,6 +18346,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||ybtianxi.com^
 ||ydfz.org^
 ||ydqcjy.cn^
+||yemingxing.top^
 ||yeyushe.cn^
 ||yfygs.cn^
 ||yg10x.cn^
@@ -18431,6 +18444,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||zanghaihua.org^
 ||zazkkk.com^
 ||zbqmsc.com^
+||zc710956.top^
 ||zcand.com^
 ||zdovrb.cn^
 ||zenwq.com^
