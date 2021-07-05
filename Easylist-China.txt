@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /2Z6T/NrqL9FW0xgQEDjGA
-! Version: 202107040023
+! Checksum: 1e7/voGCfP7ua6wFTDr7yw
+! Version: 202107050023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 04 Jul 2021 00:23 UTC
+! Last Modified: 05 Jul 2021 00:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1227,6 +1227,7 @@ _xiuno_com_ad/
 ##a[href*="/od005.net"]
 ##a[href*="/od005.tv"]
 ##a[href*="/od005.vip"]
+##a[href*="/od006.net"]
 ##a[href*="/od05.vip"]
 ##a[href*="/odnb.vip"]
 ##a[href*="/odty55.cc"]
@@ -1293,7 +1294,6 @@ _xiuno_com_ad/
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
 .cc/s.php?id=$script,third-party
-||yl-zipper.com^
 .cn/?ss=$script,third-party
 .cn/d/*-*-*.ap|$script,third-party
 .cn/s.php?id=$script,third-party
@@ -3602,6 +3602,7 @@ ubmcmm.baidustatic.com
 ||yiwad.com^$third-party
 ||yixige.com^$third-party
 ||yixui.com^
+||yl-zipper.com^
 ||ylfgybn.cn^
 ||ylflwbj.cn^
 ||ylzx.net^$third-party
@@ -3698,6 +3699,7 @@ ubmcmm.baidustatic.com
 ||zhaibei112.top^
 ||zhandi.cc^$third-party
 ||zhangbaochang.top^
+||zhangjunying.top^
 ||zhangkc.com^
 ||zhangranfilm.com^
 ||zhengyahong.cn^
@@ -4868,7 +4870,6 @@ _yad_jsonp_
 ||alicdn.com/kf/Ucdb60470db0f4e2ca6a52706ec252313S.jpg
 ||alicdn.com/kf/Ue69786430095482ba55b38ae31ee44e7I.jpg
 ||alicdn.com/kf/Ufb1c57128ee14e7d88841812d0d280abo.gif
-||alicdn.com/kf/Ufd682a9d70524fc895a0059f276998196.jpg
 ||alicdn.com/kf/UTB8tVxYvbPJXKJkSafS5jaqUXXac.gif
 ||alicdn.com/openad/dsp-front-booth/
 ||alicdn.com/tfs/TB1fwaTDhD1gK0jSZFyXXciOVXa-800-450.jpg
@@ -6720,6 +6721,7 @@ _yad_jsonp_
 ||kajila.cn/ad.html
 ||kakadm.com/js/loadjs/jquery
 ||kalvin.cn/page/img/
+||kan-ju.net/cr.gif
 ||kan98.com/images/*.gif
 ||kan98.com/statics/js/k2017/kan98.js
 ||kancloud.cn/ad/
@@ -7477,6 +7479,7 @@ _yad_jsonp_
 ||qingkai.com/gg_img/
 ||qingkong.net/skin/htcs/images/980.jpg
 ||qingsedhh.com/images/gg.gif
+||qishenga.com^$domain=meiju11.com
 ||qiuw.com/static/xin-ad.js
 ||qiuyi.cn/Baojian/
 ||qixingquan.com/api.php?mod=ad&adid=
@@ -16615,6 +16618,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||abie18.top^
 ||abie25.top^
 ||abie9.top^
+||abovede6.com^
 ||abuse8.com^
 ||ac56.xyz^
 ||acaog.com^
@@ -17064,6 +17068,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||ffupiiv.cn^
 ||ffyyfy.top^
 ||fhixhde.cn^
+||fhlong2000.xyz^
 ||findx2.info^
 ||fintechpi.com^
 ||fj95560.com^
@@ -18239,6 +18244,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||x81zw.com^*.gif
 ||xabtx.com^
 ||xacqp.com^
+||xafengzhij.xyz^
 ||xafxs.cn^
 ||xamaky.top^
 ||xamiqi.top^

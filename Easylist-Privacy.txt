@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107032357
+! Version: 202107042338
 ! Title: EasyPrivacy
-! Last modified: 03 Jul 2021 23:57 UTC
+! Last modified: 04 Jul 2021 23:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4712,6 +4712,7 @@
 /TrackingData.
 /trackingDTM.js
 /trackingEMI?cid=
+/trackingEventsBlocks/*
 /trackingfilter.json?
 /trackingFooter.
 /trackingGA.js
@@ -4945,6 +4946,7 @@
 /vblntpagetag.
 /vecapture.js
 /vendemologserver-
+/vendor/analytics.
 /vendor/analytics/*
 /vendor/xtcore.
 /vertical-stats.
@@ -12356,6 +12358,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.pricespider.com^
 ||track.qcri.org^
 ||track.qoof.com^
+||track.realtimeboard.com^
 ||track.searchignite.com^
 ||track.securedvisit.com^
 ||track.shop2market.com^
@@ -13672,7 +13675,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||99bitcoins.com/_load/
 ||a.electerious.com^
 ||a.huluad.com/beacons/
-||a5xo-eng.spankbang.com^
 ||a7.org/infol.php?
 ||aa.avvo.com^
 ||aax-eu-dub.amazon.com^
@@ -16259,6 +16261,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||xing.com/app_stats/
 ||xing.com/collect/
 ||xing.com/logjam/
+||xoxo5-eng.spankbang.com^
 ||xstats.evoload.io^
 ||xtrack.capetown.gov.za^
 ||yahoo.com/__perf_log_
