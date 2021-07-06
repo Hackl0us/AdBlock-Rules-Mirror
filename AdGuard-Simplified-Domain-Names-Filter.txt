@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-05T00:14:08.798Z
+! Last modified: 2021-07-06T00:15:13.533Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||asce.xyz^
+||echnolog.club^
+||ownandthaiho.biz^
 ||wingersunbrand.com^
 ||skimegcolder.com^
 ||woodymotherhood.com^
@@ -151,7 +154,6 @@
 ||ethnictyrosky.com^
 ||wherabygry.com^
 ||swinity.com^
-||roilsnadirink.com^
 ||thousandfixedlyyawn.com^
 ||tags.catapultx.com^
 ||z.cdn.adpool.bet^
@@ -266,7 +268,6 @@
 ||notesbook.in^
 ||bitads.io^
 ||riotousgrit.com^
-||qppdqcid.com^
 ||thispositionw.biz^
 ||vetdeberg.com^
 ||zviybblezmc.com^
@@ -285,7 +286,6 @@
 ||d2v02itv0y9u9t.cloudfront.net^
 ||termadodad.com^
 ||meproductive.com^
-||rainingvital.com^
 ||beigecombinedsniffing.com^
 ||tyboyyli.xyz^
 ||huerty.site^
@@ -425,7 +425,6 @@
 ||papoptidu.pro^
 ||mrnpwuere.com^
 ||ruytvzdcavjsjh.com^
-||seizedbraggingdeceptive.com^
 ||bounceme.net^
 ||aspirinelitistunderstood.com^
 ||gahapule.pro^
@@ -656,7 +655,6 @@
 ||lightingfleeventures.com^
 ||airairgu.com^
 ||mobileoffers-bn-download.com^
-||renvahirions.xyz^
 ||disappearanceherbalsixpence.com^
 ||d1xkyo9j4r7vnn.cloudfront.net^
 ||fuherudo.xyz^
@@ -709,7 +707,6 @@
 ||recordervesttasting.com^
 ||ppcnt.org^
 ||tomog.pro^
-||sapsuaveover.com^
 ||fergemcot.com^
 ||kingads.mobi^
 ||goingsilltrusty.com^
@@ -770,7 +767,6 @@
 ||doathair.com^
 ||ughhimtoy.com^
 ||vg4u8rvq65t6.com^
-||ridferbad.com^
 ||pyjamaican.club^
 ||hadsokz.com^
 ||bestdealfor20.life^
@@ -903,7 +899,6 @@
 ||chooseyour26.live^
 ||gadsabs.com^
 ||aptantasp.site^
-||rowoardog.com^
 ||mehherrig.com^
 ||boyalebut.site^
 ||aimaniape.club^
@@ -984,7 +979,6 @@
 ||ommunalspound.info^
 ||ristintriestenforth.info^
 ||jeclittrecheckrep.info^
-||riptukri.net^
 ||nouseeth.com^
 ||airartapt.site^
 ||idwq.info^
@@ -1121,7 +1115,6 @@
 ||aniashboy.club^
 ||m.hbstjt88.cn^
 ||iqiyi.pub^
-||sdfsdvc.com^
 ||6ki9d.cn^
 ||clipbongda.info^
 ||fiozxmznaba.com^
@@ -1823,7 +1816,6 @@ www.llllllllllll.net^
 ||webgekeniuos.com^
 ||lh5lg.top^
 ||glorinlost.rocks^
-||retiremely.com^
 ||kidnepishlient.pro^
 ||ekostreams.gq^
 ||specialgift.top^
@@ -1871,7 +1863,6 @@ www.llllllllllll.net^
 ||iz682noju02ye5.com^
 ||pndelfast.com^
 ||a.gerasopa.com^
-||q0zsp5e3dv.com^
 ||vidcpm.com^
 ||juicyads.com^
 ||pimmuter.com^
@@ -2109,7 +2100,6 @@ www.llllllllllll.net^
 ||poratav.com^
 ||qawiman.com^
 ||quavomi.com^
-||ratkalol.com^
 ||rolkakuksa.com^
 ||scrappykoko.com^
 ||senolati.com^
@@ -2609,7 +2599,6 @@ www.llllllllllll.net^
 ||rhtag.com^
 ||roulettebot-plus.com^
 ||rtbpopd.com^
-||rvttrack.com^
 ||s1.adguard.com^
 ||sc.rvtlife.com^
 ||scr.flashcast.org.uk^
@@ -2944,7 +2933,6 @@ www.llllllllllll.net^
 ||bsxmuny.wp.pl^
 ||fusion.sydsvenskan.se^
 ||ad.juksy.com^
-||sgp1.cdn.digitaloceanspaces.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/54242
 /movie1168\.com\/storage\/go\/[0-9a-zA-Z]{0,40}\.gif/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/51547
@@ -11125,6 +11113,7 @@ vkcdnservice.appspot.com^
 ||pz7zrn0xxgyg.com^
 ||pzjrabknapw.com^
 ||pzpvvmcnq.com^
+||q0zsp5e3dv.com^
 ||q1mediahydraplatform.com^
 ||q64a9ris0j.com^
 ||q6idnawboy7g.com^
@@ -11184,6 +11173,7 @@ vkcdnservice.appspot.com^
 ||qp3lgzt6exyn.com^
 ||qpgjmdlq.com^
 ||qpljfpwdpk.com^
+||qppdqcid.com^
 ||qptqoylpxmqbz.com^
 ||qqdalrqzvukzto.com^
 ||qrcvlmxqu.com^
@@ -11253,6 +11243,7 @@ vkcdnservice.appspot.com^
 ||railroadtomato.com^
 ||railwaymanicurewhoop.com^
 ||railwaysupper.com^
+||rainingvital.com^
 ||raisingglisten.com^
 ||raisingnegligencemanages.com^
 ||raivikod.net^
@@ -11410,6 +11401,7 @@ vkcdnservice.appspot.com^
 ||renormaliseras.xyz^
 ||rentsincrea.top^
 ||rentwillionc.club^
+||renvahirions.xyz^
 ||reojou.com^
 ||reopenmetresubstance.com^
 ||reorganizewallet.com^
@@ -11468,6 +11460,7 @@ vkcdnservice.appspot.com^
 ||retainreproofsnappy.com^
 ||retcyy.com^
 ||retextsmar.club^
+||retiremely.com^
 ||retirementlash.com^
 ||retyphuho.pro^
 ||reundcwkqvctq.com^
@@ -11511,6 +11504,7 @@ vkcdnservice.appspot.com^
 ||rick-rick-rob.com^
 ||ricyeventur.club^
 ||ridethesisfrankly.com^
+||ridferbad.com^
 ||ridgendqwa.club^
 ||ridgesledge.com^
 ||ridiculousyoungsterrookie.com^
@@ -11539,6 +11533,7 @@ vkcdnservice.appspot.com^
 ||riokl.com^
 ||riousstylegui.biz^
 ||rips.icu^
+||riptukri.net^
 ||risingexams.com^
 ||ristbuchingu.space^
 ||ristmantre.club^
@@ -11580,6 +11575,7 @@ vkcdnservice.appspot.com^
 ||rogew.com^
 ||roguefairfaxeminent.com^
 ||roikingdom.com^
+||roilsnadirink.com^
 ||rolerompchalked.com^
 ||rollersadnessstranded.com^
 ||rolmscvzkp.com^
@@ -11613,6 +11609,7 @@ vkcdnservice.appspot.com^
 ||rovuditho.pro^
 ||rowfeedire.casa^
 ||rowframemailer.com^
+||rowoardog.com^
 ||rozivpxtl.com^
 ||rpjzlykhkdc.com^
 ||rprygapywrk.com^
@@ -11748,6 +11745,7 @@ vkcdnservice.appspot.com^
 ||sappropsi.club^
 ||sappropsprov.club^
 ||sapsixysho.pro^
+||sapsuaveover.com^
 ||saptiledispatch.com^
 ||saqthneauq.com^
 ||sarcasticlinezomby.com^
@@ -11852,6 +11850,7 @@ vkcdnservice.appspot.com^
 ||sefowaid.com^
 ||sehoweve.fun^
 ||seislational.club^
+||seizedbraggingdeceptive.com^
 ||sel-sel-fie.com^
 ||selectserialcage.com^
 ||selfbiological.com^
@@ -14997,6 +14996,7 @@ vkcdnservice.appspot.com^
 ||bannerrage.com^
 ||bannersmania.com^
 ||bannertgt.com^
+||bannertrack.net^
 ||bannertracker-script.com^
 ||bannerweb.com^
 ||baronsoffers.com^
@@ -16520,6 +16520,7 @@ vkcdnservice.appspot.com^
 ||runadtag.com^
 ||runative.com^
 ||runmewivel.com^
+||rvttrack.com^
 ||rwpads.com^
 ||rxthdr.com^
 ||ryminos.com^
@@ -16546,6 +16547,7 @@ vkcdnservice.appspot.com^
 ||scrap.me^
 ||scurewall.co^
 ||sda.seesaa.jp^
+||sdfsdvc.com^
 ||seaofads.com^
 ||search123.uk.com^
 ||seccoads.com^
@@ -17152,6 +17154,7 @@ vkcdnservice.appspot.com^
 ||niholaev.com^
 ||pipilida.com^
 ||pitatagata.com^
+||ratkalol.com^
 ||tinkerta.com^
 ||totachrl.com^
 ||trasholita.com^
@@ -17795,6 +17798,7 @@ vkcdnservice.appspot.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com^
 ||adcel.co^
 ||offerwall-adnative.com^
 ||ads.edadeal.ru^
@@ -18406,6 +18410,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||tapdb.com^
+||tapdb.net^
 ||track.robee.tech^
 ||aspservice.jp^
 ||kilometrix.de^
@@ -21413,6 +21419,8 @@ vkcdnservice.appspot.com^
 ! Admiral domains
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
+||cutechin.com^
+||shakegoldfish.com^
 ||livelylaugh.com^
 ||hystericalcloth.com^
 ||caringcast.com^
@@ -22446,6 +22454,11 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||log.vava.com^
+||beacon.samsclub.com^
+||counter.theconversation.com^
+||track.miro.com^
+||track.realtimeboard.com^
 ||smp.tus.ac.jp^
 ||l.da-te.jp^
 ||l.ffsagami.com^
@@ -22628,6 +22641,7 @@ vkcdnservice.appspot.com^
 ||targeting.tbt.arcpublishing.com^
 ||spixel.socy.es^
 ||rcm.shinobi.jp^
+||app-analytics-*.snapchat.com^
 ||app-analytics.snapchat.com^
 ||d2p3zdq8vjvnxd.cloudfront.net^
 ||logger.applovefrom.com^
@@ -24083,6 +24097,13 @@ charlestownwyllie.oaklawnnonantum.com^
 !+ PLATFORM(ios, android)
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||costco-adbutler.com^
+||adbutler.costco.com^
+||wompanalytics.azurewebsites.net^
+||analytics.seekxr.com^
+||analytics.robinhood.com^
+||tracking-config-service.glority.com^
+||tracking-service.glority.com^
 ||analytics-ingestion.production-public.tubi.io^
 ||pingtas.qq.com^
 ||alogus.umeng.com^
@@ -25227,7 +25248,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||foxpush.net^
 ||getpush.net^
 ||getpushmonkey.com^
-||getsupernova.com^
 ||gravitec.net^
 ||heroesdom.com^
 ||highfalutinhoney.com^
@@ -26163,7 +26183,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.mycliplister.com^
 ||track.pricespider.com^
 ||track.qoof.com^
-||track.realtimeboard.com^
 ||track.shop2market.com^
 ||track.social.com^
 ||track.strife.com^
@@ -27208,6 +27227,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||ads2.pbxware.ru^
 ||playjusting.com^
 ||gafdelins.com^
 ||nplxa.com^
@@ -31866,6 +31886,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Eimg.jp
 !
+||cdn.alistcloud.com^
 ||ams900.goo.ne.jp^
 ||candy-network.com^
 ||flux-g.com^
@@ -32892,9 +32913,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 Jun 2021 14:01 UTC+7
-! Version: 2106301401
-! Blocked: 891 rules
+! Last modified: 05 Jul 2021 11:08 UTC+7
+! Version: 2107051108
+! Blocked: 893 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33561,6 +33582,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fcb88d.com^
 ||five88.biz^
 ||five88.com^
+||five88.me^
 ||five88.net^
 ||fivevn.net^
 ||gamebai.club^
@@ -33656,6 +33678,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||taib52.club^
 ||taimacau.club^
 ||taiv8.com^
+||taiv8.info^
 ||tangsoc.com^
 ||thethaodabet.com^
 ||thethaofb88.com^
@@ -33731,6 +33754,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||irduwhojas.ga^
 ||kaurroot.com^
 ||larpollicwilli.club^
+||news-good.net^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
 ||smilitygorb.club^
@@ -36908,6 +36932,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||codelabbeijing.cn^
 ||coenr.com^
 ||cojia.net^
+||colchaguino.com^
 ||comberry.cn^
 ||continuedsys.cn^
 ||continuefaf.top^
@@ -38440,6 +38465,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zoepb.cn^
 ||zougg.com^
 ||zoujuhonglawyer.com^
+||zouxinyan.xyz^
 ||zp0737.com^
 ||zpyfsj.cn^
 ||zqwlkj.cn^

@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1e7/voGCfP7ua6wFTDr7yw
-! Version: 202107050023
+! Checksum: 8iJg4vGMtP4pTOGGA/8TPw
+! Version: 202107060023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 05 Jul 2021 00:23 UTC
+! Last Modified: 06 Jul 2021 00:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -4678,6 +4678,7 @@ _yad_jsonp_
 ||acfun.cn/appSpreadContents/danmuad/
 ||acg.tv^$image,object,domain=bilibili.com
 ||acgbenzi.com^$image
+||acggd.com/4d22b/
 ||acglala.net/images/upload/*0.gif
 ||acglover.*/wp-content/uploads/*-520-245.
 ||acglover.*/wp-content/uploads/*-720
@@ -6068,6 +6069,7 @@ _yad_jsonp_
 ||ghjie.com/JS/youcegg.js
 ||ghoffice.com/bbs/js/float.js
 ||ghost580.com/js/nei4.js
+||gjwind.com/xxmh.gif
 ||gk99.com/static/js/a-d-sys.js
 ||glgoo.*/gimage/ad/
 ||gll8.com/style/js/gll
@@ -6413,6 +6415,7 @@ _yad_jsonp_
 ||ikafan.com/upload/image/iqiyi_
 ||ikaka.com/globalad/
 ||ikkdm.com/js/play-
+||ikkdm.com/mg/
 ||ikkdm.com/top.htm
 ||im286.net/286/
 ||image-shop.baidu.com/n/imageproduct?
@@ -6682,6 +6685,7 @@ _yad_jsonp_
 ||jsdelivr.net/gh/*/960x100.gif
 ||jsdelivr.net/gh/a901361/
 ||jsdelivr.net/gh/cdnjsdelivr001/182cdn*.js
+||jsdelivr.net/gh/ekmov/cache@master/tbk.js
 ||jsdelivr.net/gh/fzdm/st*/js/fzwap-
 ||jsdelivr.net/gh/sex169hub/
 ||jsdelivr.net/gh/supfree/supfree/top.gif
@@ -9053,6 +9057,7 @@ kjsv.com###advertisingMap
 104.com.tw###aidma-job
 104.com.tw###aidma_128
 104.com.tw###aidma_588
+airav.cc###air_top_banner
 ali213.net###ali-js-4
 shenchuang.com###all
 aizhan.com###all_text_content
@@ -12441,6 +12446,7 @@ ithome.com##.related_buy
 tiexue.net##.reloadCont > div:first-child
 hoteastday.com##.reloadMedia1
 juejin.im##.request-health-alert
+baidu.com##.result-op[tpl="pc-education-fs"]
 tbtdg.com##.reveal-modal-bg
 rfidworld.com.cn##.rfidADClass
 acfun.cn##.right-activity
@@ -13264,6 +13270,7 @@ backchina.com##a[href*=".21usdeal.com"]
 itboth.com,itkeyword.com##a[href*=".aliyun."]
 boke112.com,dzbhdm.com,mzh.ren,techweb.com.cn,whsir.com##a[href*=".aliyun.com"]
 github.com##a[href*=".aliyun.com/minisite/goods?"]
+acggd.com##a[href*=".apk"]
 mydrivers.com##a[href*=".ashx?to="]
 iqiyi.com##a[href*=".banggo."]
 zhanqi.tv##a[href*=".bfun.cn/ad."]:not([href*=".zhanqi."])
@@ -13871,6 +13878,7 @@ oschina.net##div[name="detail_show_footer"]
 oschina.net##div[name="floatAdbox"]
 oschina.net##div[name^="index_banner_"]
 mp4er.com##div[onclick*=".exing101.com"]
+mp4er.com##div[onclick*=".exing113.com"]
 mp4er.com##div[onclick*="exvip23.com"]
 jsr9.com##div[onclick*="location"]
 nfmovies.com##div[onclick="openurl()"]
@@ -14029,6 +14037,7 @@ cnbeta.com##h2 > a[href^="https://active.greatroma.com"]
 ifeng.com#?#.box_list:-abp-has(.tuig)
 ifeng.com#?#div[class^="titleImg-"]:-abp-has(span[class^="source-"]:-abp-contains(推广))
 sina.cn##iframe[id^="sinaadtk_"]
+image.baidu.com#?#.newfcImgli:-abp-has(.fc-ad-tip)
 image.so.com#?#.cell:-abp-has(.txt:-abp-contains(广告))
 image.so.com#?#.imgcell:-abp-has(.txt:-abp-contains(广告))
 xblian.com##img[alt*="广告"]
@@ -16892,6 +16901,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||codelabbeijing.cn^
 ||coenr.com^
 ||cojia.net^
+||colchaguino.com^
 ||comberry.cn^
 ||continuedsys.cn^
 ||continuefaf.top^
@@ -18512,6 +18522,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||zoepb.cn^
 ||zougg.com^
 ||zoujuhonglawyer.com^
+||zouxinyan.xyz^
 ||zp0737.com^
 ||zpyfsj.cn^
 ||zqwlkj.cn^
