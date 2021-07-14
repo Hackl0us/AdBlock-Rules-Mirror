@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-13T00:14:28.439Z
+! Last modified: 2021-07-14T00:14:23.369Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||ausoafab.net^
 ||svacdnjutk.com^
 ||boustahe.com^
 ||wolverdonfilmes.ml^
@@ -44,7 +45,6 @@
 ||qzlglizfy.com^
 ||iwxzizcw.com^
 ||glersakr.com^
-||ausoafab.net^
 ||widow5blackfr.com^
 ||spoilphysiqueteenagers.com^
 ||ascertaincrescenthandbag.com^
@@ -2697,6 +2697,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||ad.kisscartoon.sh^
 ||d13nu0oomnx5ti.cloudfront.net^
 ||cintent.streanplay.cc^
 ||centent.streanplay.cc^
@@ -10558,7 +10559,6 @@ vkcdnservice.appspot.com^
 ||prfctmney.com^
 ||pricestern.top^
 ||prieseerunbe.info^
-||prikachi.net^
 ||prime-vpnet.com^
 ||primevalcherries.com^
 ||primroseconstellationrapidly.com^
@@ -17953,6 +17953,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||requestmetrics.com^
+||alpixtrack.com^
 ||oracleinfinity.io^
 ||ar-x.site^
 ||analytics.chase.com^
@@ -22009,6 +22011,10 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||logs.gaana.com^
+||track.searchiq.co^
+||broker.datazoom.io^
+||dot.texastribune.org^
 ||ping.hashnode.com^
 ||log.vava.com^
 ||beacon.samsclub.com^
@@ -23653,6 +23659,12 @@ charlestownwyllie.oaklawnnonantum.com^
 !+ PLATFORM(ios, android)
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||analytics.rover.io^
+||events-collector-api.viacom.tech^
+||events.data.microsoft.com^
+||pipe.aria.microsoft.com^
+||log-api.aillis.net^
+||log.snow.me^
 ||events.textme-app.com^
 ||stocks-analytics-events.apple.com^
 ||stocks-analytics-events.news.apple-dns.net^
@@ -24054,7 +24066,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||airbrake.io^
 ||airserve.net^
 ||aivalabs.com^
-||alpixtrack.com^
 ||amnet.tw^
 ||amplitude.com^
 ||ampush.io^
@@ -24522,7 +24533,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||remind.me^
 ||repixel.co^
 ||report-uri.io^
-||requestmetrics.com^
 ||resulticks.com^
 ||retargettracker.com^
 ||retentionscience.com^
@@ -25817,6 +25827,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||visit.geocities.com^
 ||vmstats.varrando.com^
 ||vtnlog-*.elb.amazonaws.com^
+||wco.crownpeak.com^
 ||web1.51.la^
 ||weblog.livesport.eu^
 ||weblogger-dynamic-lb.playdom.com^
@@ -33610,6 +33621,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||alitianxia168.com^
 ||aliyuncss.com^
 ||aliyunxin.com^
+||amarketing.top^
 ||andyfanfan.xyz^
 ||annabelleabe.com^
 ||anquanzhuomian.cn^
@@ -36148,6 +36160,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||51zdwy.cn^
 ||52homie.cn^
 ||52tushuo.com^
+||53953.club^
 ||53gem.com^
 ||563217.com^
 ||56space.com^
@@ -36175,6 +36188,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||7times.top^
 ||833761.com^
 ||85wa.cn^
+||886721.com^
 ||888lianmeng.com^
 ||88eg.cn^
 ||8bnwuz.cn^
@@ -36390,6 +36404,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cdiah.com^
 ||cdjkngs.cn^
 ||cdlkzb.com^
+||cdnfjz.com^
 ||cdzimeijia.com^
 ||ceai.xyz^
 ||cehbg.com^
@@ -36596,6 +36611,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||esure.wang^
 ||esuzm.cn^
 ||esyzdb.com^
+||evzimlox.cn^
 ||exusr.com^
 ||ez2kyh.cn^
 ||ezfashion.com.cn^
@@ -37146,6 +37162,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lyczhb.com^
 ||lyjz001.com^
 ||lylifa.com^
+||lynmo.cn^
 ||lzhyhy.cn^
 ||lzjsjw.cn^
 ||m06nev.com^
@@ -37157,6 +37174,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||maobujie.com^
 ||maosengss.cn^
 ||maoyumao.net^
+||marchtools.cn^
 ||maro30.com^
 ||mavuz.com^
 ||mbxt.net^
@@ -37178,6 +37196,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||miaos11.com^
 ||micreative-china.cn^
 ||miniholiday.cn^
+||miniling.cn^
 ||mitjg.xyz^
 ||mituir.xyz^
 ||miyaluorenliziuan.cn^
