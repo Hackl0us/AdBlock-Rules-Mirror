@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-15T00:14:14.710Z
+! Last modified: 2021-07-16T00:15:39.958Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,14 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||adp13a.com^
+||admozartxml.com^
+||vstzen.com^
+||codedpigzed.cam^
+||fluencecutins.cam^
+||checkreliableupdatinglatest.info^
+||troncomelets.com^
+||oohingjap.com^
 ||domakuhitaor.com^
 ||i-afk.com^
 ||displacepepperyadvertisement.com^
@@ -30,7 +38,6 @@
 ||eighing.space^
 ||entsconsesi.top^
 ||nereserv.com^
-||ntvpinp.com^
 ||puwpush.com^
 ||babanmat.com^
 ||trixyapieces.com^
@@ -6953,7 +6960,6 @@ vkcdnservice.appspot.com^
 ||flowln.com^
 ||flowwiththetide.xyz^
 ||flrdra.com^
-||fluencecutins.cam^
 ||fluencymister.com^
 ||fluffycodepotc.com^
 ||fluffyeaster.com^
@@ -8170,6 +8176,7 @@ vkcdnservice.appspot.com^
 ||jeehathu.com^
 ||jeejujou.net^
 ||jeerszitstoke.com^
+||jehobsee.com^
 ||jeinvegpool.com^
 ||jeisl.com^
 ||jelllizard.com^
@@ -9620,6 +9627,7 @@ vkcdnservice.appspot.com^
 ||niholaev.com^
 ||nikkiexxxads.com^
 ||niledestratherg.club^
+||nilreels.com^
 ||niltibse.net^
 ||nimelytranst.club^
 ||nimhuemark.com^
@@ -9770,6 +9778,7 @@ vkcdnservice.appspot.com^
 ||ntsparallycalc.info^
 ||ntsperimepr.space^
 ||ntvpevents.com^
+||ntvpinp.com^
 ||ntvpwpush.com^
 ||ntvsw.com^
 ||ntymurmud.top^
@@ -11685,6 +11694,7 @@ vkcdnservice.appspot.com^
 ||simpleprogr.club^
 ||simpletraffic.co^
 ||simplyjmp.com^
+||simpunok.com^
 ||simrubwan.com^
 ||sinaunrelean.info^
 ||sincerelypractically.com^
@@ -12411,6 +12421,7 @@ vkcdnservice.appspot.com^
 ||tonexcitiessa.club^
 ||tonightsuppressedgrocery.com^
 ||toodlepork.com^
+||tookawie.com^
 ||top-performance.best^
 ||top-performance.club^
 ||topbetfast.com^
@@ -17997,6 +18008,9 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||b0e8.com^
+||bc0a.com^
+||medtargetsystem.com^
 ||events.tubecup.org^
 ||rat.rakuten.co.jp^
 ||requestmetrics.com^
@@ -18307,8 +18321,6 @@ vkcdnservice.appspot.com^
 ||analytics-api.a-f.io^
 ||smetrics.att.com^
 ||client-analytics.braintreegateway.com^
-||hit.acstat.com^
-||code.acstat.com^
 ||fhits.xyz^
 ||intelligenceretarget.com^
 ||stpmgo.com^
@@ -22057,6 +22069,11 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||beacon.netflix.com^
+||customerevents.netflix.com^
+||nmtracking.netflix.com^
+||presentationtracking.netflix.com^
+||analytics.tmonews.com^
 ||segment-cdn.producthunt.com^
 ||logs.gaana.com^
 ||track.searchiq.co^
@@ -22522,7 +22539,6 @@ vkcdnservice.appspot.com^
 ||beacon.examiner.com^
 ||beacon.indieclicktv.com^
 ||beacon.lycos.com^
-||beacon.netflix.com^
 ||beacon.nuskin.com^
 ||beacon.search.yahoo.com^
 ||beacon.toyota.co.jp^
@@ -24090,6 +24106,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||abtshield.com^
 ||accdab.net^
 ||acsbap.com^
+||acstat.com^
 ||acuityplatform.com^
 ||acxiomapac.com^
 ||adabra.com^
@@ -24148,11 +24165,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||audio.sex^
 ||autoline-top.com^
 ||azointel.com^
-||b0e8.com^
 ||b1js.com^
 ||baremetrics.com^
 ||baztrack.com^
-||bc0a.com^
 ||beaconstreetservices.com^
 ||beampulse.com^
 ||beeftransmission.com^
@@ -25907,7 +25922,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sa.api.intl.miui.com^
 ||stat.xiaomi.com^
 ||supportmetrics.apple.com^
-||xp.apple.com^
 ! Appcues
 /^https?:\/\/fast\.appcues\.com\/[0-9]{4,6}\.js/
 ! taboola
@@ -26262,6 +26276,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||e-kuzbass.ru^
 ||efatik.me^
 ||gdeslon.ru^
+||get4click.ru^
 ||gnezdo.ru^
 ||hobbi.xyz^
 ||hsdn.org^
@@ -31487,6 +31502,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Eimg.jp
 !
+||blogroll.click^
+||ad-nex.com^
 ||js.winc-ad.com^
 ||cdn.neppa-ad.com^
 ||affil.jp^
@@ -31615,7 +31632,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fam-ad.com^
 ||ap.ad-feed.com^
 ||blog.livelog.biz^
-||ad-nex.com^
 ||js.isboost.co.jp^
 ||appollo.jp^
 ||ad-tag.biz^
@@ -33392,6 +33408,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||elsiehoney.com^
+||elvirahedwig.com^
+||cqdzjc.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35404,6 +35423,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||aqc.gucheng.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36134,6 +36154,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||ddot.xyz^
+||advancepak.com^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^

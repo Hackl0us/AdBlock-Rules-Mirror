@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Dg42WS8OWaDPRZr4qwZRIA
-! Version: 202107150023
+! Checksum: AWZ7gzxfGsvIpLSrP+IwRg
+! Version: 202107160023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 15 Jul 2021 00:23 UTC
+! Last Modified: 16 Jul 2021 00:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1403,6 +1403,7 @@ _xiuno_com_ad/
 ://*:*/jscode/*.js$script,third-party
 ://*:*/s.php?id=$script,third-party
 :12443/*/*-*-*.$script,third-party
+:45324/cd/$subdocument,third-party
 :8080/js/v1.js$third-party
 :8080/js/v2.1.js$third-party
 :81/c/i.php?id=$script
@@ -2066,6 +2067,7 @@ ubmcmm.baidustatic.com
 ||cpro.baidu.com^
 ||cpro.baidustatic.com^
 ||cpv6.com^
+||cqdzjc.com^
 ||cqfangduan.com^
 ||cqftonline.com^
 ||cqjjlsy.com^
@@ -2210,6 +2212,8 @@ ubmcmm.baidustatic.com
 ||eiv.baidu.com^
 ||ejin56.com^$third-party
 ||ellenhilary.com^
+||elsiehoney.com^
+||elvirahedwig.com^
 ||emarbox.com^$third-party
 ||enohb.com^
 ||eoncreativity.com^
@@ -6320,6 +6324,7 @@ _yad_jsonp_
 ||hudong.pl.youku.com/interact/web/get/timeLinePlugin?
 ||hudong.pl.youku.com/jsapi/interact/playerPlugins.js
 ||hudong.pl.youku.com/n/interact/player/get/plugins?
+||hugo3c.tw^$csp=script-src 'self' * 'unsafe-inline'
 ||huhumh.com/js/
 ||huibaihe.net/js/dddd.js
 ||huibaihe.net/static/730-580.
@@ -14440,7 +14445,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/adsystem/*$domain=adcenter.dhgate.com
 @@/advert/*$domain=csxbank.com|fjgcjxgl.com|juxiangyou.com|locuspublishing.com|moretv.com.cn
 @@/advert_$domain=pisen.com.cn|wb.qq.com
-@@/advertise/*$domain=sfbuy.com
+@@/advertise/*$domain=ceair.com|sfbuy.com
 @@/advertisement.$domain=gametower.com.tw
 @@/advertisement.js$domain=gimhoy.com
 @@/advertisement/*$domain=ininin.com|midea.com|muyingzhijia.com|nmkjxy.com
@@ -15527,6 +15532,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||al.newxue.com^
 ||anews7.nvwu.com^
 ||api.557400.com^
+||aqc.gucheng.com^
 ||as1.m.hao123.com^
 ||as1.wenku.baidu.com^
 ||at*.doubanio.com^
@@ -16634,6 +16640,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||adtongji.xyz^
 ||aduic.com^
 ||advancedreefaquarium.com^
+||advancepak.com^
 ||affiliate6.com^
 ||agjy6.com^
 ||agpligj.cn^
@@ -16958,6 +16965,7 @@ piaotian5.com##script + div[style="padding:15px;"]
 ||ddanq.com^
 ||dddyun.com^
 ||ddg1277.com^
+||ddot.xyz^
 ||ddskyuu.com^
 ||ddyingyan.com^
 ||ddzeg.com^
@@ -18827,7 +18835,7 @@ icourse163.org#@#.sns-link
 laosiji.com#@#.sns-wrapper
 mrbird.cc#@#.social-icons
 ghxi.com#@#.social-item
-ygodl.com,zhujib.com#@#.social-top:not(html):not(body)
+7b2.com,ygodl.com,zhujib.com#@#.social-top:not(html):not(body)
 cowtransfer.com#@#.socialButton
 storm.mg#@#.social_btn
 ali213.net#@#.subscribe-container
