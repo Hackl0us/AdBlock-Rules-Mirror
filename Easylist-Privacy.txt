@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107151630
+! Version: 202107162337
 ! Title: EasyPrivacy
-! Last modified: 15 Jul 2021 16:30 UTC
+! Last modified: 16 Jul 2021 23:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22,7 +22,6 @@
 &EventType=Impression&
 &funnel_state=
 &http_referer=$script,xmlhttprequest,domain=~facebook.com
-&idsite=*&send_image=$image
 &pageReferrer=
 &ref=*&tag=
 &refer=http$script
@@ -2738,6 +2737,7 @@
 /log/analytics
 /log/browser/event
 /log/collect/*
+/log/counter?
 /log/error?
 /log/event?
 /log/exposed?
@@ -3024,6 +3024,7 @@
 /mpl/mpulse.
 /mpulse.js
 /mpulse.min.js
+/msa-vowels/1/OP/*
 /msftaudience.
 /mstartracking/*
 /mstat/*
@@ -4851,6 +4852,7 @@
 /ucount.php?
 /udctrack.
 /uds/stats?
+/uecomscore_
 /uedata?
 /uem-ep.js
 /uf-stat?
@@ -12375,6 +12377,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.americaneagle.com^
 ||tracking.badgeville.com^$third-party
 ||tracking.brandmentions.com^
+||tracking.cerdmann.com^
 ||tracking.customerly.io^
 ||tracking.drsfostersmith.com^$third-party
 ||tracking.drum.io^
@@ -14195,6 +14198,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||despegar.com/t?
 ||desr.fkapi.net^
 ||destructoid.com/img2.phtml?
+||dhl.com/uskl7n/
 ||diagnostics.redditmedia.com^$xmlhttprequest,domain=reddit.com
 ||diamond.transfermarkt.de^
 ||dictionary.com/track/
@@ -15830,6 +15834,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||theseforums.com/track/
 ||thesmokinggun.com^*/jsmd.js
 ||thetimes.co.uk/mvt-assets/www/mvt.js
+||thetrainline.com/bDKQTvkBW0tRiEJC_Q/
 ||theweek.com/decor/track/
 ||thinkcomputers.org/dist/thinkcomputers.min.js
 ||thinkgeek.com/js/rts.js
@@ -16543,6 +16548,13 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||baltimorefishbowl.com/detroitchicago/cmb.js
 ||cb-mms.carbuyer.co.uk^
 ||cdn-alliancegravity.s3.amazonaws.com^
+||cmp.courrierinternational.com^
+||cmp.finn.no^
+||cmp.huffingtonpost.fr^
+||cmp.netzwelt.de^
+||cmp.nouvelobs.com^
+||cmp.tek.no^
+||cmp.telerama.fr^
 ||commsvc.stern.de^
 ||consent.api.osano.com^
 ||consent.inm.ie^
@@ -26790,6 +26802,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 ||ad7.bigmir.net^
 ||affilate.hh.ru^
 ||agroserver.ru/ct/
+||aliexpress.ru/aer-assets/ext/analytics.
 ||analytics.carambatv.ru^
 ||auto.ru/-/ajax/$~xmlhttprequest
 ||auto.ru/cookiesync/
@@ -26884,6 +26897,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 ||mercadolibre.com/tracks^
 ||pixel.europapress.net^
 ||rvv.emol.com^
+||stats.gruporeforma.com^
 ||statsmp2.emol.com^
 ||t-pan.triodos.com^
 ||t13.cl/hit/
@@ -27093,6 +27107,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 @@||uniqlo.com^*/trackingservice/$~third-party
 @@||webapp.simplisafe.com^*/angulartics-ga.min.js$script,~third-party
 @@||wsj.net/iweb/static_html_files/cxense-candy.js$script,domain=marketwatch.com
+@@||zoominfo.com/c/amplitude-js$script,~third-party
 ! @@||browser.sentry-cdn.com^$domain=cardiffmedia.co.uk|connect.shore.com|crrowd.com|gina-phillips.com|gracevanberkum.com|imperial.ac.uk|loveotv.com|onginnovations.com|simonparkes.org|stockforecasttoday.com|tekku.co.za|theangryviking1776.com|thegivingblock.com|thepittsburghoratory.org|truenews4u.com|washingtonpost.com|wix.com
 @@||browser.sentry-cdn.com^$domain=doconcall.com.my|eco-clobber.co.uk
 @@||brsrvr.com/api/$xmlhttprequest,domain=dollargeneral.com
