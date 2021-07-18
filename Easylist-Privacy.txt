@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107162337
+! Version: 202107180022
 ! Title: EasyPrivacy
-! Last modified: 16 Jul 2021 23:37 UTC
+! Last modified: 18 Jul 2021 00:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -39,12 +39,6 @@
 -ads-tracking-
 -AdTracking.
 -amp-error-reporting.
--analitycs//fab.
--analitycs//ga.
--analitycs//metrica.
--analitycs/fab.
--analitycs/ga.
--analitycs/metrica.
 -analytics-events.
 -analytics-state?
 -analytics-tagserver-
@@ -52,11 +46,6 @@
 -analytics/analytics.
 -analytics/insight.
 -appanalytics-
--asset-tag.
--audience-science-pixel/
--baynote.
--bluekai.
--boomerang_
 -click-tracker.
 -ClickTale.
 -comscore.
@@ -78,19 +67,13 @@
 -heatmaps-analytics/
 -imppix/
 -inview-tracker.
--javascript_xiti_
--kameleoon.js
--kameleoon.min.js
 -krux-tag/
 -log?referUrl=
 -logging/log?
 -lp-tracking.
--mastertag.
--mediaplex_
 -optimization-metrics.
 -optimost-
 -page-analytics.
--pixel.*?uuid=
 -pixelfront-analytics.
 -quantcast-measurement.
 -realtime-logging-
@@ -102,11 +85,6 @@
 -social-tracking.
 -stat/collect/
 -stat?callback=
--stats/fab.
--stats/ga.
--stats/imr.
--stats/metrica.
--track-ati.
 -track-inview.
 -tracker-geoip.
 -tracking-pixel.
@@ -117,9 +95,6 @@
 -unbxdAnalytics.
 -universal-analytics/
 -v1/tracking/
--xtcore.js
-.AdmPixelsCacheController?
-.analysis.pv.
 .analytics.min.
 .asis?Log=
 .asp?t=*&c=$image
@@ -203,15 +178,12 @@
 .com/x.gif?
 .com/x0.gif?
 .com/z.gif?
-.composeTrack.htm
 .content_tracking.
-.core.tracking-min-
 .d-engine.js
 .de/h.gif?
 .de/l.gif?
 .de/o.gif?
 .de/z.gif?
-.do_tracking&
 .drive-analytics.
 .eloqua.js
 .emsecure.min.js
@@ -220,17 +192,12 @@
 .fr/z.gif?
 .gatracker.
 .gatracking.js
-.gif?*&url=*&banners=
 .gif?ad=
 .gif?event=
 .gif?hit_
-.gif?Log=$~xmlhttprequest
-.gif?logid=*&event_
 .gif?page_refer_
 .gif?pixels=
 .gif?pixelToken=
-.gif?ref=*&ev=
-.gif?ref=*&url=
 .gif?track_
 .gif?uri=
 .Google.Tracker.js
@@ -307,8 +274,6 @@
 .stats?action=
 .svc/?tracking_id=
 .tealium.
-.to/js/ga.js
-.to/vtrack|
 .track.actions.get?
 .track_Visit?
 .trackArticleAction&
@@ -319,9 +284,6 @@
 .tv/log?event
 .tv/t.png?
 .uk/o.gif?
-.uk/pv?
-.uk/traffic/?
-.usertracking_script.js
 .v4.analytics.
 .vn/0.gif?
 .vsTracking.
@@ -329,9 +291,6 @@
 .webmetrics.js
 .webstats.
 .wxAdTargeting.
-/!crd_prm!.
-//feedproxy.*/~r/*$image
-/0.png?ver=
 /0pixel.php?
 /1.gif?n=
 /1px.gif?
@@ -344,16 +303,8 @@
 /1x1_imp.gif?
 /1x1p.gif?
 /1x1tracker.
-/247px.js
 /2x2.gif?$image
-/3rd-party-stats/*
-/4399stat.js
 /500b-bench.jpg?
-/?&cs=*&pid=*&tid=
-/?&pid=*&subid=$image
-/?&subid=*&pid=$image
-/?com=visit*=record&
-/?dm=*&blogid=$script,domain=~wordpress.org
 /?dsp_uid=
 /?essb_counter_
 /?livehit=
@@ -7957,6 +7908,7 @@ _mongo_stats/
 ||salesviewer.com^$third-party
 ||salesviewer.org^$third-party
 ||saletrack.co.uk^$third-party
+||salsify-ecdn.com^$third-party
 ||san-spr-01.net^$third-party
 ||sapha.com^$third-party
 ||sas15k01.com^$third-party
@@ -12060,6 +12012,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||scout.us2.salesloft.com^$image
 ||scribd.com^*/events
 ||scribol.com/traffix/widget_tracker/
+||script-api.kinja.com/script?
 ||scripts.psyma.com^
 ||sdrive.skoda-auto.com^
 ||searchcompletion.com/BannerHandler.ashx
@@ -14148,10 +14101,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||crsend.com/stats/
 ||crta.metro.co.uk^
 ||crunchsports.com/tracking_fetchinfo.aspx?
+||cryo.socialblade.com^
 ||cstats.sankakucomplex.com^
 ||ctscdn.com/content/tracking-
 ||cultofmac.com/djrxqhzkbsgf.js
-||cupid.socialblade.com^
 ||current.com/tracking.htm?
 ||customeriomail.codecademy.com^$image
 ||customerservicejobs.com/common/track/
@@ -14252,6 +14205,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dwh-tracking.it.auth0.com^
 ||dx.com/?utm_rid=
 ||dyo.gs/track/
+||e.used.ca/event
+||e.zg-api.com/event$domain=zillow.com
 ||e2ma.net/track/
 ||eafyfsuh.net/track/
 ||easy2.com^*/logging/
@@ -14590,6 +14545,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||herold.at/images/stathbd.gif?
 ||hexus.net/trk/$image
 ||higheredjobs.com/ClickThru/
+||hindustantimes.com/res/images/one-pixel.png
 ||hitweb2.chosun.com^
 ||hltv.org/scripts/hltv-tracking.js
 ||hobsons.co.uk^*/WebBeacon.aspx?
@@ -14597,6 +14553,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||holiday-rentals.co.uk/thirdparty/tag
 ||holiday-rentals.co.uk^*/tracking-home.html
 ||homeaway.com^*/tracking-home.html
+||homedepot.com/nmsytb4_86axy9ugnipikcdc/
 ||homesalez.com/itop/hits.php
 ||honda.ca/_Global/js/includes/tracker.js
 ||hoseasons.co.uk/tracking/js.html?
@@ -14858,6 +14815,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lovefilm.com/api/ioko/log/
 ||lovefilm.com/lovefilm/images/dot.gif
 ||lovefilm.com^*/lf-perf-beacon.png
+||lowes.com/h89f/
 ||lslmetrics.djlmgdigital.com^
 ||lucidchart.com/analytics_
 ||lulus.com/api/track/events
@@ -15810,6 +15768,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tfl.gov.uk/tfl-global/scripts/stats-config.js
 ||tfl.gov.uk/tfl-global/scripts/stats.js
 ||tgw.com/1/t.gif
+||thdstatic.com/data-collection/$domain=homedepot.com
 ||theage.com.au^*/behave.js
 ||theconversation.com/javascripts/lib/content_tracker_hook.js
 ||thecreatorsproject.com/tracker.html
@@ -16305,6 +16264,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||zedo.com/img/bh.gif?
 ||zerohedge.com/statistics-ajax?
 ||zeus.slader.com^
+||zillowstatic.com/contact-pixel/$image,domain=zillow.com
 ||zion.api.cnn.io^
 ||zmags.com/CommunityAnalyticsTracking
 ||zoomin.tv/impressions/
@@ -26370,6 +26330,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 ||lg.tr.pandora.tv^
 ||log*.ku6.com^
 ||log.51cto.com^
+||log.aliyuncs.com^
 ||log.bitauto.com^
 ||log.flight.qunar.com^
 ||log.kuwo.cn^
