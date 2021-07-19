@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-18T00:16:11.486Z
+! Last modified: 2021-07-19T00:14:50.430Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||qzlglizfy.com^
 ||kinkledunendly.com^
 ||passwordscompound.com^
 ||dualizefriskin.com^
@@ -61,7 +62,6 @@
 ||ad4point.nyc3.digitaloceanspaces.com^
 ||rawirymi.xyz^
 ||armiesgaspclue.com^
-||qzlglizfy.com^
 ||iwxzizcw.com^
 ||glersakr.com^
 ||widow5blackfr.com^
@@ -12710,6 +12710,7 @@ vkcdnservice.appspot.com^
 ||upheavesy.club^
 ||uponelectabuzzor.club^
 ||upsettingcrescentwig.com^
+||upsettommyvomit.com^
 ||upsghpnqjoo.com^
 ||upsidebaitpalm.com^
 ||upsidecopiedcraft.com^
@@ -14230,6 +14231,7 @@ vkcdnservice.appspot.com^
 ||adtear.com^
 ||adtecc.com^
 ||adtech.de^
+||adtechium.com^
 ||adtegrity.net^
 ||adtelligent.com^
 ||adteractive.com^
@@ -14802,6 +14804,7 @@ vkcdnservice.appspot.com^
 ||charltonmedia.com^
 ||cibleclick.com^
 ||cinarra.com^
+||citrusad.com^
 ||city-ads.de^
 ||clash-media.com^
 ||cleafs.com^
@@ -17955,6 +17958,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||tracklog.58.com^
 ||wtstats.ro^
 ||static.terratraf.io^
 ||b0e8.com^
@@ -23908,8 +23912,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||api.analytics.omgpop.com^
 ||api.appsee.com^
 ||api.apptentive.com^
-||api.branch.io^
-||api2.branch.io^
 ||api.crittercism.com^
 ||api.gimbal.com^
 ||api.sec.miui.com^
@@ -24032,6 +24034,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||g8913795075.co^
 ||g9111879410.co^
 ||lltrck.com^
+||loloclicks.biz^
 ||mors22.com^
 ||nxakpj4ac8gkd53.info^
 ||sbgsodufuosmmvsdf.info^
@@ -24304,6 +24307,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gwmtracking.com^
 ||gxgydnhz.com^
 ||haloscan.com^
+||havasedge.com^
 ||hdmtools.com^
 ||heatmap.services^
 ||heyhelga.net^
@@ -24533,6 +24537,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||quartic.pl^
 ||quintesse.io^
 ||quitsnap-blue.com^
+||radiateb2b.com^
 ||rampanel.com^
 ||ravelin.click^
 ||rdcdn.com^
@@ -25250,6 +25255,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bmrg.reflected.net^
 ||bonsai.internetbrands.com^
 ||brain.foresee.com^
+||branch.io^
 ||bright.bncnt.com^
 ||bs.yandex.ru^
 ||btn.clickability.com^
@@ -25330,6 +25336,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d11a2fzhgzqe7i.cloudfront.net^
 ||d16fk4ms6rqz1v.cloudfront.net^
 ||d191y0yd6d0jy4.cloudfront.net^
+||d1af033869koo7.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
 ||d1iazwv1n1tsyi.cloudfront.net^
 ||d1igp3oop3iho5.cloudfront.net^
@@ -25394,6 +25401,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dotaudiences.com^
 ||doug1izaerwt3.cloudfront.net^
 ||drlimmode9ddd.cloudfront.net^
+||dsbahmgppc0j4.cloudfront.net^
 ||dt1pxsve3tgas.cloudfront.net^
 ||du4rq1xqh3i1k.cloudfront.net^
 ||du8783wkf05yr.cloudfront.net^
@@ -25893,6 +25901,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||7q1z79gxsi.global.ssl.fastly.net^
 ||clarium.global.ssl.fastly.net^
 ||dfapvmql-q.global.ssl.fastly.net^
+||vwonwkaqvq-a.global.ssl.fastly.net^
 ! Seals, Websecurity, Protection etc. Unnecessary third-party scripts
 ||beyondsecurity.com^
 ||cyveillance.com^
@@ -33541,6 +33550,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||820rd.com^
 ||825145.com^
 ||827649.com^
+||835551.com^
 ||8521448.com^
 ||85tgw.com^
 ||860010.com^
@@ -34310,6 +34320,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ltcprtc.com^
 ||lu.sogou.com^
 ||lu.sogoucdn.com^
+||luassane.cn^
 ||luoyuanedu.cn^
 ||lvt1980.cn^
 ||lvylv.cn^
@@ -34432,6 +34443,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pedailyu.com^
 ||penxiangge.com^
 ||pg88cdn.com^
+||pi9lxn.cn^
 ||pianjjiicdn.com^
 ||pingping888.com^
 ||pinwu123.com^
@@ -36099,6 +36111,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||wangqilin.xyz^
+||wanglc.vip^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -36229,6 +36243,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aaaw.xyz^
 ||aabbccddeeffgg.cn^
 ||aakkzzz.com^
+||abblm.com^
 ||abi.run^
 ||abovede6.com^
 ||abuse8.com^
@@ -36605,6 +36620,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||emgwq.com^
 ||enjuk.com^
 ||enjuw.com^
+||enzenet.cn^
 ||erhfnv.cn^
 ||erkesi.cn^
 ||esure.wang^
@@ -37272,6 +37288,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||obj9.cn^
 ||oende.cn^
 ||ohthub.com.cn^
+||ojojoj.cn^
 ||okwan.cn^
 ||on1q0.cn^
 ||onlyshow.top^
@@ -37316,6 +37333,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pkyxdwj.cn^
 ||plerv.com^
 ||plokr.com^
+||pndagz.com^
 ||po*.877zw.com^
 ||pos68.cn^
 ||ppee.xyz^
