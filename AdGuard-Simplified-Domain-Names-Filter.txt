@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-22T00:14:43.464Z
+! Last modified: 2021-07-23T00:15:33.480Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,14 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||ptwmstc.com^
+||addictionestimated.com^
+||awcrpu.com^
+||betokendolous.com^
+||forzslodge.com^
+||trinityslantsummer.com^
+||creative.mshago.com^
+||describedarkchair.top^
 ||viiigle.com^
 ||flvpcdnb.com^
 ||loveofffer.com^
@@ -2757,7 +2765,6 @@ www.llllllllllll.net^
 ||centent.streanplay.cc^
 ||centent.steanplay.cc^
 ||dl.crazyporn.xxx^
-||d2fbvay81k4ji3.cloudfront.net^
 ||x2sfa.javgg.eu^
 ||xd3r.javgg.eu^
 ||spyglass.octanime.net^
@@ -3249,6 +3256,7 @@ vkcdnservice.appspot.com^
 ||1f58098dd54.com^
 ||1f7de8569ea97f0614.com^
 ||1fwjpdwguvqs.com^
+||1igare0jn.de^
 ||1nimo.com^
 ||1p1eqpotato.com^
 ||1phads.com^
@@ -6012,6 +6020,7 @@ vkcdnservice.appspot.com^
 ||distilled.ie^
 ||distinctcoherentmean.com^
 ||distinctionlatent.com^
+||distinctleftmargaret.com^
 ||distinethout.info^
 ||distractchafe.com^
 ||distraughtbudge.com^
@@ -11022,6 +11031,7 @@ vkcdnservice.appspot.com^
 ||rearroges.xyz^
 ||reasonsteamconcrete.com^
 ||reasonzoodeport.com^
+||rebiraert.com^
 ||rebrancardera.site^
 ||rebuildcroakdeployment.com^
 ||recablesaccule.casa^
@@ -16867,6 +16877,7 @@ vkcdnservice.appspot.com^
 ||d2cgumzzqhgmdu.cloudfront.net^
 ||d2d8qsxiai9qwj.cloudfront.net^
 ||d2edfzx4ay42og.cloudfront.net^
+||d2fbvay81k4ji3.cloudfront.net^
 ||d2focgxak1cn74.cloudfront.net^
 ||d2g9nmtuil60cb.cloudfront.net^
 ||d2ghscazvn398x.cloudfront.net^
@@ -17985,6 +17996,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||restisbench.com^
 ||cdn.trackclicks.info^
 ||mm.actionlink.jp^
 ||btloader.com^
@@ -22051,6 +22063,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||klik.nrc.nl^
+||uie.data.cbc.ca^
 ||ub.finanzfrage.net^
 ||slike.indiatimes.com^
 ||smetrics.foxnews.com^
@@ -23707,8 +23721,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Relap - avoid breaking their website on desktop
 ! but make sure it's blocked in apps
 !+ PLATFORM(ios, android)
-!+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
-!
 ||api.telemetry.watchabc.go.com^
 ||analytics.rover.io^
 ||events-collector-api.viacom.tech^
@@ -24030,6 +24042,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Revolving trackers
 ||apxl.io^
+||bydst.com^
 ||cloudwp.io^
 ||g2377012020.co^
 ||g2575096355.co^
@@ -24563,7 +24576,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pushauction.com^
 ||pvd.to^
 ||pxaction.com^
-||pxchk.net^
 ||pzz.events^
 ||qflm.net^
 ||qlitics.com^
@@ -25420,6 +25432,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||data.circulate.com^
 ||data.imakenews.com^
 ||data.minute.ly^
+||data.nexxt.com^
 ||data.queryly.com^
 ||data.studybreakmedia.com^
 ||data.woosmap.com^
@@ -25471,6 +25484,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||events.split.io^
 ||events.yourcx.io^
 ||eventtracker.videostrip.com^
+||evt.houzz.com^
 ||exacttarget.com^
 ||f-log-at.grammarly.io^
 ||f-log-test.grammarly.io^
@@ -25520,6 +25534,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||imp.constantcontact.com^
 ||imp.pvnsolutions.com^
 ||impress.vcita.com^
+||ingest.make.rvapps.io^
 ||insight.mintel.com^
 ||insight.rapid7.com^
 ||insights.algolia.io^
@@ -26837,6 +26852,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||qotank.com^
 ||popadon.com^
 ||gevnqh.com^
 ||r.2ad.wtf^
@@ -33756,6 +33772,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||biohailijie.cn^
 ||bj-bytsk.com^
 ||bjgtsh.com^
+||bjxgw.top^
 ||bjytdqwx.com^
 ||bjzsyx.cn^
 ||bla01.com^
@@ -34366,11 +34383,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||llqss.top^
 ||loclog.cn^
 ||log.interest.mix.sina.com.cn^
+||longbaojiachen.top^
 ||longchengtg.com^
 ||lovestyl.com^
 ||lovexia.top^
 ||lpjxzs.com^
 ||lpsgc.cn^
+||lqunionsoft.top^
 ||lsaeb.com^
 ||lsxmg.com^
 ||ltcprtc.com^
@@ -36291,6 +36310,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||996f3d.cn^
 ||9ucm.com^
 ||9weg7b.com^
+||9xwk68.cn^
 ||9y88.com^
 ||a3pz36.cn^
 ||a3vy69.cn^
@@ -36356,6 +36376,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||am77p.cn^
 ||amghais.cn^
 ||amghvzn.cn^
+||amvecurt.cn^
 ||andrewsolicitors.com^
 ||anhaochem.com^
 ||anhuigecui.cn^
@@ -36566,6 +36587,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cqerbihou.com^
 ||cqgya.com^
 ||cqshaseng.com^
+||cqut.ltd^
 ||cs12d.com^
 ||csalsylqx.com^
 ||cshwhy.cn^
@@ -36663,6 +36685,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dzooo.cn^
 ||dzrenju2.cn^
 ||dzxzx.cn^
+||e92k49.com^
 ||e9emh.cn^
 ||ealcrrm.cn^
 ||ebuysolar.com^
@@ -36683,6 +36706,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||enzenet.cn^
 ||erhfnv.cn^
 ||erkesi.cn^
+||erkui.tech^
 ||esure.wang^
 ||esuzm.cn^
 ||esyzdb.com^
@@ -36966,6 +36990,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ia22.com^
 ||ic86doc.com^
 ||identified.cn^
+||ieatlu.xyz^
 ||if-yn.com^
 ||ihais.com^
 ||ihear123.com^
@@ -37148,6 +37173,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lanzuankeji.cn^
 ||lawumi.cn^
 ||lcrmm.top^
+||ledaren.cn^
 ||legozu.com^
 ||leixigroup.com^
 ||lejuyoujia2019.com^
@@ -37363,6 +37389,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||osndy.com^
 ||osqoglv.cn^
 ||ouhwjdv.cn^
+||ouxutong.com^
 ||ovoawh.com^
 ||ow*.biqugego.com^
 ||ox11.com^
@@ -37688,6 +37715,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||travel-together.cn^
 ||trhccn.cn^
 ||trpsm.xyz^
+||truecrimesss.com^
 ||tsgyg.cn^
 ||tsrc8.com^
 ||ttbc33.com^
@@ -37863,6 +37891,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xinqiannv.com^
 ||xintaizhaoming.com^
 ||xintengfeiyang.info^
+||xinxbh.cn^
 ||xinyuanstudio.com^
 ||xisea.top^
 ||xiuqixuan.cn^
@@ -38061,6 +38090,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhuhaiqilu.cn^
 ||zhujiafangchan.cn^
 ||zhuzaogangqiu.com^
+||zhwyjd.cn^
 ||zhywyl.cn^
 ||zichunping.cn^
 ||zimingdh.com^
