@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AFCWAT9dhN2h43Ey6KgO/A
-! Version: 202107230023
+! Checksum: v/Qz/UragXZhRTFB4evK/A
+! Version: 202107240023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 23 Jul 2021 00:23 UTC
+! Last Modified: 24 Jul 2021 00:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -981,6 +981,7 @@ _xiuno_com_ad/
 ##.lol-ad
 ##.lol_ad
 ##.lyzm-prevent
+##.m1938-container
 ##.main-ad-l
 ##.main-ad-r
 ##.main-ad-r + .topad
@@ -1259,6 +1260,7 @@ _xiuno_com_ad/
 ##a[href="https://368259.com"]
 ##a[href="https://537687.com"]
 ##a[href="https://8646543.com"]
+##a[href="https://87nn.cc/"]
 ##a[href="https://www.ybvip1879.vip"]
 ##a[href="javascript:GoDb();"]
 ##a[href="javascript:gl01243();"]
@@ -6080,6 +6082,7 @@ _yad_jsonp_
 ||gg.sonhoo.com^
 ||gg.uuu9.com^
 ||gg.yxdown.com^
+||gg123456789gg.com^*.js
 ||gg163.net/20*ad/
 ||gg163.net/js/163bbsad.js
 ||gg163.net/js/gg163ad.js
@@ -6724,6 +6727,7 @@ _yad_jsonp_
 ||jsdelivr.net/gh/sex169hub/
 ||jsdelivr.net/gh/supfree/supfree/top.gif
 ||jsdelivr.net/gh/voocdn/static/www/QlZ2twef.js
+||jsdelivr.net/gh/yaociyuan/
 ||jsdelivr.net/gh/yaofa88/bifa@main/*960
 ||json.cn/js/aliWindow.js
 ||jstucdn.com/g3/
@@ -7097,6 +7101,7 @@ _yad_jsonp_
 ||mfav88.com/yinzi/
 ||mh-mh.com/static/js/hlink.js
 ||mh1234.com/gd/g_js/
+||mh1234.com^*/wap*.js
 ||mianbao99.com/a/mianbao
 ||micaitu.net/js/dibu.js
 ||microcontrol.cn/bbs/images/AD755_150.swf
@@ -12428,6 +12433,7 @@ meltoday.com,sydneytoday.com##.promo
 brtn.cn,btime.com##.promo-item > a[href^="http"]:not([href*=".b"])
 agmov.com,huaban.com##.promotion
 icourse163.org##.promotion-banner-wrapper
+masuit.com##.protected
 site.baidu.com##.pstr.mt10
 anquan.org##.pub_side_ad
 doudoudm.site,ezdmw.com##.public_ad
@@ -14157,6 +14163,7 @@ linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/促銷內容|广告/))
 m.mydrivers.com#?#.cnewsinfo > p:-abp-has(.f14_link + br + .f14_link)
 m.thepaper.cn#?#.t_news:-abp-has(img[alt="广告"])
+masuit.com#?#.panel:-abp-has(>.panel-body>a[href^="/partner/Redirect/"])
 mongoing.com#?#.widget_custom_html:-abp-has(> .custom-html-widget > a[href^="http"]:not([href*="mongoing.com"]))
 muchong.com#?#.forum_Post_index:-abp-has(nobr:-abp-contains(18))
 mydrivers.com#?#.news_info > p:last-of-type + div:-abp-has(> br + a)
@@ -16497,6 +16504,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ahzww.net##script + div[style]
 biqugee.com##div[style="width:976px;"]
 bixia.org##dd[style*="bottom:"]
+bookrb.com##a[href="/rmtj.html"]
 bxwx3.org###addiv3
 bxwx3.org###bdstatic
 duanwenxue.com##.qgzdwx
@@ -16569,6 +16577,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||35kds.com^
 ||360xs.com/templates/html5/js/djtop.js
 ||365syt.cn^
+||3721fuli.cn^
 ||377zt.cn^
 ||381s.net^
 ||387635.com^
@@ -16747,6 +16756,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||awyys.com^
 ||axizb.cn^
 ||axuns.com^
+||ayun.ltd^
 ||b2b5.net^
 ||babalink.net^
 ||babalink.top^
@@ -16821,6 +16831,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||bolili.info^
 ||boluoxs.com/js/digu.js
 ||book9.net^$third-party
+||bookrb.com/images/jtt
 ||bostonceltics.com.cn^
 ||bowei666.xyz^
 ||boweineng.cn^
@@ -16979,6 +16990,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||dasheducation.cn^
 ||daskm.com^
 ||datazhan.com^
+||dayouyuanliao.com^
 ||dbxnvh.cn^
 ||dceni.com^
 ||dd-lightingshow.com^
@@ -17066,6 +17078,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||esure.wang^
 ||esuzm.cn^
 ||esyzdb.com^
+||euler7.club^
 ||evzimlox.cn^
 ||ew740.cn^
 ||exusr.com^
@@ -17118,6 +17131,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||flmcju.cn^
 ||fmketang.cn^
 ||fnbocll.cn^
+||fnggukz.cn^
 ||fnwll.cn^
 ||forwardhard.cn^
 ||fouas.com^
@@ -17508,6 +17522,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||kddlearn.cn^
 ||keilb.xyz^
 ||kejiadoor.cn^
+||kenxr.com^
 ||keran.hl.cn^
 ||ketaoke.com^
 ||keyand.xyz^
@@ -17807,6 +17822,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||pingyuanshenghuo.cn^
 ||pinkmore.cn^
 ||pjbjzf.com^
+||pjfrsc.cn^
 ||pjlcrab.top^
 ||pkbook.com.cn^
 ||pkyxdwj.cn^
@@ -18260,6 +18276,8 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||wxebgpj.cn^
 ||wxhdwy.com^
 ||wxskqy.cn^
+||wxtuoke.cn^
+||wyafelk.cn^
 ||wywna.cn^
 ||wyxcb6.top^
 ||wzjs1.oss-accelerate.aliyuncs.com^
@@ -18536,6 +18554,7 @@ xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 ||zjjrlx4.com^
 ||zjksgl.com^
 ||zjlfqf.com^
+||zjlovexb.xyz^
 ||zjxkdq.cn^
 ||zkba9.cn^
 ||zkwsdf.com^
