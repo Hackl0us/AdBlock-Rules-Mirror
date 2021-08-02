@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-01T00:17:22.910Z
+! Last modified: 2021-08-02T00:17:14.076Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,18 +18,18 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||bochugho.net^
+||inoculatemention.com^
+||ptagnair.com^
 ||bypassprofessordemonstrate.com^
 ||okayarab.com^
 ||illustcutesy.com^
 ||videocdn.name^
 ||chestuwygli.com^
 ||grandcasinobell.com^
-||frap.site^
 ||qrclevrfjw.com^
 ||sdmfyqkghzedvx.com^
-||b91vip.com^
 ||whingewost.com^
-||fieldofbachus.com^
 ||konradsneak.com^
 ||spewyelks.com^
 ||steadydonut.com^
@@ -4423,6 +4423,7 @@ vkcdnservice.appspot.com^
 ||b8af8878e9a9565.com^
 ||b8cf0fd3179ef.com^
 ||b8pfulzbyj7h.com^
+||b91vip.com^
 ||b936c5932623f.com^
 ||b97beb2fed1c4f.com^
 ||b9ba73f1cd9b6.com^
@@ -7017,6 +7018,7 @@ vkcdnservice.appspot.com^
 ||fictimruffles.space^
 ||fidelity-media.com^
 ||fiedinherite.top^
+||fieldofbachus.com^
 ||fiendbenevolencemaker.com^
 ||fierceharmlessjacket.com^
 ||fierymanurepebble.com^
@@ -7185,6 +7187,7 @@ vkcdnservice.appspot.com^
 ||fpyacdna.com^
 ||fqbucxkfcya.com^
 ||fqjgxtyaqftpt.com^
+||fracs.xyz^
 ||fractionwhatsoever.com^
 ||fractureexperience.com^
 ||framentyder.pro^
@@ -7199,6 +7202,7 @@ vkcdnservice.appspot.com^
 ||franklyclapmaggot.com^
 ||franticallyseptember.com^
 ||franticdivergemindless.com^
+||frap.site^
 ||fraudoutrageoustransport.com^
 ||fraudulentmatt.com^
 ||frbyvuxzvmqpb.com^
@@ -7650,6 +7654,7 @@ vkcdnservice.appspot.com^
 ||gunyangseamus.cam^
 ||gunzblazingpromo.com^
 ||gusfinishedsue.com^
+||gussame.com^
 ||gutfdaizu.com^
 ||gutsfidelity.com^
 ||gvcmiz3vze3n.com^
@@ -9049,6 +9054,7 @@ vkcdnservice.appspot.com^
 ||mannernotchnewly.com^
 ||mansavou.net^
 ||manslaughteradministrationalarm.com^
+||manualcasketlousy.com^
 ||manycham.top^
 ||mapcrayonmiss.com^
 ||mapuchesystem.com^
@@ -13166,6 +13172,7 @@ vkcdnservice.appspot.com^
 ||viighj.com^
 ||viihot.com^
 ||viirad.com^
+||viliaff.com^
 ||villageeatable.com^
 ||villelonguien.site^
 ||vimjarawl.com^
@@ -16998,7 +17005,6 @@ vkcdnservice.appspot.com^
 !
 ||1080872514.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
-||a.livesportmedia.eu^
 ||a.ucoz.net^
 ||ad.about.co.kr^
 ||ad.bitbay.net^
@@ -17007,11 +17013,7 @@ vkcdnservice.appspot.com^
 ||ad.netmedia.hu^
 ||ad.outsidehub.com^
 ||ad.reklamport.com^
-||ad.valuecalling.com^
 ||ad.wsod.com^
-||adingo.jp.eimg.jp^
-||adlandpro.com^
-||adn.ebay.com^
 ||ads-sg.tiktok.com^
 ||ads.audio.thisisdax.com^
 ||ads.sportradar.com^
@@ -17020,11 +17022,7 @@ vkcdnservice.appspot.com^
 ||affiliate.heureka.cz^
 ||affiliate.juno.co.uk^
 ||affiliate.mediatemple.net^
-||affiliates.allposters.com^
-||affiliatesmedia.sbobet.com^
-||affiliation.fotovista.com^
 ||ak.imgaft.com^
-||ak1.imgaft.com^
 ||analytics.disneyinternational.com^
 ||ao-freegeoip.herokuapp.com^
 ||api.140proof.com^
@@ -17210,7 +17208,6 @@ vkcdnservice.appspot.com^
 ||eblastengine.upickem.net^
 ||engine.eroge.com^
 ||entitlements.jwplayer.com^
-||epnt.ebay.com^
 ||escape.insites.eu^
 ||etrader.kalahari.com^
 ||etrader.kalahari.net^
@@ -18232,6 +18229,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||fourier.taobao.com^
 ||omniconvert.com^
 ||cdn.clerk.io^
 ||getaim.info^
@@ -20109,7 +20107,6 @@ vkcdnservice.appspot.com^
 ||logdy.com^
 ||logentries.com^
 ||loger.ru^
-||loggly.com^
 ||lognormal.net^
 ||logua.com^
 ||logxp.ru^
@@ -23301,7 +23298,6 @@ vkcdnservice.appspot.com^
 ||button.blogs.yandex.
 ||bia.brightinfo.com^
 ||beacon-1.newrelic.com^
-||beacon.errorception.com^
 ||beacon.guim.co.uk^
 ||beacon.kmi-us.com^
 ||bats.video.yahoo.com^
@@ -24701,7 +24697,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kissmetrics.io^
 ||km-sea.net^
 ||kmtx.io^
-||knowlead.io^
 ||koddi.com^
 ||koji-analytics.com^
 ||kokos.click^
@@ -24722,6 +24717,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||livesession.io^
 ||livetrafficfeed.com^
 ||locotrack.net^
+||loggly.com^
 ||loginhood.io^
 ||logmatic.io^
 ||logrocket.com^
@@ -24805,7 +24801,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||oniad.com^
 ||openlog.in^
 ||opstag.com^
-||optimizelydata.com^
 ||optimove.net^
 ||oribi.io^
 ||osdata.solutions^
@@ -25129,13 +25124,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||morozhko.club^
 ||muatui.com^
 ||polobook.club^
-||santuforward.club^
-||supertraders.club^
 ||supertraders.info^
-||tantrumall.club^
 ||tradesecretz.info^
 ||vicspendig.club^
-||vinchenmedia.club^
 ! revprotect
 ||pphwrevr.com^
 ! Marketo email tracking domains https://github.com/easylist/easylist/issues/6475
@@ -25216,7 +25207,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||guoshipartners.com^
 ||hostpush.info^
 ||ismatlab.com^
-||iwqzrm.com^
 ||klangoo.com^
 ||p30rank.ir^
 ||ppcprotect.com^
@@ -25304,7 +25294,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ethereum-pocket.com^
 ||ethereum-pocket.eu^
 ||ethtrader.de^
-||etzbnfuigipwvs.ru^
 ||eucsoft.com^
 ||f1tbit.com^
 ||filmoljupci.com^
@@ -25565,6 +25554,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||barium.cheezdev.com^
 ||bc.geocities.
 ||beacon.affil.walmart.com^
+||beacon.errorception.com^
 ||beacon.flow.io^
 ||beacon.gcion.com^
 ||beacon.heliumnetwork.com^
@@ -26298,10 +26288,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mairdumont.com^
 ||md-nx.com^
 ||mps-gba.de^
+||multicounter.de^
 ||odoscope.cloud^
 ||oghub.io^
 ||ppro.de^
 ||prudsys-rde.de^
+||ptadsrv.de^
 ||redretarget.com^
 ||reshin.de^
 ||scw.systems^
@@ -26774,7 +26766,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d17m68fovwmgxj.cloudfront.net^
 ||da.netease.com^
 ||epro.sogou.com^
-||fourier.taobao.com^
 ||g.yccdn.com^
 ||haostat.qihoo.com^
 ||hyrankhit.meldingcloud.com^
@@ -27996,6 +27987,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||u2bmco.com^
 ||eebfffjegjajjiacaci.ru^
 ||efhabjaabgfbbegjacj.ru^
+||iwqzrm.com^
 ||vyborexperta.ru^
 ||liluwoms8.ru^
 ||mypictures-versii.info^
@@ -31815,6 +31807,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adimpkwd.excite.co.jp^
 !
 ! Eimg.jp
+||adingo.jp.eimg.jp^
 !
 ||waqool.com^
 ||ad.nwi.jp^
@@ -32484,7 +32477,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ppac.de^
 ||premiumbesucher.de^
 ||profiliate.net^
-||ptadsrv.de^
 ||qualigo.de^
 ||quality-channel.de^
 ||quartermedia.de^
@@ -35789,6 +35781,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||static.gaomaer.cn^
+||laobaigushi.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36522,6 +36516,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||baskba.xyz^
+||qq2img.com^
+||skrmzl.cn^
+||caicaiplay.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
