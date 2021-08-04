@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108021338
+! Version: 202108040030
 ! Title: EasyPrivacy
-! Last modified: 02 Aug 2021 13:38 UTC
+! Last modified: 04 Aug 2021 00:30 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3861,6 +3861,7 @@
 /softpage/stats_registerhit.asp?
 /solarcode.js
 /sometrics/*
+/somtag/loader/*
 /somtag/logs/*
 /sophus.js
 /sophus/logging.js
@@ -4009,6 +4010,7 @@
 /stats/?rt=
 /stats/add/*
 /stats/adonis_
+/stats/api/collect
 /stats/collect?
 /stats/collector.js
 /stats/common/*
@@ -10091,7 +10093,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||akatracking.esearchvision.com^
 ||aktion.esprit-club.com^$image
 ||alex.leonard.ie/misc-images/transparent.png
-||alexa.com/minisiteinfo/
+||alexa.com/minisiteinfo/$third-party
 ||alexa.com/traffic/
 ||alexandria.marfeelcdn.com^
 ||algolia.io/1/isalive
@@ -12877,8 +12879,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||h.seznam.cz^
 ||hit.skrz.cz^
 ||i.imedia.cz^
+||log.cpex.cz^
 ||log.idnes.cz^
 ||pixel.cpex.cz^
+||r2b2.cz/events.php?
 ||ssp.seznam.cz^
 ||stat.cncenter.cz^
 ||stat.ringier.cz^$third-party
@@ -13847,7 +13851,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pornhublive.com/api/metrics
 ||potterybarnkids.com/pkimgs/*/external/thirdparty.js
 ||priceline.com/pws/v1/ace/impression/
-||priceline.com/svcs/
+||priceline.com/svcs/mkt/tag/
 ||princetonreview.com/logging/
 ||privacy-api.9gag.com^
 ||privacyfriendly.netlify.app^
@@ -13886,7 +13890,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rum.kobo.com^
 ||rumble.com/l/
 ||rv.modanisa.com^$script
-||s.hoplon.pandora.com^
 ||s.infogram.com^
 ||scoot.co.uk/ajax/log_
 ||search.ch/audit/
@@ -14019,6 +14022,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sp.zanesvilletimesrecorder.com^
 ||spanids.dictionary.com^
 ||spanids.thesaurus.com^
+||spanishdict.com/page-view-metadata
 ||speed.cloudflare.com/__log
 ||srtb.msn.com^
 ||ssc.api.bbc.com^
@@ -23623,6 +23627,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||wikipedia.de/tracking.js
 ||wlw.de/unified_search_backend/api/v1/tracking/
 ||ymprove.web.de^
+||zdf.de/atinternet/live/smarttag.js
 ||zooplus.de/om/pxl/
 ! Danish
 ||ia.ekstrabladet.dk^
@@ -23797,6 +23802,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||mp.weixin.qq.com/mp/report?
 ||mp.weixin.qq.com/mp/webcommreport?
 ||msgsndr.com/funnel/event
+||mtrace.qq.com^
 ||music.163.com/weapi/feedback/weblog
 ||music.163.com/weapi/pl/count
 ||narutom.com/stat.js
@@ -24865,7 +24871,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||energy.de^*/ivw.js?$domain=energy.de
 @@||geo.kaloo.ga/json/$script,domain=tagesspiegel.de
 @@||getjad.io/library/$script,domain=gamestar.de
-@@||getjad.io/prebid/$script,domain=gamestar.de
 @@||google-analytics.com/analytics.js$domain=saturn.at|schweizerfleisch.ch|vox.de
 @@||google-analytics.com/plugins/ua/ec.js$domain=saturn.at
 @@||googletagmanager.com/gtm.js$domain=bunte.de|computerbild.de|finanzen.at|finanzen.net|radiorur.de|saturn.at|sport1.de|vox.de
@@ -24880,6 +24885,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||ksta.de^*/tracking/tracking.js$domain=ksta.de
 @@||lzstatic.com^*/gdpr/consentHandler/google_analytics.js$domain=ladenzeile.de
 @@||lzstatic.com^*/gdpr/consentHandler/optimizely.js$domain=ladenzeile.de
+@@||optimizely.com^$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||orginio.de/api/analytics/$~third-party,xmlhttprequest
 @@||rtl.de^*/videotracking.min.js$domain=rtl.de
 @@||rtoaster.jp^$script,domain=lexus.jp|melonbooks.co.jp
