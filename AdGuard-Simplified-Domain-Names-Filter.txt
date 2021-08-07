@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-06T00:15:38.547Z
+! Last modified: 2021-08-07T00:14:39.993Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,15 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||beatsightcab.com^
+||citheekr.com^
+||ithaibap.com^
+||9v58v.com^
+||1ts11.top^
+||alkypeewit.com^
+||guphoulr.com^
+||doashair.net^
+||ustithoo.net^
 ||centimetresnappeddock.com^
 ||spadelack.com^
 ||movies-flix.club^
@@ -53,19 +62,15 @@
 ||konradsneak.com^
 ||spewyelks.com^
 ||steadydonut.com^
-||thoovoay.net^
 ||videobaba.xyz^
 ||javoyynu.xyz^
 ||growadvertising.com^
 ||free.srcdn.xyz^
 ||believegrandpa.com^
-||otisephie.com^
 ||peekcogentpope.com^
 ||pbprof.com^
 ||admost-banner.b-cdn.net^
 ||claring-loccelkin.com^
-||auchoons.net^
-||deliberatelycube.com^
 ||mutilatecoast.com^
 ||travelingturtleharmonious.com^
 ||gigacpmserv.com^
@@ -4335,6 +4340,7 @@ vkcdnservice.appspot.com^
 ||attenuatecripple.com^
 ||auberginecorny.com
 ||auberginises.xyz^
+||auchoons.net^
 ||aud3g.com^
 ||audacitydipping.com^
 ||audacityprolong.com^
@@ -5949,6 +5955,7 @@ vkcdnservice.appspot.com^
 ||del-del-ete.com^
 ||delayedtemporarilybakery.com^
 ||deliberatelyadvancing.com^
+||deliberatelycube.com^
 ||deliberateporridge.com^
 ||delightfulold.com^
 ||deligrassdull.com^
@@ -10292,6 +10299,7 @@ vkcdnservice.appspot.com^
 ||othernfrence.club^
 ||othesarialiber.club^
 ||othyightmare.club^
+||otisephie.com^
 ||otlffresod.com^
 ||otnolabttmup.com^
 ||otnolatrnup.com^
@@ -12652,6 +12660,7 @@ vkcdnservice.appspot.com^
 ||thomageothe.club^
 ||thoodsoy.net^
 ||thoorest.com^
+||thoovoay.net^
 ||thorizinge.club^
 ||thoroughask.com^
 ||thoseads.com^
@@ -18339,6 +18348,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||cptrack.de^
 ||simility.com^
 ||recs.richrelevance.com^
 ||analytics.sqreem.com^
@@ -24111,6 +24121,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !+ PLATFORM(ios, android)
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||events.tvtime.com^
+||smetrics.discover.com^
+||sadobeanalytics.geico.com^
 ||dit.whatsapp.net^
 ||analytics.redbubble.com^
 ||stats-sg.ganymede.eu^
@@ -26418,7 +26431,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||businessclick.ch^
 ||content-garden.com^
 ||count.im^
-||cptrack.de^
 ||dcmn.io^
 ||dl8.me^
 ||etrust.eu^
@@ -27276,6 +27288,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||yebmyp.com^
+||r2gf0vo139.ru^
 ||kafar4.club^
 ||4251.tech^
 ||0001.best^
@@ -31956,6 +31970,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||world-ad.jp^
 ||waqool.com^
 ||ad.nwi.jp^
 ||devo.jp^
@@ -33012,8 +33027,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Aug 2021 16:34 UTC+7
-! Version: 2108051634
+! Last modified: 06 Aug 2021 20:08 UTC+7
+! Version: 2108062008
 ! Blocked: 927 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -34370,6 +34385,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dameyuan.com^
 ||dami66.cn^
 ||damumu.xyz^
+||daochengwowo.top^
 ||darren01.oss-cn-beijing.aliyuncs.com^
 ||dashaowu.com^
 ||dashet.com^
@@ -34381,6 +34397,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ddhtek.com^
 ||ddomm.com^
 ||deeplacer.com^
+||dexuanyu.top^
 ||df3n43m.com^
 ||df77.com^
 ||dgtauto.com^
@@ -34519,6 +34536,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggweb.net^
 ||ghnmg.top^
 ||glrcy.cn^
+||goodgoodluck.cn^
 ||goodgz.cn^
 ||gouweida.cn^
 ||govbeijing.cn^
@@ -36430,6 +36448,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kpshx.douguo.com^
 ||laobaigushi.com^
 ||leabd.douguo.com^
+||lianmen1.joyyang.com^
 ||libs.tvmao.cn^
 ||lixiangmo.com^
 ||ll38.com^
@@ -37540,6 +37559,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||j9wp6.cn^
 ||jacklm1.com^
 ||jacklm2.com^
+||jasontaojin.com^
 ||jbbath.cn^
 ||jcaik.com^
 ||jcboloni.cn^
@@ -37858,6 +37878,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nazhenkj.com^
 ||nbhotpo.com^
 ||nbsave.xyz^
+||nbsxa.cn^
 ||nbwmsod.cn^
 ||ncoyqc.com^
 ||ndusa.cn^
@@ -38501,6 +38522,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||y7o9rh.cn^
 ||yaba.org.cn^
 ||yajiuwz.xyz^
+||yakuya.cn^
 ||yamahahb.com^
 ||yanbenji.cn^
 ||yangtingchina.com^
@@ -38552,6 +38574,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yjxqy.com^
 ||ykanx.com^
 ||ykpbgqc.top^
+||ylinzx.cn^
 ||ylppppp.cn^
 ||ylykd.cn^
 ||ymxlm.cc^
