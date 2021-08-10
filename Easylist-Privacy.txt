@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108090017
+! Version: 202108091932
 ! Title: EasyPrivacy
-! Last modified: 09 Aug 2021 00:17 UTC
+! Last modified: 09 Aug 2021 19:32 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4964,6 +4964,7 @@
 /webtraxs.
 /webtrekk_mediaTracking.
 /webtrekk_teaserTracking.
+/webtrends.min.
 /WebTrendsAnalytics/*
 /wego.farmer.
 /weizenbock/dist/*
@@ -5597,6 +5598,7 @@ _mongo_stats/
 ||cxt.ms^
 ||e1e.io^
 ||experianmatch.info^
+||faster-trk.com^
 ||g2178927685.co^
 ||g2377012020.co^
 ||g2575096355.co^
@@ -10096,7 +10098,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||addthiscdn.com/live/
 ||addthisedge.com/live/
 ||addtoany.com/menu/transparent.gif
-||adf.ly/js/link-converter.js
 ||adfox.yandex.ru^
 ||adlog.com.com^
 ||ads-trk.vidible.tv^
@@ -14374,6 +14375,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cmp.huffingtonpost.fr^
 ||cmp.netzwelt.de^
 ||cmp.nouvelobs.com^
+||cmp.tech426.com^
 ||cmp.tek.no^
 ||cmp.telerama.fr^
 ||commsvc.stern.de^
