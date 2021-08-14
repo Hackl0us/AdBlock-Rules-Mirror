@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108130025
+! Version: 202108140010
 ! Title: EasyPrivacy
-! Last modified: 13 Aug 2021 00:25 UTC
+! Last modified: 14 Aug 2021 00:10 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5249,6 +5249,7 @@ cgi-bin/counter
 .app.returnpath.net/
 .awstrack.me/$image
 .backblaze.com/e2t/$image
+.bahn.de/op/$image
 .bhphotovideo.com/mo/
 .bluekai.com/*?e_id_
 .cmail19.com/t/$image
@@ -6199,6 +6200,7 @@ _mongo_stats/
 ||commander1.com^$third-party
 ||company-target.com^$third-party
 ||compteur.cc^$third-party
+||compteur.fr^$third-party
 ||conductrics.com^$third-party
 ||conductrics.net^$third-party
 ||conduze.com^$third-party
@@ -8246,6 +8248,7 @@ _mongo_stats/
 ||web-boosting.net^$third-party
 ||web-counter.net^$third-party
 ||web-stat.com^$third-party
+||web-stat.fr^$third-party
 ||web-stat.net^$third-party
 ||webclicktracker.com^$third-party
 ||webcounter.co.za^$third-party
@@ -8265,10 +8268,12 @@ _mongo_stats/
 ||websitewelcome.com^$third-party
 ||webspectator.com^$third-party
 ||webstat.com^$third-party
+||webstat.fr^$third-party
 ||webstat.net^$third-party
 ||webstat.se^$third-party
 ||webstats.com^$third-party
 ||webstats4u.com^$third-party
+||webtrackingservices.com^$third-party
 ||webtraffic.se^$third-party
 ||webtrafficagents.com^$third-party
 ||webtrafficsource.com^$third-party
@@ -8318,6 +8323,7 @@ _mongo_stats/
 ||wtastats.ro^$third-party
 ||wtp101.com^$third-party
 ||wts.one^$third-party
+||wts2.one^$third-party
 ||wtstats.com^$third-party
 ||wundercounter.com^$third-party
 ||wunderloop.net^$third-party
@@ -24268,7 +24274,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||drom.ru/dummy.
 ||fb.ru/stat/
 ||fotostrana.ru/start/
-||hh.ru/analytics
+||hh.ru/analytics^
 ||hh.ru/stat?
 ||irecommend.ru/collect/
 ||jetvis.ru/stat/
@@ -24539,11 +24545,13 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||cleverpush.com/channel/$script,domain=bsdex.de
 @@||community.brave.com/t/$xmlhttprequest
 @@||d2wy8f7a9ursnm.cloudfront.net^$script,domain=staples.ca
+@@||d41.co/tags/ff-2.min.js$domain=ads.spotify.com
 @@||daan.dev/wp-content/*/caos-supports-google-analytics-$image,~third-party
 @@||gettingpersonal.co.uk^*/scripts/app/shared/googleanalytics.js$script,~third-party
 @@||glenat.com^*/static/analytics.js$script,~third-party
 @@||gomokuworld.com/app/modules/analyze.js$~third-party
 @@||googleoptimize.com/optimize.js$script,domain=tentree.ca
+@@||googletagmanager.com/gtm.js$domain=ads.spotify.com
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
 @@||humaninterest.com/api/analytics/$script,~third-party
 @@||kbctouch.kbc.be^*/dynatrace-$script,~third-party
