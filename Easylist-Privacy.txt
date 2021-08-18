@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108170036
+! Version: 202108172359
 ! Title: EasyPrivacy
-! Last modified: 17 Aug 2021 00:36 UTC
+! Last modified: 17 Aug 2021 23:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5516,10 +5516,12 @@ _sdcTrackingCode.
 ?proxy=ws://$script,websocket
 ?proxy=wss://$script,websocket
 ! google tracking
-/client_204?
-/csi_204?
-/gen_204?
-/generate_204
+/client_204?$image,other,ping,script
+/csi_204?$image,other,ping,script
+/gen_204?$image,other,ping,script
+/generate_204$image,other,ping,script
+||googleapis.com^*/gen_204?
+||gstatic.com/gen_204?
 ! Adblock tracking
 ,adb=*&referer=
 -logabpstatus.
@@ -7325,6 +7327,7 @@ _mongo_stats/
 ||ownpage.fr^$third-party
 ||ox-bio.com^$third-party
 ||oxidy.com^$third-party
+||p-analytics.life^$third-party
 ||p-td.com^$third-party
 ||p.raasnet.com^$third-party
 ||p0.raasnet.com^$third-party
@@ -11166,6 +11169,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||jelly.mdhv.io^
 ||jerkmate.com^*/tracking-hasoffers-
 ||jill.fc.yahoo.com^
+||jly24aw29n5m-a.akamaihd.net^
 ||jobvite.com/analytics.js
 ||jotform.io/getReferrer/$third-party
 ||js-agent.newrelic.com^
@@ -11314,6 +11318,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||marketo.com/rtp-api/
 ||marsflag.com^*/tr.js
 ||marsflag.com^*/tr.min.js
+||martech.condenastdigital.com^
 ||mas.nth.ch^
 ||mashery.com/analytics/
 ||materiel.net/r/$image
@@ -12988,6 +12993,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||counter2.blog.livedoor.com^
 ||delivery.satr.jp^
 ||estore.jp/beacon/
+||ev.tpocdm.com^
 ||future-shop.jp/rview.gif?
 ||imgstat.ameba.jp^$third-party
 ||ip2c.landscape.co.jp^
@@ -13367,6 +13373,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.getshogun.com^
 ||analytics.ghostery.com^$subdocument,domain=www.ghostery.com
 ||analytics.global.sky.com^
+||analytics.hashnode.com^
 ||analytics.kaggle.io^
 ||analytics.kraken.com^
 ||analytics.mouthshut.com^
@@ -13570,7 +13577,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||flipboard.com/usage?
 ||flipkart.com/api/3/data/collector/
 ||flirt4free.com/pixel/
-||flyasiana.com/wlo/
 ||flyasiana.com/ykjEIhcZLYg2zoOOoA/
 ||foodcouture.net/public_html/ra/script.php
 ||foxsports.com.au/akam/
@@ -13687,6 +13693,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kohls.com/mtFndb/
 ||kohls.com/test_rum_nv?
 ||kompass.com/logAdvertisements
+||lastminute.com/ose/tracking/
+||lastminute.com/service/track/
+||lastminute.com^*/metrics
 ||lastpass.com/dist/scripts/analyticsjs
 ||lendingtree.com/analytics/
 ||lendingtree.com/pixel/
@@ -13820,6 +13829,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pornhublive.com/api/events
 ||pornhublive.com/api/metrics
 ||potterybarnkids.com/pkimgs/*/external/thirdparty.js
+||prairiedog.hashnode.com^
 ||priceline.com/pws/v1/ace/impression/
 ||priceline.com/svcs/mkt/tag/
 ||princetonreview.com/logging/
@@ -23617,6 +23627,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||batiactu.com/cap_
 ||compteur.developpez.com^
 ||developpez.com/public/js/track.js
+||ecranlarge.com/stat
 ||franceculture.fr/static/js/xtcore-
 ||fsm.lapresse.ca^
 ||gamergen.com/ajax/actualites/addVue
@@ -24640,6 +24651,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||nintendo.com/apps/noa/scripts/analytics.js$~third-party
 @@||noaa.gov/maps/resources/scripts/ga.js$script,~third-party
 @@||noodid.ee/chordQuiz/$~third-party
+@@||nsfw.xxx/vendor/fingerprint/fingerprint2.min.js$script,~third-party
 @@||nyt.com/analytics/json-$script,domain=nytimes.com
 @@||nyt.com/bi/js/tagx/tagx.js$domain=nytimes.com
 @@||nytimes.com^*/EventTracker.js$~third-party
@@ -24774,6 +24786,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||zappos.com/js/trackingPixel/mercentTracker.js
 @@||zylom.com/images/site/zylom/scripts/google-analytics.js
 @@||zynga.com/current/iframe/track.php?$domain=apps.facebook.com
+! https://github.com/easylist/easylist/issues/8662
+@@/analyticsmediator.$script,domain=mysortimo.be|mysortimo.co.uk|mysortimo.com|mysortimo.com.au|mysortimo.de|mysortimo.dk|mysortimo.es|mysortimo.fr|mysortimo.no|mysortimo.se
 ! Opera/Safari (buggy 3rd-party implementations)
 ! https://forums.lanik.us/viewtopic.php?f=64&t=45603&p=158333
 @@||bugsnag.com^$~third-party,domain=app.bugsnag.com
@@ -24965,7 +24979,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||googletagmanager.com/gtm.js$script,domain=cdon.fi|como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi|veho.fi
 @@||high.auriro.net/http/600x400/$image,domain=afterdawn.com|hardware.fi
 @@||images.sprinklecontent.com^$image,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi
-@@||inpref.s3.amazonaws.com/sites/$script,domain=kauppahalli24.fi
+@@||inpref.s3.amazonaws.com/frosmo.easy.js$domain=kauppahalli24.fi
 @@||leiki.com/focus/$script,domain=anna.fi|como.fi|episodi.fi|fum.fi|inferno.fi|kaksplus.fi|rumba.fi|seura.fi|soundi.fi|tilt.fi
 @@||lekane.net/lekane/dialogue-tracking.js?$script
 @@||nettix.fi^*_analytics.js$domain=nettiauto.com|nettikaravaani.com|nettikone.com|nettimokki.com|nettimoto.com|nettivaraosa.com
