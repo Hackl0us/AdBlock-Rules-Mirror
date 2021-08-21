@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108191622
+! Version: 202108210028
 ! Title: EasyPrivacy
-! Last modified: 19 Aug 2021 16:22 UTC
+! Last modified: 21 Aug 2021 00:28 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5631,6 +5631,7 @@ _mongo_stats/
 ||sbgsodufuosmmvsdf.info^
 ||site24x7rum.eu^
 ||sjpf.io^
+||stat.ovh^
 ||tatpek.com^
 ||trackclicks.info^
 ||truffle.bid^
@@ -13576,6 +13577,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fc2.com/ana/processor.php?
 ||fc2.com/counter_img.php?
 ||fdt.kraken.com^
+||fingerprintjs.com/visitors/
 ||firebaselogging.googleapis.com^
 ||fishki.net/counter/
 ||flipboard.com/usage?
@@ -14025,6 +14027,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stat.tildacdn.com^
 ||stat.vulkanvegas.com^
 ||statnews.com/DG/DEFAULT/
+||stats-jobstreet-sg-en-prod.supercharge-srp.co^$domain=jobstreet.com.sg
 ||stats.cardschat.com^
 ||stats.cdngeek.com^$domain=edugeek.net
 ||stats.clear-media.com^
@@ -14457,6 +14460,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ! *** easylist:easyprivacy/easyprivacy_specific_cname.txt ***
 ! ||cart.matsuzaka-steak.com^
 ! ||form.ict-toshiba.jp^
+! https://github.com/easylist/easylist/issues/8766
+! ||contactforms.53.com^
 ! Used as a clickthrough
 ! ||clickmail.stubhub.com^
 ||clickmail.stubhub.com^$image,script
@@ -21339,7 +21344,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||contact.lesmills.com^
 ||contact.sjdaccountancy.com^
 ||contact.tsr-net.co.jp^
-||contactforms.53.com^
 ||contacto.gtc.com.gt^
 ||content.cercle-actionnaires.bnpparibas^
 ||content.eaton.com^
@@ -24886,7 +24890,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||spiegel.de/layout/js/http/netmind-$script
 @@||stroeerdigitalgroup.de/metatag/live/bauer-autozeitung/metaTag.min.js$domain=autozeitung.de
 @@||sunday.de/skin/*/googleanalytics.js$script
-@@||taboola.com/libtrc/impl.$script,domain=bild.de|bz-berlin.de|computerbild.de|fitbook.de|jetzt.de|metal-hammer.de|musikexpress.de|noizz.de|rollingstone.de|stylebook.de|techbook.de|travelbook.de|welt.de|wieistmeineip.at|wieistmeineip.ch|wieistmeineip.de
+@@||taboola.com/libtrc/$script,domain=bild.de|bz-berlin.de|computerbild.de|fitbook.de|jetzt.de|metal-hammer.de|musikexpress.de|noizz.de|rollingstone.de|stylebook.de|techbook.de|travelbook.de|welt.de|wieistmeineip.at|wieistmeineip.ch|wieistmeineip.de
 @@||tipico.de/js/modules/fingerprintjs2/fingerprint2.min.js$script,~third-party
 @@||uim.tifbs.net/js/$script,domain=web.de
 @@||widgets.trustedshops.com/reviews/tsSticker/$domain=koziol-shop.de
