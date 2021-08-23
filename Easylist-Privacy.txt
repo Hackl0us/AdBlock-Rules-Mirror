@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108220012
+! Version: 202108230020
 ! Title: EasyPrivacy
-! Last modified: 22 Aug 2021 00:12 UTC
+! Last modified: 23 Aug 2021 00:20 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1312,6 +1312,7 @@
 /collect?k=
 /collect?r=
 /collect?tid=
+/collect?type=
 /collect_data.php?
 /collect_stat.
 /collect_v3.
@@ -10480,6 +10481,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||citygridmedia.com/tracker/
 ||citysearch.com/tracker/
 ||cityzen.io/Pixel/
+||ck.connatix.com^
 ||clearspring.com/at/
 ||clearspring.com/t/
 ||click.appinthestore.com^
@@ -12441,6 +12443,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sealserver.trustwave.com^$third-party
 ||secure.trust-guard.com^$third-party
 ||securitymetrics.com^$third-party
+||shield.sitelock.com^$third-party
 ||shopperapproved.com^$third-party
 ||siteintercept.allegiancetech.com^
 ||siteintercept.qualtrics.com^$third-party
@@ -12948,6 +12951,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||plug.it^*/track_
 ||plug.it^*/tracking_
 ||quinet.it/counter/
+||rcsobjects.it/rcs_tracking-service/v1/distro/HTML/trservice.shtml
 ||rd.alice.it^
 ||sem.triboomedia.it^
 ||sembox.it/js/sembox-tracking.js
@@ -13134,6 +13138,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||webstats.sapo.pt^
 ||xl.pt/api/stats.ashx?
 ! Romanian
+||enginey.altex.ro/events/
 ||onnetwork.tv/cnt/
 ||profiling.avandor.com^
 ||t5.ro/static/$third-party
@@ -13634,6 +13639,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||groupondata.com/tracky
 ||gsght.com/twizards.js
 ||gurgle.pcmag.com^
+||hanaana.socialblade.com^
 ||hankookilbo.com/service/kt/trk.js$script,domain=koreatimes.co.kr
 ||harryrosen.com/analytics/
 ||healthline.com/api/metrics
@@ -14166,6 +14172,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wc.yahoodns.net^$image
 ||wccftech.com/cnt7vfDVvWa3.js
 ||web-t.9gag.com^
+||web.whatsapp.com/wam
 ||webengage.sky.com^$xmlhttprequest
 ||weblog.flyasiana.com^
 ||weblog.strawberrynet.com^
@@ -14199,14 +14206,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||yimg.com/aaq/wf/wf-darla-
 ||yoox.it/storage/rd/yorb/
 ||youjizzlive.com/api/metrics
-||youtube-nocookie.com/api/stats/atr
 ||youtube-nocookie.com/api/stats/delayplay?
-||youtube-nocookie.com/api/stats/playback?
 ||youtube-nocookie.com/api/stats/qoe?
 ||youtube-nocookie.com/ptracking?
 ||youtube-nocookie.com/robots.txt?
 ||youtube.com/api/stats/ads?
-! ||youtube.com/api/stats/atr
 ||youtube.com/api/stats/delayplay?
 ||youtube.com/api/stats/qoe?
 ||youtube.com/get_video?
@@ -14233,6 +14237,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bing.com/fd/ls/lsp.aspx
 ||bing.com^*/glinkping.aspx$ping,xmlhttprequest
 ||bing.com^*/GLinkPingPost.aspx$ping,xmlhttprequest
+! Site specific elements (due to EP)
+techxplore.com##.embed-responsive-trendmd
 ! Aliexpress
 ||aliyuncs.com/r.png
 ||gj.mmstat.com^
