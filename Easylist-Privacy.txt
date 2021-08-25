@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108240026
+! Version: 202108250031
 ! Title: EasyPrivacy
-! Last modified: 24 Aug 2021 00:26 UTC
+! Last modified: 25 Aug 2021 00:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4931,7 +4931,7 @@
 /webtrack.$domain=~webtrack.ballcolegrave.co.uk|~webtrack.ballseed.com|~webtrack.dhlecs.com|~webtrack.dhlglobalmail.com
 /webtracker.
 /webTracking.$domain=~webtracking.girard-agediss.com
-/webtracking/*$~subdocument
+/webtracking/*$~subdocument,domain=~wwwapps.ups.com
 /WebTrackingHandler.
 /WebTrackingService.
 /webtraffic.js
@@ -10270,6 +10270,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api-iam.intercom.io/messenger/web/metrics
 ||api-location-prd.pelcro.com^$domain=newsweek.com
 ||api.bit.ly/*/clicks?$third-party
+||api.blink.net/a/
 ||api.collarity.com/cws/*http
 ||api.wipmania.com^
 ||apm-engine.meteor.com^$third-party,xmlhttprequest
@@ -23780,6 +23781,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||nex.163.com^
 ||on.cc^*/checkrev.gif?
 ||p-log.ykimg.com^
+||p.data.cctv.com^
 ||pb.i.sogou.com^
 ||people.cn/js/pa.js
 ||pingback.sogou.com^
@@ -24656,8 +24658,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||maxmind.com^*/geoip.js$domain=aljazeera.com|ballerstatus.com|bikemap.net|carltonjordan.com|cashu.com|coolsport.tv|dereon.com|dr.dk|everydaysource.com|fab.com|girlgames4u.com|incgamers.com|ip-address.cc|maaduu.com|qatarairways.com|sat-direction.com|sotctours.com|stoli.com|vibe.com
 @@||maxmind.com^*/geoip2.js$domain=boostedboards.com|donorschoose.org|elgato.com|fallout4.com|filld.com|ibanez.com|metronews.ca|mtv.com.lb|runningheroes.com|teslamotors.com
 @@||metrics.torproject.org^$~third-party
-@@||mlbstatic.com/mlb.com/adobe-analytics/AppMeasurement-mlb.js$domain=mlb.com
-@@||mlbstatic.com/mlb.com/adobe-analytics/VisitorAPI.js$script,domain=mlb.com
+@@||mlbstatic.com/mlb.com/adobe-analytics/$script,domain=mlb.com
 @@||mozu.com^*/analytics.js$script,domain=acehardware.com
 @@||mpsnare.iesnare.com/general5/wdp.js$domain=usbank.com
 @@||mpsnare.iesnare.com/snare.js$domain=citi.com|citibank.com|enmasse.com|login.skype.com|vitacost.com
