@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108250031
+! Version: 202108251211
 ! Title: EasyPrivacy
-! Last modified: 25 Aug 2021 00:31 UTC
+! Last modified: 25 Aug 2021 12:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3008,7 +3008,6 @@
 /nx_stat.
 /o.gif?
 /o.jpg?*&ref=
-/o.svg?
 /o_code.js
 /o_tealium.
 /oas_analytics.
@@ -9313,7 +9312,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||suchmaschinen-ranking-hits.de^$third-party
 ||sunios.de^$third-party
 ||t4ft.de^$third-party
-||tamedia.ch^$third-party
 ||tda.io^$third-party
 ||technical-service.net^$third-party
 ||tisoomi-services.com^$third-party
@@ -9770,6 +9768,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||webstatistika.lv^$third-party
 ||wos.lv^$third-party
 ! Lithuanian
+||dcdn.lt/g.js
 ||easy.lv^$third-party
 ||maxtraffic.com^$third-party
 ||mxapis.com^$third-party
@@ -13667,6 +13666,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ibt.com/front/js/counter.js
 ||idiva.com/analytics_
 ||iedc.fitbit.com^
+||ign.com/metrics/
 ||iheart.com/api/v3/playback/reporting
 ||imagefap.com/images/yes.gif?
 ||imdb.com/api/_ajax/metrics/
@@ -23645,6 +23645,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ! French
 ||actu.fr/assets/js/smarttag5280-1.js
 ||aliasdmc.fr/js/general_sts.js
+||allocine.fr/_/geolocalize
 ||analytics.allovoisins.com^
 ||batiactu.com/cap_
 ||compteur.developpez.com^
