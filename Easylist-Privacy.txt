@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108312357
+! Version: 202109020013
 ! Title: EasyPrivacy
-! Last modified: 31 Aug 2021 23:57 UTC
+! Last modified: 02 Sep 2021 00:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5249,6 +5249,7 @@ cgi-bin/counter
 .klclick.com/$image
 .list-manage.com/track/
 .mailbutler.io/tracking/
+.mailing.*/oo/$image
 .maillist-manage.com/clicks/$image
 .members.babbel.com/mo/
 .mightyape.co.nz/mo?
@@ -8942,6 +8943,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||oafishobservation.com^$third-party
 ||overconfidentfood.com^$third-party
 ||panickycurtain.com^$third-party
+||panickypancake.com^
 ||parcelcreature.com^$third-party
 ||parsimoniouspolice.com^$third-party
 ||partplanes.com^$third-party
