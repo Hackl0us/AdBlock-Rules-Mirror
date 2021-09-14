@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109122157
+! Version: 202109140028
 ! Title: EasyPrivacy
-! Last modified: 12 Sep 2021 21:57 UTC
+! Last modified: 14 Sep 2021 00:28 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13926,6 +13926,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||spanids.dictionary.com^
 ||spanids.thesaurus.com^
 ||spanishdict.com/page-view-metadata
+||spankbang.com^$ping
 ||speed.cloudflare.com/__log
 ||squirrel.ethanelientz.com^
 ||squirrel.honeysqueeze.app^
@@ -14104,7 +14105,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||xfinity.com/z8ufpC5q/
 ||xhcdn.com/js/track.
 ||xing.com/logjam/
-||xoxo5-eng.spankbang.com^
+||xoxo6-eng.spankbang.com^
 ||xstats.evoload.io^
 ||yahoo.com/beacon/
 ||yahoo.net/pixel.gif
@@ -23651,6 +23652,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||map.baidu.com/newmap_test/static/common/images/transparent.gif
 ||mar.vip.com^
 ||monitor.music.qq.com^
+||mp.huangye.miui.com^
 ||mp.weixin.qq.com/mp/appmsgreport?
 ||mp.weixin.qq.com/mp/getappmsgad?
 ||mp.weixin.qq.com/mp/jsmonitor?
