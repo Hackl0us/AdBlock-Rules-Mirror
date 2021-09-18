@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-17T00:17:55.521Z
+! Last modified: 2021-09-18T00:15:55.142Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,11 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||librateam.net^
+||xuakak.com^
+||outabsola.com^
+||ourhypewords.com^
+||gloxeept.com^
 ||bourranuncurbs.com^
 ||jegrenesen.xyz^
 ||katatalkenna.com^
@@ -5740,6 +5745,7 @@ vkcdnservice.appspot.com^
 ||clutchsavage.com^
 ||clxgmlpfkoj.com^
 ||cm-trk3.com^
+||cm-trk5.com^
 ||cmbestsrv.com^
 ||cmfads.com^
 ||cmllk1.info^
@@ -17979,11 +17985,6 @@ vkcdnservice.appspot.com^
 ||appnext-a.akamaihd.net^
 ||assets.sheetmusicplus.com^
 ||award.sitekeuring.net^
-||banner.101xp.com^
-||banner.titancasino.com^
-||banner2.casino.com^
-||banners.smarttweak.com^
-||banners.videosz.com^
 ||bc.coupons.com^
 ||betting.betfair.com^
 ||bids.concert.io^
@@ -18489,6 +18490,10 @@ vkcdnservice.appspot.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||an.facebook.com^
+||live.hyprmx.com^
+||marketplace-*.hyprmx.com^
+||static.hyprmx.com^
 ||prod.cm.publishers.advertising.a2z.com^
 ||events-*.op.hicloud.com^
 ||isnssdk.com^
@@ -18922,7 +18927,6 @@ vkcdnservice.appspot.com^
 ||l3op.info^
 ||leadboltads.net^
 ||leanplum.com^
-||live.hyprmx.com^
 ||ma-code.ru^
 ||mad.mobisky.pl^
 ||madnet.ru^
@@ -19597,7 +19601,6 @@ vkcdnservice.appspot.com^
 ||st.onlygip.tech^
 ||analysis.fi^
 .plerdy.com^
-||tracker.plerdy.com^
 ||wtag.estlier.net^
 ||ulclick.ru^
 ||phoenix-widget.com^
@@ -24991,6 +24994,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||s3-analytics-events.easybrain.com^
 ||mgs123.com^
 ||metrics.sp0n.io^
 ||liveme-sensors-collect2-*.amazonaws.com^
@@ -25384,6 +25388,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||glimr.io^
 ||i218435.net^
 ||impactcdn.com^
+||innerskinresearch.com^
 ||irs01.com^
 ||ldnlyap.com^
 ||liveyield.com^
@@ -25402,6 +25407,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stat.ovh^
 ||syteapi.com^
 ||tatpek.com^
+||the-ozone-project.com^
 ||trackclicks.info^
 ||truffle.bid^
 ||wknd.ai^
@@ -25761,6 +25767,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||livesession.io^
 ||livetrafficfeed.com^
 ||locotrack.net^
+||logicsfort.com^
 ||loginhood.io^
 ||logmatic.io^
 ||logrocket.io^
@@ -25871,6 +25878,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pipfire.com^
 ||piratepx.com^
 ||pixelpop.co^
+||plerdy.com^
 ||pnstat.com^
 ||podfdch.com^
 ||pointillist.com^
@@ -26063,6 +26071,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trmads.eu^
 ||trmnsite.com^
 ||trs.cn^
+||trstplse.com^
 ||trtl.ws^
 ||truconversion.com^
 ||truoptik.com^
@@ -26441,6 +26450,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yuebofa.cc^
 ||zlx.com.br^
 ! Admiral
+||abstractedauthority.com^
 ||aheadmachine.com^
 ||annoyedairport.com^
 ||ayc0zsm69431gfebd.info^
@@ -26521,6 +26531,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.brandcrumb.com^
 ||analytics.chegg.com^
 ||analytics.cincopa.com^
+||analytics.cmn.com^
 ||analytics.convertlanguage.com^
 ||analytics.cynapse.com^
 ||analytics.dev.htmedia.in^
@@ -26623,6 +26634,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bento.agoda.com^
 ||bi.medscape.com^
 ||bmrg.reflected.net^
+||botdetection.hbrsd.com^
 ||branch.io^
 ||bs.yandex.ru^
 ||c.live.com^
@@ -26735,7 +26747,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d2wu036mkcz52n.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d34qb8suadcc4g.cloudfront.net^
+||d36u3psykfwy91.cloudfront.net^
+||d36upaw912d02q.cloudfront.net^
 ||d39yds8oe4n4jq.cloudfront.net^
+||d3bj8nkfly20uo.cloudfront.net^
 ||d3cgm8py10hi0z.cloudfront.net^
 ||d3iouejux1os58.cloudfront.net^
 ||d3kyk5bao1crtw.cloudfront.net^
@@ -26743,6 +26758,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d3mskfhorhi2fb.cloudfront.net^
 ||d3n6i6eorggdxk.cloudfront.net^
 ||d3q7vxy7usqoub.cloudfront.net^
+||d3qfdthu9f51gu.cloudfront.net^
 ||d3sbxpiag177w8.cloudfront.net^
 ||d3tglifpd8whs6.cloudfront.net^
 ||d3uvwl4wtkgzo1.cloudfront.net^
@@ -26822,6 +26838,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fs-client-logger.herokuapp.com^
 ||future-fie-assets.co.uk^
 ||future-price.co.uk^
+||futurehybrid.tech^
 ||g.delivery.net^
 ||g2insights-cdn.azureedge.net^
 ||ga-beacon.appspot.com^
@@ -26999,6 +27016,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rum.azioncdn.net^
 ||rum.ingress.layer0.co^
 ||rum.layer0.co^
+||rum.minutemediaservices.com^
 ||rum.nccgroup-webperf.com^
 ||rum.perfops.net^
 ||rum.uptime.com^
@@ -34889,7 +34907,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||06789.xyz^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -34902,6 +34919,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||0531kt.com^
 ||0592weixin.com^
 ||05qwmtwxa3ev.com^
+||06789.xyz^
 ||0728w.cn^
 ||0796gou.com^
 ||0798ls.com^
@@ -37745,7 +37763,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||paluofen.shop^
+||cuhzsx.xyz^
+||ccxhpipe.cn^
+||qiuchuanling.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -37907,6 +37927,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||abblm.com^
 ||abc98.cc^
 ||abi.run^
+||abjjsc.cn^
 ||abovede6.com^
 ||abuse8.com^
 ||ac56.xyz^
@@ -38061,6 +38082,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bivgiokd0y.cn^
 ||bixuyao.com.cn^
 ||bizhixiang.cn^
+||bizhub-cloud.cn^
 ||bjcgbc.cn^
 ||bjdianyue.com^
 ||bjeai.com^
@@ -38127,6 +38149,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cbxe1r.cn^
 ||cbyckdf.cn^
 ||cchfjz.com^
+||ccioo.vip^
 ||ccjxybj.cn^
 ||ccmdgg.com^
 ||ccuyuna.cn^
@@ -38332,6 +38355,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||duanyu1106.cn^
 ||duier.top^
 ||duluoweiyu.com^
+||duofulai.vip^
 ||duyousxtd.com^
 ||dvtxt.cn^
 ||dvzk66.cn^
@@ -38783,6 +38807,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jiangjinghe.top^
 ||jianly.top^
 ||jiaofulin.cn^
+||jiasheng-china.cn^
 ||jiayi2019.top^
 ||jiayiss.com^
 ||jiedaibao120.cn^
@@ -38804,6 +38829,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jinrichaoyang.com^
 ||jinrungroup.cn^
 ||jinshzx.com^
+||jinyingbaozhuang.com^
 ||jinyinggroup.cn^
 ||jinzpeng.cn^
 ||jioeg.com^
@@ -38821,6 +38847,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jkxtd77.com^
 ||jlxzt.com^
 ||jm166.cn^
+||jmhai.com^
 ||jn1biifafz.cn^
 ||jndczg.com^
 ||jndfrqz.com^
@@ -39207,6 +39234,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||oycslib.xyz^
 ||oycslic.xyz^
 ||oyknmi.cn^
+||paluofen.shop^
 ||panruo.net.cn^
 ||panwenjun.top^
 ||pbbgfsm.cn^
@@ -39288,6 +39316,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qiruidea.com^
 ||qivsod.com^
 ||qiyebaopin.cn^
+||qiyix.cn^
 ||qizixsw.com^
 ||qjxszp.cn^
 ||qkptx.com^
@@ -39874,6 +39903,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ydfz.org^
 ||ydggvnh.cn^
 ||ydqcjy.cn^
+||ye-n-universitiy.xyz^
 ||yemingxing.top^
 ||yeyushe.cn^
 ||yfygs.cn^
