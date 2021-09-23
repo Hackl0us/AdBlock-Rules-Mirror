@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109212159
+! Version: 202109230031
 ! Title: EasyPrivacy
-! Last modified: 21 Sep 2021 21:59 UTC
+! Last modified: 23 Sep 2021 00:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11041,6 +11041,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||go.techtarget.com^$image,xmlhttprequest
 ||go.toutapp.com^$third-party
 ||goadv.com^*/track.js
+||goaffpro.com/track
 ||goaww.com/stats.php
 ||godaddy.com/js/gdwebbeacon.js
 ||gomoxie.solutions^*/events
@@ -24321,7 +24322,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||collect.tianya.cn^
 ||count5.pconline.com.cn^
 ||counter.people.cn^
-||csdnimg.cn/common/csdn-report/$domain=csdn.net
 ||dcard.tw/v1/events
 ||douyucdn.cn/fish3/1.gif
 ||eastmoney.com/web/prd/jump_tracker.js
@@ -25578,6 +25578,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||adobedtm.com^*/satelliteLib-$script,domain=ceair.com|fcbarcelona.cn
 @@||aixifan.com^*/sensorsdata.min.js?$domain=acfun.cn
 @@||dynamicyield.com/api/$script,domain=zalora.com.hk|zalora.com.tw
+@@||g.csdnimg.cn^*/trackad.js$script,domain=csdn.net
 @@||google-analytics.com/analytics.js$domain=news.gamme.com.tw
 @@||hk.on.cc/js/v4/urchin.js
 @@||tianxun.com^*/js/tracker.js
