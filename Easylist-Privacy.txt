@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109230031
+! Version: 202109240034
 ! Title: EasyPrivacy
-! Last modified: 23 Sep 2021 00:31 UTC
+! Last modified: 24 Sep 2021 00:34 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9468,7 +9468,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mmtro.com^$third-party
 ||netquattro.com/stats/
 ||netvigie.com^$third-party
-||organicfruitapps.com^$third-party
 ||phywi.org^$third-party
 ||pingclock.net^$third-party
 ||reseau-pub.com^$third-party
@@ -11475,6 +11474,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ora.tv/j/ora_evttracking.js
 ||orb.ee/collect
 ||ordergroove.com/log/offer?
+||organicfruitapps.com/analytics/
 ||orts.wixawin.com^$third-party
 ||outbrain.com/nanoWidget/externals/cookie/
 ||outbrain.com/widgetOBUserSync/
@@ -13328,6 +13328,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||androidfilehost.com/libs/otf/stats.otf.php?
 ||anon-stats.eff.org^
 ||apartments.com/clientvisit/al.gif?
+||api.narrativ.com/favicon.ico
 ||apkpure.com/analytics_
 ||apnews.com/logger
 ||appanalysis.banggood.com^
@@ -13761,6 +13762,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pexa.realestate.com.au^
 ||pf.newegg.com^
 ||phar.gu-web.net^
+||phonearena.com/_track.php
 ||pi.feedsportal.com^
 ||ping.hashnode.com^
 ||ping.hungama.com^
