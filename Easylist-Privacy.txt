@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109262349
+! Version: 202109280033
 ! Title: EasyPrivacy
-! Last modified: 26 Sep 2021 23:49 UTC
+! Last modified: 28 Sep 2021 00:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3551,6 +3551,7 @@
 /reporting.do?
 /reporting/analytics.js
 /reporting/campaignresolution/?
+/reporting/metrics
 /request_tracker+
 /RequestTrackerServlet?
 /resmeter.js
@@ -5145,6 +5146,7 @@
 ?[AQB]&ndh=1&t=
 ?act=counter&
 ?action=event&
+?action=impression&
 ?action=log_promo_impression
 ?action=statsjs&
 ?action=track_visitor&
@@ -5590,6 +5592,8 @@ _mongo_stats/
 ||bounceexchange.com^
 ||bydst.com^
 ||cloudwp.io^
+||cpx.to^
+||crsspxl.com^
 ||crwdcntrl.net^
 ||cxt.ms^
 ||demdex.net^
@@ -5658,6 +5662,7 @@ _mongo_stats/
 ||loloclicks.biz^
 ||mors22.com^
 ||mt48.net^
+||ns1p.net^
 ||nxakpj4ac8gkd53.info^
 ||omappapi.com^
 ||omtrdc.net^
@@ -5668,6 +5673,7 @@ _mongo_stats/
 ||progmxs.com^
 ||propeller-tracking.com^
 ||quantserve.com^
+||quickanalytics.ca^
 ||r42tag.com^
 ||rezync.com^
 ||rkdms.com^
@@ -6270,7 +6276,6 @@ _mongo_stats/
 ||cpcmanager.com^$third-party
 ||cphalk.com^$third-party
 ||cpmstar.com^$third-party
-||cpx.to^$third-party
 ||cqcounter.com^$third-party
 ||cquotient.com^$third-party
 ||craftkeys.com^$third-party
@@ -6286,7 +6291,6 @@ _mongo_stats/
 ||crosswalkmail.com^$third-party
 ||crowdscience.com^$third-party
 ||crowdtwist.com^$third-party
-||crsspxl.com^$third-party
 ||crtx.info^$third-party
 ||csdata1.com^$third-party
 ||ctnsnet.com^$third-party
@@ -7261,7 +7265,6 @@ _mongo_stats/
 ||nr-data.net^$third-party
 ||nr7.us^$third-party
 ||nrich.ai^$third-party
-||ns1p.net^$third-party
 ||ns8.com^$third-party
 ||ns8ds.com^$third-party
 ||nstracking.com^$third-party
@@ -7912,6 +7915,7 @@ _mongo_stats/
 ||tagstaticx.com^$third-party
 ||tagtray.com/api^$third-party
 ||tamgrt.com^$third-party
+||tapad.app^$third-party
 ||tapad.com^$third-party
 ||tapfiliate.com^$third-party
 ||taplytics.com^$third-party
@@ -9922,7 +9926,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mediaplan.ru^$third-party
 ||mediatoday.ru^$third-party
 ||metrika-informer.com^$third-party
-||mgid.com^$third-party,domain=~marketgid.com|~marketgid.com.ua
 ||mokuz.ru^$third-party
 ||more-data.ru^$third-party
 ||musiccounter.ru^$third-party
@@ -10661,6 +10664,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d2o67tzzxkqap2.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
 ||d2r1yp2w7bby2u.cloudfront.net^
+||d2r7bmv6l6bnd1.cloudfront.net^
 ||d2rnkf2kqy5m6h.cloudfront.net^
 ||d2ry9vue95px0b.cloudfront.net^
 ||d2san7t27xb2pn.cloudfront.net^
@@ -13306,6 +13310,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cloudfront.net/vis_opt_no_jquery.js
 ||clp-mms.cloudpro.co.uk^
 ||cm-mms.coachmag.co.uk^
+||cnet.com/pageview_candidate.comscore.json
 ||cnt.iceporn.com^
 ||cnt.nuvid.com^
 ||cnt.vivatube.com^
@@ -13323,6 +13328,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||colvk.viki.io^
 ||confiant.msn.com^
 ||consent.ghostery.com/v1.js
+||contents2.00110.citi.com^
 ||count.rin.ru^
 ||coursehero.com/v1/data-tracking
 ||cpt.itv.com^
@@ -13913,6 +13919,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.vk-portal.net^
 ||stats.wordpress.com^
 ||stats.wwitv.com^
+||streamstats.prd.dlive.tv^
 ||strtapeadblock.club/stat/
 ||stubhub.com/bfx/api/logging
 ||substack.com/api/v1/firehose?
@@ -24286,6 +24293,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||o2.cz^*-ga_o2cz_bundle.js?
 ||report.novinky.cz^
 ||stat.novinky.cz^
+||stat.super.cz^
 ! Dutch
 ||analytics.rambla.be^
 ||bol.com/tracking/
