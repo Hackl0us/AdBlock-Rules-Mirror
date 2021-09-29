@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109280033
+! Version: 202109290019
 ! Title: EasyPrivacy
-! Last modified: 28 Sep 2021 00:33 UTC
+! Last modified: 29 Sep 2021 00:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5580,6 +5580,7 @@ _mongo_stats/
 ||adnext.co^
 ||adrtx.net^
 ||affvantage.com^
+||agkn.com^
 ||altopd.com^
 ||analysis.fi^
 ||apxl.io^
@@ -5598,6 +5599,7 @@ _mongo_stats/
 ||cxt.ms^
 ||demdex.net^
 ||dm-event.net^
+||dmpxs.com^
 ||e1e.io^
 ||enthusiastgaming.net^
 ||everesttech.net^
@@ -5645,12 +5647,14 @@ _mongo_stats/
 ||geoedge.be^
 ||glimr.io^
 ||go-mpulse.net^
+||googleoptimize.com^
 ||googletagmanager.com^
 ||hs-analytics.net^
 ||hsadspixel.net^
 ||i218435.net^
 ||id5-sync.com^
 ||impactcdn.com^
+||impactradius-event.com^
 ||imrworldwide.com^
 ||innerskinresearch.com^
 ||irs01.com^
@@ -5660,6 +5664,7 @@ _mongo_stats/
 ||liveyield.com^
 ||lltrck.com^
 ||loloclicks.biz^
+||matheranalytics.com^
 ||mors22.com^
 ||mt48.net^
 ||ns1p.net^
@@ -5680,6 +5685,7 @@ _mongo_stats/
 ||rlcdn.com^
 ||s-onetag.com^
 ||sbgsodufuosmmvsdf.info^
+||sc-static.net^
 ||seadform.net^
 ||seoab.io^
 ||site24x7rum.eu^
@@ -5692,6 +5698,7 @@ _mongo_stats/
 ||the-ozone-project.com^
 ||trackclicks.info^
 ||trkbc.com^
+||tru.am^
 ||truffle.bid^
 ||tvpixel.com^
 ||ugdturner.com^
@@ -5853,7 +5860,6 @@ _mongo_stats/
 ||agentinteractive.com^$third-party
 ||agilecrm.com^$third-party
 ||agilone.com^$third-party
-||agkn.com^$third-party
 ||agrvt.com^$third-party
 ||aidata.io^$third-party
 ||aimediagroup.com^$third-party
@@ -5963,6 +5969,7 @@ _mongo_stats/
 ||autoaudience.com^$third-party
 ||autoid.com^$third-party
 ||autoline-top.com^$third-party
+||automizely.com^$third-party
 ||avantlink.com^$third-party
 ||avapartner.com^$third-party
 ||avastats.com^$third-party
@@ -6373,7 +6380,6 @@ _mongo_stats/
 ||dmd53.com^$third-party
 ||dmpcounter.com^$third-party
 ||dmpprof.com^$third-party
-||dmpxs.com^$third-party
 ||dmtracker.com^$third-party
 ||dmtry.com^$third-party
 ||dmxleo.com^$third-party
@@ -6678,7 +6684,6 @@ _mongo_stats/
 ||goodmeasure.io^$third-party
 ||google-analytics.com^$third-party
 ||googleadservices.com^$third-party
-||googleoptimize.com^$third-party
 ||googlerank.info^$third-party
 ||gooo.al^$third-party
 ||gopjn.com^$third-party
@@ -6797,7 +6802,6 @@ _mongo_stats/
 ||ilogbox.com^$third-party
 ||imhd.io^$third-party
 ||immanalytics.com^$third-party
-||impactradius-event.com^$third-party
 ||impression.link^$third-party
 ||imrtrack.com^$third-party
 ||imtwjwoasak.com^$third-party
@@ -7071,7 +7075,6 @@ _mongo_stats/
 ||marketshot.fr^$third-party
 ||maropost.com^$third-party
 ||masterstats.com^$third-party
-||matheranalytics.com^$third-party
 ||mathtag.com^$third-party
 ||matomo.cloud^$third-party
 ||matterlytics.com^$third-party
@@ -7650,7 +7653,6 @@ _mongo_stats/
 ||sas15k01.com^$third-party
 ||sayutracking.co.uk^$third-party
 ||sbbanalytics.com^$third-party
-||sc-static.net^$third-party
 ||scaledb.com^$third-party
 ||scarabresearch.com^$third-party
 ||schoolyeargo.com^$third-party
@@ -8063,7 +8065,6 @@ _mongo_stats/
 ||trs.cn^$third-party
 ||trstplse.com^$third-party
 ||trtl.ws^$third-party
-||tru.am^$third-party
 ||truconversion.com^$third-party
 ||truehits.in.th^$third-party
 ||truehits1.gits.net.th^$third-party
@@ -8387,7 +8388,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||alertme.news^$third-party
 ||amazonaws.com/cdn.aimtell.com/
 ||aswpsdkeu.com^$third-party
-||aswpsdkus.com^$third-party
+||aswpsdkus.com^
 ||bildirt.com^$third-party
 ||bmfeed.ru^$third-party
 ||bosspush.com^$third-party
@@ -8448,7 +8449,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||subscribers.com^$third-party
 ||truenat.bid^$third-party
 ||truepush.com^$third-party
-||urbanairship.com^$third-party
+||urbanairship.com^
 ||viapush.com^$third-party
 ||webpu.sh^$third-party
 ||whiteclick.biz^$third-party
@@ -8757,7 +8758,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||abstractedamount.com^$third-party
 ||abstractedauthority.com^
 ||absurdapple.com^$third-party
-||acidpigs.com^$third-party
+||acidpigs.com^
 ||acridtwist.com^$third-party
 ||additionant.com^$third-party
 ||afraidlanguage.com^$third-party
@@ -8874,7 +8875,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||frailoffer.com^$third-party
 ||futuristicapparatus.com^
 ||futuristicfifth.com^$third-party
-||fuzzybasketball.com^$third-party
+||fuzzybasketball.com^
 ||gammamaximum.com^$third-party
 ||giddycoat.com^$third-party
 ||giraffepiano.com^$third-party
@@ -8952,7 +8953,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||placidperson.com^$third-party
 ||plantdigestion.com^$third-party
 ||pleasantpump.com^$third-party
-||plotrabbit.com^$third-party
+||plotrabbit.com^
 ||pluckypocket.com^
 ||prepareplanes.com^$third-party
 ||pricklydebt.com^
@@ -8989,7 +8990,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rusticprice.com^
 ||ruthlessdegree.com^$third-party
 ||sablesong.com^$third-party
-||satisfycork.com^$third-party
+||satisfycork.com^
 ||savoryorange.com^$third-party
 ||scaredsnake.com^$third-party
 ||scientificshirt.com^
@@ -10888,6 +10889,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fairfax.com.au/js/track/
 ||faphouse.com/api/collector/
 ||fastcdn.co/js/sptw.js
+||fbot.me/events/
 ||fcmatch.google.com^
 ||fcmatch.youtube.com^
 ||feed.informer.com/fdstats
@@ -11450,7 +11452,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||perf.dugout.com^
 ||perfops.net/rom3/
 ||performgroup.com/metrics/
-||perr.h-cdn.com^$third-party
+||perr.h-cdn.com^
 ||perso.aws.arc.pub^
 ||photobox.com/event
 ||photobox.com/logs
@@ -13253,7 +13255,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||arstechnica.com/keys/arstechnica.com/p.js
 ||atrack.allposters.com^
 ||ats.alot.com^
-||auth1-eng.spankbang.com^
+||auth2-eng.spankbang.com^
 ||avitop.com/aviation/hitlist.asp
 ||baidu.com^*/mwb2.gif?
 ||baidu.com^*/wb.gif?
@@ -13446,6 +13448,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||foxsports.com.au/akam/
 ||fp.measure.office.com^
 ||fpa-cdn.arstechnica.com^
+||fpa-events.decrypt.co^
 ||france24.com^*/_ws/urgent
 ||freebiesms.com/tracker.aspx?
 ||freepik.com/_ga?
@@ -14232,7 +14235,7 @@ techxplore.com##.embed-responsive-trendmd
 ||aerlingus.com/ahktqsewxjhguuxexhr.js
 ! Mining
 $third-party,xmlhttprequest,domain=alltube.pl|alltube.tv
-$websocket,domain=123telugu.com|7tors.com|ajplugins.com|akvideo.stream|alltube.pl|alltube.tv|animeteatr.ru|bigspeeds.com|biter.tv|bitvid.sx|bmovie123.me|btstors.com|centrum-dramy.pl|cinemafacil.com|clipwatching.com|coinfaucet.eu|coinhub.win|crictime.com|crictime.is|deltabit.co|djs.sk|dragonballzpolo.blogspot.com|estream.to|estream.xyz|fileone.tv|flashx.cc|flashx.co|flashx.sx|flashx.to|flashx.tv|flashx.ws|fmoviesgo.me|gomovie123.me|gomovies123.me|hdvid.tv|hentai-online.pl|hqq.tv|hqq.watch|ianimes.co|idope.tv|jkanime.net|kinokrad.co|kinoprofi.org|kinostuff.com|lafmacun.net|lewd.ninja|love-drama.pl|netiap.com|netu.tv|nowvideo.sx|onlinevideoconverter.com|onvid.club|onvid.fun|onvid.online|onvid.pw|onvid.xyz|pebx.pl|potomy.ru|povw1deo.com|powvideo.net|protect-iframe.com|proxyportal.eu|reactor.cc|sherlockonline.ru|shrink-service.it|skyback.ru|skytorrents.me|sleeptimer.org|sorteosrd.com|streambeam.io|streamplay.me|streamplay.to|szukajka.tv|theappguruz.com|thepiratebay.org|vidoza.net|vidtodo.com|vidtodo.me|vidtodo.pro|vidup.io|vidup.tv|void.cat|wallpoper.com|wearesaudis.net|yazilir.com|zenexplayer.com
+$websocket,domain=123telugu.com|7tors.com|ajplugins.com|akvideo.stream|alltube.pl|alltube.tv|animeteatr.ru|bigspeeds.com|biter.tv|bitvid.sx|bmovie123.me|btstors.com|centrum-dramy.pl|cinemafacil.com|clipwatching.com|coinfaucet.eu|coinhub.win|crictime.com|crictime.is|deltabit.co|djs.sk|dragonballzpolo.blogspot.com|estream.to|estream.xyz|fileone.tv|flashx.cc|flashx.co|flashx.sx|flashx.to|flashx.tv|flashx.ws|fmoviesgo.me|gomovie123.me|gomovies123.me|hdvid.tv|hentai-online.pl|ianimes.co|idope.tv|jkanime.net|kinokrad.co|kinoprofi.org|kinostuff.com|lafmacun.net|lewd.ninja|love-drama.pl|netiap.com|netu.tv|nowvideo.sx|onlinevideoconverter.com|onvid.club|onvid.fun|onvid.online|onvid.pw|onvid.xyz|pebx.pl|potomy.ru|povw1deo.com|powvideo.net|protect-iframe.com|proxyportal.eu|reactor.cc|sherlockonline.ru|shrink-service.it|skyback.ru|skytorrents.me|sleeptimer.org|sorteosrd.com|streambeam.io|streamplay.me|streamplay.to|szukajka.tv|theappguruz.com|thepiratebay.org|vidoza.net|vidtodo.com|vidtodo.me|vidtodo.pro|vidup.io|vidup.tv|void.cat|wallpoper.com|wearesaudis.net|yazilir.com|zenexplayer.com
 $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.com|powvideo.net|sleeptimer.org|sorteosrd.com|streambeam.io|szukajka.tv
 ! regex !
 /([0-9]{1,3}\.){3}[0-9]{1,3}.*(\/proxy|\.wasm|\.wsm|\.wa)$/$third-party,websocket
@@ -24887,6 +24890,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||att.com/ui/services_co_myatt_common/$script,~third-party
 @@||att.tv^*/VisitorAPI.js$script,~third-party
 @@||autoaudience.com/tag/$script,domain=mazda.ca
+@@||aveda.com/sites/aveda/themes/aveda_base/js/shared/analytics.min.js$script,~third-party
 @@||azureedge.net/prod/smi/loader-config.json$domain=pressdemocrat.com
 @@||bam.nr-data.net^$script,domain=kapwing.com
 @@||banned.video/videojs-event-tracking/dist/videojs-event-tracking.js$script,domain=banned.video|infowars.com
@@ -25016,7 +25020,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||google-analytics.com/analytics.js$domain=beinsports.com|brooklinen.com|jackbox.tv|k2radio.com|koel.com|kowb1290.com|tracking.narvar.com|westernunion.com
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
 @@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|m.putlocker.how|schwab.com
-@@||googletagmanager.com/gtm.js$domain=atptour.com|bsa-whitelabel.com|chipotle.com|complex.com|crello.com|cyclingnews.com|easternbank.com|fortune.com|nflgamepass.com|nordvpn.com|pioneer.eu|royalbank.com|scotsman.com|trademe.co.nz
+@@||googletagmanager.com/gtm.js$domain=atptour.com|bsa-whitelabel.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|easternbank.com|fortune.com|nflgamepass.com|nordvpn.com|pioneer.eu|royalbank.com|scotsman.com|trademe.co.nz
 @@||gov.au/Scripts/ga.js$script,~third-party
 @@||guce.advertising.com/collectIdentifiers$domain=guce.advertising.com
 @@||hearstapps.com/static/comscore.$script,domain=womenshealthmag.com
