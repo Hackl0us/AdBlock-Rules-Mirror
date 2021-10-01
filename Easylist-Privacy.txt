@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109300014
+! Version: 202110010024
 ! Title: EasyPrivacy
-! Last modified: 30 Sep 2021 00:14 UTC
+! Last modified: 01 Oct 2021 00:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -306,6 +306,7 @@
 /ac.fcgi?
 /acbeacon2.
 /accAnal.js
+/accessanalyzer/tracker?
 /AccessCounter/*
 /accesslog?
 /accesstracking/*
@@ -2332,6 +2333,7 @@
 /impression/cmp2?
 /impression/inline?
 /impression/stream/*
+/impression/track?
 /impression/widget?
 /impression?bid
 /impression?rkey=
@@ -8863,6 +8865,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||enormousearth.com^$third-party
 ||enviousshape.com^$third-party
 ||fadedsnow.com^$third-party
+||fadewaves.com^
 ||fallaciousfifth.com^$third-party
 ||falseframe.com^$third-party
 ||familiarrod.com^$third-party
@@ -13180,6 +13183,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||aax-us-iad.amazon.com^
 ||ab-machine.forbes.com^
 ||ab.fanatical.com^
+||abcnews.com/assets/dtci/js/abcnews_visitorId.js
 ||abcnews.com/assets/dtci/js/at.js
 ||abebooks.com/timer.gif?
 ||about.me/track?
@@ -24271,6 +24275,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||vipstatic.com/mars/
 ||weather.com.cn/a1.js
 ||webstat.kuwo.cn^
+||weiyun.com/cgi-bin/tianshu_report
+||weiyun.com/proxy/domain/boss.qzone.qq.com/fcg-bin/fcg_rep_strategy?
 ||wenku.baidu.com/tongji/
 ||wkctj.baidu.com^
 ||wl.jd.com^
@@ -25524,7 +25530,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||flipdesk.jp/wp/wp-content/themes/flipdesk/images/analytics3.png$image
 @@||game-tsutaya.tsite.jp/pc/common/scripts/analytics/s_code_ggame.js
 @@||googleadservices.com/pagead/conversion_async.js$script,domain=jp.square-enix.com
-@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|benesse-style-care.co.jp|book.impress.co.jp|cyclestyle.net|dengekionline.com|hatenacorp.jp|kakuyomu.jp|nap-camp.com|radiko.jp|stage.parco.jp|viviennewestwood-tokyo.com|ymobile.jp
+@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|benesse-style-care.co.jp|book.impress.co.jp|cyclestyle.net|dengekionline.com|hatenacorp.jp|kakuyomu.jp|mangaseek.net|nap-camp.com|radiko.jp|stage.parco.jp|viviennewestwood-tokyo.com|ymobile.jp
 @@||howtonote.jp/google-analytics/$image,~third-party
 @@||in.treasuredata.com/js/*api_key$script,domain=retty.me
 @@||k-img.com/javascripts/modules/rst/analytics.js?$domain=tabelog.com
@@ -25632,9 +25638,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ! 
 ! ---------- Romanian ----------
 ! 
+@@||content.adunity.com/aulib.js$script,domain=b1tv.ro
 @@||googletagmanager.com/gtm.js$script,domain=olx.ro
 @@||homebank.ro/public/HomeBankLogin/js/fingerprint/fingerprint.js
 @@||imobiliare.ro/js/gtm.js$script,~third-party
+@@||stream.adunity.com^$xmlhttprequest,domain=b1tv.ro
 ! 
 ! ---------- Russian ----------
 ! 
