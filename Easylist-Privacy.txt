@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110042358
+! Version: 202110060029
 ! Title: EasyPrivacy
-! Last modified: 04 Oct 2021 23:58 UTC
+! Last modified: 06 Oct 2021 00:29 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1176,7 +1176,7 @@
 /clicevent.php?
 /click-analytics.
 /click-count.
-/click-logger.
+/click-logger.$image,script
 /click-stat.js
 /click-tracker
 /click.cgi?callback=
@@ -5714,6 +5714,7 @@ _mongo_stats/
 ||ugdturner.com^
 ||videoplayerhub.com^
 ||wknd.ai^
+||wmgroup.us^
 ||z0uolej1qnxzub1.info^
 ||zdbb.net^
 ||zoomhead.xyz^
@@ -6834,7 +6835,6 @@ _mongo_stats/
 ||informz.net^$third-party
 ||ingage.tech^$third-party
 ||inimbus.com.au^$third-party
-||inmoment.com^$third-party
 ||innertrends.com^$third-party
 ||innomdc.com^$third-party
 ||innovateads.com^$third-party
@@ -11098,6 +11098,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||infosniper.net/locate-ip-on-map.php
 ||infusionsoft.com^*/getTrackingCode?
 ||ingest.make.rvapps.io^
+||inmoment.com.au/intercept/
+||inmoment.com/intercept/
+||inmoment.com/websurvey/
 ||innogamescdn.com/media/js/metrics-
 ||inphonic.com/tracking/
 ||inq.com^*/onEvent?_
@@ -11157,6 +11160,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||key4web.com^*/set_cookie_by_referer/
 ||keyword.daumdn.com^
 ||kiwari.com^*/impressions.asp?
+||kiwi.mdldb.net^
 ||kk-resources.com/ks.js
 ||klarnaservices.com^$image,third-party
 ||klickly.com/track
@@ -24228,6 +24232,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||sina.com.cn/view?
 ||sinajs.cn/open/api/js/wb.js
 ||sngmta.qq.com^
+||sogou.com/cl.gif?
 ||sogou.com/cl?
 ||sogou.com/pv?
 ||sohu.com.cn/hdpb.gif?
@@ -24296,6 +24301,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||wumii.com/images/pixel.png
 ||xcar.com.cn/exp/
 ||xiaomi.com/js/mstr.js?
+||ylog.huya.com^
 ||youdao.com/cf.gif?
 ||youdao.com/imp/cac.js
 ||youku.com/compvlog?
