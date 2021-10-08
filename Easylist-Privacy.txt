@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110062112
+! Version: 202110080037
 ! Title: EasyPrivacy
-! Last modified: 06 Oct 2021 21:12 UTC
+! Last modified: 08 Oct 2021 00:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -634,6 +634,7 @@
 /analytics/initSession
 /analytics/js$script
 /analytics/klaviyo_
+/analytics/layer
 /analytics/liferay-
 /analytics/listeners/*
 /analytics/logging
@@ -5982,7 +5983,6 @@ _mongo_stats/
 ||autoaudience.com^$third-party
 ||autoid.com^$third-party
 ||autoline-top.com^$third-party
-||automizely.com^$third-party
 ||avantlink.com^$third-party
 ||avapartner.com^$third-party
 ||avastats.com^$third-party
@@ -11281,6 +11281,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||makantime.tv/analytics.js
 ||mandrillapp.com/track/
 ||maptrackpro.com/track/
+||marketingautomation.services/client/ss.js
 ||marketingautomation.services/koi
 ||marketo.com/gw1/
 ||marketo.com/rtp-api/
@@ -11958,6 +11959,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.brandmentions.com^
 ||tracking.buygoods.com^
 ||tracking.cerdmann.com^
+||tracking.chilipiper.com^
 ||tracking.customerly.io^
 ||tracking.drsfostersmith.com^$third-party
 ||tracking.drum.io^
