@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110080037
+! Version: 202110082308
 ! Title: EasyPrivacy
-! Last modified: 08 Oct 2021 00:37 UTC
+! Last modified: 08 Oct 2021 23:08 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12641,6 +12641,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||csdn.net^*/counter.js
 ||d17m68fovwmgxj.cloudfront.net^
 ||da.netease.com^
+||datacollector-dra.dt.hicloud.com^
 ||dup.baidustatic.com^
 ||epro.sogou.com^
 ||etwun.com:8080/counter.php?
@@ -13284,7 +13285,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||arstechnica.com/keys/arstechnica.com/p.js
 ||atrack.allposters.com^
 ||ats.alot.com^
-||auth3-eng.spankbang.com^
+||auth4-eng.spankbang.com^
 ||avitop.com/aviation/hitlist.asp
 ||baidu.com^*/mwb2.gif?
 ||baidu.com^*/wb.gif?
@@ -13569,7 +13570,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||infoq.com/metrics/
 ||informer.com/ajax/article_log.php
 ||ino.com/img/sites/mkt/click.gif
-||inq.com/tagserver/
+||inq.com/tagserver/logging/logline
 ||instagram.com/ajax/bz
 ||instructables.com/counter
 ||intent.cmo.com.au^
@@ -14054,6 +14055,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ultimate-guitar.com/components/ab/event?
 ||ultimedia.com/deliver/statistiques/
 ||umami.wakarimasen.moe^
+||ups.com/img/icp.gif
 ||urs.metacritic.com^
 ||userfly.com^
 ||usmetric.rediff.com^
@@ -14243,6 +14245,9 @@ techxplore.com##.embed-responsive-trendmd
 ||cmp.telerama.fr^
 ||commsvc.stern.de^
 ||d.sourcepoint.capitalfm.com^
+||eurogamer-it.eurogamer.it^
+||eurogamer-pl.eurogamer.pl^
+||eurogamer-pt.eurogamer.pt^
 ||fuse.forbes.com^
 ||h-bid.com^$third-party
 ||isgprivacy.cbsi.com^
@@ -14257,6 +14262,7 @@ techxplore.com##.embed-responsive-trendmd
 ||telegraph.co.uk/telegraph-advertising/tmg-cmp.min.js
 ||trustarc.mgr.consensu.org/get?
 ||twus-mms.theweek.com^
+||usgamer-us.usgamer.net^
 ||vg247.com/wp-content/themes/vg247/scripts/mvg247-fsm.js
 ! McClatchy sites (bellinghamherald.com,bnd.com,bradenton.com,centredaily.com etc)
 ! https://github.com/easylist/easylist/blob/4ec8049213fd2ede4682f1760764ae79cda7cc55/easyprivacy/easyprivacy_specific.txt#L1067
@@ -24141,6 +24147,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||count5.pconline.com.cn^
 ||counter.people.cn^
 ||dcard.tw/v1/events
+||dlswbr.baidu.com^
 ||douyucdn.cn/fish3/1.gif
 ||eastmoney.com/web/prd/jump_tracker.js
 ||eclick.baidu.com^
