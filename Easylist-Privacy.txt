@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110110026
+! Version: 202110120033
 ! Title: EasyPrivacy
-! Last modified: 11 Oct 2021 00:26 UTC
+! Last modified: 12 Oct 2021 00:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10476,7 +10476,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cllctr.roistat.com^
 ||cloudapp.net/l/
 ||clouderrorreporting.googleapis.com^
-||cloudflare.com/cdn-cgi/trace$third-party,domain=~isbgpsafeyet.com
+||cloudflare.com/cdn-cgi/trace$third-party,domain=~isbgpsafeyet.com|~wyndhamdestinations.com
 ||cloudfront-labs.amazonaws.com^
 ||cloudfront.net*/keywee.min.js
 ||cloudfront.net*/sp.js|
@@ -10838,7 +10838,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ensighten.com/error/e.php?
 ||epimg.net/js/gdt/
 ||epl.paypal-communication.com^$script
-||epnt.ebay.com^
 ||epromote.co.za/track/
 ||erne.co/tags?
 ||errors.snackly.co^
@@ -13286,7 +13285,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||arstechnica.com/keys/arstechnica.com/p.js
 ||atrack.allposters.com^
 ||ats.alot.com^
-||auth4-eng.spankbang.com^
 ||avitop.com/aviation/hitlist.asp
 ||baidu.com^*/mwb2.gif?
 ||baidu.com^*/wb.gif?
@@ -13397,6 +13395,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||discord.com/api/*/science
 ||discover-metrics.cloud.seek.com.au^
 ||discover.com/QaiuqHH6L7OpQ2dSZzdDRhs6/
+||dmtgvn.com/wrapper/js/common-engine.js$domain=rt.com
 ||docs.github.com/events
 ||domainit.com/scripts/track.js
 ||dominos.co.uk/qRgAwS/
@@ -13577,6 +13576,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||intent.cmo.com.au^
 ||intent.goodgearguide.com.au^
 ||intent.pcworld.idg.com.au^
+||internal-ana.spankbang.com^
 ||internetslang.com/jass/
 ||intg.snapchat.com^
 ||intuitcdn.net/analytics/
@@ -13996,6 +13996,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||theconversation.com/javascripts/lib/content_tracker_hook.js
 ||thedailybeast.com/static/js/thirdparty.
 ||thefreedictionary.com/_/tr.ashx?
+||thriftbooks.com/scripts/sp.js
 ||tiktok.com/captcha/report
 ||tilanalytics.timesinternet.in^
 ||time.is/img/nod.png
@@ -14362,6 +14363,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ! *.omtrdc.net (needs to be removed)
 ! *.demdex.net (needs to be removed)
 ! *.bred4tula.com (needs to be removed)
+! 
+||primate.dmarcdigests.com^
 ! 
 ! a8.net (https://github.com/AdguardTeam/cname-trackers/blob/master/trackers/a8_net.md)
 ||a8.01cloud.jp^
@@ -24808,6 +24811,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ! Vietnamese
 ||log.ttbc-hcm.gov.vn^
 ||logsbin.dantri.com.vn^
+||pixel.coccoc.com^
 ||stats.muasamcong.gov.vn^
 ||track-srv.vietnamnet.vn^
 ! Specific blocking filters necessary for sites allowlisting with $genericblock filter option
