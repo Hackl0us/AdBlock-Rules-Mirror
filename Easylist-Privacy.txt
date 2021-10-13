@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110120033
+! Version: 202110130013
 ! Title: EasyPrivacy
-! Last modified: 12 Oct 2021 00:33 UTC
+! Last modified: 13 Oct 2021 00:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3394,6 +3394,7 @@
 /processUserCookie?
 /prod-analytics.
 /prod-client-js-logger/*
+/prod/log_preprocess
 /prodtracker?
 /production/analytics.
 /profile_tracker.
@@ -7913,7 +7914,6 @@ _mongo_stats/
 ||surveyscout.com^$third-party
 ||surveywriter.com^$third-party
 ||survicate.com^$third-party
-||swcs.jp^$third-party
 ||swfstats.com^$third-party
 ||swiss-counter.com^$third-party
 ||synergy-e.com^$third-party
@@ -10162,6 +10162,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.avanser.com.au^
 ||analytics.aweber.com^
 ||analytics.bigcommerce.com^
+||analytics.bitrix.info^
 ||analytics.brandcrumb.com^
 ||analytics.carambo.la^
 ||analytics.chegg.com^
@@ -10386,6 +10387,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||branch.io^$third-party
 ||brandcdn.com/pixel/
 ||bravenet.com/counter/
+||browser.events.data.microsoft.com^
+||browser.pipe.aria.microsoft.com^
 ||bs.yandex.ru^
 ||bucklemail.com/a/$image
 ||bufferapp.com/wf/open?upn=$third-party
@@ -10731,7 +10734,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||data.circulate.com^
 ||data.gosquared.com^$third-party
 ||data.imakenews.com^$third-party
-||data.microsoft.com/OneCollector/
 ||data.minute.ly^
 ||data.nexxt.com^
 ||data.queryly.com^
@@ -11583,6 +11585,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||qzzr.com/_uid.gif
 ||r.mail.ru^$script
 ||rackcdn.com/gate.js
+||rackcdn.com/stf.js
 ||radiotime.com/Report.ashx?
 ||radiotime.com/reports/
 ||ramp.purch.com^
@@ -12121,6 +12124,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wco.crownpeak.com^
 ||weather.ca/counter.gif?
 ||web-soft.in/counters/
+||web.vortex.data.microsoft.com^
 ||web1.51.la^
 ||webedia.fr/js/gs.js
 ||weblog.livesport.eu^
@@ -13480,6 +13484,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fp.measure.office.com^
 ||fpa-cdn.arstechnica.com^
 ||fpa-events.decrypt.co^
+||fpt.microsoft.com^
 ||france24.com^*/_ws/urgent
 ||freebiesms.com/tracker.aspx?
 ||freepik.com/_ga?
@@ -13657,13 +13662,12 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||metroweekly.com/tools/blog_add_visitor/
 ||mi.academy.com/p/js/1.js
 ||miao.baidu.com^
-||microsoft.com/collect/
-||microsoft.com/Collector/
 ||mms.cnn.com^
 ||modanisa.com/al/j/analytics.js
 ||moneycontrol.com/news/services/get_comscore_pageview/
 ||monitor.channel4.com^
 ||mov.t-mobile.com/p/js/1.js
+||movetv.com/sa-events
 ||mps.nbcuni.com/request/page/json/params/*&adunits=$xmlhttprequest
 ||msn.com/collect/
 ||msn.com/OneCollector/
@@ -24233,6 +24237,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||qq.com/qqcom/
 ||qq.com/report.cgi?
 ||qq.com/report/$image,xmlhttprequest
+||qq.com/report|
 ||qq.com/stdlog
 ||qreport.qunar.com^
 ||qzone.qq.com/wspeed.qq.com^
@@ -25419,6 +25424,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||dynamicyield.com/api/$script,domain=zalora.com.hk|zalora.com.tw
 @@||g.csdnimg.cn^*/trackad.js$script,domain=csdn.net
 @@||google-analytics.com/analytics.js$domain=news.gamme.com.tw
+@@||gtimg.com/qqcdn/*/beacon.min.js$script,domain=qq.com
 @@||hk.on.cc/js/v4/urchin.js
 @@||tianxun.com^*/js/tracker.js
 @@||tianyancha.com^*/sensorsdata.$script,~third-party
