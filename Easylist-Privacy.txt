@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110132305
+! Version: 202110150030
 ! Title: EasyPrivacy
-! Last modified: 13 Oct 2021 23:05 UTC
+! Last modified: 15 Oct 2021 00:30 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -220,7 +220,7 @@
 .statData-eup.
 .stats?action=
 .svc/?tracking_id=
-.tealium.
+.tealium.$domain=~tealium.com
 .track.actions.get?
 .track_Visit?
 .trackArticleAction&
@@ -11735,6 +11735,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.bitgravity.com^
 ||stats.bluebillywig.com^
 ||stats.clickability.com^
+||stats.cloudwp.io^
 ||stats.cmcigroup.com^
 ||stats.datahjaelp.net^
 ||stats.edicy.com^
@@ -24931,7 +24932,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||analytics.tercept.com/js/ga.js$script,~third-party
 @@||analytics.twitter.com^$domain=analytics.twitter.com
 @@||ancestrycdn.com/ui-static/lib/tracking/$domain=ancestry.com
-@@||api.cxense.com/public/widget/data?$domain=marketwatch.com|wsj.com
+@@||api.cxense.com/public/widget/data?$domain=bizjournals.com|marketwatch.com|wsj.com
 @@||api.getmakerlog.com/discussions/$~third-party,websocket,xmlhttprequest
 @@||api.ipify.org^$script,domain=right-on.co.jp
 @@||api.ipify.org^$xmlhttprequest,domain=account.pennytel.com.au|speedcheck.ky
@@ -24958,7 +24959,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||bookmate.com^*/impressions?$~third-party,xmlhttprequest
 @@||boots.com/wcsstore/ebootsstorefrontassetstore/javascript/analytics.js$~third-party
 @@||catalogue.jbhifi.com.au^*/static/analytics.js$script,~third-party
-@@||cdn.cxense.com^$script,domain=marketwatch.com
+@@||cdn.cxense.com^$script,domain=bizjournals.com|marketwatch.com
 @@||cleverpush.com/channel/$script,domain=bsdex.de
 @@||community.brave.com/t/$xmlhttprequest
 @@||d2wy8f7a9ursnm.cloudfront.net^$script,domain=staples.ca
@@ -25419,6 +25420,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ! 
 ! ---------- Chinese ----------
 ! 
+@@||10086.cn/framework/modules/sdc.js$script,~third-party
 @@||360buyimg.com/item/unite/$script,domain=item.jd.com
 @@||360buyimg.com^*/components/default/$script,domain=jd.com
 @@||adobedtm.com^*/mbox-contents-$script,domain=ceair.com|fcbarcelona.cn
@@ -25429,6 +25431,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||google-analytics.com/analytics.js$domain=news.gamme.com.tw
 @@||gtimg.com/qqcdn/*/beacon.min.js$script,domain=qq.com
 @@||hk.on.cc/js/v4/urchin.js
+@@||hm.baidu.com/hm.gif$image,domain=clgod.com
 @@||tianxun.com^*/js/tracker.js
 @@||tianyancha.com^*/sensorsdata.$script,~third-party
 @@||uwants.com/include/*/swfaddress.js
