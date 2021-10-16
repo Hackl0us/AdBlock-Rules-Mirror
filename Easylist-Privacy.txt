@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110150030
+! Version: 202110160041
 ! Title: EasyPrivacy
-! Last modified: 15 Oct 2021 00:30 UTC
+! Last modified: 16 Oct 2021 00:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1706,6 +1706,7 @@
 /end.gif?
 /endpoint/stats.
 /EndpointTracker/*
+/Engagement/TrackEventAsync
 /engine/ping?
 /ent_counter?
 /entry_stats?
@@ -4233,6 +4234,7 @@
 /trace-Update.php?
 /trace/link/*$image
 /trace/mail/*$image
+/trace/record?
 /trace?sessionid=
 /traces.php?
 /tracing?aspect=
@@ -5121,7 +5123,7 @@
 ://d.*/track.js
 ://email.*/blankpixel.gif
 ://ensighten.
-://fathom.$domain=~fathom.video|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
+://fathom.$domain=~fathom.info|~fathom.video|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://geoip.*/country.json
 ://ivwextern.
 ://lightning.*/launch/
@@ -9533,11 +9535,13 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||reachmax.cn^$third-party
 ||sagetrc.com^$third-party
 ||scupio.com^$third-party
+||sdqoi2d.com^$third-party
 ||sitebot.cn^$third-party
 ||sjv.io^$third-party
 ||tagmanager.cn^$third-party
 ||tanx.com^$third-party
 ||tenmax.io^$third-party
+||threatbook.cn^$third-party
 ||tomonline-inc.com^$third-party
 ||top-bloggers.com^$third-party
 ||topsem.com^$third-party
@@ -11631,6 +11635,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rum.nccgroup-webperf.com^
 ||rum.perfops.net^
 ||rum.uptime.com^
+||run.app/data.log?
 ||s-microsoft.com/mscc/$~stylesheet
 ||s.beop.io^
 ||s.clickability.com^
@@ -12635,6 +12640,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cbsi.com.cn/js/dw.js
 ||cdn.hiido.cn^$third-party
 ||cdnmaster.com/sitemaster/sm360.js
+||chuzushijian.cn/c.php
 ||click.bokecc.com^
 ||click.taobao.com^$script
 ||cms.grandcloud.cn^$third-party
@@ -14372,6 +14378,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ! 
 ||primate.dmarcdigests.com^
 ! 
+! CNAME https://github.com/easylist/easylist/issues/9383
+||kick-lake.ga^
 ! a8.net (https://github.com/AdguardTeam/cname-trackers/blob/master/trackers/a8_net.md)
 ||a8.01cloud.jp^
 ||a8.cyclemarket.jp^
@@ -24195,6 +24203,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||loginlog.sdo.com^
 ||logs.51cto.com^
 ||logstat.caixin.com^
+||logtake.weidian.com^
 ||logx.mtime.cn^
 ||logx.mtime.com^
 ||luobo.tv/staticts.html
