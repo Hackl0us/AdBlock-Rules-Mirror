@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110160041
+! Version: 202110170019
 ! Title: EasyPrivacy
-! Last modified: 16 Oct 2021 00:41 UTC
+! Last modified: 17 Oct 2021 00:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9896,6 +9896,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||apkonline.ru^$third-party
 ||audsp.com^$third-party
 ||audtd.com^$third-party
+||avsplow.com^$third-party
 ||bid.run^$third-party
 ||bidderrtb.com^$third-party
 ||botdetector.ru^$third-party
@@ -11722,6 +11723,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||staff-start.com/js/track
 ||starman.fathomdns.com^
 ||stas.outbrain.com^
+||stat.belonnanotservice.ga^
 ||stat.boredomtherapy.com^
 ||stat.glaze.ai^
 ||stat.mixi.media^
@@ -24407,6 +24409,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||omataloyhtio.fi/statb.asp
 ||puutarha.net/ffsw-pushcrew.js
 ||puutarha.net/statb.asp
+||rakentaja.fi/kuvat/pi.gif$image
 ||stat.mtv3.fi^
 ||stats.fonecta.fi^
 ||tori.fi/img/none.gif$image
@@ -25477,9 +25480,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||certona.net^*/resonance.js$domain=zooplus.fi
 @@||d2wzl9lnvjz3bh.cloudfront.net/frosmo.easy.js$domain=lippu.fi
 @@||dynamicyield.com/api/$script,domain=gigantti.fi
-@@||frosmo.com^$xmlhttprequest,domain=kauppahalli24.fi
+@@||frosmo.com/recoApi/$xmlhttprequest,domain=lily.fi|meillakotona.fi|terve.fi
 @@||googletagmanager.com/gtm.js$script,domain=cdon.fi|como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi|veho.fi
-@@||high.auriro.net/http/600x400/$image,domain=afterdawn.com|hardware.fi
+@@||high.auriro.net/http/600x400/$image,domain=afterdawn.com|dawn.fi|hardware.fi
 @@||images.sprinklecontent.com^$image,domain=como.fi|episodi.fi|fum.fi|inferno.fi|kaaoszine.fi|rumba.fi|soundi.fi|tilt.fi
 @@||inpref.s3.amazonaws.com/frosmo.easy.js$domain=elisa.fi|kauppahalli24.fi
 @@||inpref.s3.amazonaws.com/sites/$script,domain=kauppahalli24.fi
