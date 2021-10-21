@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110192303
+! Version: 202110210033
 ! Title: EasyPrivacy
-! Last modified: 19 Oct 2021 23:03 UTC
+! Last modified: 21 Oct 2021 00:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3128,6 +3128,7 @@
 /page.gif?p=
 /page/load?
 /page/page_view
+/page/unload?
 /page?referUrl=
 /page_analytics.
 /page_counter.
@@ -5406,7 +5407,6 @@ _ad_impression.
 /ccpa.js
 /cmp-hello.
 /cmp/messaging.js
-/cmp2.js
 /cmp3.js
 /slot_cmp.js
 /sourcepoint.js
@@ -9609,6 +9609,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||metriweb.be^$third-party
 ||mtrack.nl^$third-party
 ||mystats.nl^$third-party
+||onlinesucces.nl^$third-party
 ||stealth.nl^$third-party
 ||svtrd.com^$third-party
 ||synovite-scripts.com^$third-party
@@ -10444,6 +10445,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cbsivideo.com/measurements/
 ||cc.swiftype.com^
 ||ccexperimentsstatic.oracleoutsourcing.com^
+||ccpa.psg.nexstardigital.net^
 ||cdn-channels-pixel.ex.co^
 ||cdn.trafficexchangelist.com^$third-party
 ||cdn.usefathom.com^
@@ -10712,6 +10714,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d2tgfbvjf3q6hn.cloudfront.net^
 ||d2wu036mkcz52n.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
+||d2zjlj1vewrxcj.cloudfront.net^
 ||d31bfnnwekbny6.cloudfront.net/customers/
 ||d31qbv1cthcecs.cloudfront.net^
 ||d34ko97cxuv4p7.cloudfront.net^
@@ -11595,6 +11598,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||qq.com/stats?
 ||qualtrics.com/WRSiteInterceptEngine/?Q_Impress=$third-party
 ||qualtrics.com^*/metrics
+||quantcast.mgr.consensu.org/?log
 ||qubitanalytics.appspot.com^
 ||quisma.com/tracking/
 ||quora.com/_/ad/
@@ -12131,6 +12135,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vmweb.net/identity.min.js
 ||vo.msecnd.net/api/beYableJSv2.js
 ||vooxe.com/analytics.js
+||vortex.data.microsoft.com^
 ||voxmedia.com/beacon-min.js
 ||vpoweb.com/counter.php?
 ||vs4.com/impr.php?
@@ -12144,7 +12149,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wco.crownpeak.com^
 ||weather.ca/counter.gif?
 ||web-soft.in/counters/
-||web.vortex.data.microsoft.com^
 ||web1.51.la^
 ||webedia.fr/js/gs.js
 ||weblog.livesport.eu^
@@ -13331,6 +13335,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bing.com/fd/ls/GLinkPing.aspx?
 ||binocule21c.merriam-webster.com^
 ||biomedcentral.com/track/
+||blue.abc27.com^
 ||booking.com/logo?
 ||boomerang.dell.com^
 ||brightside.me/metric-collector
@@ -13951,6 +13956,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sp.ydr.com^
 ||sp.yorkdispatch.com^
 ||sp.zanesvilletimesrecorder.com^
+||spade.twitch.tv^
 ||spanids.dictionary.com^
 ||spanids.thesaurus.com^
 ||spanishdict.com/page-view-metadata
@@ -14068,6 +14074,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tunein.com/api/v1/log/
 ||tweakers.net/ajax/$ping
 ||twitter.com/1.1/jot/client_event.json
+||twitter.com/1.1/promoted_content/log.json
 ||twitter.com/9/measurement/
 ||twitter.com/i/csp_report?
 ||twitter.com/i/jot
@@ -24232,6 +24239,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||bol.com/tracking/
 ||businessinsider.nl^*/tr.php
 ||ds2.independer.nl^
+||expert.nl/daix.js
 ||folderz.nl/clickstream/
 ||kieskeurig.nl/collect
 ||kieskeurig.nl/track-
