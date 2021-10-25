@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-24T00:19:16.655Z
+! Last modified: 2021-10-25T00:18:47.149Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -297,7 +297,6 @@
 ||sectsenior.com^
 ||nhdfbupcbfnmue.com^
 ||blbhqqdfmvfsu.com^
-||42d61f012e27b36d53.com^
 ||cleverwebserver.com^
 ||adhooah.com^
 ||alienateaboard.com^
@@ -3734,6 +3733,7 @@ vkcdnservice.appspot.com^
 ||42297df5c090.com^
 ||42837932b3d.com^
 ||42a5d530ec972d8994.com^
+||42d61f012e27b36d53.com^
 ||42eed1a0d9c129.com^
 ||43137c93a82b0e81da.com^
 ||43d6f284d10bfbbb3.com^
@@ -10584,6 +10584,7 @@ vkcdnservice.appspot.com^
 ||lightlygavetusk.com^
 ||lightningcast.net^
 ||lightningprefacegrant.com^
+||likeads.com^
 ||likecontrol.com^
 ||likelycatchunhappy.com^
 ||likenessalmosteradicate.com^
@@ -18887,6 +18888,7 @@ vkcdnservice.appspot.com^
 ||tillertag-a.akamaihd.net^
 ||track.effiliation.com^
 ||vice-publishers-cdn.vice.com^
+||video-ads.a2z.com^
 ||weby.aaas.org^
 ||widget.searchschoolsnetwork.com^
 ||widget.sellwild.com^
@@ -19297,6 +19299,7 @@ vkcdnservice.appspot.com^
 ||live.hyprmx.com^
 ||marketplace-*.hyprmx.com^
 ||static.hyprmx.com^
+||prod.cm.publishers.advertising.a2z.com^
 ||events-*.op.hicloud.com^
 ||isnssdk.com^
 ||app.adjust.world^
@@ -26174,7 +26177,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
 !
 ! Non-flagged (Generic blocks)
-||a2z.com^
 ||adnext.co^
 ||adrtx.net^
 ||affvantage.com^
@@ -36597,6 +36599,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hnyny.com^
 ||hongchenzhilu.com^
 ||hongdianshijue.com^
+||hongruikt.com^
 ||hongtefm.com^
 ||hot-eam.com^
 ||houbaotech.cn^
@@ -37428,6 +37431,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xinhaogong.xyz^
 ||xinlongrubber.com^
 ||xinray.net^
+||xinyansaas.com^
 ||xiongdong.com^
 ||xiongzhangad.com^
 ||xk2012.com^
@@ -38514,6 +38518,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ma1.meishij.net^
 ||main.jiukang.org^
 ||materiel.baizhan.net^
+||materiel.junshidao.com^
 ||matwbp.iask.sina.com.cn^
 ||mb.gulongbbs.com^
 ||mbjb1.girl13.com^
@@ -38743,7 +38748,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||log57.top^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
@@ -39029,6 +39033,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||autobedo.com.cn^
 ||awtks.com^
 ||awyys.com^
+||axcdt.cn^
 ||axcdy.cn^
 ||axfrb.cn^
 ||axfvv.cn^
@@ -39424,11 +39429,19 @@ charlestownwyllie.oaklawnnonantum.com^
 ||eidsign.com.cn^
 ||ejd3q.life^
 ||fengzhilu.cn^
+||guangzhengtwo.top^
+||huaxiaozhang.club^
+||hxf1688.xyz^
 ||jsqhh.cn^
+||log57.top^
+||n258.cc^
 ||qmdllqv.cn^
 ||syxwj.cn^
+||tszhongtianshiji.com^
 ||vluvpdf.cn^
 ||ydgege.xyz^
+||z-xiao.xyz^
+||zhuozhongfangshui.cn^
 ||ejeenews.com^
 ||ekhdplgv.cn^
 ||ela42v.xyz^
