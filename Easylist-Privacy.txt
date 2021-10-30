@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110282353
+! Version: 202110300019
 ! Title: EasyPrivacy
-! Last modified: 28 Oct 2021 23:53 UTC
+! Last modified: 30 Oct 2021 00:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5617,6 +5617,7 @@ _mongo_stats/
 ||bidswitch.net^
 ||bkrtx.com^
 ||bluekai.com^
+||bmcdn2.com^
 ||bounceexchange.com^
 ||bydst.com^
 ||cloudwp.io^
@@ -5630,6 +5631,7 @@ _mongo_stats/
 ||dm-event.net^
 ||dmpxs.com^
 ||e1e.io^
+||emycewiw.xyz^
 ||enthusiastgaming.net^
 ||everesttech.net^
 ||experianmatch.info^
@@ -14048,7 +14050,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||telemetry.adobe.io^
 ||telemetry.api.playstation.com^
 ||telemetry.tradingview.com^
-||teleport-*.spankbang.com^
 ||tellerreport.com/react/pixel
 ||tgt.maep.ibm.com^
 ||thdstatic.com/data-collection/$domain=homedepot.com
@@ -14064,6 +14065,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tms.eharmony.ca^
 ||tnaflix.com/stats.php
 ||tongji.meizu.com^
+||tool*.spankbang.com^
 ||top.gg/api/auctions/impression
 ||top.wn.com^
 ||touch.myntra.com^
@@ -25589,6 +25591,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||pataks.pl/core,_assets$script,~third-party
 @@||polfan.pl/*/fingerprint2.min.js$script,~third-party
 @@||stat24.com/crossdomain.xml$domain=ipla.tv
+@@||staty.portalradiowy.pl/wstats/$script,third-party
 @@||unpkg.com/web-vitals/dist/web-vitals.base.iife.js$script,domain=wpolityce.pl
 @@||urbanowiczhaft.pl/wp-content/plugins/duracelltomi-google-tag-manager/$~third-party
 @@||wp.pl^*/dot.gif?$xmlhttprequest,domain=open.fm|wp.tv
