@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111060024
+! Version: 202111070041
 ! Title: EasyPrivacy
-! Last modified: 06 Nov 2021 00:24 UTC
+! Last modified: 07 Nov 2021 00:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3934,6 +3934,7 @@
 /stat/fe?
 /stat/inserthit.
 /stat/online-log
+/stat/rt/js?
 /stat/track_
 /stat/tracker.
 /stat/uvstat?
@@ -5702,6 +5703,7 @@ _mongo_stats/
 ||mdhv.io^
 ||mors22.com^
 ||mt48.net^
+||n0909.com^
 ||ns1p.net^
 ||nxakpj4ac8gkd53.info^
 ||omappapi.com^
@@ -5736,6 +5738,7 @@ _mongo_stats/
 ||trkbc.com^
 ||tru.am^
 ||truffle.bid^
+||tryzens-analytics.com^
 ||tvpixel.com^
 ||ugdturner.com^
 ||videoplayerhub.com^
@@ -6037,7 +6040,6 @@ _mongo_stats/
 ||baynote.net^$third-party
 ||baztrack.com^$third-party
 ||bbthat.com^$script,third-party
-||bc0a.com^$third-party
 ||bdash-cloud.com^$third-party
 ||beacon.kmi-us.com^$third-party
 ||beaconstreetservices.com^$third-party
@@ -10218,6 +10220,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.dev.htmedia.in^
 ||analytics.dev.springboardvideo.com^
 ||analytics.developer.riotgames.com^
+||analytics.digitalpfizer.com^
 ||analytics.disneyinternational.com^
 ||analytics.dvidshub.net^
 ||analytics.edgekey.net^
@@ -10393,6 +10396,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bazaarvoice.com^*/magpie.js
 ||bc.geocities.
 ||bc.marfeelcache.com^
+||bc0a.com/api/
+||bc0a.com/autopilot/
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^
 ||beacon.errorception.com^
@@ -10584,6 +10589,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cnzz.com/stat.
 ||cod.bitrec.com^
 ||coinbase.com/assets/application-*.js$third-party
+||collect-ap2.attraqt.io^
+||collect-eu.attraqt.io^
 ||collect.*.miui.com^
 ||collect.igodigital.com^$script
 ||collect.iteam-dress.com^
@@ -11374,6 +11381,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||metrics.brightcove.com^
 ||metrics.ctvdigital.net^
 ||metrics.getvitals.io^
+||metrics.pico.tools^
 ||metrics.readme.io^
 ||metrics.scribblelive.com^
 ||metrix.emagister.com^
@@ -11635,6 +11643,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||quora.com/qevents.js
 ||qzzr.com/_uid.gif
 ||r.mail.ru^$script
+||r.skimresources.com^
 ||rackcdn.com/gate.js
 ||rackcdn.com/stf.js
 ||radiotime.com/Report.ashx?
@@ -11880,6 +11889,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.sgc.io^
 ||t.sharethis.com^
 ||t.signalayer.com^
+||t.skimresources.com^
 ||t.smile.eu^
 ||t.spot.im^
 ||t2.t2b.click^
@@ -13285,6 +13295,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adc.api.nine.com.au^
 ||adc.nine.com.au^
 ||adguard.com/-/event/
+||adobe.io/system/log
 ||adv.drtuber.com^
 ||advancedmp3players.co.uk/support/visitor/index.php?
 ||affiliates.treasureisland.com^
@@ -25415,6 +25426,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||assets.adobedtm.com^$script,domain=mtvuutiset.fi
 @@||assets.strossle.com/strossle-widget-sdk/$script,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi
 @@||certona.net^*/resonance.js$domain=zooplus.fi
+@@||collectandgo.be^*/utag.sync.js
 @@||d2wzl9lnvjz3bh.cloudfront.net/frosmo.easy.js$domain=lippu.fi
 @@||dynamicyield.com/api/$script,domain=gigantti.fi
 @@||frosmo.com/recoApi/$xmlhttprequest,domain=lily.fi|meillakotona.fi|terve.fi
