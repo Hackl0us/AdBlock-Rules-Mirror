@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-08T00:19:09.221Z
+! Last modified: 2021-11-09T00:18:25.952Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,12 @@
 !
 ! The rules with hints are at the end of file
 !
+||uyechyymr.com^
+||zaomavzcoww.com^
+||kuhaswuwaiting.xyz^
+||mnsuseumco.xyz^
+||grimechethy.pro^
+||ihvdflxjtdsgnqb.xyz^
 ||assistvantp.biz^
 ||assurancelocusmat.com^
 ||awsimiledarent.xyz^
@@ -1347,7 +1353,6 @@
 ||bycelebian.com^
 ||rsalcau.com^
 ||erdecisesgeorg.info^
-||display.nativemedia.rs^
 ||belazyelephant.com^
 ||lightversionhotel.com^
 ||phethikapso.pro^
@@ -5256,6 +5261,7 @@ vkcdnservice.appspot.com^
 ||axhntisudyhmxjd.xyz^
 ||axill.com^
 ||axioux.com^
+||axp9.com^
 ||ay.delivery^
 ||ayads.co^
 ||ayahtyros.com^
@@ -5972,6 +5978,7 @@ vkcdnservice.appspot.com^
 ||buytieposer.com^
 ||buzzvids-direct.com^
 ||bvahezakk.com^
+||bviehlvfp.xyz^
 ||bvsxquec.xyz^
 ||bvtuuewvwi.com^
 ||bvwymqlhouxy.xyz^
@@ -6845,6 +6852,7 @@ vkcdnservice.appspot.com^
 ||critariatele.pro^
 ||criticbrass.com^
 ||criticismvillagegun.com^
+||crjpingate.com^
 ||crm4d.com^
 ||croakflabbyconsume.com^
 ||crocoads.com^
@@ -11562,6 +11570,7 @@ vkcdnservice.appspot.com^
 ||mrddz.xyz^
 ||mrelko.com^
 ||mrjb7hvcks.com^
+||mrqls.to^
 ||mrvio.com^
 ||mrzfjsbjj.com^
 ||mrzikj.com^
@@ -15676,6 +15685,7 @@ vkcdnservice.appspot.com^
 ||tmrjmp.com^
 ||tncomg.com^
 ||tncred.com^
+||tnnpkperngdhtv.xyz^
 ||tnvilqncje.com^
 ||tnwyjsgypjpc.com^
 ||tnzjsphdird.com^
@@ -18477,6 +18487,7 @@ vkcdnservice.appspot.com^
 ||mezaa.com^
 ||mibebu.com^
 ||microad.jp^
+||midas-network.com^
 ||mindlytix.com^
 ||mintake.com^
 ||mirago.com^
@@ -18499,6 +18510,7 @@ vkcdnservice.appspot.com^
 ||n2s.co.kr^
 ||nanigans.com^
 ||nativeads.com^
+||nativemedia.rs^
 ||nativeroll.tv^
 ||nativespot.com^
 ||neodatagroup.com^
@@ -20231,6 +20243,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||audienceplay.com^
+||fusedeck.net^
 ||trk-egestas.com^
 ||d41.co^
 ||tags.soloway.ru^
@@ -21281,7 +21295,8 @@ vkcdnservice.appspot.com^
 ||artefact.is^
 ||assoctrac.com^
 ||astro-way.com^
-||atatus.com^
+||bm-rx.atatus.com^
+||br-rx.atatus.com^
 ||athenainstitute.biz^
 ||atraxio.com^
 ||atsfi.de^
@@ -24430,6 +24445,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||dmc1acwvwny3.cloudfront.net^
 ||analytics.sports.ru^
 ||aegis.qq.com^
 ||views.romaniatv.net^
@@ -26178,6 +26194,17 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||t.castle.io^
+||tag.karte.io^
+||alogsus.umeng.com^
+||log*.happymod.com^
+||log.pvpgang.com^
+||adash.man.aliyuncs.com^
+||beacon-api.aliyuncs.com^
+||crs-event.line.me^
+||crs-hometab-event.line.me^
+||tr.gunosy.com^
+||tr.line.me^
 ||analytics.enjoymobiserver.com^
 ||api.reproio.com^
 ||log*.interactive-circle.jp^
@@ -26714,7 +26741,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||attributionapp.com^
 ||audience.systems^
 ||audiencepixel.com^
-||audienceplay.com^
 ||audio.sex^
 ||autoline-top.com^
 ||avapartner.com^
@@ -28323,7 +28349,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t.beopinion.com^
 ||t.bimvid.com^
 ||t.brand-server.com^
-||t.castle.io^
 ||t.cfjump.com^
 ||t.clic2buy.com^
 ||t.dgm-au.com^
@@ -28890,7 +28915,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||webvisor.com^
 ||wwgate.ru^
 ! Serbian
-||midas-network.com^
 ! Slovak
 ||algopine.com^
 ! Spanish
@@ -29424,6 +29448,10 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||aomngb.com^
+||q0mn5t187u.ru^
+||uwdvcn.com^
+||rotarb.bid^
 ||spads.me^
 ||bogrex.com^
 ||cozibaneco.com^
@@ -35232,8 +35260,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 Nov 2021 16:36 UTC+7
-! Version: 2111061636
+! Last modified: 08 Nov 2021 15:01 UTC+7
+! Version: 2111081501
 ! Blocked: 1.015 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -39342,6 +39370,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a3vy69.cn^
 ||a7lrf.xyz^
 ||a8cd.com^
+||a9324.cn^
 ||aa.wenxue6.com^
 ||aaan.xyz^
 ||aaaw.xyz^
@@ -39462,6 +39491,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||atuehome.cn^
 ||austinareahomeschoolers.com^
 ||autobedo.com.cn^
+||awleo.cn^
 ||awtks.com^
 ||awyys.com^
 ||axcdt.cn^
@@ -39516,6 +39546,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||beifmu.com^
 ||beizhoujt.cn^
 ||bentengcn.com^
+||benwfw.cn^
 ||better-better.com.cn^
 ||bgtrtv.top^
 ||bhyddc.com^
@@ -39551,6 +39582,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bjtengda.cn^
 ||bjxfinance.cn^
 ||bjygfd.com^
+||bjymall.cn^
 ||bjyyxywjm.cn^
 ||bjzcbx.com^
 ||bjzshy.cn^
@@ -39928,6 +39960,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hypnos04.com^
 ||hzghyt.cc^
 ||hzzydb.cn^
+||idmee.cn^
 ||ih740.cn^
 ||intell.work^
 ||iprpe.cn^
@@ -39949,6 +39982,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kbtsogi.cn^
 ||ke94.com^
 ||khuokpj.cn^
+||ki47.com^
 ||ki74.com^
 ||kjhzwvq.cn^
 ||kjtol.cn^
@@ -39974,15 +40008,18 @@ charlestownwyllie.oaklawnnonantum.com^
 ||oajxkah.cn^
 ||owdfxgc.cn^
 ||pcshijie.cn^
+||pflhnpu.cn^
 ||pj16t.cn^
 ||poedlov.cn^
 ||powerchase.online^
 ||pzsq.xyz^
 ||qiaobaba.top^
+||qibalmm.com^
 ||qingyulin.top^
 ||qmdllqv.cn^
 ||qorosmall.com^
 ||qq163com.cn^
+||quqianlai.cn^
 ||qzgs99.cn^
 ||rcjww9.xyz^
 ||rhxshop.com^
@@ -39990,6 +40027,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rt354.cn^
 ||rylcbwg.cn^
 ||sanwukeji.xyz^
+||sg01.top^
 ||sgaga.xyz^
 ||shareman.xyz^
 ||sherrycha.cn^
@@ -39998,6 +40036,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sqmydhk.cn^
 ||sssyao.cn^
 ||sthyhj.cn^
+||sunmartkj.cn^
 ||sxgbwlkjkj.xyz^
 ||sxzchs.cn^
 ||syxwj.cn^
@@ -40005,6 +40044,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tba4.cn^
 ||tbi7.cn^
 ||tbl1.cn^
+||tccb71h.cn^
 ||tework.cn^
 ||tg745.cn^
 ||thechosen1.cn^
@@ -40016,6 +40056,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tsia1114.top^
 ||tszhongtianshiji.com^
 ||tw5k2vc.cn^
+||tzjovzs.cn^
 ||u5274.cn^
 ||umis.top^
 ||uqbmzwv.cn^
