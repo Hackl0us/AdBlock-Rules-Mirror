@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8TMkEl7aTu4CcaEyHByJ6g
-! Version: 202111160037
+! Checksum: h5gBmfQ8CBObmtQnbz4PQg
+! Version: 202111170037
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 16 Nov 2021 00:37 UTC
+! Last Modified: 17 Nov 2021 00:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1399,6 +1399,7 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 -*-*-*-*.panda^$script,third-party
+||haokan3.cn^
 .8ox.cn
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
@@ -3285,6 +3286,7 @@ ubmcmm.baidustatic.com
 ||rou1.xyz^
 ||rqgsf.com^
 ||rrsubway.com^
+||rsctljb.cn^
 ||rscxwmj.cn^
 ||ruanwenclub.com^$third-party
 ||ruigezx.com^
@@ -7473,14 +7475,13 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||mydrivers.com/images/hongbao
 ||mydrivers.com/images/icon/gg_
 ||mydrivers.com/m/apptuijian.
-||mydrivers.com/news/*/aly
 ||mydrivers.com/news/*843x80.
 ||mydrivers.com/news/*jd.png
 ||mydrivers.com/news/2017/db_
 ||mydrivers.com/news/2018/contentfoot.png
-||mydrivers.com/news/2018/wangluodianshi.gif
 ||mydrivers.com/news/taobao_tab.jpg
 ||mydrivers.com/www/gg_
+||mydrivers.com^*/aly11
 ||mydrivers.com^*/hb/m_tm
 ||mydrivers.com^*/kkj_db_
 ||mydrivers.com^*/news/ayun
@@ -16414,6 +16415,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||tech.jiukang.org^
 ||thetestpage.39.net^
 ||tiexing.com^$third-party
+||tonghuaji.com^
 ||tongj.xilu.com^
 ||top2099.com^
 ||trebleperfect.com^$third-party
@@ -16801,14 +16803,14 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||libs.baidu.com^$domain=0794.org|0biquge.com|12zw.la|138txt.net|18xs.org|1biqu.com|1kanshu.org|230book.net|23hh.com|23sk.com|23wxx.com|258zw.com|27xsw.com|30syy.com|33yq.org|37shuwu.net|3yt.com|477zw.co|52biquge.com|5ccc.tw|63xs.org|73zw.cc|777zw.net|81book.com|81zw.me|877zw.com|99mk.com|aixswx.com|aomolit.com|aoyuge.com|balingtxt.com|baoshuu.com|biduoxs.com|bimiwuu.com|biqiugege8.com|biqudu.tv|biquge.lu|biquge11.com|biquge775.com|biquge98.net|biqugecd.com|biqugee.com|biqugesc.com|biquka.com|biqusan.com|bixia.org|bodekang.net|boluoxs.com|botaodz.com|bqktxt.com|bshuku.com|bxwx.org|bxwx.tw|bxwx8.la|bxwxorg.com|clewx.com|day66.com|ddxsku.com|dushuge.org|faquge.com|gdbzkz.com|guaili.org|guanshu.cc|hatxt.com|hbfie.org|heikexs.com|heiyanwang.com|hongyeshuzhai.com|hongyeshuzhal.com|huixsw.com|hybiquge.com|ibiquta.com|ibswtan.com|imiaobige.com|ishisetianxia.com|ishubao.org|ixs.la|jianlaixiaoshuo.com|jx.la|kankezw.com|kkbiqu2.com|liewen.la|lindiankanshu.cc|liuxs.la|loubiqu.com|lwsktxt.com|lwtxt.net|mhtwx.la|mubige.com|paoshu8.com|paoshuzw.com|piaotianxs.com|pksge.com|qbiqu.com|qbxs8.net|qianqianxsw.net|qianrenge.cc|qiuyewx.com|qr1234.com|quge6.com|quledu.net|qushuba.com|rmxsba.com|shenshuxs.com|shu008.com|shuhaiwu.com|shumil.co|shuquge.com|silukew.com|siluwx.org|sizhicn.com|sobiquge.com|soxscc.com|ttzw.tv|tutengzw.com|txshuku.la|txtshuku.org|tycqge.com|u33.me|vipsk.org|wbxsw.com|wenxuem.com|wurexs.com|x23us.me|x81zw.co|xbiqugecc.com|xbiquke.com|xbiquwx.la|xbqge.net|xdingdiann.com|xiaoshuwu5.com|xiaxs.la|xieyixs.com|xinshuhaige.net|xinxs.la|xs5200.com|xs98.com|xsbiqu.com|xsbiqugew.com|xsqishu.com|xszww.com|xuanshu.com|xuehongxs.com|xyusk.com|yanqing888.org|yikanxiaoshuoa.com|yruan.com|yssm.info|yunxs.com|zaodk.com|zbzw.la|zhnxcw.com|zhuaji.org|zmccx.com|zzs5.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
-||gzgxbmh.cn^
-||mlgsoji.cn^
-||lhxwnzht.cn^
+||anfcadf.cn^
+||tivfcaa.cn^
 ###asdw3
 ###asdw3 + img + :not(div)
 ###chaptername + div > div[style="padding:10px;border-radius:10px;background-color:green;"]
 ###content > div[style="padding:10px!important;border-radius:10px;background-color:green;"]
 ###downdiv > .downcode
+||ilmwi.cn^
 ###gudingweiDiv
 ###htmlContent > div[style="padding:10px;border-radius:10px;background-color:green;"]
 ##.appguide-wrap[onclick*="bcebos.com"]
@@ -17070,6 +17072,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||7ebzw9v.cn^
 ||7ez4.cn^
 ||7j7jv5.cn^
+||7kzod8.cn^
 ||7times.top^
 ||81book.com/static/scripts/1.js
 ||81book.com/static/scripts/common.
@@ -17286,6 +17289,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||bangdu2.com^
 ||bangxin.xyz^
 ||banma51.cn^
+||banxf.com^
 ||baodc.com^
 ||baogames.cn^
 ||baojiada.vip^
@@ -17322,6 +17326,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||bentengcn.com^
 ||benwfw.cn^
 ||benybw.cn^
+||best-eye.cn^
 ||betohomeall.com^
 ||better-better.com.cn^
 ||betylife.com^
@@ -17385,6 +17390,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||boweineng.cn^
 ||boxin1688.cn^
 ||boxix.online^
+||boyh5d.cn^
 ||bozhu.shop^
 ||bqhnj.cn^
 ||bqsm.com.cn^
@@ -17479,6 +17485,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||chinayutai.cn^
 ||chinazhaoye.com^
 ||chkwwg.cn^
+||chmc.xyz^
 ||chongnikeji.com^
 ||chongyuelighting.cn^
 ||chqsw.cn^
@@ -17742,8 +17749,11 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||guyun03.cn^
 ||gwmeinq.cn^
 ||gwyvvjj.cn^
+||gzgxbmh.cn^
+||haojun.info^
 ||hardened.top^
 ||hardiness.top^
+||hbeqnte.cn^
 ||hbggcm.com^
 ||hbscjh.cn^
 ||hbxxw.vip^
@@ -17787,6 +17797,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||jzuyfp8.cn^
 ||k7ab5n4.cn^
 ||kanglaijd.cn^
+||katelin.top^
 ||kbtsogi.cn^
 ||ke94.com^
 ||kershop.ren^
@@ -17802,6 +17813,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||laiyangalibaba.cn^
 ||lbts.ltd^
 ||leqfgnb.cn^
+||lhxwnzht.cn^
 ||lingquan.vip^
 ||lnwhh.com^
 ||lofe.shop^
@@ -17820,6 +17832,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||misstang.vip^
 ||mjywk.cn^
 ||mjzsw.vip^
+||mlgsoji.cn^
 ||mnsd.xyz^
 ||msiqhvl.cn^
 ||myyuye.club^
@@ -17868,6 +17881,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||rocm0c.site^
 ||rt354.cn^
 ||rylcbwg.cn^
+||s1utu5g.cn^
 ||sanwukeji.xyz^
 ||scenegame.cn^
 ||sg01.top^
@@ -17963,6 +17977,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||zkczbti.cn^
 ||zongjiangc.top^
 ||zongjiangd.top^
+||zrbl21.cn^
 ||zrwba.cn^
 ||zzkbsm.cn^
 !||ejee.xyz^
