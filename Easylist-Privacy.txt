@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111220010
+! Version: 202111230015
 ! Title: EasyPrivacy
-! Last modified: 22 Nov 2021 00:10 UTC
+! Last modified: 23 Nov 2021 00:15 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -942,7 +942,9 @@
 /beacon/event/*
 /beacon/event?
 /beacon/get/*
+/beacon/init?
 /beacon/metrics
+/beacon/page?
 /beacon/perf
 /beacon/portal-lite?
 /beacon/stats
@@ -5304,6 +5306,7 @@ cgi-bin/counter
 .doubleclick.net/$image
 .duolingo.com/open/
 .efeedbacktrk.com/$third-party
+.email.*/tr/op/$image
 .emltrk.com/
 .epicgames.com/O/
 .eventim.de/op/$image
@@ -5625,6 +5628,8 @@ _mongo_stats/
 ||agkn.com^
 ||altopd.com^
 ||analysis.fi^
+||apeagle.io^
+||apenterprise.io^
 ||apxl.io^
 ||auriro.net^
 ||ayc0zsm69431gfebd.info^
@@ -5637,6 +5642,8 @@ _mongo_stats/
 ||bmcdn2.com^
 ||bonne-terre-data-layer.com^
 ||bounceexchange.com^
+||briskeagle.io^
+||briskpelican.io^
 ||bydst.com^
 ||cloudwp.io^
 ||cpx.to^
@@ -5655,7 +5662,11 @@ _mongo_stats/
 ||everesttech.net^
 ||experianmatch.info^
 ||ezodn.com^
+||fastemu.co^
 ||faster-trk.com^
+||fastfinch.co^
+||fastgull.io^
+||fasttiger.io^
 ||fn-pz.com^
 ||g1584674682.co^
 ||g2178927685.co^
@@ -5679,6 +5690,7 @@ _mongo_stats/
 ||impactradius-event.com^
 ||imrworldwide.com^
 ||innerskinresearch.com^
+||instantfox.co^
 ||irs01.com^
 ||krxd.net^
 ||ldnlyap.com^
@@ -5691,6 +5703,9 @@ _mongo_stats/
 ||mors22.com^
 ||mt48.net^
 ||n0909.com^
+||niblewren.co^
+||nimblebird.co^
+||nimbleswan.io^
 ||ns1p.net^
 ||nxakpj4ac8gkd53.info^
 ||omappapi.com^
@@ -5705,7 +5720,10 @@ _mongo_stats/
 ||pubtm.com^
 ||quantserve.com^
 ||quickanalytics.ca^
+||quickkoala.io^
 ||r42tag.com^
+||rapidpanda.io^
+||rapidzebra.io^
 ||rezync.com^
 ||rkdms.com^
 ||rlcdn.com^
@@ -5717,6 +5735,8 @@ _mongo_stats/
 ||site24x7rum.eu^
 ||sjpf.io^
 ||solutionshindsight.net^
+||speedyfox.io^
+||speedyrhino.co^
 ||stat.ovh^
 ||summerhamster.com^
 ||syteapi.com^
@@ -5727,14 +5747,18 @@ _mongo_stats/
 ||tru.am^
 ||truffle.bid^
 ||tryzens-analytics.com^
+||turboeagle.co^
+||turbolion.io^
 ||tvpixel.com^
 ||ugdturner.com^
 ||videoplayerhub.com^
 ||wknd.ai^
 ||wmgroup.us^
+||woodpeckerlog.com^
 ||z0uolej1qnxzub1.info^
 ||zdbb.net^
 ||zhctrack.net^
+||zippyfrog.co^
 ||zoomhead.xyz^
 ||zqtk.net^
 ! Third-party
@@ -5942,6 +5966,7 @@ _mongo_stats/
 ||antillephone.com^$third-party
 ||anura.io^$third-party
 ||anymind360.com^$third-party
+||anytrack.io^$third-party
 ||apexstats.com^$third-party
 ||apextag.com^$third-party
 ||apextwo.com^$third-party
@@ -11079,6 +11104,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||apester.com/event^
 ||api-iam.intercom.io/messenger/web/metrics
 ||api-location-prd.pelcro.com^$domain=newsweek.com
+||api.autopilothq.com^
 ||api.bit.ly/*/clicks?$third-party
 ||api.blink.net/a/
 ||api.carrottrack.io^$third-party
@@ -11230,6 +11256,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||canvas-usage-v2.conduit-data.com^
 ||capi.connatix.com/rtb/
 ||capi.connatix.com/tr/
+||capture-api.ap3prod.com^
 ||capture.condenastdigital.com^
 ||capture.trackjs.com^$third-party
 ||carambo.la/analytics/
@@ -12374,6 +12401,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||privacy-center.org^*/events
 ||privacy.outdoorsg.com^
 ||processor.asccommunications.com^
+||prod.ew.srp.navigacloud.com^
 ||proxy.dzeio.com^
 ||proxycheck.io/v2/
 ||pswec.com/px/$third-party
@@ -12465,6 +12493,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||run.app/data.log?
 ||run.app/metrics/
 ||s-microsoft.com/mscc/$~stylesheet
+||s.autopilotapp.com^
 ||s.beop.io^
 ||s.clickability.com^
 ||s.clickiocdn.com^
@@ -12675,6 +12704,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tag.brandcdn.com^
 ||tag.elevaate.io^
 ||tag.flagship.io^
+||tag.mtrcs.samba.tv^
 ||tag.myplay.com^
 ||tag.rightmessage.com^
 ||tag.rmp.rakuten.com^
@@ -14939,6 +14969,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||usmetric.rediff.com^
 ||usnews.com/static/esi/usn-geo.json
 ||vanityfair.com/user-context?referrer
+||views.arabnews.com^
 ||vimeo.com/ablincoln/
 ||vimeocdn.com/js_opt/logging_combined.min.js
 ||visit.theglobeandmail.com^
