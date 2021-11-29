@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111271627
+! Version: 202111290019
 ! Title: EasyPrivacy
-! Last modified: 27 Nov 2021 16:27 UTC
+! Last modified: 29 Nov 2021 00:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14216,9 +14216,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||atrack.allposters.com^
 ||ats.alot.com^
 ||avitop.com/aviation/hitlist.asp
+||b.wal.co/rum.js$domain=samsclub.com
 ||baidu.com^*/mwb2.gif?
 ||baidu.com^*/wb.gif?
 ||bandcamp.com/api/tracker/
+||bandcamp.com/stat_record
 ||banggood.com/collectBanner?
 ||banggood.com/collectException
 ||bangkokpost.com/hits/
@@ -14228,6 +14230,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bcbits.com/bundle/bundle/1/analytics-$domain=bandcamp.com
 ||bcbits.com/bundle/bundle/1/impl-$domain=bandcamp.com
 ||bdt.123rf.com^
+||beacon.samsclub.com^
 ||beacon.shazam.com^
 ||beacon.shutterfly.com^
 ||beacon.walmart.com^
@@ -14529,6 +14532,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||irs.gov/h4z97Hz8jMrNO/
 ||isharemetric.rediff.com^
 ||itweb.co.za/analytics/
+||j927.statnews.com^
 ||javhd.com/ascripts/gcu.js
 ||jiji.co.ke/tag_event
 ||jumbo.zomato.com^
@@ -14567,6 +14571,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||log.genyt.net^
 ||log.hypebeast.com^
 ||log.mappy.net^
+||log.mgtv.com^
 ||log.optimizely.com^
 ||log.quora.com^
 ||log.snapdeal.com^
@@ -14581,6 +14586,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lookawoman.com/t/
 ||ma.redhat.com^
 ||mailing.enews.extremetech.com^$image
+||mangadex.org/p.js
 ||mapquest.com/logger
 ||marketing.alibaba.com^
 ||marketing.dropbox.com^
@@ -15180,6 +15186,7 @@ techxplore.com##.embed-responsive-trendmd
 ||nyxcosmetics.com/IZ/PXLZNv2dn4/init.js
 ||octopart.com/kdRQnL15/init.js
 ||priceline.com/9aTjSd0n/init.js
+||samsclub.com/px/PXsLC3j22K/init.js
 ||seekingalpha.com/xgCxM9By/init.js
 ||simon.com/46SCNLxs/init.js
 ||skechers.com/dL6GOSf9/init.js
