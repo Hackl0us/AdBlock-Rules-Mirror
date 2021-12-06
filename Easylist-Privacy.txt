@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112050016
+! Version: 202112060034
 ! Title: EasyPrivacy
-! Last modified: 05 Dec 2021 00:16 UTC
+! Last modified: 06 Dec 2021 00:34 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8539,6 +8539,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||whiteclick.biz^$third-party
 ||wnpbdan.bid^$third-party
 ||wonderpush.com^$third-party
+||wpshsdk.com^
 ||wwclickserv.club^$third-party
 ||wwclicktm.club^$third-party
 ||xtremepush.com^$third-party
@@ -9040,6 +9041,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||colossalclouds.com^
 ||colossalcoat.com^$third-party
 ||combativedetail.com^
+||combbelief.com^
 ||combbit.com^
 ||combclover.com^
 ||comfortablecheese.com^
@@ -9304,6 +9306,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||harborcub.com^
 ||hardtofindmilk.com^
 ||hatefulrequest.com^
+||hauntlist.com^
 ||headyhook.com^
 ||hearthorn.com^$third-party
 ||heavyplayground.com^
@@ -9603,6 +9606,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||reconditeprison.com^
 ||reconditerake.com^$third-party
 ||reconditerespect.com^
+||recordbutter.com^
 ||referdriving.com^
 ||reflectivereward.com^
 ||regularplants.com^$third-party
@@ -9641,6 +9645,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sablesong.com^$third-party
 ||sailsuit.com^
 ||samestretch.com^
+||sandinsect.com^
 ||satisfycork.com^
 ||satisfyingshow.com^
 ||satisfyingspark.com^
@@ -9734,6 +9739,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||snailsengine.com^
 ||snakemineral.com^
 ||snakesshop.com^
+||snakesstone.com^
 ||sneakystew.com^
 ||snoresmile.com^
 ||soaprange.com^
@@ -12582,7 +12588,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||s.srvsynd.com^
 ||sa.scorpion.co^
 ||sail-horizon.com/horizon/$third-party
-||sail-horizon.com/spm/
 ||sailthru.com/img/$image,third-party
 ||sailthru.com/Sailthru_spacer_1x1.gif
 ||sajari.com/js/sj.js$third-party
@@ -12747,6 +12752,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||svc.dynamics.com/f/m/$third-party
 ||svc.dynamics.com/t/w$third-party
 ||svnlnk.com/aff/trk.html
+||swarm.video/track/
 ||swiftypecdn.com/cc.js$third-party
 ||swiftypecdn.com/te.js$third-party
 ||sync.adap.tv^
@@ -25883,6 +25889,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||musiclab.chromeexperiments.com/bin/lib/angulartics-google-analytics.js
 @@||natureetdecouvertes.com^*/pixel.png$~third-party
 @@||online.tivo.com/assets/tve/common/js/vendor/jsnlog/$script,~third-party
+@@||onlinebanking.usbank.com/TUX/public/libs/adobe/appmeasurement.js$script,~third-party
 @@||oyster.com/wp-content/plugins/smartertravel-shared/assets/js/tracking.min.js$~third-party
 @@||realtor.com/rentals/api/optimizely.js$script,~third-party
 @@||shop.bmw.com.au/assets/analytics-setup.js$~third-party
@@ -26517,6 +26524,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com
 @@||matsukiyo.co.jp^*/js/analytics/GoogleTagManager.js$~third-party
 @@||mediaweaver.jp^$image,domain=ismedia.jp
+@@||muumuu-domain.com/common/js/ga_social_tracking.js
 @@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp
 @@||nihongo.alc.co.jp/theme/Japanese/img/home/nf/us.gif$image,~third-party
 @@||o-uccino.jp/api/v2/collector?$xmlhttprequest,domain=o-uccino.com
