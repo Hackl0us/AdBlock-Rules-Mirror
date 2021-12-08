@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112070021
+! Version: 202112072353
 ! Title: EasyPrivacy
-! Last modified: 07 Dec 2021 00:21 UTC
+! Last modified: 07 Dec 2021 23:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -506,10 +506,10 @@
 /amp-access/set?
 /amp-analytics-
 /amp-analytics/*
-/amp-geo-
 /amp-omniture-iframe?
 /amp-skimlinks-
 /amp.gif?
+/amp/?rid=
 /amp/analytics
 /amp/log.json
 /amp/pingback?
@@ -1881,6 +1881,7 @@
 /firebase-performance-
 /firestats/*
 /firm_tracking.js
+/fit?analyticsSession=
 /fkounter/*
 /fkounter5/*
 /flash-cookies/*
@@ -2505,6 +2506,7 @@
 /js/tracking?
 /js/tracking_
 /js/trk_
+/js?event=page&
 /js_event_tracking/*
 /js_gpt.
 /js_hotlink.php?
@@ -2521,6 +2523,7 @@
 /jsnlog.min.js
 /json/stats?
 /json/tracking/*
+/json?mbox=
 /json?referer=
 /jsonp_geoip?
 /jsstat.
@@ -3883,6 +3886,7 @@
 /snowplow.js$script,third-party
 /snowplow/*$script
 /snowplow_$script
+/snowplowjs.
 /social_tracking.
 /socialButtonTracker.
 /SocialSharingTracking.
@@ -5215,6 +5219,7 @@
 ?event=impressions&
 ?event=log&
 ?event=pageview&
+?event=performance&
 ?event=performancelogger:
 ?event=tracking:ajax
 ?eventtype=impression&pid=
@@ -12859,6 +12864,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tr.datatrics.com^
 ||tr.interlake.net^
 ||tr.marsflag.com^
+||tr.snapchat.com^
 ||tr.webantenna.info^
 ||tr1.mailperformance.com^
 ||tra.scds.pmdstatic.net/sourcepoint/
@@ -14371,6 +14377,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||data.younow.com^
 ||dc.banggood.com^
 ||dcf.espn.com/privacy/
+||dd.auspost.com.au^
 ||dd.lendup.com^
 ||dealnews.com/lw/ul.php
 ||deepl.com/web/statistics
@@ -14525,6 +14532,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||groupondata.com/tracky
 ||gsght.com/twizards.js
 ||gtreus.aliexpress.com^
+||gumtree.com.au/tracking/
 ||gurgle.pcmag.com^
 ||hanaana.socialblade.com^
 ||hankookilbo.com/service/kt/trk.js$script,domain=koreatimes.co.kr
@@ -15255,6 +15263,7 @@ techxplore.com##.embed-responsive-trendmd
 ||upwork.com/Ss13U803/init.js
 ||walmart.ca/px/PXnp9B16Cq/init.js
 ||walmart.com/px/PXu6b0qd2S/init.js
+||wayfair.com/px/client/main.min.js
 ||wine-searcher.com/K6S8okp3/init.js
 ||worthpoint.com/lIUjcOwl/init.js
 ||zazzle.ca/a0o07ort/init.js
@@ -24905,6 +24914,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||geoip.finanzen.net^
 ||golem.de/staticrl/scripts/golem_cpxl_
 ||hartgeld.com/cgi-sys/Count.cgi?
+||hokuspokus.tarnkappe.info^
 ||horizont.net/stats/
 ||inside-channels.ch/proxy/engine/api/v1/auth/ping/
 ||inside-it.ch/proxy/engine/api/v1/auth/ping/
@@ -24932,6 +24942,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||stats.t-online.de/include-ivw-agof-szmng-js/
 ||subpixel.4players.de^
 ||t.wayfair.de^
+||tagm.eduscho.at^
 ||track.dws.de^
 ||track.express.de^
 ||track.noz.de^
@@ -25225,6 +25236,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||vatrack.hinet.net^
 ||vipstatic.com/mars/
 ||weather.com.cn/a1.js
+||web-player-tracker.biliapi.net^
 ||webstat.kuwo.cn^
 ||weiyun.com/cgi-bin/tianshu_report
 ||weiyun.com/proxy/domain/boss.qzone.qq.com/fcg-bin/fcg_rep_strategy?
@@ -25839,7 +25851,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||akamaihd.net^*/analyticssdk.js$script,domain=ubisoft.com
 @@||akamaized.net^*/resource/assets/$xmlhttprequest,domain=funplusgame.com
 @@||amazonaws.com/production$xmlhttprequest,domain=ipa-reader.xyz
-@@||ampproject.org/v0/amp-geo-$script,domain=9to5google.com|9to5mac.com|dronedj.com|electrek.co|forbes.com|napavalleyregister.com|pantagraph.com|spaceexplored.com|tasty.co
 @@||analytics.amplitude.com^$~third-party
 @@||analytics.edgekey.net/ma_library/html5/html5_malibrary.js$script,domain=mxplayer.in
 @@||analytics.itunes.apple.com^$~third-party
@@ -25876,7 +25887,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||catalogue.jbhifi.com.au^*/static/analytics.js$script,~third-party
 @@||cdn.cxense.com^$script,domain=bizjournals.com|bloombergquint.com|marketwatch.com
 @@||cleverpush.com/channel/$script,domain=bsdex.de
+@@||cloudmaestro.com^$script,domain=overtone.co
 @@||community.brave.com/t/$xmlhttprequest
+@@||coxbusiness.com/R136/assets/newrelic/newrelic.js$~third-party
 @@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/
 @@||d1km2unb2600pw.cloudfront.net/assets/tracking-history-popup-$script,domain=collectplus.yodel.co.uk
 @@||d2wy8f7a9ursnm.cloudfront.net^$script,domain=staples.ca
