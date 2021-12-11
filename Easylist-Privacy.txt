@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112092312
+! Version: 202112102327
 ! Title: EasyPrivacy
-! Last modified: 09 Dec 2021 23:12 UTC
+! Last modified: 10 Dec 2021 23:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2659,6 +2659,7 @@
 /log/report/*
 /log/sentry/*
 /log/server?
+/log/track/*
 /log/ux_analytics^
 /log/web?
 /log2.php?
@@ -13627,6 +13628,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||etwun.com:8080/counter.php?
 ||fourier.taobao.com^
 ||g.yccdn.com^
+||ga.giuem.com^
 ||gias.jd.com/js/td.js
 ||haostat.qihoo.com^
 ||hudong.com/flux.js
@@ -13710,6 +13712,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||r2b2.cz/events.php?
 ||ssp.seznam.cz^
 ||stat.cncenter.cz^
+||stat.kununu.cz^$third-party
 ||stat.ringier.cz^$third-party
 ||t.leady.com^
 ||t.leady.cz^
@@ -26063,6 +26066,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||kentucky.com/mistats/finalizestats.js$~third-party
 @@||kohls.com/ecustservice/js/sitecatalyst.js$script,~third-party
 @@||lacoste.com/on/demandware.static/*/click-analytics.js$~third-party
+@@||languagecloud.sdl.com/node_modules/fingerprintjs2/dist/fingerprint2.min.js
 @@||legendstracking.com/js/legends-tracking.js$~third-party
 @@||lenovo.com/_ui/desktop/common/js/AdobeAnalyticsEvent.js$script,~third-party
 @@||linksynergy.com/minified_logic.js$third-party,xmlhttprequest
@@ -26332,6 +26336,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||connect.facebook.net^*/fbevents.js$domain=elinoi.com
 @@||forecast.lemonde.fr/p/event/pageview?$image,~third-party
 @@||gdpr-tcfv2.sp-prod.net^$script,domain=voici.fr
+@@||getjad.io/library/$script,domain=allocine.fr
 @@||getviously.com/js$script,domain=consoglobe.com|futura-sciences.com|gentsu.fr|gossip-room.fr|wamiz.com
 @@||google-analytics.com/analytics.js$domain=infoconso-multimedia.fr|viandesuisse.ch
 @@||googletagmanager.com/gtm.js$script,domain=chronopost.fr|linternaute.com|sciencesetavenir.fr|wamiz.com
@@ -26340,13 +26345,10 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||maxmind.com^*/geoip2.js?$script,domain=dcshoes.fr
 @@||pmdstatic.net/advertising-$script,xmlhttprequest,domain=programme-tv.net
 @@||quantcast.mgr.consensu.org/tcfv2/cmp2.js$script,domain=cnews.fr
-@@||s-sfr.fr/stats/header.js$script,domain=sfr.fr
+@@||s-sfr.fr/stats/header.js$script,domain=red-by-sfr.fr|sfr.fr
 @@||script.ownpage.fr/v1/ownpage.js?$script,domain=lci.fr
 @@||static.lci.fr/assets/scripts/common/tracker.js?$script,~third-party
 @@||static.lci.fr/assets/scripts/common/user-agent-analyzer.js$script,~third-party
-@@||static.s-sfr.fr/eTagP/$image,~third-party
-@@||static.s-sfr.fr/stats/footer.js$script,~third-party
-@@||static.s-sfr.fr/stats/header.js$script,~third-party
 @@||tag.aticdn.net/583901/at.js$script,domain=tv5monde.com
 @@||tag.aticdn.net^*/smarttag.js$domain=gouv.fr|mon.compteczam.fr
 @@||tra.scds.pmdstatic.net/sourcepoint/$domain=businessinsider.fr|voici.fr
