@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112140036
+! Version: 202112150025
 ! Title: EasyPrivacy
-! Last modified: 14 Dec 2021 00:36 UTC
+! Last modified: 15 Dec 2021 00:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12103,6 +12103,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||jotform.io/getReferrer/$third-party
 ||js-agent.newrelic.com^
 ||jsdelivr.net/gh/sensitiveio/sbtracker@master/
+||jsdelivr.net^*/fp.min.js
 ||jsrdn.com/s/1.js
 ||k.keyade.com^
 ||k.streamrail.com^
@@ -25091,6 +25092,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||funshion.com/interface/
 ||gia.jd.com^
 ||gk.sina.cn^
+||h5log.zongheng.com^
 ||hdslb.com/images/isptrack.js
 ||hhytrace.sogoucdn.com^
 ||his.tv.sohu.com/his/ping.do?
@@ -25118,6 +25120,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||log.kuwo.cn^
 ||log.m.sm.cn^
 ||log.sina.cn^
+||log.zongheng.com^
 ||log1.17173.com^
 ||log2.sina.cn^
 ||loginlog.sdo.com^
@@ -25174,7 +25177,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||qq.com/report|
 ||qq.com/stdlog
 ||qreport.qunar.com^
+||qzone.qq.com/iframe/report
 ||qzone.qq.com/wspeed.qq.com^
+||qzonestyle.gtimg.cn/qzone/v8/ic/iframeReport.js
 ||rcgi.video.qq.com^
 ||rec.udn.com^
 ||referer.pixplug.in^
@@ -25279,6 +25284,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||zhihu-web-analytics.zhihu.com^
 ||zhihu.com/zbst/events/
 ||zio.xcar.com.cn^
+||zongheng.com^*/logger.min.js
 ||zz.bdstatic.com^
 ! Croatian
 ||avaz.ba/update/hits/
@@ -25908,6 +25914,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||cdn.cxense.com^$script,domain=bizjournals.com|bloombergquint.com|marketwatch.com
 @@||cleverpush.com/channel/$script,domain=bsdex.de
 @@||cloudmaestro.com^$script,domain=overtone.co
+@@||cnet.com/a/video-player/uvpjs-rv/$script,~third-party
 @@||community.brave.com/t/$xmlhttprequest
 @@||coxbusiness.com/R136/assets/newrelic/newrelic.js$~third-party
 @@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/
