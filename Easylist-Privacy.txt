@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112190007
+! Version: 202112200030
 ! Title: EasyPrivacy
-! Last modified: 19 Dec 2021 00:07 UTC
+! Last modified: 20 Dec 2021 00:30 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -564,6 +564,7 @@
 /analytics-pusher/*
 /analytics-savebt?
 /analytics-scripts.
+/analytics-sdk.
 /analytics-secure.
 /analytics-sendEvent
 /analytics-social.
@@ -3060,6 +3061,7 @@
 /o.jpg?*&ref=
 /o_code.js
 /o_tealium.
+/oa-tracking?
 /oas_analytics.
 /object_stats.
 /obPixelFrame/*
@@ -4058,6 +4060,7 @@
 /stats/adonis_
 /stats/api/collect
 /stats/article?
+/stats/bezoek_count.php
 /stats/collect?
 /stats/collector.js
 /stats/common/*
@@ -4324,12 +4327,15 @@
 /track/alooma-
 /track/batch?
 /Track/Capture.aspx?
+/track/client-event/*
+/track/client-events
 /track/cm?
 /track/component/*
 /track/count*js
 /track/count/*
 /track/event/*
 /track/hit.gif
+/track/identity?
 /track/imp?
 /track/impression/*
 /track/impression?
@@ -11069,6 +11075,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||amazonaws.com/prod/report-only
 ||amazonaws.com/production_beacon
 ||amazonaws.com/searchdiscovery-satellite-production/
+||amazonaws.com/storejs/a/JKRHRQG/ge.js
 ||amp-error-reporting.appspot.com^
 ||amplify.outbrain.com^$third-party
 ||amplifypixel.outbrain.com^
@@ -14387,6 +14394,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||crayfish.thingelstad.com^
 ||creately.com/static/js/creately-analytics-
 ||crta.metro.co.uk^
+||crunchyroll.com/tracker?
 ||cstats.sankakucomplex.com^
 ||cultofmac.com/djrxqhzkbsgf.js
 ||cvs.com/tnadstlinj.js
@@ -14634,6 +14642,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kohls.com/test_rum_nv?
 ||kompass.com/logAdvertisements
 ||l.usaa.com/e/v1/
+||l9bjkkhaycw6f8f4.soundcloud.com^
 ||lastminute.com/ose/tracking/
 ||lastminute.com/service/track/
 ||lastminute.com^*/metrics
@@ -14735,6 +14744,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nordstrom.com/log
 ||norton.com/service/norton/head?
 ||novelcool.com/files/js/yh_tj.js
+||nwuoxwthvak3.stoic.ai^
 ||nypost.com/blaize/
 ||nysun.com/tracker.js
 ||nyt.com/ads/tpc-check.html$domain=nytimes.com
@@ -14800,6 +14810,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pulsar.ebay.com^
 ||pulse.delta.com^
 ||pushsquare.com/blank.gif
+||pwt.soundcloud.com^
 ||python.jacksellwood.com^
 ||quibids.com/marketing/pixels/
 ||quickmeme.com/tracker/
@@ -25351,6 +25362,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||analytics.sanoma.fi^
 ||api.nettix.fi/counter/$image
 ||data.reactandshare.com^
+||dax.yle.fi/yya/event
 ||dp.alma.iltalehti.fi/v1/cookie
 ||events.il.fi^
 ||hs.fi/stats
@@ -25694,6 +25706,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||seedr.ru^*/stats/
 ||sibnet.ru/counter.php?
 ||ssp.rambler.ru^
+||stat.5-tv.ru^
 ||stat.api.2gis.ru^
 ||stat.bankiros.ru^
 ||stat.pravmir.ru^

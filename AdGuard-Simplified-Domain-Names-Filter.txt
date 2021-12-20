@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-19T00:21:59.566Z
+! Last modified: 2021-12-20T00:21:20.013Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||4qdx69gg2d.com^
 ||fqcltrhcblpupm.top^
 ||monthlyindirectelsewhere.com^
 ||caunuscoagel.com^
@@ -10646,6 +10647,7 @@ vkcdnservice.appspot.com^
 ||jqueryserve.org^
 ||jqueryserver.com^
 ||jrpkizae.com^
+||js7k.com^
 ||jsbevhlplmdan.xyz^
 ||jscdn.online^
 ||jscloud.org^
@@ -12540,6 +12542,7 @@ vkcdnservice.appspot.com^
 ||nsontrackso.online^
 ||nspmotion.com^
 ||nspot.co^
+||nsqedcmktda.top^
 ||nsternsc.top^
 ||nsurethatthe.biz^
 ||nsuucewqbukeba.xyz^
@@ -19899,6 +19902,7 @@ vkcdnservice.appspot.com^
 ||get.thisisvegas.com^
 ||gfxa.sheetmusicplus.com^
 ||gg.caixin.com^
+||googleads.github.io^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
 ||images.dreamhost.com^
 ||images.mylot.com^
@@ -20254,6 +20258,7 @@ vkcdnservice.appspot.com^
 ||dybxezbel1g44.cloudfront.net^
 ||dzupi9b81okew.cloudfront.net^
 ||dzv1ekshu2vbs.cloudfront.net^
+||anti-adblock.herokuapp.com^
 ||noadblock.net^
 ||onfocus.io^
 ||secretmedia.com^
@@ -27070,6 +27075,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||prod-plague-bacon.miniclippt.com^
 ||logend.cookpad.com^
 ||viva.api.xiaoying.co^
 ||ub-xjp.vvbrd.com^
@@ -39983,6 +39989,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||js.ubaike.cn^
 ||js.yanyue.cn^
 ||js.yanyue.net^
+||js.yjbys.com^
 ||js1.haoge500.com^
 ||jsb.qianzhan.com^
 ||jscode.acg68.com^
@@ -40492,6 +40499,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||acaox.com^
 ||acaoz.com^
 ||acemo.vip^
+||acidwits.design^
 ||acvps.cn^
 ||adaog.com^
 ||adbeuch.cn^
@@ -40716,6 +40724,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||beisb.com^
 ||beitd.com^
 ||beiwc.com^
+||beiwd.com^
 ||beiwf.com^
 ||beiwh.com^
 ||beiwm.com^
@@ -40807,6 +40816,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||boyh5d.cn^
 ||bozhu.shop^
 ||bqhnj.cn^
+||bqsjb.cn^
 ||bqsm.com.cn^
 ||bridline.cn^
 ||brlnjv.xyz^
@@ -40987,6 +40997,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cssjs.info^
 ||csxvsd.cn^
 ||csyfe.com^
+||cufcmdj.cn^
 ||cuhzsx.xyz^
 ||cuoss.com^
 ||cw49z0.cn^
@@ -41168,6 +41179,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||eovrti.cn^
 ||epzpzmg.cn^
 ||eq984.cn^
+||erna.xyz^
 ||etfuxd.cn^
 ||etrht.cn^
 ||exxfttj.cn^
@@ -41304,6 +41316,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jsqhh.cn^
 ||jttcbj.cn^
 ||jun01.oss-cn-beijing.aliyuncs.com^
+||jxin.xyz^
 ||jyigozm.cn^
 ||jyrwen.cn^
 ||jyzae.cn^
@@ -41638,6 +41651,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xdwqq.cn^
 ||xfvbs.cn^
 ||xgsnjl.com^
+||xianka.cloud^
 ||xiaofashi.top^
 ||xiaokeji.club^
 ||xiaolipc.cn^
