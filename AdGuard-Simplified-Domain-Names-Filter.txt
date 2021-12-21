@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-20T00:21:20.013Z
+! Last modified: 2021-12-21T00:22:14.319Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,9 @@
 !
 ! The rules with hints are at the end of file
 !
+||super-ladies-now.life^
+||evealm.com^
+||fruine.com^
 ||4qdx69gg2d.com^
 ||fqcltrhcblpupm.top^
 ||monthlyindirectelsewhere.com^
@@ -4824,6 +4827,7 @@ vkcdnservice.appspot.com^
 ||afssdmin.com^
 ||afterdownload.com^
 ||afterdownloads.com^
+||afterthoughtdevil.com^
 ||afzcqqdhkn.com^
 ||agadum.com^
 ||againd.name^
@@ -4866,6 +4870,7 @@ vkcdnservice.appspot.com^
 ||ahstrelgnh.com^
 ||ahuhfljg.com^
 ||ahwrin88tl.com^
+||ahyafxehqb.top^
 ||ahzdlvsli.com^
 ||aibiqihhuplxv.top^
 ||aibsubul.net^
@@ -6577,6 +6582,7 @@ vkcdnservice.appspot.com^
 ||chinitnam.com^
 ||chioneflake.com^
 ||chipleader.com^
+||chipsleapt.com^
 ||chipsuziby.com^
 ||chiptionics.co^
 ||chirkacylal.com^
@@ -9258,6 +9264,7 @@ vkcdnservice.appspot.com^
 ||glaiwhee.net^
 ||glaixich.net^
 ||glaksads.net^
+||glakychepy.com^
 ||glamourgreek.com^
 ||glandtest.com^
 ||glaptevaphy.com^
@@ -9762,6 +9769,7 @@ vkcdnservice.appspot.com^
 ||hfc195b.com^
 ||hfmvtjpcd.com^
 ||hfqclrllll.com^
+||hfsqlbqvmu.top^
 ||hfwmgail.com^
 ||hg-bn.com^
 ||hg8dc7bm.com^
@@ -9926,6 +9934,7 @@ vkcdnservice.appspot.com^
 ||hotrodsvmsize.casa^
 ||hotterenvisage.com^
 ||houdodoo.net^
+||houndcost.com^
 ||hounicuy.com^
 ||houropoo.net^
 ||houseencircledisguised.com^
@@ -10026,6 +10035,7 @@ vkcdnservice.appspot.com^
 ||hygrephexy.com^
 ||hyhhlsdewkn.top^
 ||hyinlegvghul.com^
+||hykiarmqudealy.top^
 ||hynteroforion.com^
 ||hype-ads.com^
 ||hypeads.org^
@@ -10751,6 +10761,7 @@ vkcdnservice.appspot.com^
 ||kamnebo.info^
 ||kanoodle.com^
 ||kantarmedia.com^
+||kaoftrknb.com^
 ||kaollpuhcfl.com^
 ||kappalinks.com^
 ||kaptytypso.com^
@@ -11079,6 +11090,7 @@ vkcdnservice.appspot.com^
 ||lauwhada.com^
 ||lavageethion.com^
 ||lavando2scas1hh1.com^
+||laveerscurf.com^
 ||lawiersenadrey.webcam^
 ||lawsaddthoroughfare.com^
 ||laydcilck.com^
@@ -11883,6 +11895,7 @@ vkcdnservice.appspot.com^
 ||mmgads.com^
 ||mmismm.com^
 ||mmissedecon.info^
+||mmngqvbfuzenlk.com^
 ||mmo123.co^
 ||mmondi.com^
 ||mmotraffic.com^
@@ -12450,6 +12463,7 @@ vkcdnservice.appspot.com^
 ||nomadpertexcess.com^
 ||nominalexperimentdaybreak.com^
 ||nominalpowerlessunable.com^
+||nonegrysu.pro^
 ||nonerr.com^
 ||nonewnews.name^
 ||nonfictionrobustchastise.com^
@@ -14162,6 +14176,7 @@ vkcdnservice.appspot.com^
 ||qfjherc.com^
 ||qfolkbbij.com^
 ||qfszmlxypcqqyb.com^
+||qfvedpldkde.com^
 ||qfwjclpckrdehi.com^
 ||qfzcwlvmhjgjmi.com^
 ||qgamsa.com^
@@ -14321,6 +14336,7 @@ vkcdnservice.appspot.com^
 ||rancidloss.com^
 ||randalieren6.live^
 ||randiul.com^
+||randomignitiondentist.com^
 ||rangsunbaa.com^
 ||ransparleddorob.info^
 ||rantsbroug.biz^
@@ -15790,6 +15806,7 @@ vkcdnservice.appspot.com^
 ||stingoroubles.com^
 ||stingygirlieaccompany.com^
 ||stinkcomedian.com^
+||stinkwailingbalk.com^
 ||stipulatecontinue.com^
 ||stircalculatormetric.com^
 ||stizoaph.net^
@@ -15954,6 +15971,7 @@ vkcdnservice.appspot.com^
 ||swan-swan-goose.com^
 ||swarthycorrespond.com^
 ||swayexploitaccustom.com^
+||swaylieutenant.com^
 ||sweaterwarmly.com^
 ||sweatrepercussionpatio.com^
 ||sweatywakelack.com^
@@ -16100,6 +16118,7 @@ vkcdnservice.appspot.com^
 ||teracent.net^
 ||teracreative.com^
 ||teratedent.fun^
+||terats.com^
 ||terephtalate.xyz^
 ||terra8nb.com^
 ||terraclicks.com^
@@ -17712,6 +17731,7 @@ vkcdnservice.appspot.com^
 ||wtdome.com^
 ||wtg-ads.com^
 ||wthnbwzk.com^
+||wthykuvsntho.top^
 ||wtwbvglzzt.com^
 ||wtzgaa.com^
 ||wubsauth.net^
@@ -21017,6 +21037,7 @@ vkcdnservice.appspot.com^
 ! ||apptrace.com^
 ! ||opentelemetry.io^
 ! ||crash-reports.browser.yandex.net^
+! ||raygun.io^
 !
 !
 ! ||ensighten.com^$third-party - not a tracker
@@ -25263,6 +25284,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||analytics-sdk.yle.fi^
+||counter.ajansspor.com^
 ||s.izrnvo.com^
 ||tracker.tubecj.com^
 ||log2.radiko.jp^
@@ -37776,6 +37799,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||chromc.com^
 ||chucity.com^
 ||chumanduo.com^
+||chuxi888.top^
 ||chuzushijian.cn^
 ||cj-cy.com^
 ||cjgcedu.com^
@@ -38479,6 +38503,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||njjrlf.com^
 ||njmpacc.com^
 ||njq.net^
+||njupt-sacc.com^
 ||njwxh.com^
 ||njzyjy.cn^
 ||nkscdn.com^
@@ -40549,6 +40574,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ajiekeji.club^
 ||ajiez.com^
 ||akozxay.cn^
+||akqrt.cn^
 ||alibdm.xyz^
 ||alibdn.xyz^
 ||alicpd.top^
@@ -40685,6 +40711,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||banxfw.cn^
 ||banzd.com^
 ||banzdw.cn^
+||baobf.com^
 ||baodc.com^
 ||baogames.cn^
 ||baojiada.vip^
@@ -40728,6 +40755,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||beiwf.com^
 ||beiwh.com^
 ||beiwm.com^
+||beiwt.com^
 ||beiwz.com^
 ||beixbw.cn^
 ||beixcw.cn^
@@ -41213,12 +41241,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gdshuotai.cn^
 ||gdzxsoft.cn^
 ||genfar.club^
+||gh1024.xyz^
 ||gjohvhf.cn^
 ||gnfvwfo.cn^
 ||go06.cc^
 ||go07.cc^
 ||goaljet.ltd^
 ||gojokey.club^
+||goldenwind.icu^
 ||gongshangwang.top^
 ||gongxifc.com^
 ||grggkas.cn^
@@ -41256,6 +41286,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hnzhengtongkj.cn^
 ||homfen.me^
 ||houmei.ren^
+||hpygame.com^
 ||hqcqz2.cn^
 ||hqwrr.cc^
 ||htds.vip^
@@ -41360,6 +41391,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||leqfgnb.cn^
 ||lggbxf.com^
 ||lhxwnzht.cn^
+||liming23.xyz^
 ||lindasys.xyz^
 ||lingquan.vip^
 ||llii.club^
@@ -41480,6 +41512,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qibxdwe1.com^
 ||qihehuo.cn^
 ||qijiandian.xyz^
+||qilinwh.cn^
 ||qingyulin.top^
 ||qmdllqv.cn^
 ||qorosmall.com^
@@ -41588,6 +41621,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tzuyruz.cn^
 ||u5274.cn^
 ||uidndas.cn^
+||umhfrtu.cn^
 ||umihecd.cn^
 ||umis.top^
 ||uqakkye.cn^
