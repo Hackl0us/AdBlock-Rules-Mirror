@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-21T00:22:14.319Z
+! Last modified: 2021-12-22T00:21:54.760Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6285,6 +6285,7 @@ vkcdnservice.appspot.com^
 ||cabnnr.com^
 ||cadajgbt.top^
 ||cadfixbig.site^
+||cadlsyndicate.com^
 ||cadsabs.com^
 ||cadsabz.com^
 ||cadsans.com^
@@ -8138,6 +8139,7 @@ vkcdnservice.appspot.com^
 ||ehinkitwkuo.co^
 ||ehnjtmqchrub.com^
 ||ehu96t2p.com^
+||eifold.com^
 ||eifutufsu.top^
 ||eighteenmedal.com^
 ||eikegolehem.com^
@@ -9026,6 +9028,7 @@ vkcdnservice.appspot.com^
 ||fwvwural.xyz^
 ||fxdepo.com^
 ||fxjbosijndirva.xyz^
+||fxwseotmavbde.com^
 ||fyhishushe.com^
 ||fyjqdgqiuk.top^
 ||fykmahfa.com^
@@ -9155,6 +9158,7 @@ vkcdnservice.appspot.com^
 ||geilid.com^
 ||gejute.com^
 ||gemlocomotivemid.com^
+||gemunuxhxpqjk.top^
 ||gencehepatie.club^
 ||genecousin.com^
 ||generablel.fun^
@@ -9191,6 +9195,7 @@ vkcdnservice.appspot.com^
 ||getdonspeg.work^
 ||getiluda.com^
 ||getinclinarss.xyz^
+||getjad.io^
 ||getoptad360.com^
 ||getp.xyz^
 ||getpdaiddaily.com^
@@ -10493,6 +10498,7 @@ vkcdnservice.appspot.com^
 ||japsulsa.com^
 ||jarailso.com^
 ||jarproducercane.com^
+||jarror.com^
 ||jashautchord.com^
 ||jatywana.com^
 ||jaubeebe.net^
@@ -11068,6 +11074,7 @@ vkcdnservice.appspot.com^
 ||largerysvz.xyz^
 ||larrenpicture.pro^
 ||larrenworld.pro^
+||las4srv.com^
 ||lashquivercakes.com^
 ||lasticalsdeb.xyz^
 ||lasyowayrzgv.com^
@@ -14367,6 +14374,7 @@ vkcdnservice.appspot.com^
 ||rbnwacsf.com^
 ||rboundgypster.com^
 ||rcblkkhfvrxyn.com^
+||rccsekuitas.com^
 ||rconand.club^
 ||rcptik.ru^
 ||rcpudkfstrocmx.top^
@@ -14400,6 +14408,7 @@ vkcdnservice.appspot.com^
 ||realsecuredredirect.com^
 ||realshieldjump.com^
 ||realsrv.com^
+||realsrv.name^
 ||realtime-bid.com^
 ||realvu.net^
 ||reamunitionnee.xyz^
@@ -14541,6 +14550,7 @@ vkcdnservice.appspot.com^
 ||replase.cf^
 ||replase.ml^
 ||replicahonestly.com^
+||replygallery.com^
 ||reporo.net^
 ||report2.biz^
 ||reportionbreedy.pro^
@@ -17063,6 +17073,7 @@ vkcdnservice.appspot.com^
 ||veremund-hon.com^
 ||verifychocolate.com^
 ||verotezzz.com^
+||versionsgratersteward.com^
 ||versusberryoutdoor.com^
 ||verticalperiodicdirectory.com^
 ||verycastle.com^
@@ -17812,6 +17823,7 @@ vkcdnservice.appspot.com^
 ||xcsypkknp.com^
 ||xdirectx.com^
 ||xdiuvewmvmh.com^
+||xeatlcuq.top^
 ||xebadu.com^
 ||xecbvdgmwsh.com^
 ||xegroxenu.com^
@@ -17936,6 +17948,7 @@ vkcdnservice.appspot.com^
 ||xxxbannerswap.com^
 ||xxxex.com^
 ||xxxijmp.com^
+||xxxivjmp.com^
 ||xxxjmp.com^
 ||xxxmov.site^
 ||xxxmyself.com^
@@ -18322,6 +18335,7 @@ vkcdnservice.appspot.com^
 ||zxxds.net^
 ||zxxtkrkzfyy3.com^
 ||zy16eoat1w.com^
+||zybrdr.com^
 ||zyiis.net^
 ||zypenetwork.com^
 ||zyxyveshe.com^
@@ -28854,6 +28868,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||air.audioeye.com^
 ||alexandria.marfeelcdn.com^
 ||amplify.outbrain.com^
+||ams-pageview-public.s3.amazonaws.com^
 ||an.yandex.ru^
 ||analyse.bcovery.com^
 ||analytic.rollout.io^
@@ -29066,60 +29081,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cts.vresp.com^
 ||curated.fieldtest.cc^
 ||d.shareaholic.com^
-||d10gj7yjsfriaj.cloudfront.net^
-||d11a2fzhgzqe7i.cloudfront.net^
-||d16fk4ms6rqz1v.cloudfront.net^
-||d191y0yd6d0jy4.cloudfront.net^
-||d1af033869koo7.cloudfront.net^
-||d1cr9zxt7u0sgu.cloudfront.net^
-||d1iazwv1n1tsyi.cloudfront.net^
-||d1igp3oop3iho5.cloudfront.net^
-||d1n00d49gkbray.cloudfront.net^
-||d1r2sy6oc0ariq.cloudfront.net^
-||d1r55yzuc1b1bw.cloudfront.net^
-||d1t9uctetvi0tu.cloudfront.net^
-||d1wirc5qsdb1y5.cloudfront.net^
-||d1yu67rmchodpo.cloudfront.net^
-||d20kffh39acpue.cloudfront.net^
-||d21y75miwcfqoq.cloudfront.net^
-||d23pi6hvdpcc5i.cloudfront.net^
-||d241ujsiy3yht0.cloudfront.net
-||d24cze5sab2jwg.cloudfront.net^
-||d24rtvkqjwgutp.cloudfront.net^
-||d25ezbwokoefx6.cloudfront.net^
-||d2as12kgjg8gw5.cloudfront.net^
-||d2axgrpnciinw7.cloudfront.net^
-||d2cpw6kwpff7n5.cloudfront.net^
-||d2gbtcuv3w9qyv.cloudfront.net^
-||d2j1fszo1axgmp.cloudfront.net^
-||d2kdl5wcwrtj90.cloudfront.net^
-||d2o67tzzxkqap2.cloudfront.net^
-||d2r7bmv6l6bnd1.cloudfront.net^
-||d2rnkf2kqy5m6h.cloudfront.net^
-||d2san7t27xb2pn.cloudfront.net^
-||d2t77mnxyo7adj.cloudfront.net^
-||d2tcg4i9q4js4a.cloudfront.net^
-||d2wu036mkcz52n.cloudfront.net^
-||d2wy8f7a9ursnm.cloudfront.net^
-||d2zjlj1vewrxcj.cloudfront.net^
-||d34qb8suadcc4g.cloudfront.net^
-||d36u3psykfwy91.cloudfront.net^
-||d36upaw912d02q.cloudfront.net^
-||d39yds8oe4n4jq.cloudfront.net^
-||d3bj8nkfly20uo.cloudfront.net^
-||d3cgm8py10hi0z.cloudfront.net^
-||d3iouejux1os58.cloudfront.net^
-||d3kyk5bao1crtw.cloudfront.net^
-||d3m6sept6cnil5.cloudfront.net^
-||d3mskfhorhi2fb.cloudfront.net^
-||d3n6i6eorggdxk.cloudfront.net^
-||d3plfjw9uod7ab.cloudfront.net^
-||d3q7vxy7usqoub.cloudfront.net^
-||d3qfdthu9f51gu.cloudfront.net^
-||d3qztsm17pgxue.cloudfront.net^
-||d3sbxpiag177w8.cloudfront.net^
-||d3tglifpd8whs6.cloudfront.net^
-||d3uvwl4wtkgzo1.cloudfront.net^
 ||dash.getsitecontrol.com^
 ||data.alexa.com^
 ||data.circulate.com^
@@ -29130,7 +29091,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||data.studybreakmedia.com^
 ||data.woosmap.com^
 ||datadog-service.mvfglobal.com^
-||dc8na2hxrj29i.cloudfront.net^
 ||deepknow.egoid.me^
 ||demandmedia.s3.amazonaws.com^
 ||detect.ergebnis-dienst.de^
@@ -29139,22 +29099,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dig.ultimedia.com^
 ||dirt.dennis.co.uk^
 ||djibeacon.djns.com^
-||dl1d2m8ri9v3j.cloudfront.net^
-||dn34cbtcv9mef.cloudfront.net^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^
 ||doug1izaerwt3.cloudfront.net^
-||drlimmode9ddd.cloudfront.net^
-||dsbahmgppc0j4.cloudfront.net^
-||dt1pxsve3tgas.cloudfront.net^
-||du4rq1xqh3i1k.cloudfront.net^
-||du8783wkf05yr.cloudfront.net^
-||duu8lzqdm8tsz.cloudfront.net^
-||dxwgpw0lkcum5.cloudfront.net^
-||dy2xcjk8s1dbz.cloudfront.net^
-||dymlo6ffhj97l.cloudfront.net^
-||dyv1bugovvq1g.cloudfront.net^
-||dzbrr144kh0m6.cloudfront.net^
 ||ec.walkme.com^
 ||ecommstats.s3.amazonaws.com^
 ||edge.bredg.com^
@@ -29176,6 +29123,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||events.matterport.com^
 ||events.medio.com^
 ||events.realgravity.com^
+||events.release.narrativ.com^
 ||events.shareably.net^
 ||events.splash-screen.net^
 ||events.split.io^
@@ -29213,6 +29161,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||geo.thehindu.com^
 ||geobar.ziffdavisinternational.com^
 ||geoip.cookieyes.com^
+||geoip.instiengage.com^
 ||geoip.nekudo.com^
 ||geoip.spotpass.io^
 ||geolocation.outreach.com^
@@ -29633,6 +29582,77 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sa.api.intl.miui.com^
 ||stat.xiaomi.com^
 ||supportmetrics.apple.com^
+! cloudfront
+||d10gj7yjsfriaj.cloudfront.net^
+||d11a2fzhgzqe7i.cloudfront.net^
+||d15kdaxu5c0hfw.cloudfront.net^
+||d16fk4ms6rqz1v.cloudfront.net^
+||d191y0yd6d0jy4.cloudfront.net^
+||d1af033869koo7.cloudfront.net^
+||d1cr9zxt7u0sgu.cloudfront.net^
+||d1iazwv1n1tsyi.cloudfront.net^
+||d1igp3oop3iho5.cloudfront.net^
+||d1n00d49gkbray.cloudfront.net^
+||d1r2sy6oc0ariq.cloudfront.net^
+||d1r55yzuc1b1bw.cloudfront.net^
+||d1t9uctetvi0tu.cloudfront.net^
+||d1wirc5qsdb1y5.cloudfront.net^
+||d1yu67rmchodpo.cloudfront.net^
+||d20kffh39acpue.cloudfront.net^
+||d21y75miwcfqoq.cloudfront.net^
+||d23pi6hvdpcc5i.cloudfront.net^
+||d241ujsiy3yht0.cloudfront.net
+||d24cze5sab2jwg.cloudfront.net^
+||d24rtvkqjwgutp.cloudfront.net^
+||d25ezbwokoefx6.cloudfront.net^
+||d2as12kgjg8gw5.cloudfront.net^
+||d2axgrpnciinw7.cloudfront.net^
+||d2cpw6kwpff7n5.cloudfront.net^
+||d2gbtcuv3w9qyv.cloudfront.net^
+||d2j1fszo1axgmp.cloudfront.net^
+||d2kdl5wcwrtj90.cloudfront.net^
+||d2o67tzzxkqap2.cloudfront.net^
+||d2r7bmv6l6bnd1.cloudfront.net^
+||d2rnkf2kqy5m6h.cloudfront.net^
+||d2san7t27xb2pn.cloudfront.net^
+||d2t77mnxyo7adj.cloudfront.net^
+||d2tcg4i9q4js4a.cloudfront.net^
+||d2wu036mkcz52n.cloudfront.net^
+||d2wy8f7a9ursnm.cloudfront.net^
+||d2zjlj1vewrxcj.cloudfront.net^
+||d34qb8suadcc4g.cloudfront.net^
+||d36u3psykfwy91.cloudfront.net^
+||d36upaw912d02q.cloudfront.net^
+||d39yds8oe4n4jq.cloudfront.net^
+||d3bj8nkfly20uo.cloudfront.net^
+||d3cgm8py10hi0z.cloudfront.net^
+||d3iouejux1os58.cloudfront.net^
+||d3kyk5bao1crtw.cloudfront.net^
+||d3m6sept6cnil5.cloudfront.net^
+||d3mskfhorhi2fb.cloudfront.net^
+||d3n6i6eorggdxk.cloudfront.net^
+||d3plfjw9uod7ab.cloudfront.net^
+||d3q7vxy7usqoub.cloudfront.net^
+||d3qfdthu9f51gu.cloudfront.net^
+||d3qztsm17pgxue.cloudfront.net^
+||d3sbxpiag177w8.cloudfront.net^
+||d3tglifpd8whs6.cloudfront.net^
+||d3uvwl4wtkgzo1.cloudfront.net^
+||dc8na2hxrj29i.cloudfront.net^
+||di2xwvxz1jrvu.cloudfront.net^
+||dl1d2m8ri9v3j.cloudfront.net^
+||dn34cbtcv9mef.cloudfront.net^
+||drlimmode9ddd.cloudfront.net^
+||dsbahmgppc0j4.cloudfront.net^
+||dt1pxsve3tgas.cloudfront.net^
+||du4rq1xqh3i1k.cloudfront.net^
+||du8783wkf05yr.cloudfront.net^
+||duu8lzqdm8tsz.cloudfront.net^
+||dxwgpw0lkcum5.cloudfront.net^
+||dy2xcjk8s1dbz.cloudfront.net^
+||dymlo6ffhj97l.cloudfront.net^
+||dyv1bugovvq1g.cloudfront.net^
+||dzbrr144kh0m6.cloudfront.net^
 ! taboola
 ||urc.taboolasyndication.com^
 ||fyrsbckgi-c.global.ssl.fastly.net^
@@ -29754,7 +29774,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ew3.io^
 ||galaxiemedia.fr^
 ||geovisite.ovh^
-||getjad.io^
 ||goutee.top^
 ||hunkal.com^
 ||kdata.fr^
@@ -35585,7 +35604,6 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains list of advertising networks
 !
-||3xy1.dvv9dkv.site^
 ||mdfsbn.com^
 ||soorbka.cn^
 ||adotone.com^
@@ -37368,6 +37386,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||qgqxzs.net^
+||l-kingmall.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -37690,6 +37710,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||assigned.cn^
 ||asu05mm.cn^
 ||at98.com^
+||atmib.com^
 ||audit8.com^
 ||auspiciousvp.com^
 ||autotrading.com.cn^
@@ -38621,6 +38642,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qzzljx.com^
 ||rcyl-uni.com^
 ||rdance.cn^
+||rdlbkvo.cn^
 ||rdsvsh.com^
 ||re.taotaosou.com^
 ||rebdy.com^
@@ -38724,6 +38746,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sq85.press^
 ||sqext.com^
 ||sqyueda.com^
+||srgwxvm.cn^
 ||ssdaili.com^
 ||ssmuse1314.cn^
 ||staqnet.com^
@@ -38794,6 +38817,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tjgxzs.com^
 ||tjhhr.com^
 ||tjqonline.cn^
+||tjsqb.top^
 ||tjys88.com^
 ||tkd777.cn^
 ||tnarzc.com^
@@ -40380,6 +40404,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||3932161.xyz^
 ||3d9obb7.cn^
 ||3dshoppingwall.com^
+||3fish.store^
 ||3hbox.com^
 ||3yai2u.cn^
 ||46rib.cn^
@@ -40652,6 +40677,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||axfrb.cn^
 ||axfvc.cn^
 ||axfvv.cn^
+||axiwyni.cn^
 ||axpvy.cn^
 ||axqpn.cn^
 ||axuns.com^
@@ -40692,6 +40718,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||baizb.com^
 ||baizbw.cn^
 ||bamcsfm.com^
+||banfd.com^
 ||banfk.com^
 ||banfs.com^
 ||banfw.com^
@@ -40702,6 +40729,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bangxin.xyz^
 ||banhfw.cn^
 ||banma51.cn^
+||banmd.com^
 ||bantb.com^
 ||bantf.com^
 ||banwb.com^
@@ -40725,6 +40753,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||baowf.com^
 ||baowt.com^
 ||baoxian28.cn^
+||baoxk.com^
 ||baozp.top^
 ||baskba.xyz^
 ||bayil.cn^
@@ -40870,6 +40899,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bx9000.top^
 ||bxmuvw.cn^
 ||bxsjfol.cn^
+||bzlpa.cn^
 ||c09.xyz^
 ||c3y1oja.cn^
 ||caicaiplay.cn^
@@ -41164,6 +41194,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||duyousxtd.com^
 ||dvdsbee.cn^
 ||dvtxt.cn^
+||dvv9dkv.site^
 ||dvzk66.cn^
 ||dwr0.cn^
 ||dxbwukm.cn^
@@ -41277,6 +41308,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hebeiyichen.com^
 ||hello211.top^
 ||heyi.shop^
+||hgbvtax.cn^
 ||hgdnd.cc^
 ||hhfhgf.cc^
 ||hhnvrht.cn^
@@ -41355,12 +41387,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jyzaj.cn^
 ||jyzap.cn^
 ||jyzaw.cn^
+||jyzbv.cn^
 ||jyzce.cn^
 ||jzuyfp8.cn^
 ||k7ab5n4.cn^
 ||kanglaijd.cn^
 ||katelin.top^
 ||kauomod.cn^
+||kawayiyi.icu^
 ||kbkilog.cn^
 ||kbtsogi.cn^
 ||ke94.com^
@@ -41436,6 +41470,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||muybjar.cn^
 ||muyijia.shop^
 ||mxxgs.cn^
+||myqip.icu^
 ||myyuye.club^
 ||n258.cc^
 ||nbpyfog.cn^
@@ -41484,6 +41519,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pazppsim.cn^
 ||pcbwdhd.cn^
 ||pcshijie.cn^
+||pengjunjun.site^
 ||pflhnpu.cn^
 ||pgeuxfs.cn^
 ||picbfnc.cn^
@@ -41497,6 +41533,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||priry.com^
 ||propsad.com^
 ||ptujvmq.cn^
+||pulingmu.top^
 ||puuuwqk.cn^
 ||puwxbcb.cn^
 ||pvxymnz.cn^
@@ -41504,6 +41541,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pxjafjc.cn^
 ||pzdlfww.cn^
 ||pzsq.xyz^
+||qagyb.cn^
 ||qewoysy.cn^
 ||qfxdvti.cn^
 ||qgfdqjf.cn^
@@ -41519,6 +41557,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qp-nett.cn^
 ||qq163com.cn^
 ||qqqmmm.top^
+||qujiawan.vip^
 ||quqianlai.cn^
 ||qusiwang.top^
 ||qyjzleh.cn^
@@ -41589,6 +41628,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tbi7.cn^
 ||tbl1.cn^
 ||tccb71h.cn^
+||tdedqqv.cn^
 ||tengxunwang.top^
 ||tework.cn^
 ||tg745.cn^
@@ -41669,12 +41709,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||woniu1314520.vip^
 ||wpqsmse.cn^
 ||wsrrfoa.cn^
+||wulian.in^
 ||wuwai.art^
 ||wuxiqiangheng.com^
 ||wuyoudan.cn^
 ||wuzefei.top^
 ||wwshxc.cn^
 ||wxkouem.cn^
+||wzxzy.icu^
 ||wzytop.top^
 ||x7rrjgs.cn^
 ||xamap.club^
