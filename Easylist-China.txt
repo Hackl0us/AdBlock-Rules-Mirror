@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nJAv0PN2byjMsz7wVgYJ4g
-! Version: 202112240036
+! Checksum: PXa3+k2TaDaaPJrkzUmnbg
+! Version: 202112250036
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 24 Dec 2021 00:36 UTC
+! Last Modified: 25 Dec 2021 00:36 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -2042,6 +2042,7 @@ ubmcmm.baidustatic.com
 ||afrazanna.com^
 ||agathaedith.com^
 ||agilehw.online^
+||agnezanna.com^
 ||agrantsem.com^$third-party
 ||agtsjb.com^
 ||aguo.com^$third-party
@@ -2066,6 +2067,7 @@ ubmcmm.baidustatic.com
 ||ajwssds.com^
 ||ak0429.com^
 ||aklm.cc^
+||akmhw.com^
 ||alexanberton.com^
 ||alexandraeden.com^
 ||alifixed.cn^
@@ -3043,6 +3045,7 @@ ubmcmm.baidustatic.com
 ||lzljhs.com^
 ||lzmm8.com^
 ||lzzqqc.com^$third-party
+||maccms.info^
 ||magic-future.com^
 ||magictreehouse.cn^
 ||magiphone.cn^
@@ -3151,6 +3154,7 @@ ubmcmm.baidustatic.com
 ||nmbtedu.com^$third-party
 ||nmpcdn.com^
 ||nmqbg.com^
+||nnocsin.cn^
 ||nnsbbd.com^
 ||nongsalei.com^
 ||nord-raum.com^$third-party
@@ -3618,6 +3622,7 @@ ubmcmm.baidustatic.com
 ||unionsky2.cn^$third-party
 ||uoyrsd.com^
 ||urlat.cn^
+||uscdn.top^
 ||usingde.com^$third-party
 ||uuaoz.com^
 ||uvclick.com^
@@ -3871,6 +3876,7 @@ ubmcmm.baidustatic.com
 ||yatemy.cn^
 ||ycgy8888.com^
 ||ychml.com^
+||ycych.com^
 ||ydcpc.com^$third-party
 ||yditweb.cn^
 ||ydqzkj.com^
@@ -14951,8 +14957,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@_300_250.$domain=nanrenwo.net
 @@_370x270.$domain=bairuitool-cn.aliyun-hk03.hicheng.net
 @@_ads_cpc_$domain=90lover.cn
+@@_cpa_adview_$domain=52xkdy.com
 @@_cpc_cpm_$domain=saraba1st.com|ygo-sem.cn
-@@_cpm_cpa_$domain=52xkdy.com
 @@u-ads.adap.tv*youku.$domain=youku.com
 @@||012.tw^$script,domain=apk.tw
 @@||060s.com/images_ad/*.png
@@ -17318,6 +17324,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||amvecurt.cn^
 ||andrewsolicitors.com^
 ||anfcadf.cn^
+||anfw.com.cn^
 ||angelbaby.store^
 ||angryme.cn^
 ||anhaochem.com^
@@ -17432,10 +17439,12 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||banwb.com^
 ||banwm.com^
 ||banwt.com^
+||banxc.com^
 ||banxf.com^
 ||banxfw.cn^
 ||banzd.com^
 ||banzdw.cn^
+||banzf.com^
 ||baobf.com^
 ||baodc.com^
 ||baogames.cn^
@@ -17527,6 +17536,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||birthcaker.cn^
 ||bishufang.cn^
 ||bivgiokd0y.cn^
+||biwo.ink^
 ||bixuyao.com.cn^
 ||bizhixiang.cn^
 ||bizhub-cloud.cn^
@@ -17823,6 +17833,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||darendaisuki.com^
 ||das-millennium.top^
 ||dasheducation.cn^
+||dashuaibi.icu^
 ||daskm.com^
 ||dasongti.top^
 ||datazhan.com^
@@ -17931,6 +17942,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||e9emh.cn^
 ||ea0jlu8jie.cn^
 ||ealcrrm.cn^
+||easyjz.com.cn^
 ||ebsxlpv.cn^
 ||ebuysolar.com^
 ||ecai.info^
@@ -18024,6 +18036,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||hbhdyn.club^
 ||hbscjh.cn^
 ||hbxxw.vip^
+||hbyjrspyxgs.site^
 ||hcvhhj.cc^
 ||hdsjk.cc^
 ||hebeiyichen.com^
@@ -18097,13 +18110,17 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||jmqxbeo.cn^
 ||jngapkf.cn^
 ||jnxiacha.cn^
+||jogbxpg.cn^
 ||jovfwgr.cn^
+||joyceglobal.club^
 ||jqcfgnm.cn^
+||jscvalves.me^
 ||jsqhh.cn^
 ||jttcbj.cn^
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||jx3yixi.club^
 ||jxin.xyz^
+||jxzz.tech^
 ||jyigozm.cn^
 ||jyrwen.cn^
 ||jyzae.cn^
@@ -18154,6 +18171,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||leqfgnb.cn^
 ||lggbxf.com^
 ||lhxwnzht.cn^
+||lilith.ink^
 ||liming23.xyz^
 ||lindasys.xyz^
 ||lingquan.vip^
@@ -18163,6 +18181,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||lofe.shop^
 ||log57.top^
 ||lppwnue.cn^
+||lpwx.xyz^
 ||lrqugqq.cn^
 ||lsebez.cn^
 ||lthwsj.com^
@@ -18391,6 +18410,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||tsai.ltd^
 ||tsia1114.top^
 ||tszhongtianshiji.com^
+||ttffhe.top^
 ||tuzufsi.cn^
 ||tvtnbu.cn^
 ||tw5k2vc.cn^
@@ -18413,6 +18433,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||vluvpdf.cn^
 ||vnet.ink^
 ||vnlaqu.site^
+||vnyqn.cn^
 ||vrtrdvx.cn^
 ||vsznvtt.cn^
 ||vtlddz.cn^
@@ -18423,6 +18444,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||wangbo.group^
 ||wangcm01.top^
 ||wangl903.com^
+||wangyasen.link^
 ||wangyh.icu^
 ||wanzikeji.com^
 ||wduwvjd.cn^
@@ -18513,6 +18535,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||youpeng.pw^
 ||ypgdnrz.cn^
 ||yuanwei.ltd^
+||yuegepiano.cn^
 ||yueyuego.com^
 ||yumingdan.top^
 ||yunfeiyang.club^
