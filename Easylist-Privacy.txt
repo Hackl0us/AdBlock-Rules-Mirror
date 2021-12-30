@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112282355
+! Version: 202112300038
 ! Title: EasyPrivacy
-! Last modified: 28 Dec 2021 23:55 UTC
+! Last modified: 30 Dec 2021 00:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5361,6 +5361,7 @@ cgi-bin/counter
 .innologica.com/t/
 .intercom-mail.com/q/
 .intercom-mail.com/via/$image
+.keap-link015.com/$image
 .kijiji.ca/r/
 .klclick.com/$image
 .list-manage.com/track/
@@ -6456,6 +6457,7 @@ _mongo_stats/
 ||datazoom.io^$third-party
 ||datvantage.com^$third-party
 ||daylogs.com^$third-party
+||db-ip.com^$third-party
 ||dc-storm.com^$third-party
 ||dc.tremormedia.com^$third-party
 ||dcmn.com^$third-party
@@ -8536,11 +8538,13 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||misrepush.com^$third-party
 ||moengage.com^$third-party
 ||mp3vizor.com^$third-party
+||mypush.online^$third-party
 ||najva.com^$third-party
 ||nativesubscribe.pro^$third-party
 ||notifadz.com^$third-party
 ||notifpush.com^$third-party
 ||notify.solutions^$third-party
+||notix.io^$third-party
 ||olgtex.com^$third-party
 ||on-push.com^$third-party
 ||onepush.app^$third-party
@@ -8557,6 +8561,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pushex.io^$third-party
 ||pushible.com^$third-party
 ||pushify.com^$third-party
+||pushnami.com^$third-party
 ||pushwoosh.com^$third-party
 ||reconditerespect.com^$third-party
 ||reprocautious.com^$third-party
@@ -11274,6 +11279,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||az693360.vo.msecnd.net^
 ||azureedge.net/javascripts/Tracking.
 ||azureedge.net/track
+||azurewebsites.net/api/views?
 ||azurewebsites.net/TrackView/
 ||azurewebsites.net^*/telemetry.js
 ||b-aws.aol.com^
@@ -11765,6 +11771,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||feedblitz.com/imp?$third-party
 ||feedblitz.com^*.gif?$third-party
 ||feedify.net/thirdparty/json/track/
+||felix.data.tm-awx.com^
 ||filament-stats.herokuapp.com^
 ||filesonic.com/referral/$third-party
 ||fiorenetwork.com/aparatvast/log.php?
@@ -12843,6 +12850,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.roitesting.com^
 ||tracker.softcube.com^
 ||tracker.timesgroup.com^
+||tracker.tubecj.com^
 ||tracker.twenga.
 ||tracker.unbxdapi.com^
 ||tracker.wigzopush.com^
@@ -14502,6 +14510,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||exr-mms.expertreviews.co.uk^
 ||extendoffice.com/analytics.js
 ||extremetech.com/cszn/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
+||f362.nola.com^
 ||facebook.com/a/bz?
 ||facebook.com/ajax/*/log.php
 ||facebook.com/ajax/*logging.
@@ -15078,6 +15087,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||theconversation.com/javascripts/lib/content_tracker_hook.js
 ||thedailybeast.com/static/js/thirdparty.
 ||thefreedictionary.com/_/tr.ashx?
+||thesun.ie/track?
 ||thetimes.co.uk/track?
 ||thetopfivevpn.com/tv5appf5cc137e72b40469905a.js
 ||thriftbooks.com/scripts/sp.js
