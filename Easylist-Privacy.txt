@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112300038
+! Version: 202112301953
 ! Title: EasyPrivacy
-! Last modified: 30 Dec 2021 00:38 UTC
+! Last modified: 30 Dec 2021 19:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5727,6 +5727,7 @@ _mongo_stats/
 ||g12281228770.co^
 ||g12479313105.co^
 ||g1584674682.co^
+||g1782759015.co^
 ||g1782759016.co^
 ||g1980843350.co^
 ||g2178927685.co^
@@ -5739,6 +5740,7 @@ _mongo_stats/
 ||g8715710740.co^
 ||g8913795075.co^
 ||g9111879410.co^
+||g990421675.co^
 ||g990421676.co^
 ||gbqofs.com^
 ||geoedge.be^
@@ -5776,6 +5778,7 @@ _mongo_stats/
 ||omappapi.com^
 ||omtrdc.net^
 ||ostrichesica.com^
+||p-analytics.life^
 ||p2r14.com^
 ||pdflive.org^
 ||permutive.app^
@@ -6697,7 +6700,6 @@ _mongo_stats/
 ||fpjs.io^$third-party
 ||fprnt.com^$third-party
 ||fqsecure.com^$third-party
-||fqtag.com^$third-party
 ||fraudjs.io^$third-party
 ||free-counter.co.uk^$third-party
 ||free-counter.com^$third-party
@@ -10973,7 +10975,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||intrastats.com^$third-party
 ||mabaya.com^$third-party
 ||micodigo.com^$third-party
-||seedtag.com^$third-party
 ! Swedish
 ||adsettings.com^$third-party
 ||adten.eu^$third-party
@@ -14368,7 +14369,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||canstockphoto.com/monitor/
 ||canstockphoto.com/server.php?rqst=track
 ||capitalone.com/collector/
-||caremark.com/tnadstlinj.js
 ||cbc.ca/g/stats/
 ||cbsimg.net/js/cbsi/dw.js
 ||cc-api-data.adobe.io^
@@ -14668,7 +14668,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kohls.com/test_rum_nv?
 ||kompass.com/logAdvertisements
 ||l.usaa.com/e/v1/
-||l9bjkkhaycw6f8f4.soundcloud.com^
 ||lastminute.com/ose/tracking/
 ||lastminute.com/service/track/
 ||lastminute.com^*/metrics
@@ -14766,6 +14765,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nflshop.com/api/track
 ||nhk.jp^*/bc.gif?
 ||nm.newegg.com^
+||no9pldds1lmn3.soundcloud.com^
 ||noodle.backmarket.io^
 ||nordstrom.com/log
 ||norton.com/service/norton/head?
@@ -15155,6 +15155,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ultimedia.com/deliver/statistiques/
 ||umami.wakarimasen.moe^
 ||uniqlo.com/us/elgnisolqinu.js
+||unsplash.com/a/third-party/snow-
+||unsplash.com/nmetrics
 ||upi.com/story/stat/
 ||ups.com/img/icp.gif
 ||urs.metacritic.com^
@@ -15470,6 +15472,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ! *.demdex.net (needs to be removed)
 ! *.bred4tula.com (needs to be removed)
 ! 
+||d28n7yywqog3r7.cloudfront.net^
+||eventgateway.soundcloud.com^
 ||primate.dmarcdigests.com^
 ! 
 ! CNAME https://github.com/easylist/easylist/issues/9383 https://github.com/AdguardTeam/cname-trackers/issues/15
@@ -26030,7 +26034,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||wsj.net/iweb/static_html_files/cxense-candy.js$script,domain=marketwatch.com
 @@||zoominfo.com/c/amplitude-js$script,~third-party
 ! @@||browser.sentry-cdn.com^$domain=cardiffmedia.co.uk|connect.shore.com|crrowd.com|gina-phillips.com|gracevanberkum.com|imperial.ac.uk|loveotv.com|onginnovations.com|simonparkes.org|stockforecasttoday.com|tekku.co.za|theangryviking1776.com|thegivingblock.com|thepittsburghoratory.org|truenews4u.com|washingtonpost.com|wix.com
-@@||browser.sentry-cdn.com^$domain=doconcall.com.my|eco-clobber.co.uk
+@@||browser.sentry-cdn.com^$domain=dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk
 @@||brsrvr.com/api/$xmlhttprequest,domain=dollargeneral.com
 @@||c.paypal.com/da/r/fb.js$script
 @@||cbsinteractive.com^*/lib/tracking/comscore/$script
@@ -26144,7 +26148,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||iwin.com/gtm.json$~third-party,xmlhttprequest
 @@||jbj.co.uk^*/analytics.js$script,~third-party
 @@||js-agent.newrelic.com/nr-spa-$script,domain=kapwing.com
-@@||js.sentry-cdn.com^$script,domain=book.dmm.com|jobs.ch
+@@||js.sentry-cdn.com^$script,domain=book.dmm.com|jobs.ch|pizzahut.com.au
 @@||jsrdn.com/s/$script,domain=distro.tv
 @@||jwpcdn.com/player/plugins/googima/*/googima.js$script,domain=ladbible.com
 @@||kawasaki.com/Scripts/Analytics/BaseAnalytics.js$script,~third-party
