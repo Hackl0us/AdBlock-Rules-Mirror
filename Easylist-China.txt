@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7Ueq7HDb4/Tn4xdu8M3xtA
-! Version: 202112310036
+! Checksum: 9hXaAQynj01mFz7h5LHpSw
+! Version: 202201010036
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 31 Dec 2021 00:36 UTC
+! Last Modified: 01 Jan 2022 00:36 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1414,6 +1414,7 @@ ubmcmm.baidustatic.com
 ##a[href*=".c43066a9.com"]
 ##a[href*=".cangpie.com/"]
 ##a[href*=".caohang.com.cn/"]
+##a[href*=".chicagospy.com/"]
 ##a[href*=".chouchuai.com/"]
 ##a[href*=".chuairan.com/"]
 ##a[href*=".d2mzb.com"]
@@ -1595,8 +1596,6 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/c7.net/"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
-||xfei.top^
-||wxjj94.top^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -3747,6 +3746,7 @@ ubmcmm.baidustatic.com
 ||wwwlongjiekejijishu.com^
 ||wxbdfm.com^
 ||wxiansen.cn^
+||wxjj94.top^
 ||wxs666.cn^
 ||wxxfqc.com^
 ||wxyun168.xyz^
@@ -3776,6 +3776,7 @@ ubmcmm.baidustatic.com
 ||xdcqcyp.com^
 ||xdwan.com^$third-party
 ||xe2c.com^$third-party
+||xfei.top^
 ||xgxq518.com^
 ||xhbqczl.com^
 ||xhmrv.com^
@@ -5527,6 +5528,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||bkjia.com/bkjia/js/artitle.js
 ||bkjia.com/bkjia/js/banner
 ||bkjia.com/bkjia/js/subnavtop.js
+||bku3.com/js/cctv-bf.js
 ||blog.xuite.net/_public/js/ysmad.js
 ||blogspot.com^*/s1600/drug.gif
 ||blueidea.com/js/ajs.js
@@ -5975,6 +5977,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||diaoyu123.com/cpro/show.js
 ||dieka888.com/app_ad/
 ||dig.chouti.com/advert
+||dingdangsheji.com^*/%E5%9B%BE%E6%80%AA%E5%85%BD
+||dingdangsheji.com^*/%E7%94%BB%E6%9D%BF-
 ||dinggling.com/gmifr_lei.
 ||dingniugu.com/newskin/js/backTop.js
 ||dingniugu.com^*public.
@@ -10332,7 +10336,7 @@ antdv.com###right-bottom
 cnbeta.com###right1
 hbzhan.com###rightAdv
 jiaodong.net###rightBanner
-cs.com.cn,qiannao.com,qinbing.cn,sonimei.cn###rightDiv
+ca168.com,cs.com.cn,qiannao.com,qinbing.cn,sonimei.cn###rightDiv
 07073.com###rightDiv > div[style="height:250px"]
 zimushe.com###rightFixed
 2345.com###rightXieCheng
@@ -10385,6 +10389,7 @@ nick20.com###sex + div[align="center"]
 pan.baidu.com###share_ad_info_panl
 soft5566.com###sharebtn
 hupu.com###shihuo1111
+my0511.com###shiyonggjad
 maxthon.cn###shopping
 hao123.com###shortcut-box > .tip
 hao123.com###shortcut-tuiguang
@@ -10434,6 +10439,7 @@ cjn.cn###slidelr
 526bt.com###slider
 tiantianzhibo.com###sliderb_container
 popart.hk###slideshow
+ca168.com###slideshow_wrapper
 pconline.com.cn###smallHB1
 eol.cn###small_adleft
 eol.cn###small_adright
@@ -10548,6 +10554,7 @@ csshello.com###topgg
 iask.sina.com.cn###topic_ylzz_new
 mtrend.cn###topictabs1
 1616.net###toplink
+my0511.com###toplmad
 zzbaike.com###topnav
 zzbaike.com###topnav + div[style]
 mtrend.cn###toptabs1 > .kz_line
@@ -11052,6 +11059,7 @@ fzdao.cn##.adlan
 jsphp.net##.adleft-wrap
 cww.net.cn##.adlinkL
 cww.net.cn##.adlinkR
+ca168.com##.admarket
 mobile01.com##.admicrobtn
 ccoo.cn,gw54.com,hackhome.com,vipcn.com##.adn
 zj.com##.adnav
@@ -12602,6 +12610,7 @@ iqiyi.com##.mod_focus-index_list > li:last-child
 qq.com##.mod_stridead
 ifenpaidy.com,pianyuan.org,qixingquan.com##.modal-backdrop
 xunyingwang.com##.modal-body
+dingdangsheji.com##.modown-ad
 firefoxchina.cn##.module-banner
 v.qq.com##.module-image[style*="width:1100px;"]
 v.qq.com##.module-image[style*="width:1240px;"]
@@ -13724,7 +13733,6 @@ programmer-club.com.tw##A[href*="/ADRedirect."]
 24en.com##A[href*="/ClickAd?"]
 020job.com##A[href^="/Click.aspx?AdPageID="]
 gmgard.com,hggard.com##A[onclick*="Advertisement"]
-huya.com#?##J_spbg:-abp-has( > .J_hot > .drag-elem[data-href*=".360.cn"])
 cnxz.cn##[class*="-ad"]
 zhangxinxu.com##[class*="_block-"]
 zhangxinxu.com##[class*="bottom_"]
@@ -14109,7 +14117,7 @@ cnbeta.com#?#.item:-abp-has(> dL > a[href^="https://ad.doubleclick.net/"])
 cnbeta.com#?#.item:-abp-has(> dl > dt > a[href*=".greatroma.com"])
 cnbeta.com#?#.item:-abp-has(> dl > dt > a[href^="http://click.aliyun.com/"])
 cnbeta.com#?#.items-area > .item:-abp-has(> dl > dt > a[href^="http"]:not([href*="cnbeta."]))
-6parknews.com#?##d_list > ul > li:-abp-has( > a[href^="http"]:not([href*="6parknews"]))
+6parknews.com#?##d_list > ul > li:-abp-has(a[href^="http"]:not([href*="6parknews"]))
 steamcn.com##div > a[href*=".taobao.com"]
 theporn.cc##div > div[align="center"]
 bitauto.com##div > ins[data-type="ad_play"]
@@ -15001,7 +15009,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@_370x270.$domain=bairuitool-cn.aliyun-hk03.hicheng.net
 @@_ads_cpc_$domain=90lover.cn
 @@_cpa_adview_$domain=52xkdy.com
-@@_cpc_cpm_$domain=saraba1st.com|ygo-sem.cn
+@@_cpc_cpm_$domain=saraba1st.com|ygo-sem.cn|youranshare.com
 @@u-ads.adap.tv*youku.$domain=youku.com
 @@||012.tw^$script,domain=apk.tw
 @@||060s.com/images_ad/*.png
@@ -17907,6 +17915,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||dedayuntong.com^
 ||dehuaguanyin.com^
 ||deskt.cn^
+||desky.xyz^
 ||deyidesign.com^
 ||dfggb.cc^
 ||dfjbgfldsjdsnldksjalld1235.cn^
@@ -18072,6 +18081,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||goldenwind.icu^
 ||gongshangwang.top^
 ||gongxifc.com^
+||goodsky.shop^
 ||greensprite.top^
 ||grggkas.cn^
 ||grksvub.cn^
@@ -18170,6 +18180,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||jktshare.icu^
 ||jl1130.com^
 ||jlbz.club^
+||jljxwlkjw.com^
 ||jmdardu.cn^
 ||jmqxbeo.cn^
 ||jngapkf.cn^
@@ -18297,6 +18308,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||muyijia.shop^
 ||mxxgs.cn^
 ||myfengyi.xyz^
+||myline1.club^
 ||myqip.icu^
 ||myyuye.club^
 ||mzwfu.xyz^
@@ -18395,6 +18407,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||qujiawan.vip^
 ||quqianlai.cn^
 ||qusiwang.top^
+||qv566.cn^
 ||qyjzleh.cn^
 ||qzgs99.cn^
 ||rcjww9.xyz^
@@ -18480,6 +18493,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||tework.cn^
 ||tg745.cn^
 ||tg876.cn^
+||tguomcq.cn^
 ||thechosen1.cn^
 ||thjxwlkj.com^
 ||tianlule.cn^
@@ -18579,6 +18593,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||wzzb.club^
 ||x7rrjgs.cn^
 ||xamap.club^
+||xaxdwz.xyz^
 ||xcgcwfc.cn^
 ||xcms.shop^
 ||xdfgrew.cn^
@@ -18659,7 +18674,9 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||zengwx.cn^
 ||zfw.me^
 ||zgxieshou.com^
+||zgyso.cn^
 ||zgystsd.com^
+||zhangjianlong.xyz^
 ||zhangtiantian.cc^
 ||zhenxinchicken.xyz^
 ||zhifoujiaoyu.xyz^

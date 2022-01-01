@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112301953
+! Version: 202201010021
 ! Title: EasyPrivacy
-! Last modified: 30 Dec 2021 19:53 UTC
+! Last modified: 01 Jan 2022 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1262,6 +1262,7 @@
 /client.rum.
 /client_pathlog.asp?
 /clientdatacollector/*
+/clientele/reports/*
 /clientEventLog/*
 /clientlib-analytics-
 /clientlibs/analytics.
@@ -11901,6 +11902,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gubagoo.io/track/
 ||h2porn.com/new-hit/?
 ||happen.spkt.io^
+||harpocrates.ethyca.com^
 ||hasbro.com/includes/js/metrics/
 ||haymarket.com/injector/deliver/
 ||hb.vhsrv.com^
@@ -13070,6 +13072,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||worldztool.com^*/dotraceuser.php
 ||wowza.com/v1/analytics
 ||wp.com/i/mu.gif$image
+||wp.com/wp-content/js/bilmur.min.js
 ||wren.condenastdigital.com^
 ||ws.audioeye.com^
 ||ws.sharethis.com^$script
@@ -14476,6 +14479,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ebay.com^*/customer_image_service?
 ||ebaystatic.com/rs/c/9527tracking/configuration.js$script,domain=ebay.com
 ||ednetz.de/api/public/socialmediacounter.
+||eec.crunchyroll.com^
 ||eharmony.ca/fd/
 ||eharmony.co.uk/bd/
 ||ekg.riotgames.com^
@@ -15326,6 +15330,7 @@ medicalxpress.com,techxplore.com##.embed-responsive-trendmd
 ||seekingalpha.com/xgCxM9By/init.js
 ||simon.com/46SCNLxs/init.js
 ||skechers.com/dL6GOSf9/init.js
+||studocu.com/27m703Hm/init.js
 ||sweetwater.com/p2TBVNJZ/init.js
 ||therealreal.com/ev56mY37/init.js
 ||tumi.com/4i06uv8M/init.js
@@ -15472,8 +15477,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ! *.demdex.net (needs to be removed)
 ! *.bred4tula.com (needs to be removed)
 ! 
-||d28n7yywqog3r7.cloudfront.net^
-||eventgateway.soundcloud.com^
 ||primate.dmarcdigests.com^
 ! 
 ! CNAME https://github.com/easylist/easylist/issues/9383 https://github.com/AdguardTeam/cname-trackers/issues/15
@@ -26019,8 +26022,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||sammobile.com/wp-content/themes/sammobile-6/assets/js/newrelic.js$~third-party
 @@||shop.bmw.com.au/assets/analytics-setup.js$~third-party
 @@||songstats.com/api/v1/analytics/track_data$~third-party,xmlhttprequest
-@@||starbucks.ca/weblx/static/optimizely.$script
-@@||starbucks.com/weblx/static/optimizely.$script
+@@||starbucks.ca^*/optimizely.$script,~third-party
+@@||starbucks.com^*/optimizely.$script,~third-party
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
 @@||static.wikia.nocookie.net^*/tracking-opt-in.min.js$script,domain=fandom.com
 @@||tapinfluence.com/tap.js$script,domain=titus2homemaker.com
@@ -26488,6 +26491,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ! ---------- Czech ----------
 ! 
 @@||1gr.cz/js/dtm/cache/satelliteLib-$domain=idnes.cz
+@@||browser.sentry-cdn.com^$script,domain=podcasty.seznam.cz
 @@||googletagmanager.com/gtm.js?$domain=autorevue.cz|e15.cz|mobilmania.cz|zive.cz
 @@||hlidacstatu.cz/scripts/highcharts-6/modules/heatmap.js
 @@||seznam.cz/?spec=*&url=$image,domain=search.seznam.cz
