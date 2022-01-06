@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201050043
+! Version: 202201060041
 ! Title: EasyPrivacy
-! Last modified: 05 Jan 2022 00:43 UTC
+! Last modified: 06 Jan 2022 00:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2236,6 +2236,7 @@
 /hgct?hc=&hb=*&vjs=
 /hints.netflame.cc/*
 /HiroBeacon?
+/histats.js
 /histats/*
 /hit-counter.
 /hit-counter/*
@@ -8480,6 +8481,8 @@ _mongo_stats/
 ||ztsrv.com^$third-party
 ||zuyapixel.com^$third-party
 ||zuzab.com^$third-party
+! Block ping
+$ping
 ! https://www.opensubtitles.org/
 $third-party,xmlhttprequest,domain=opensubtitles.org
 ! https://blog.confiant.com/the-trend-of-client-side-fingerprinting-in-cloaked-landing-pages-21915eb473df
@@ -26027,6 +26030,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||humaninterest.com/api/analytics/$script,~third-party
 @@||js.monitor.azure.com/scripts/$script,domain=microsoft.com
 @@||js.taplytics.com/jssdk/$domain=foxnews.com
+@@||kaptcha.com/collect/sdk?$domain=vanillagift.com
 @@||kbctouch.kbc.be^*/dynatrace-$script,~third-party
 @@||lenovo.com/fea/js/adobeAnalytics/$script,~third-party,xmlhttprequest
 @@||live.house.gov/js/analytics.$script,~third-party
@@ -26050,6 +26054,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||tbs.com/modules/custom/ten_video/js/analytics.js$script,~third-party
 @@||tennispro.eu/min/?$script,~third-party
 @@||toyota.com/recall/static/js/custom/facebookPixel.js$~third-party
+@@||track.shipstation.com/collections/trackingEvents.js$~third-party
 @@||travel-assets.com/platform-analytics-prime/$domain=chase.com
 @@||uniqlo.com^*/trackingservice/$~third-party
 @@||walmart.ca/assets/store-selector-page/js/analytics.$script,~third-party
