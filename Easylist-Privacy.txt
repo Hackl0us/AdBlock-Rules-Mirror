@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201060041
+! Version: 202201070035
 ! Title: EasyPrivacy
-! Last modified: 06 Jan 2022 00:41 UTC
+! Last modified: 07 Jan 2022 00:35 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9808,6 +9808,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sootheside.com^
 ||sophisticatedstory.com^
 ||sophisticatedstove.com^
+||sordidsmile.com^
 ||soresneeze.com^
 ||sorethunder.com^
 ||soretrain.com^
@@ -12522,6 +12523,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||routeapp.io/route-analytics/
 ||rs.sinajs.cn^
 ||rt.flix360.com^
+||rtxpx-a.akamaihd.net^
 ||rum.azion.com^
 ||rum.azioncdn.net^
 ||rum.ingress.layer0.co^
@@ -14676,6 +14678,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||itweb.co.za/analytics/
 ||j927.statnews.com^
 ||javhd.com/ascripts/gcu.js
+||javhd.com/rstat
 ||jiji.co.ke/tag_event
 ||jumbo.zomato.com^
 ||juno.com/start/javascript.do?message=
@@ -14894,6 +14897,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rv.modanisa.com^$script
 ||s.infogram.com^
 ||sciencechannel.com/events/
+||scloud.online/stat/
 ||scoot.co.uk/ajax/log_
 ||search.aol.com/beacon/
 ||search.ch/audit/
@@ -25139,6 +25143,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||analytics-gw.games.wanmei.com^
 ||analytics.126.net^
 ||analytics.163.com^
+||analytics.oceanengine.com^
 ||analytics.oneplus.cn^
 ||analytics.shop.hisense.com^
 ||api.baike.sogou.com/dr/p1.gif?
@@ -26007,6 +26012,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||boots.com/wcsstore/ebootsstorefrontassetstore/javascript/analytics.js$~third-party
 @@||catalogue.jbhifi.com.au^*/static/analytics.js$script,~third-party
 @@||cdn.cxense.com^$script,domain=bizjournals.com|bloombergquint.com|marketwatch.com
+@@||chat.conveyhs.com/chatadapter/clickstream/clickstream.js$script
 @@||cleverpush.com/channel/$script,domain=bsdex.de
 @@||cloudmaestro.com^$script,domain=overtone.co
 @@||cnet.com/a/video-player/uvpjs-rv/$script,~third-party
