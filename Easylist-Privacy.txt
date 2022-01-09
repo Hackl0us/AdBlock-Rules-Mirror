@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201080016
+! Version: 202201090044
 ! Title: EasyPrivacy
-! Last modified: 08 Jan 2022 00:16 UTC
+! Last modified: 09 Jan 2022 00:44 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4986,6 +4986,7 @@
 /wdg/tracking-
 /wdg_tracking-
 /web-analytics.
+/web-analytics/*
 /web-api/log/*
 /web-vitals.
 /web-vitals/*
@@ -8480,7 +8481,7 @@ _mongo_stats/
 ||zuyapixel.com^$third-party
 ||zuzab.com^$third-party
 ! Block ping
-$ping
+$ping,domain=~hey.com
 ! https://www.opensubtitles.org/
 $third-party,xmlhttprequest,domain=opensubtitles.org
 ! https://blog.confiant.com/the-trend-of-client-side-fingerprinting-in-cloaked-landing-pages-21915eb473df
@@ -13246,6 +13247,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dd6zx4ibq538k.cloudfront.net^
 ||ddrvjrfwnij7n.cloudfront.net^
 ||di2xwvxz1jrvu.cloudfront.net^
+||dkupaw9ae63a8.cloudfront.net^
 ||dl1d2m8ri9v3j.cloudfront.net^
 ||dn34cbtcv9mef.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
@@ -26040,11 +26042,13 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||live.house.gov/js/analytics.$script,~third-party
 @@||musiclab.chromeexperiments.com/bin/lib/angulartics-google-analytics.js
 @@||natureetdecouvertes.com^*/pixel.png$~third-party
+@@||nike.com^*/optimizely.browser.umd.min.js$~third-party
 @@||online.tivo.com/assets/tve/common/js/vendor/jsnlog/$script,~third-party
 @@||onlinebanking.usbank.com/TUX/public/libs/adobe/appmeasurement.js$script,~third-party
 @@||oyster.com/wp-content/plugins/smartertravel-shared/assets/js/tracking.min.js$~third-party
 @@||realtor.com/rentals/api/optimizely.js$script,~third-party
 @@||researchintel.com^*/feedback.asp$xmlhttprequest,domain=intel.com
+@@||rfksrv.com/rfk/js/*/init.js$script,domain=riteaid.com
 @@||sammobile.com/wp-content/themes/sammobile-6/assets/js/newrelic.js$~third-party
 @@||shop.bmw.com.au/assets/analytics-setup.js$~third-party
 @@||smartrevise.online/css/analytics.min.css$~third-party
