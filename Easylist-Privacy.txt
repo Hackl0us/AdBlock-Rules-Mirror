@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201100009
+! Version: 202201110021
 ! Title: EasyPrivacy
-! Last modified: 10 Jan 2022 00:09 UTC
+! Last modified: 11 Jan 2022 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -772,6 +772,7 @@
 /api/tracing?
 /api/track?guid
 /api/tracking/*
+/api/trk?
 /api/v1/collector
 /api/v1/metrics
 /api/v1/stat?
@@ -4372,6 +4373,7 @@
 /track/view|
 /track/visitors/?
 /track/visits/?
+/track/w-pixel?
 /track2.php
 /track?*&event=
 /track?_event=
@@ -4732,6 +4734,7 @@
 /trk.*/tracking.
 /trk.gif?
 /trk.php?
+/trk/api/*
 /trk2.*/open?$image
 /trk?t=$image
 /trk_tb.
@@ -8485,7 +8488,7 @@ _mongo_stats/
 ||zuyapixel.com^$third-party
 ||zuzab.com^$third-party
 ! Block ping
-$ping,domain=~hey.com
+$ping,third-party
 ! https://www.opensubtitles.org/
 $third-party,xmlhttprequest,domain=opensubtitles.org
 ! https://blog.confiant.com/the-trend-of-client-side-fingerprinting-in-cloaked-landing-pages-21915eb473df
@@ -8804,8 +8807,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nexioniect.com^
 ||nfwebminer.com^$third-party
 ||niematego.tk^$third-party
-||nimiq.com^$third-party
-||nimiq.watch^$third-party
 ||nimiqpool.com^$third-party
 ||nimiqtest.net^$third-party
 ||nimpool.io^$third-party
@@ -8821,6 +8822,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||party-vqgdyvoycc.now.sh^$third-party
 ||pertholin.com^$third-party
 ||play.mix.kinostuff.com^
+||pool.nimiq.watch^$third-party
+||pool.nimiqchain.info^$third-party
 ||pr0gram.org^$third-party
 ||rand.com.ru^
 ||reauthenticator.com^
@@ -11966,6 +11969,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||icu.getstorybox.com^
 ||id.google.com/verify/
 ||id.verticalhealth.net/script.js?partnerid=
+||iddu1vvb7sk8-a.akamaihd.net^
 ||iheart.com/events
 ||imageshack.us^*/thpix.gif
 ||imgfarm.com/images/nocache/tr/*.gif?$image
@@ -26044,6 +26048,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||kbctouch.kbc.be^*/dynatrace-$script,~third-party
 @@||lenovo.com/fea/js/adobeAnalytics/$script,~third-party,xmlhttprequest
 @@||live.house.gov/js/analytics.$script,~third-party
+@@||mparticle.com/js/v2/*/mparticle.js$script,domain=cnbc.com
 @@||musiclab.chromeexperiments.com/bin/lib/angulartics-google-analytics.js
 @@||natureetdecouvertes.com^*/pixel.png$~third-party
 @@||nike.com^*/optimizely.browser.umd.min.js$~third-party
