@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201110021
+! Version: 202201120020
 ! Title: EasyPrivacy
-! Last modified: 11 Jan 2022 00:21 UTC
+! Last modified: 12 Jan 2022 00:20 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -560,6 +560,7 @@
 /analytics-js.
 /analytics-js/*
 /analytics-min.js
+/analytics-minimal.
 /analytics-ping.
 /analytics-plugin/*
 /analytics-post-
@@ -7510,7 +7511,6 @@ _mongo_stats/
 ||pdbu.net^$third-party
 ||pdst.fm^$script,third-party
 ||peerius.com^$third-party
-||pendo.io^$third-party
 ||percentmobile.com^$third-party
 ||perf-serving.com^$third-party
 ||perfalytics.com^$third-party
@@ -11993,9 +11993,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||infosniper.net/locate-ip-on-map.php
 ||infusionsoft.com^*/getTrackingCode?
 ||ingest.make.rvapps.io^
-||inmoment.com.au/intercept/
-||inmoment.com/intercept/
-||inmoment.com/websurvey/
+||inmoment.com.au/intercept/$third-party
+||inmoment.com/intercept/$third-party
+||inmoment.com/websurvey/$third-party
 ||innogamescdn.com/media/js/metrics-
 ||inphonic.com/tracking/
 ||inq.com^*/onEvent?_
@@ -15188,6 +15188,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ultimedia.com/deliver/statistiques/
 ||umami.wakarimasen.moe^
 ||uniqlo.com/us/elgnisolqinu.js
+||unity3d.com/v1/events
 ||unsplash.com/a/third-party/snow-
 ||unsplash.com/nmetrics
 ||upi.com/story/stat/
@@ -25665,6 +25666,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||ss.lv/counter/
 ||stats.tunt.lv^
 ||tanks.lv/top/stats.php
+! Lithuanian
+||lrytas.lt/counter/
 ! Norwegian
 ||click.vgnett.no^
 ||nrk.no^*/stats/
@@ -26033,6 +26036,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||d41.co/tags/ff-2.min.js$domain=ads.spotify.com
 @@||daan.dev/wp-content/*/caos-supports-google-analytics-$image,~third-party
 @@||dashboard.unity3d.com/services/analytics/$~third-party
+@@||etsy.com/api/v3/ajax/bespoke/*log_performance_metrics=$~third-party
 @@||geo.gorillanation.com/geo.php$script,domain=sherdog.com
 @@||gettingpersonal.co.uk^*/scripts/app/shared/googleanalytics.js$script,~third-party
 @@||glenat.com^*/static/analytics.js$script,~third-party
@@ -26427,7 +26431,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||geo.kaloo.ga/json/$script,domain=tagesspiegel.de
 @@||google-analytics.com/analytics.js$domain=saturn.at|schweizerfleisch.ch|vox.de
 @@||google-analytics.com/plugins/ua/ec.js$domain=saturn.at
-@@||googletagmanager.com/gtm.js$domain=bunte.de|computerbild.de|finanzen.at|finanzen.net|freenet-funk.de|radiorur.de|saturn.at|sport1.de|vox.de
+@@||googletagmanager.com/gtm.js$domain=bunte.de|computerbild.de|finanzen.at|finanzen.net|freenet-funk.de|idealo.at|idealo.de|radiorur.de|saturn.at|sport1.de|vox.de
 @@||img.adnz.co^$image,domain=finanzen.ch
 @@||imrworldwide.com/novms/*/ggcm*.js$domain=tvnow.de
 @@||kameleoon.com/geolocation.gif$domain=welt.de
