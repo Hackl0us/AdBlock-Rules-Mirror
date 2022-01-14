@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201122330
+! Version: 202201132242
 ! Title: EasyPrivacy
-! Last modified: 12 Jan 2022 23:30 UTC
+! Last modified: 13 Jan 2022 22:42 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5959,6 +5959,7 @@ _mongo_stats/
 ||admother.com^$third-party
 ||adobedtm.com^$third-party,domain=~adobe.com
 ||adobetag.com^$third-party
+||adobetarget.com^$third-party
 ||adoftheyear.com^$third-party
 ||adoric-om.com^$third-party
 ||adpaths.com^$third-party
@@ -12313,6 +12314,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||oda.markitondemand.com^
 ||odnaknopka.ru/stat.js
 ||odysee.com/api/v1/metric/
+||odysee.com/log/
 ||ohnorobot.com/verify.pl?
 ||olytics.omeda.com^$script,third-party
 ||onecount.net/onecount/oc_track/
@@ -14267,8 +14269,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||a-reporting.nytimes.com^
 ||a.electerious.com^
 ||aa.avvo.com^
-||aax-eu-dub.amazon.com^
-||aax-us-iad.amazon.com^
+||aax-eu-dub.amazon.com^$script
+||aax-us-iad.amazon.com^$script
 ||ab-machine.forbes.com^
 ||ab.fanatical.com^
 ||abcnews.com/assets/dtci/js/abcnews_visitorId.js
@@ -15078,6 +15080,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.wwitv.com^
 ||streamstats.prd.dlive.tv^
 ||streamta.pe/stat/
+||streamta.site/stat/
 ||streamtape.com/stat/
 ||strtapeadblock.club/stat/
 ||strtpe.link/stat/

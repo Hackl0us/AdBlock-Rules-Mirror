@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-13T00:23:57.640Z
+! Last modified: 2022-01-14T00:21:35.483Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||gecko.me^
 ||ad.bluepartner.eu^
 ||clenchedyouthmatching.com^
 ||unpleasantconcrete.com^
@@ -9671,6 +9672,7 @@ vkcdnservice.appspot.com^
 ||guardedfebruaryenclosed.com^
 ||guardiandigitalcomparison.co.uk^
 ||guardssentinelcreepy.com^
+||guerrilla-links.com^
 ||guffawdecipher.com^
 ||guffawsister.com^
 ||guffsview.com^
@@ -11800,6 +11802,7 @@ vkcdnservice.appspot.com^
 ||maxonclick.com^
 ||maxserving.com^
 ||mayhemabjure.com^
+||maymooth-stopic.com^
 ||mayordiminution.com^
 ||maze4aem56jf.com^
 ||mazzappa.fun^
@@ -21422,6 +21425,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||fwpixel.com^
 ||cdn.adt567.net^
 ||smartlify.com^
 ||analytics.styria.hr^
@@ -25674,6 +25678,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||metrika.kontur.ru^
+||api-stg.ensonhaber.com^
 ||matomo.a1.by^
 ||d1stxfv94hrhia.cloudfront^
 ||stt.nimbusweb.me^
@@ -28053,6 +28059,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adblockrelief.com^
 ||adhslx.com^
 ||adinte.jp^
+||adobetarget.com^
 ||adoric-om.com^
 ||adregain.com^
 ||adregain.ru^
@@ -28261,7 +28268,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fstrk.net^
 ||ftz.io^
 ||fullcircleinsights.com^
-||fwpixel.com^
 ||gaconnector.com^
 ||gameanalytics.com^
 ||gammachug.com^
@@ -36368,6 +36374,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||handy-ads.de^
 ||heias.com^
 ||highad.de^
+||hot59.de^
 ||hovg.de^
 ||ibanner.de^
 ||iias.eu^
@@ -36628,6 +36635,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: ABPindo ad servers
 ! Source: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt
 !
+||1486050000.rsc.cdn77.org^
 ||188affiliates.com^
 ||1b969cef84d93b43.com^
 ||34667c8ece5.com^
@@ -36818,6 +36826,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||whjibbprhng.com^
 ||window-close.cf^
 ||window-close.ga^
+||www.bekdbxdhrffnj.com^
+||www.seyevjpcjkcnka.com^
 ||x-tags.net^
 ||yesads.com^
 ||yhig.info^
@@ -36830,9 +36840,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Jan 2022 15:36 UTC+7
-! Version: 2201121536
-! Blocked: 1.042 rules
+! Last modified: 13 Jan 2022 11:38 UTC+7
+! Version: 2201131138
+! Blocked: 1.044 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -36870,6 +36880,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adtima-video.zascdn.me^
 ||adtima.vn^
 ||adx.vn^
+||aiactiv.io^
 ||ambient-platform.com^
 ||ambientdsp.com^
 ||analytics.zapps.vn^
@@ -37800,6 +37811,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||garena.fan^
 ||garera.vn^
 ||garrena.vn^
+||giftcode-lienquanmobile-vn.com^
 ||giftcode-mobilelienquan.com^
 ||irduwhojas.ga^
 ||kaurroot.com^
@@ -37838,6 +37850,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||01fen.com^
 ||022aifang.com^
 ||025suyu.com^
+||ywak.com.cn^
 ||0451106.com^
 ||04zl.cn^
 ||0516bm.com^
@@ -38667,6 +38680,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||idianfang.com^
 ||idoc58.com^
 ||idy666.com^
+||ieecheng.com^
 ||ifufen.com^
 ||ijir.cn^
 ||il8r.com^
@@ -38874,6 +38888,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lizehuandian.top^
 ||llguandongyan.com^
 ||llqss.top^
+||llyqy.top^
 ||lm213.com^
 ||lm245.com^
 ||lm335.com^
@@ -40085,6 +40100,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||1.pncdn.cn^
 ||1.qjhm.net^
 ||1.rr95.com^
+||1.shopit.cn^
 ||1.sj33.net^
 ||1.soufy.cn^
 ||1.tecbbs.com^
@@ -40829,8 +40845,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||nbslx.mobi^
-||wswh.club^
+||iwwl.vip^
+||shaiban.wang^
+||kyle.pub^
+||xakywl.xyz^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -42001,6 +42019,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jttcbj.cn^
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||justwkj.xyz^
+||jwvjcr.cn^
 ||jx3yixi.club^
 ||jxin.xyz^
 ||jxzz.tech^
@@ -42136,6 +42155,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mzwfu.xyz^
 ||n258.cc^
 ||nbpyfog.cn^
+||nbslx.mobi^
 ||ncgywud.cn^
 ||ndfdwrg.cn^
 ||ndfsl.com^
@@ -42202,6 +42222,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||popwang.top^
 ||powerchase.online^
 ||priry.com^
+||proko.cn^
 ||propsad.com^
 ||psl93qx.site^
 ||ptujvmq.cn^
@@ -42246,6 +42267,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qzgs99.cn^
 ||rcjww9.xyz^
 ||rctxcsi.cn^
+||rctxczy.cn^
 ||rctxijo.cn^
 ||rctxiqx.cn^
 ||rctxjbv.cn^
@@ -42444,6 +42466,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wpqsmse.cn^
 ||ws-expo.cn^
 ||wsrrfoa.cn^
+||wswh.club^
 ||wswh.xyz^
 ||wulian.in^
 ||wuwai.art^
