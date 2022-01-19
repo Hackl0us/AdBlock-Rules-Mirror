@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201172349
+! Version: 202201190022
 ! Title: EasyPrivacy
-! Last modified: 17 Jan 2022 23:49 UTC
+! Last modified: 19 Jan 2022 00:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4616,6 +4616,7 @@
 /tracking_super_hot.js
 /tracking_unitary/*
 /trackingab?
+/trackingamp.php
 /trackingapi.
 /TrackingBreadcrumbs.
 /TrackingCentral.js
@@ -15279,6 +15280,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||zerohedge.com/statistics-ajax?
 ||zillowstatic.com/contact-pixel/$image,domain=zillow.com
 ||zion-telemetry.api.cnn.io^
+! akamaihd.net
+||akamaihd.net^$image,domain=globalnews.ca
 ! Plausible selfhosted
 ||jeremiahlee.com/fanboynz.js
 ! confection.io
@@ -26061,6 +26064,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||kbctouch.kbc.be^*/dynatrace-$script,~third-party
 @@||lenovo.com/fea/js/adobeAnalytics/$script,~third-party,xmlhttprequest
 @@||live.house.gov/js/analytics.$script,~third-party
+@@||moengage.com/v2/$xmlhttprequest,domain=olx.com.lb
+@@||moengage.com/webpush/$script,domain=olx.com.lb
 @@||mparticle.com/js/v2/*/mparticle.js$script,domain=cnbc.com
 @@||musiclab.chromeexperiments.com/bin/lib/angulartics-google-analytics.js
 @@||natureetdecouvertes.com^*/pixel.png$~third-party

@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DwY2i6DMZC2OB7Myd+ihlA
-! Version: 202201180037
+! Checksum: xya72Aarj/5VVmr2oI8pCw
+! Version: 202201190037
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 18 Jan 2022 00:37 UTC
+! Last Modified: 19 Jan 2022 00:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -16,6 +16,7 @@
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
 -880-80-4.jpg
+/wob*?frm=0&url=
 -90mh-gg.
 .bid/ads/
 .blog/ads/
@@ -1571,6 +1572,7 @@ ubmcmm.baidustatic.com
 ##a[href*="/x5092.com"]
 ##a[href*="/xapps5.xyz"]
 ##a[href*="/xmkgc.com/"]
+##a[href*="/yb6277.vip"]
 ##a[href*="/yhbet50.vip"]
 ##a[href*="/yigeyuming3880.top"]
 ~zhidmai.com##a[href*="https://www.zhidmai.com"]
@@ -1610,9 +1612,9 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/c7.net/"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
-||wnys1.com^
 ||00-gov.cn^
 ||000123456789.site^
+||shanxicloud.net^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
@@ -3024,6 +3026,7 @@ ubmcmm.baidustatic.com
 ||linkpage.cn^
 ||linkvans.com^$third-party
 ||lintyone.top^
+||linyongming.top^
 ||lisaiservice.top^
 ||lishuanghao.com^
 ||listc.cn^
@@ -3775,6 +3778,7 @@ ubmcmm.baidustatic.com
 ||wmrmb.cn^$third-party
 ||wmspw.com^
 ||wnlyjhb.com^
+||wnys1.com^
 ||wo19.top^
 ||wo685.com^$third-party
 ||wodemeitu.com^$third-party
@@ -15400,6 +15404,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||hanjuwang.com^$script,~third-party
 @@||hanjuwang.net^$script,~third-party
 @@||haoweichi.com/Public/js/ads.js
+@@||hbu.cn^*/ad.css?$stylesheet
 @@||hc360.com/ad/*.css
 @@||hdsky.net/ad/down.png
 @@||histock.tw/JScript/AD/
@@ -17093,7 +17098,10 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
-||qyafndr.cn^
+||xsdizch.cn^
+||giotlsi.cn^
+||xinhuayin.biz^
+||7znpl4sa.top^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -17538,6 +17546,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||atuehome.cn^
 ||austinareahomeschoolers.com^
 ||autobedo.com.cn^
+||avvr.club^
 ||awleo.cn^
 ||awtks.com^
 ||awyys.com^
@@ -17868,6 +17877,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||charleslee.cc^
 ||chaxiaoyin.cn^
 ||chayibu.com^
+||chegulu.ren^
 ||chekeshi.com^
 ||chendjiangxing.cn^
 ||chengdahdf.cn^
@@ -17972,6 +17982,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||ct372.cn^
 ||cufcmdj.cn^
 ||cuhzsx.xyz^
+||cuit.shop^
 ||cuoss.com^
 ||cw49z0.cn^
 ||cwhsmgs1.cn^
@@ -18111,6 +18122,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||dryraw.vip^
 ||dscloud.ltd^
 ||dsdsds8848.xyz^
+||dsnfun.cn^
 ||dspdy.cn^
 ||dss8l0f.cn^
 ||dssdr.top^
@@ -18273,6 +18285,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||hbyjrspyxgs.site^
 ||hcnegb.cn^
 ||hcvhhj.cc^
+||hdherpc.cn^
 ||hdsjk.cc^
 ||hebeiyichen.com^
 ||hello211.top^
@@ -18527,6 +18540,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||nhfpdc.cn^
 ||niwfaxz.cn^
 ||nlrpfpq.cn^
+||nlyekvc.cn^
 ||nmgpd.com^
 ||nmmgp.cn^
 ||nmykf.mobi^
@@ -18554,6 +18568,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||ojtqzxu.cn^
 ||ok-app.online^
 ||olkptgo.cn^
+||oniekg.top^
 ||onpta.cn^
 ||oofsg.cn^
 ||opbtc.cn^
@@ -18582,6 +18597,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||poedlov.cn^
 ||pokcykb.cn^
 ||popwang.top^
+||pouitgy.cn^
 ||powerchase.online^
 ||ppwxgpr.cn^
 ||priry.com^
@@ -18617,6 +18633,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||qingyulin.top^
 ||qlugsc.cn^
 ||qmdllqv.cn^
+||qmrtubg.cn^
 ||qorosmall.com^
 ||qp-nett.cn^
 ||qq163com.cn^
@@ -18629,6 +18646,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||quqianlai.cn^
 ||qusiwang.top^
 ||qv566.cn^
+||qyafndr.cn^
 ||qyjzleh.cn^
 ||qytkjsz.com^
 ||qzgs99.cn^
@@ -18647,6 +18665,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||rctxprz.cn^
 ||rctxsbw.cn^
 ||rctxsrv.cn^
+||rctxsxg.cn^
 ||rctxtjp.cn^
 ||rctxubn.cn^
 ||rctxwpn.cn^
@@ -18695,6 +18714,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||shuaiqiwudixiaoliangzaidddd.icu^
 ||shushuya.com^*.gif
 ||siikzd1.cn^
+||sikqcwz.cn^
 ||simastudio.cn^
 ||sinyang.info^
 ||siomyx.cn^
@@ -18896,6 +18916,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||xinyuanzszy.com^
 ||xitazf.cn^
 ||xiyyq.cn^
+||xjhmap.cn^
 ||xjjkxcg.cn^
 ||xmouxe.cn^
 ||xpxmpf.cn^
@@ -18923,6 +18944,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||yckpdr.com^
 ||yclhtech.cn^
 ||ydgege.xyz^
+||ydwjmvv.cn^
 ||yema.shop^
 ||ygtx.mobi^
 ||yidcd.cn^
@@ -21332,12 +21354,14 @@ dongtw.com#@#.post-share-container
 90xz.com#@#.share-btn
 baidu.com,youdao.com,yun.cn#@#.share-content
 fortress.com.hk,youdao.com#@#.share-icon
+aiqicha.baidu.com#@#.share-label
 baidu.com#@#.share-line
 189.cn,vua.sh,weiyun.com,youdao.com#@#.share-link
 meidebi.com,weicaixun.com#@#.share-list
 kuaishou.com#@#.share-page
 189.cn#@#.share-panel
 youdao.com#@#.share-text
+aiqicha.baidu.com#@#.share-title
 wantgoo.com#@#.shareBtns
 pcsoft.com.cn#@#.share_box
 dj92cc.com,djkk.com,tingqq.com#@#.share_list
