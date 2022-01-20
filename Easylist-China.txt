@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xya72Aarj/5VVmr2oI8pCw
-! Version: 202201190037
+! Checksum: nVIi5U3wT7tUarCV1j8MTA
+! Version: 202201200047
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 19 Jan 2022 00:37 UTC
+! Last Modified: 20 Jan 2022 00:47 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1609,12 +1609,14 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/789htbet.vip"]
 ##img[onclick*="/ayx600.com/"]
 ##img[onclick*="/ayx700.com/"]
+##a[href*=".sjzbqnxx.com/"]
 ##img[onclick*="/c7.net/"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
 ||00-gov.cn^
 ||000123456789.site^
 ||shanxicloud.net^
+||7znpl4sa.top^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
@@ -9267,6 +9269,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+3dmgame.com#?#style+span+p+div[class]:-abp-has(>div[class]:-abp-contains(下载器))
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -17102,6 +17105,22 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||giotlsi.cn^
 ||xinhuayin.biz^
 ||7znpl4sa.top^
+||xrecord.xyz^
+||keqcte.cn^
+||2laezi9.cn^
+||skwenq.cn^
+||i9zkiqn.cn^
+||wvjjnb.cn^
+||rctxobb.cn^
+||bincun.xyz^
+||mjyjt.biz^
+||rktupt.cn^
+||qxtwkq.cn^
+||6899.fun^
+||xhx.design^
+||gblvuim.cn^
+||qtrwwov.cn^
+||ftvqvv.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
