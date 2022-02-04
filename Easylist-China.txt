@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ljN2hjHfj/jgmX0N2bIPvA
-! Version: 202202030036
+! Checksum: 2gvAV4QYxEreE1PEdJsNOQ
+! Version: 202202040036
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last modified: 03 Feb 2022 00:36 UTC
+! Last modified: 04 Feb 2022 00:36 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -348,6 +348,7 @@
 /getAliyunAdv.
 /getcode.jsp?uid=$script,third-party
 /getfuolist|$xmlhttprequest
+/getGG.php?key=
 /gg.php
 /gg7f5kv/*
 /gg_d.php
@@ -1622,6 +1623,7 @@ ubmcmm.baidustatic.com
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
 ||00-gov.cn^
+||xhfrt.cn^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
@@ -4184,6 +4186,7 @@ ubmcmm.baidustatic.com
 ||zpxw.vip^
 ||zqsbnfh.top^
 ||zqscript.com^
+||zqslg.cn^
 ||zsdexun.com.cn^
 ||zswinwin.xyz^
 ||ztdsp.com^$third-party
@@ -7812,6 +7815,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||pc6.com/img/
 ||pc841.com/show/
 ||pcauto.com.cn/forum/fz/hots/
+||pcauto.com.cn/zt/halfprice/
 ||pccoo.cn/js/dlv1.0.js
 ||pcgames.com.cn*/index.js
 ||pcgames.com.cn/g/
@@ -11608,7 +11612,7 @@ byxx.com##.byzwPC-banner-ADscroll
 kuaihou.com##.bz
 52pk.com,downmsn.com##.bzClick
 downyi.com##.bzYouDao
-xz7.com##.bzxz
+pcdown.net,xz7.com##.bzxz
 ucbug.com##.bzxz128
 mgtv.com##.c-95060-top
 sm.cn##.c-container > div[data-sc*="etao"]
@@ -13347,6 +13351,7 @@ tvsou.com##.sogou-temp-hidden
 tvsou.com##.sogou-temp-show
 sohu.com##.sogouService
 5nd.com##.songAds
+pcdown.net##.sort_list > .clearfix:first-child
 jq.131458.com##.soso_02
 firefoxchina.cn##.sp-content
 zww.me##.sp-top-img
@@ -16179,6 +16184,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||a.qunzou.com^
 ||a.rensheng5.com^
 ||a.shenchuang.com^
+||a.shicigequ.com^
 ||a.thn21.com^
 ||a.tiyuxiu.com^
 ||a.tuizhuti.com^
@@ -17176,8 +17182,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
-||hucy87.icu^
-||tahuixin.club^
+||chenjie.site^
+||cyfyb2.site^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -17620,6 +17626,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||appstreets.com^
 ||apsxm.cn^
 ||apxyz.com^
+||aqbamjk.cn^
 ||archrug.com^
 ||arhat.io^
 ||arkn81.com^
@@ -18414,6 +18421,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||hdsjk.cc^
 ||hebeiyichen.com^
 ||hello211.top^
+||hexp.xyz^
 ||heyi.shop^
 ||hgbvtax.cn^
 ||hgdnd.cc^
@@ -18429,6 +18437,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||hnfxhx.xyz^
 ||hnpxsm.com.cn^
 ||hnthink.vip^
+||hnyczs.club^
 ||hnzhengtongkj.cn^
 ||holidayhappy.online^
 ||holyyjs.xyz^
@@ -18444,6 +18453,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||huasuihz.top^
 ||huawuhui.club^
 ||huaxiaozhang.club^
+||hucy87.icu^
 ||hugvr.cn^
 ||hulewangsi.cn^
 ||huobago.com^
@@ -18869,6 +18879,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||rmpnhfu.cn^
 ||rngfavm.cn^
 ||rocm0c.site^
+||rongnuo.pw^
 ||rrgapzw.cn^
 ||rsftjj.cn^
 ||rshi.club^
@@ -18942,6 +18953,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||swnptn.cn^
 ||sxbme.club^
 ||sxgbwlkjkj.xyz^
+||sxmcwlw.com^
 ||sxswjkgs.com^
 ||sxyyedu.cn^
 ||sxzchs.cn^
@@ -18952,6 +18964,7 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||szmjskjx.com^
 ||szzd.ltd^
 ||t5wm.cc^
+||tahuixin.club^
 ||tangxue.me^
 ||tanky.vip^
 ||taomovie.club^
