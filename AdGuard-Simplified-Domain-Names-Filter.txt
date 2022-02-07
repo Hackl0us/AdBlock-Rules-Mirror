@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-05T18:03:34.858Z
+! Last modified: 2022-02-07T00:22:12.257Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -12,9 +12,15 @@
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
 !
 !
-! Section contains list of advertising networks
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+! The rules with hints are at the end of file.
+
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
-! The rules with hints are at the end of file
+!
 !
 ||lzrikate.com^
 ||xfyyveifirnll.com^
@@ -3372,7 +3378,13 @@ www.llllllllllll.net^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers_firstparty.txt
 !
 !
-! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
+! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
+! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
+!
+! Good: ||ad.doubleclick.net^
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
+!
 !
 ||d24g87zbxr4yiz.cloudfront.net^
 ||centent.stemplay.cc^
@@ -4939,6 +4951,7 @@ vkcdnservice.appspot.com^
 ||ahscdn.com^
 ||ahstrelgnh.com^
 ||ahuhfljg.com^
+||ahurmtx9dnwwxa.ru^
 ||ahwrin88tl.com^
 ||ahzdlvsli.com^
 ||aibsubul.net^
@@ -4970,6 +4983,7 @@ vkcdnservice.appspot.com^
 ||airconditiondescendent.com^
 ||airpush.com^
 ||airrrxggfafnbl.xyz^
+||airsaurd.com^
 ||airsoubs.com^
 ||aissoksu.net^
 ||aiwhamti.com^
@@ -5609,6 +5623,7 @@ vkcdnservice.appspot.com^
 ||baetrf.com^
 ||bafsxyiknk.xyz^
 ||baggyritual.com^
+||bahfhgfdibgbcegbgg.ru^
 ||bahmemohod.com^
 ||baileyadopted.com^
 ||baileydoormantdoormantalacrity.com^
@@ -6342,6 +6357,7 @@ vkcdnservice.appspot.com^
 ||caikouli.com^
 ||caiteesh.net^
 ||caithamo.net^
+||calabeshes.xyz^
 ||calculatorconceivenonetheless.com^
 ||callcreateabash.com^
 ||callelundotre.xyz^
@@ -6792,6 +6808,7 @@ vkcdnservice.appspot.com^
 ||cloudimagesa.com^
 ||cloudimagesb.com^
 ||cloudioo.net^
+||cloudlogobox.com^
 ||cloutbeliefphantom.com^
 ||clrstm.com^
 ||clubpenguinclub.com^
@@ -13609,6 +13626,7 @@ vkcdnservice.appspot.com^
 ||ppfrlfe.com^
 ||ppomyzaheudlta.com^
 ||pppbrkwd.xyz^
+||ppqlnwavlmt.com^
 ||pprq7.com^
 ||ppscdnqkgj.com^
 ||ppxbsbluutiwc.xyz^
@@ -13913,6 +13931,7 @@ vkcdnservice.appspot.com^
 ||pttsite.com^
 ||ptulepti.net^
 ||ptusuhucho.com^
+||ptutchiz.com^
 ||ptwmjmp.com^
 ||ptystuthyglo.com^
 ||pu1.biz^
@@ -17890,6 +17909,7 @@ vkcdnservice.appspot.com^
 ||yeaonesad.com^
 ||yedikthslvl.xyz^
 ||yeegsxcwbnn.com^
+||yefbmjqdjkpr.com^
 ||yellowacorn.net^
 ||yemisleol.xyz^
 ||yempid.com^
@@ -20072,6 +20092,7 @@ vkcdnservice.appspot.com^
 ||d3a49eam5ump99.cloudfront.net^
 ||d3ahinqqx1dy5v.cloudfront.net^
 ||d3aiy6aqoa3ykz.cloudfront.net^
+||d3al52d8cojds7.cloudfront.net^
 ||d3asksgk2foh5m.cloudfront.net^
 ||d3b2hhehkqd158.cloudfront.net^
 ||d3c3uihon9kmp.cloudfront.net^
@@ -20200,7 +20221,12 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
 !
 !
-! Section contains list of advertising networks
+! This section contains the list of third-party advertising networks domains for mobile devices.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+!
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
 ! ||mobileapptracking.com^ - don't block this domain with all subdomains. https://forum.adguard.com/index.php?threads/23917/
@@ -20920,6 +20946,14 @@ vkcdnservice.appspot.com^
 !
 ! Source name: AdGuard Tracking Protection filter third-party trackers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
+!
+!
+! This section contains the list of third-party tracking networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+!
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||tracker.legitwebsite.com^ (should be in tracking_servers_firstparty.txt)
 !
 !
 ! Blocking Firebase crash reporting is quite problematic:
@@ -25222,7 +25256,13 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
 !
 !
-! Section contains the list of tracking servers, which are hosted on useful sites as subdomains
+! This section contains the list of tracking networks domains, which are hosted on non advertising sites as subdomains.
+! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
+!
+! Good: ||tracker.doubleclick.net^
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
+!
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/25467
 !
@@ -25242,6 +25282,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||analytics.vedantu.com^
 ||stat.mydaddy.cc^
 ||event-collector.analytics.onedio.com^
 ||gtmdev.jabra.
@@ -26992,7 +27033,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
 !
 !
-! Section contains rules for mobile analytics and spyware
+! This section contains the list of the rules that block mobile analytics and spyware.
+!
+! Good: ||adeventtracker.spotify.com^
+! Bad:  ||adeventtracker.spotify.com^ (if this is everywhere, should be in tracking_servers.txt)
+!
 !
 ! Do not block pixapi.net. It causes issues
 !
@@ -28024,6 +28069,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nakanohito.jp^
 ||natero.com^
 ||navigator.io^
+||nc0.co^
 ||ncaudienceexchange.com^
 ||ndf81.com^
 ||nejmqianyan.cn^
@@ -29019,6 +29065,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cltgtstor001.blob.core.windows.net^
 ||cnt.3dmy.net^
 ||cnt.mastorage.net^
+||cnt.trvdp.com^
 ||cod.bitrec.com^
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
@@ -30150,6 +30197,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||events.newsroom.bi^
 ||events.sk.ht^
 ||nws.naltis.com^
+||offer.slgnt.eu^
 ||osd.oxygem.it^
 ||rs.smc.tf^
 ||securite.01net.com^
@@ -30418,7 +30466,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.txt
 !
 !
-! Section contains list of advertising networks
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+!
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
 !
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
@@ -30555,7 +30609,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers.txt
 !
 !
-! Содержит доменные имена, использующиеся рекламными сетями.
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+!
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
 !
 ||adblocksosal.ru^
 ||unhwav.com^
@@ -34711,7 +34771,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers_firstparty.txt
 !
 !
-! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
+! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
+! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
+!
+! Good: ||ad.doubleclick.net^
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
+!
 !
 ||t.sur.new.gorodkirov.ru^
 ||dsp-eu.surfy.tech^
@@ -34916,7 +34982,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/news_exchange.txt
 !
 !
-! Новостные тизерки
+! This section contains the list of the base rules that block news teasers.
+!
+! Good: ||smi24.kz^$third-party
+! Bad:  ||smi24.kz/banners/ (should be in specific.txt)
+!
 !
 ||smi24.kz^
 ||virtonnews.com^
@@ -34969,6 +35039,14 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Source name: AdGuard Turkish filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
+!
+!
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+!
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
 ||tracking.ucreate.live^
@@ -35211,7 +35289,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers_firstparty.txt
 !
 !
-! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
+! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
+! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
+!
+! Good: ||ad.doubleclick.net^
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
+!
 !
 ||ads.macsonuclari.mobi^
 ||ads.inegolonline.com^
@@ -35270,7 +35354,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers.txt
 !
 !
-! Section contains list of advertising networks
+! This section contains the list of third-party advertising networks domains. In that case domain should be added to the common rules.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+!
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
 !
 ||ukslphcgs.com^
 ||habrox.xyz^
@@ -35284,7 +35374,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
-! Section contains list of advertising networks
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+!
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/23113
 ! ||weblio.jp^$third-party
@@ -35584,6 +35680,15 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: AdGuard German filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt
 !
+!
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+!
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
+!
 ||tikibihu.com^
 ||partners2.das-onlinespiel.de^
 ||intextlinks.idg.zone^
@@ -35611,7 +35716,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers.txt
 !
 !
-! Section contains list of advertising networks
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+!
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
 !
 ||bjjabc.com^
 ||mdfsbn.com^
@@ -35838,7 +35949,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers.txt
 !
 !
-! Section contains list of advertising networks
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+!
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
 !
 ||pexi.nl^
 ||adconfigproxy.azurewebsites.net^
@@ -35848,7 +35965,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers_firstparty.txt
 !
 !
-! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
+! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
+! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
+!
+! Good: ||ad.doubleclick.net^
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
+!
 !
 ||content2.nrc.nl^
 !
@@ -37469,7 +37592,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
-||qqq-www-987.site^
 ||008844.cc^
 ||00xvppy.cn^
 ||01fen.com^
@@ -38164,6 +38286,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||govguilin.cn^
 ||govhechi.cn^
 ||govkunming.cn^
+||govqingdao.cn^
 ||govshenzhen.cn^
 ||govxian.cn^
 ||govyunfu.cn^
@@ -38359,6 +38482,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jfqkj.com^
 ||jfsm5.top^
 ||jghcy.com^
+||jghklz.xyz^
 ||jgwsmqx.com^
 ||jhtcdj.com^
 ||jiaheyonggu.com^
@@ -38758,6 +38882,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qo26.com^
 ||qpokok.com^
 ||qqm98.com^
+||qqq-www-987.site^
 ||qqq123987.site^
 ||qqqwww987.online^
 ||qqtx.me^
@@ -39734,7 +39859,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||jquery.envi-met.com.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -40228,6 +40352,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jintonghua.com^
 ||jiyan.net^
 ||jke1.jianke.com^
+||jquery.envi-met.com.cn^
 ||js.23yy.com^
 ||js.263y.com^
 ||js.9136.com^
@@ -40522,15 +40647,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||eroo.shop^
-||lw88.site^
-||1wofaei.xyz^
-||tbxprvf.cn^
-||adsb.pub^
-||51dc.xyz^
-||rmdzsw.top^
-||smallapp.club^
-||zhiai.space^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -40581,6 +40697,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||1loveclones.com^
 ||1ug8jn.cn^
 ||1v1.ink^
+||1wofaei.xyz^
 ||200ps.com^
 ||201767.cn^
 ||21fit3-wnro.cn^
@@ -40645,6 +40762,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||51boxian.cc^
 ||51check.com.cn^
 ||51city.fun^
+||51dc.xyz^
 ||51df7z.cn^
 ||51dianji.cn^
 ||51elandt.com^
@@ -40793,6 +40911,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adgtx.club^
 ||adhdsb.cn^
 ||adrian.net.cn^
+||adsb.pub^
 ||adtongji.xyz^
 ||aduic.com^
 ||advancedreefaquarium.com^
@@ -41287,6 +41406,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||clfmm.cn^
 ||clmmw.com^
 ||cloudassistant.vip^
+||cloudzhuge.cn^
 ||clxxkz.com.cn^
 ||clzgd.com^
 ||cmall.club^
@@ -41562,6 +41682,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||epzpzmg.cn^
 ||eq984.cn^
 ||erna.xyz^
+||eroo.shop^
 ||esou.me^
 ||esp-12f.xyz^
 ||etfprj.cn^
@@ -41672,6 +41793,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hdsjk.cc^
 ||hebeiyichen.com^
 ||hello211.top^
+||hexin.city^
 ||hexp.xyz^
 ||heyi.shop^
 ||hgbvtax.cn^
@@ -41891,6 +42013,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lthwsj.com^
 ||lujingyu.fun^
 ||lvhqntk.cn^
+||lw88.site^
 ||lxiu.shop^
 ||lxtxhxt.com^
 ||lxxy.xyz^
@@ -42124,6 +42247,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rjnjjin.cn^
 ||rktupt.cn^
 ||rl-mb90b39t.cn^
+||rmdzsw.top^
 ||rmpnhfu.cn^
 ||rngfavm.cn^
 ||rocm0c.site^
@@ -42134,6 +42258,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rsvffmn.cn^
 ||rsykksw.cn^
 ||rt354.cn^
+||rtreyyf.cn^
 ||ruif.xyz^
 ||runtai369.cn^
 ||rylcbwg.cn^
@@ -42173,6 +42298,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sl00ufi.cn^
 ||slgo.club^
 ||sltcp.cn^
+||smallapp.club^
 ||smh.ink^
 ||smncden.cn^
 ||smsk.site^
@@ -42217,6 +42343,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tba4.cn^
 ||tbi7.cn^
 ||tbl1.cn^
+||tbxprvf.cn^
 ||tccb71h.cn^
 ||tdedqqv.cn^
 ||tengxunwang.top^
@@ -42332,6 +42459,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wnet.ink^
 ||wojv.club^
 ||woniu1314520.vip^
+||word168.cn^
 ||wppei.cn^
 ||wpqsmse.cn^
 ||ws-expo.cn^
@@ -42349,6 +42477,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wwshxc.cn^
 ||wxkouem.cn^
 ||wxqcshgc.icu^
+||wzjs.me^
 ||wzxzy.icu^
 ||wzytop.top^
 ||wzzb.club^
@@ -42477,6 +42606,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhentao.shop^
 ||zhenxinchicken.xyz^
 ||zhexnuq.cn^
+||zhiai.space^
 ||zhifoujiaoyu.xyz^
 ||zhihui.ink^
 ||zhonglutang.group^
@@ -42515,6 +42645,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zrwba.cn^
 ||zsshlsh.cn^
 ||zthhhbb.cn^
+||zuibandao.club^
 ||zuoyouyu.cn^
 ||zwdq.xyz^
 ||zxakeax.cn^
