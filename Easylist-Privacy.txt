@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202202082255
+! Version: 202202100015
 ! Title: EasyPrivacy
-! Last modified: 08 Feb 2022 22:55 UTC
+! Last modified: 10 Feb 2022 00:15 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -224,7 +224,7 @@
 .statData-eup.
 .stats?action=
 .svc/?tracking_id=
-.tealium.$domain=~tealium.com
+.tealium.$domain=~tealium.co.jp|~tealium.com
 .track.actions.get?
 .track_Visit?
 .trackArticleAction&
@@ -5764,6 +5764,7 @@ _mongo_stats/
 ||fastgull.io^
 ||fasttiger.io^
 ||fn-pz.com^
+||fpaux.net^
 ||g11686975765.co^
 ||g1188506010.co^
 ||g11885060100.co^
@@ -7677,7 +7678,7 @@ _mongo_stats/
 ||quantummetric.com^$third-party
 ||quartic.pl^$third-party
 ||qubitproducts.com^$third-party
-||questionpro.com^$third-party,domain=~questionpro.com.au
+||questionpro.com^$third-party,domain=~questionpro.com.au|~questionpro.eu
 ||questradeaffiliates.com^$third-party
 ||quillion.com^$third-party
 ||quintelligence.com^$third-party
@@ -26350,7 +26351,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||api.cxense.com/public/widget/data?$script,domain=handelsblatt.com
 @@||apps.derstandard.at^*/TrackingCookieCheck?$subdocument
 @@||assets.adobedtm.com^*-source.min.js$domain=manager-magazin.de
-@@||bilder-a.akamaihd.net/ip/js/ipdvdc/ipdvdc.min.js$script,domain=n-tv.de
+@@||bilder-a.akamaihd.net/ip/js/ipdvdc/ipdvdc.min.js$domain=n-tv.de|toggo.de
 @@||businessclick.ch/index.js$domain=finanzen.ch
 @@||cdn.cxense.com/cx.js$script,domain=handelsblatt.com
 @@||darmstadt.ui-traffic.de/mobile/webapp/bower_components/heatmap.js$domain=darmstadt.ui-traffic.de
@@ -26391,6 +26392,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||taboola.com^*/json?tim=$domain=sueddeutsche.de
 @@||technical-service.net^$xmlhttprequest,domain=n-tv.de
 @@||tipico.de/js/modules/fingerprintjs2/fingerprint2.min.js$script,~third-party
+@@||toggo.de/static/js/sourcepoint.js$domain=toggo.de
 @@||uim.tifbs.net/js/$script,domain=web.de
 @@||widgets.trustedshops.com/reviews/tsSticker/$domain=koziol-shop.de
 @@||zeit.de/cre-*/tracking/call.js?$domain=zeit.de
