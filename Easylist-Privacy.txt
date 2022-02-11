@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202202100015
+! Version: 202202102353
 ! Title: EasyPrivacy
-! Last modified: 10 Feb 2022 00:15 UTC
+! Last modified: 10 Feb 2022 23:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5415,6 +5415,7 @@ cgi-bin/counter
 .mkt2684.com/eos/
 .mozilla.org/eos/$image
 .ne16.com/do/
+.netcologne.de/-open2/$image
 .oculus.com/collect/
 .pstmrk.it/open/
 .publish0x.com/t/
@@ -6068,7 +6069,6 @@ _mongo_stats/
 ||analitits.com^$third-party
 ||analitycs.net^$third-party
 ||analoganalytics.com^$third-party
-||analytics-egain.com^$third-party
 ||analyticschecker.com^$third-party
 ||analyticson.com^$third-party
 ||analyticswizard.com^$third-party
@@ -12818,7 +12818,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tags.master-perf-tools.com^
 ||tags.newscgp.com^
 ||tags.refinery89.com^
-||tags.remixd.com^
 ||tagtracking.vibescm.com^
 ||target.mixi.media^
 ||targeting.*.arcpublishing.com^
@@ -25580,6 +25579,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||stats.tunt.lv^
 ||tanks.lv/top/stats.php
 ! Lithuanian
+||15min.lt/cached/tgif$~third-party
 ||lrytas.lt/counter/
 ! Norwegian
 ||click.vgnett.no^
@@ -26486,6 +26486,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ! ---------- Dutch ----------
 ! 
 @@||2doc.nl^*/vpro-analytics/Analytics.js$xmlhttprequest
+@@||3voor12.vpro.nl^*/streamsense.min.js$~third-party
 @@||ad.crwdcntrl.net^$script,domain=rtl.nl
 @@||analytics.ooyala.com/static/analytics.js$script,domain=humo.be
 @@||centprod.com/nd/assets/js/analytics.js$script,domain=centprod.com
