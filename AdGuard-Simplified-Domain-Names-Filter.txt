@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-20T00:02:07.535Z
+! Last modified: 2022-02-21T00:02:28.504Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||dissolvedhaunch.com^
 ||hsrvv.com^
 ||instaflrt.com^
 ||japanhotties.jp^
@@ -21352,10 +21353,7 @@ vkcdnservice.appspot.com^
 ||static-tracking.klaviyo.com^
 ||telemetrics.klaviyo.com^
 ||d.k3r.jp^
-||tracking.smartselling.cz^
 ||retargeting.newsmanapp.com^
-||tracking-sap.frodx.com^
-||track.leadhit.ru^
 ||affilbox.cz^
 ||nc0.co^
 ||pixelpop.co^
@@ -21369,7 +21367,6 @@ vkcdnservice.appspot.com^
 ||data.digitalks.az^
 ||track.nopaperforms.com^
 ||track.91app.io^
-||track.stat.pet^
 ||cdn.teleportapi.com^
 ||api.rollbar.com^
 ||fouanalytics.com^
@@ -25661,6 +25658,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||trk.storyly.io^
 ||d.email.forbes.com^
 ||curiosity-seven.vercel.app^
 ||track.eurogirlsescort.com^
@@ -28277,6 +28275,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||freecounter.ovh^
 ||freegeoip.app^
 ||freevisitorcounters.com^
+||frodx.com^
 ||fsd2.digital^
 ||fstats.xyz^
 ||fstrk.net^
@@ -28386,6 +28385,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||konduit.me^
 ||ktxtr.com^
 ||l2.io^
+||leadberry.com^
 ||leadbi.com^
 ||leadchampion.com^
 ||leaddyno.com^
@@ -29228,6 +29228,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||spotstring.com^
 ||spottedsmile.com^
 ||springsister.com^
+||stat.pet^
 ||steadfastseat.com^
 ||steadycopper.com^
 ||stepplane.com^
@@ -30265,6 +30266,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analights.com^
 ||programmatic.cz^
 ||semnicneposilejte.cz^
+||smartselling.cz^
 ! Danish
 ||digitaladvisor.dk^
 ||jubiitag.dk^
@@ -30424,6 +30426,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||infox.sg^
 ||inrd.ru^
 ||instreamatic.com^
+||leadhit.ru^
 ||leadslabpixels.net^
 ||lentainform.com^
 ||livetex.ru^
@@ -41740,6 +41743,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bsytjc.com^
 ||bt-xd.com^
 ||btbalex.cn^
+||bte.ink^
 ||btser.cn^
 ||bucojji.cn^
 ||bugcreator.cn^
@@ -42169,6 +42173,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fafafa1.com^
 ||fajuer.xyz^
 ||fangjieshi.club^
+||fdasew.top^
 ||fdfgf.cc^
 ||febao.xyz^
 ||feifys.top^
@@ -42219,6 +42224,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gfncg.cn^
 ||gggwv.cn^
 ||gh1024.xyz^
+||ghmsrxt.cn^
 ||giotlsi.cn^
 ||gjohvhf.cn^
 ||gk596.cn^
@@ -42446,6 +42452,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ke94.com^
 ||keqcte.cn^
 ||kershop.ren^
+||kf3.xyz^
+||kfir.club^
 ||kgvjcsp.cn^
 ||khuokpj.cn^
 ||ki47.com^
@@ -42463,6 +42471,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kowqxog.cn^
 ||ksvftk.cn^
 ||kszhmzp.cn^
+||kuaiyunbd.com^
 ||kuajingtao.cc^
 ||kuangbang.ltd^
 ||kukulm.com^
@@ -42790,6 +42799,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rt354.cn^
 ||rtreyyf.cn^
 ||ruif.xyz^
+||ruiyijy.xyz^
 ||runtai369.cn^
 ||rylcbwg.cn^
 ||s1utu5g.cn^
@@ -42870,6 +42880,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||szmjskjx.com^
 ||szzd.ltd^
 ||t5wm.cc^
+||t6q6187.cn^
 ||tahuixin.club^
 ||taiztf.cn^
 ||tangxue.me^
@@ -42943,6 +42954,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||umhfrtu.cn^
 ||umihecd.cn^
 ||umis.top^
+||umvspj.cn^
 ||unfzclg.cn^
 ||uni-king.cn^
 ||uqakkye.cn^
@@ -42950,6 +42962,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||uqjflmw.cn^
 ||urtutb.cn^
 ||usrlock.cn^
+||uuywe.top^
 ||uxpolqk.cn^
 ||uz4cb.cn^
 ||vaxgyly.cn^
