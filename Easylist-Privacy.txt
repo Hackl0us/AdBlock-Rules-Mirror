@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202202250035
+! Version: 202202260027
 ! Title: EasyPrivacy
-! Last modified: 25 Feb 2022 00:35 UTC
+! Last modified: 26 Feb 2022 00:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2116,6 +2116,7 @@
 /get_browser_info.
 /get_geoip?
 /get_site_data?account_id=
+/get_site_data?requestUUID=
 /get_tracking_id?
 /get_tracking_url.
 /getbglog.js
@@ -26818,6 +26819,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||marktest.pt/netscope-gemius.js$script,domain=ojogo.pt
 @@||netmede.pt/code/ga.min.js$script,domain=netmede.pt
 @@||nostv.pt^*/angulartics-google-analytics.js?
+@@||serasaexperian.com.br/dist/scripts/fingerprint2.js$~third-party
 @@||siteapps.com^$script,domain=netcombo.com.br
 @@||splunk-heavyforwarder-public.vtex.com:8088/services/collector/event$xmlhttprequest,domain=loja3m.com.br
 @@||stats.g.doubleclick.net/dc.js$domain=netcombo.com.br
@@ -26857,6 +26859,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||leroymerlin.ru/config/analytics.js$script
 @@||matchid.adfox.yandex.ru/?url=$script,domain=ctc.ru
 @@||mc.yandex.ru/metrika/tag.js$script,domain=auto.yandex|coddyschool.com
+@@||mealty.ru/js/ga_events.js$~third-party
 @@||megafon.ru/static/?files=*/tealeaf.js
 @@||mts.ru/app/vendor/angular-google-analytics.min.js
 @@||mycargo.rzd.ru/dst/scripts/common/analytics-helper.js$~third-party
