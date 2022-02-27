@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-26T00:02:29.323Z
+! Last modified: 2022-02-27T00:02:11.509Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||whsrdsweq.com^
+||abrocvhkwhd.com^
+||enifeygqued.com^
 ||rquixwgrwvdcal.xyz^
 ||dopjfbdvatxlhe.com^
 ||uscnvdcxttnh.com^
@@ -20423,6 +20426,7 @@ vkcdnservice.appspot.com^
 ||servedby.keygamesnetwork.com^
 ||servedby.yell.com^
 ||services.zam.com^
+||sikr.chimeratool.com^
 ||squirrels.getsquirrel.co^
 ||srv.dynamicyield.com^
 ||static.tradetracker.net^
@@ -21538,6 +21542,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||cl*.k5a.io^
+||analytics.superstructure.ai^
 ||cdn.raekdata.com^
 ||felix.data.tm-awx.com^
 ||imzahrwl.xyz^
@@ -28148,6 +28154,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dispatchvegasplus.com^
 ||dm-event.net^
 ||e1e.io^
+||efreecode.com^
 ||emycewiw.xyz^
 ||enthusiastgaming.net^
 ||fastemu.co^
@@ -29594,6 +29601,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||beacon.flow.io^
 ||beacon.nrholding.net^
 ||beacon.rum.dynapis.com^
+||beacon.s.llnwi.net^
 ||beacon.searchspring.io^
 ||beacon.squixa.net^
 ||beacon.statful.com^
@@ -29888,6 +29896,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||perf.dugout.com^
 ||perso.aws.arc.pub^
 ||pi.ispot.tv^
+||ping-admin.ru^
 ||ping-dot-acp-magento.appspot.com^
 ||ping.dozuki.com^
 ||ping.instantsearchplus.com^
@@ -35892,6 +35901,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||addata.exxen.com^
 ||ads.macsonuclari.mobi^
 ||ads.inegolonline.com^
 ||rek.yemlee.com^
@@ -36278,6 +36288,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||embed.contentverticals.de^
 ||ablyft.com^
 ||tikibihu.com^
 ||partners2.das-onlinespiel.de^
@@ -41323,6 +41334,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hushenqiquan.com^
 ||dingdian.shop^
 ||mydancecn.online^
+||lauvlku.cn^
+||5dm6ghn.cn^
+||shenwupower.com.cn^
+||blb2s77r.cn^
+||doumobhaia.site^
+||qiangren.biz^
+||dafuhao918.com^
+||dofsg.cn^
+||qycg.wang^
+||sxtc.wang^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
