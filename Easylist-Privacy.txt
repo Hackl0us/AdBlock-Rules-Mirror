@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202202280010
+! Version: 202202282144
 ! Title: EasyPrivacy
-! Last modified: 28 Feb 2022 00:10 UTC
+! Last modified: 28 Feb 2022 21:44 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6358,7 +6358,6 @@ _mongo_stats/
 ||christmalicious.com^$third-party
 ||chrumedia.com^$third-party
 ||chtbl.com^$script,third-party,xmlhttprequest
-||cint.com^$third-party
 ||cintnetworks.com^$third-party
 ||circular-counters.com^$third-party
 ||cityadstrack.com^$third-party
@@ -14078,6 +14077,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||s.yimg.jp/images/listing/tool/cv/ytag.js
 ||sankei-digital.co.jp/log?
 ||sankei.co.jp/js/privacy/sando.js
+||script-sh.d2cdm.jp^
 ||seesaa.jp/ot_square.pl?
 ||shinobi.jp/track?
 ||shinobi.jp/zen?
@@ -14531,6 +14531,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||codecguide.com/stats.js
 ||collect.alipay.com^
 ||collector-px0py5pczn.octopart.com^
+||collector.cint.com^
 ||collector.githubapp.com^
 ||collector.megaxh.com^
 ||collector.pi.spectrum.net^
@@ -25047,6 +25048,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||aliasdmc.fr/js/general_sts.js
 ||allocine.fr/_/geolocalize
 ||analytics.allovoisins.com^
+||api.odysee.com/locale/get
 ||batiactu.com/cap_
 ||compteur.developpez.com^
 ||developpez.com/public/js/track.js
@@ -26451,6 +26453,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||optimizely.com^$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||orginio.de/api/analytics/$~third-party,xmlhttprequest
 @@||rtl.de^*/videotracking.min.js$domain=rtl.de
+@@||rtoaster.jp/Rtoaster.js$domain=satofull.jp
 @@||rtoaster.jp^$script,domain=lexus.jp|melonbooks.co.jp
 @@||scdn.cxense.com/cx.cce.js$script,domain=handelsblatt.com
 @@||showheroes.com/playlist/vast3?$xmlhttprequest,domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
