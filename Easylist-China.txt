@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Vty/krU3lGcyUx4svt8A4w
-! Version: 202203070047
+! Checksum: gRbveX0AgcIchEvNbelgaQ
+! Version: 202203080046
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last modified: 07 Mar 2022 00:47 UTC
+! Last modified: 08 Mar 2022 00:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -2447,6 +2447,7 @@ ubmcmm.baidustatic.com
 ||dianwenwang.com^
 ||dianxin.com^$third-party
 ||dibaiweiai.com^
+||dikematou.com^
 ||dilidd.com^
 ||displink.com^$third-party
 ||diuling.com^
@@ -7735,8 +7736,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||mysteelcdn.com/common/*/js/img_ad.
 ||mysteelcdn.com/gg/
 ||myweb.hinet.net/menu.htm
-||myyan.cc/js/qz.js
-||myyan.cc/js/sj
 ||mzhhdn.com/hongbao.jpg
 ||mzyfz.*/modules/46/
 ||mzyz.com/image*/tj/
@@ -17268,6 +17267,9 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
+||tolerated.wang^
+||xiaoli.video^
+||m100.site^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -17430,6 +17432,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||51foodsafe.cn^
 ||51gpt.com^
 ||51lx.ink^
+||51niu.pro^
 ||51showmy.com^
 ||51teach.club^
 ||51vs.club^
@@ -18409,6 +18412,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||elvfdnj.cn^
 ||elvx.top^
 ||emgwq.com^
+||emotionally.wang^
 ||engpeng.cn^
 ||enidie.cn^
 ||enihongo.cn^
@@ -18516,6 +18520,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||fll007.com^
 ||flmcju.cn^
 ||flydog.club^
+||flyleaf.biz^
 ||flyly.cc^
 ||fmketang.cn^
 ||fnbocll.cn^
@@ -18895,6 +18900,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||hnwjlhg.cn^
 ||hnxahz.com^
 ||hnxinkejg.com^
+||hnycwh.cn^
 ||hnyczs.club^
 ||hnylb8.cn^
 ||hnyoufan.com^
@@ -19393,6 +19399,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||ks67.com^
 ||ksdr.xyz^
 ||ksvftk.cn^
+||ksxb.ltd^
 ||kszhmzp.cn^
 ||ktzte.cn^
 ||kuaidibiaoju.com^
@@ -19815,6 +19822,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||ndusa.cn^
 ||nernv.com^
 ||netfix8.info^
+||netshare.ltd^
 ||neudata.cloud^
 ||newknowledge.cn^
 ||ngceq.cn^
@@ -20742,9 +20750,11 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||uaxyutpxh.xyz^
 ||ubt573.org^
 ||ububyiw6655.xyz^
+||ubxqerc.cn^
 ||uc4a.cn^
 ||ucaii.com^
 ||ugmvoys.cn^
+||uguhpfo.cn^
 ||uidndas.cn^
 ||uissm.com^
 ||ujiasm.com^
@@ -20801,6 +20811,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||vicustom.cn^
 ||vik.cx^
 ||vinuxhome.com^
+||violates.wang^
 ||viphdk.xyz^
 ||vivi87.cn^
 ||vjptye.cn^
@@ -21562,6 +21573,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||zncat.cn^
 ||zongjiangc.top^
 ||zongjiangd.top^
+||zonmxej.cn^
 ||zougg.com^
 ||zoujuhonglawyer.com^
 ||zouxinyan.xyz^
