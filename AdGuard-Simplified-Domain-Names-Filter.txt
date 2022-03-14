@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-13T00:02:55.506Z
+! Last modified: 2022-03-14T00:02:22.020Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,26 @@
 !
 !
 !
+||afgfjdivrf.com^
+||eezoulru.com^
+||fxhpaoxqyajvmdg.
+||rgfftupf.
+||thatsouh.com^
+||fmnybwjmkfpoqdm.xyz^
+||hqlgixkuocvwhu.top^
+||hxmvequsbyv.xyz^
+||pakuvcgjdpqjjs.xyz^
+||qyysdkjcf.xyz^
+||vclpwxgae.xyz^
+||yjgghmmnoykj.top^
+||astcarbinkom.com^
+||nxwipuoybxc.com^
+||cwdlynbxh.top^
+||eblytohxbgvxt.xyz^
+||hocbdmaexoq.top^
+||nxwipuoybxc.top^
+||fmvliiinznfso.com^
+||zusepe.xyz^
 ||untvwqvrk.com^
 ||tomqcaljnjvge.com^
 ||knifecontributionproposition.com^
@@ -11676,6 +11696,7 @@ vkcdnservice.appspot.com^
 ||lqcdn.com^
 ||lqcqhkgoer.com^
 ||lqw.me^
+||lrlptkumwpcck.com^
 ||lrxlbekpmav.com^
 ||lsariz.com^
 ||lsjne.com^
@@ -22257,7 +22278,6 @@ vkcdnservice.appspot.com^
 ||omnitag.omniscientai.com^
 ||batmobile.com.tw^
 ||analytik.xyz^
-||df.pmweb.com.br^
 ||usesfathom.com^
 ||fathomdns.com^
 ||tracking.atreemo.com^
@@ -26917,8 +26937,13 @@ vkcdnservice.appspot.com^
 ||cmstrendslog.indiatimes.com^
 ||cmstrendslog.timesnow.tv^
 ||cnt.nicemix.com^
+||cnt.hd21.
+||cnt.proporn.
+||cnt.tubeon.
+||cnt.winporn.
+||cnt.yeptube.
 ||cnt.nuvid.
-||cnt.vivatube.com^
+||cnt.vivatube.
 ||collection.theaa.com^
 ||collector-cdn.github.com^
 ||collector-medium.lightstep.com^
@@ -28616,6 +28641,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||quickanalytics.ca^
 ||quickkoala.io^
 ||r42tag.com^
+||raac33.net^
 ||rapidpanda.io^
 ||rapidzebra.io^
 ||rezync.com^
@@ -28642,6 +28668,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||v1sts.me^
 ||videoplayerhub.com^
 ||vkanalytics.net^
+||widgetbe.com^
 ||wknd.ai^
 ||wmgroup.us^
 ||woodpeckerlog.com^
@@ -28997,6 +29024,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||leadintel.io^
 ||leadpages.net^
 ||leadsleap.com^
+||leadspace.com^
 ||leadsrx.com^
 ||leokross.com^
 ||livesegmentservice.com^
@@ -31000,8 +31028,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ad5track.com^
 ||clearsale.com.br^
 ||denakop.com^
+||enviou.com.br^
 ||orquideassp.com^
 ||percycle.com^
+||pmweb.com.br^
 ||premiumads.com.br^
 ||sambaads.com^
 ||shoptarget.com.br^
@@ -31608,6 +31638,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||portoteamo.com^
 ||wexesz.com^
 ||r9ljguu1k4.ru^
 ||exaleprn.com^
@@ -37508,8 +37539,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lokeriklan.com^
 ||lpaizureik.com^
 ||lsgqlgoc.com^
-||luven.xyz^
 ||luckyads.pro^
+||luven.xyz^
 ||masteriklan.net^
 ||mediab.uy^
 ||mesiniklan.andipublisher.com^
@@ -39451,6 +39482,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hellocdn.top^
 ||henanlvyi.com^
 ||henanzhulongjx.com^
+||hengtengds.com^
 ||heshun365.cn^
 ||heygugu.com^
 ||hezhenzi.com^
@@ -42081,6 +42113,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||affiliate6.com^
 ||afmqtii.cn^
 ||aftdt.cn^
+||afx001.pw^
 ||agjy6.com^
 ||agpligj.cn^
 ||ah808.com^
@@ -42153,6 +42186,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||angelbaby.store^
 ||anhaochem.com^
 ||anhuigecui.cn^
+||anni141224.club^
 ||anqpq.cn^
 ||anweigongsi.com^
 ||anwju4.cn^
@@ -42218,6 +42252,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||axqpn.cn^
 ||axuns.com^
 ||ayazsth.cn^
+||aybe.me^
 ||aybnn.cn^
 ||ayk.cx^
 ||aysccnn.cn^
@@ -43323,6 +43358,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||heyi.shop^
 ||heylookhere.top^
 ||heyux.cn^
+||hfcpa.top^
 ||hflvhua.com^
 ||hfqjs.cn^
 ||hfyxdl.com^
@@ -43561,6 +43597,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ipchinatelecom.com^
 ||iprpe.cn^
 ||ipxjps.cn^
+||iqn.world^
 ||ir2aok.com^
 ||irsufth.cn^
 ||iruad.com^
@@ -44144,6 +44181,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mdkjefq.cn^
 ||mdous.com^
 ||me390.life^
+||me511.win^
 ||me99.club^
 ||mebtc.cn^
 ||medprofile.cn^
@@ -44305,6 +44343,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ndfdwrg.cn^
 ||ndfsl.com^
 ||ndusa.cn^
+||neihan.co^
 ||nernv.com^
 ||netfix8.info^
 ||netshare.ltd^
@@ -44419,6 +44458,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||okwan.cn^
 ||olayz.cn^
 ||olkptgo.cn^
+||omduzge.cn^
 ||omzpbbz.cn^
 ||on1q0.cn^
 ||oniekg.top^
@@ -44472,6 +44512,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pbbgfsm.cn^
 ||pbtxt.win^
 ||pcbwdhd.cn^
+||pcfdgc.cn^
 ||pcshijie.cn^
 ||pd3a.cn^
 ||pdfmxsh.cn^
@@ -44512,6 +44553,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||plgfzyp.cn^
 ||plkjia.top^
 ||plokr.com^
+||pmdatabase.xyz^
 ||pmshow.cn^
 ||pndagz.com^
 ||po*.877zw.com^
@@ -44768,6 +44810,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ruiyijy.xyz^
 ||runtai369.cn^
 ||rushwei.ltd^
+||rusu01.top^
 ||ruwei.me^
 ||ruyidk.com^
 ||ruyiqufu.com^
@@ -44820,6 +44863,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||seobeginners.wiki^
 ||sf-ifc.cn^
 ||sfanf.com^
+||sfceco.cn^
 ||sfg8mbh.cn^
 ||sg01.top^
 ||sgaga.xyz^
@@ -45642,6 +45686,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xmwn.shop^
 ||xmyejun.cn^
 ||xmysinter.com^
+||xn--2hvw21e.online^
 ||xn--wxtr9fwyxk9c.art^
 ||xncgroup.cn^
 ||xnjzsn.com^
@@ -45655,6 +45700,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xqygyp.cn^
 ||xrecord.xyz^
 ||xryrylt.cn^
+||xs8888.vip^
 ||xsdizch.cn^
 ||xsdlt.top^
 ||xsgkjsb.cn^
@@ -45678,6 +45724,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xvqdfwy.cn^
 ||xvyvknl.cn^
 ||xw1001.com^
+||xwwj.ink^
 ||xxaalsn.cn^
 ||xxdesi.top^
 ||xxgiwqv.cn^
@@ -45828,6 +45875,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||youwenzhi.xyz^
 ||youxingtx.xyz^
 ||youzhizi.com^
+||yovkr.xyz^
 ||yp333.top^
 ||ypdzb.cn^
 ||ypgdnrz.cn^
@@ -46085,6 +46133,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ztrynpo.cn^
 ||ztxbd.com^
 ||zuibandao.club^
+||zuijin.wang^
 ||zuirengou.shop^
 ||zunchengmaoyi.cn^
 ||zunhuioa.cn^
@@ -46191,6 +46240,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analyzer52.fc2.com^
 ||clientlog.portal.office.com^
 ||cnt.nuvid.com^
+||cnt.vivatube.com^
 ||collect.sas.com^
 ||collect2.sas.com^
 ||log.optimizely.com^
