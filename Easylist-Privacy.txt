@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202203190032
+! Version: 202203200042
 ! Title: EasyPrivacy
-! Last modified: 19 Mar 2022 00:32 UTC
+! Last modified: 20 Mar 2022 00:42 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -789,6 +789,7 @@
 /api/v1/track/*
 /api/v2/collector
 /api/v2/jsonlogger
+/api_ip_info.
 /apilog?
 /apis/cpt.php?
 /apis/facebook_conversion
@@ -14540,6 +14541,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bing.com/mouselog
 ||binocule21c.merriam-webster.com^
 ||biomedcentral.com/track/
+||blitz-analytics-batch-server.blitz.gg^
 ||booking.com/logo?
 ||booking.com/navigation_times
 ||booking.com/sendlayoutevents
@@ -15369,7 +15371,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ultimate-guitar.com/components/ab/event?
 ||ultimedia.com/deliver/statistiques/
 ||umami.wakarimasen.moe^
-||uniqlo.com/us/elgnisolqinu.js
 ||unity3d.com/v1/events
 ||unsplash.com/a/third-party/snow-
 ||unsplash.com/nmetrics
@@ -25131,7 +25132,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||lecho.be/fb2?
 ||lecho.be/track/
 ||leparking-moto.fr/jsV155/Tracker.js
-||leparking.fr/jsV155/Tracker.js
+||leparking.fr/*/Tracker.js
 ||liberation.fr/newsite/js/cmp/
 ||ma-petite-recette.fr/visites
 ||neko-san.fr/stats
@@ -26141,6 +26142,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||dw.cbsi.com/anonc.js$domain=giantbomb.com
 @@||dw.com.com/js/dw.js$domain=cbsnews.com|tv.com
 @@||dynamicyield.com/st?$script,domain=computeruniverse.net|croma.com|fendi.com|thewarehouse.co.nz|zalora.com.my|zalora.com.ph|zalora.sg
+@@||dz9qn8fh4jznm.cloudfront.net/script.js$script,domain=bostonglobe.com
 @@||easternbank.com/sites/easternbank/files/google_tag/eastern_bank/google_tag.script.js$script,~third-party
 @@||easy-firmware.com/templates/default/html/*/assets/js/fingerprint2.min.js$script,~third-party
 @@||easyship.com/api/v1/track/$xmlhttprequest,domain=trackmyshipment.co
@@ -26183,7 +26185,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||gomokuworld.com/app/modules/analyze.js$~third-party
 @@||google-analytics.com/analytics.js$domain=beinsports.com|brooklinen.com|jackbox.tv|k2radio.com|koel.com|kowb1290.com|stressless.com|tracking.narvar.com|westernunion.com
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
-@@||googleoptimize.com/optimize.js$script,domain=tentree.ca
+@@||googleoptimize.com/optimize.js$script,domain=inquirer.com|tentree.ca
 @@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|m.putlocker.how|mediaite.com|schwab.com
 @@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|fortune.com|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz
 @@||gov.au/Scripts/ga.js$script,~third-party
@@ -26852,6 +26854,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||google-analytics.com/analytics.js$domain=tv3play.no
 @@||googletagmanager.com/gtag/js$script,domain=xl-bygg.no
 @@||googletagmanager.com/gtm.js$script,domain=telia.no
+@@||hvemder.no/api/hitcount/$~third-party
+@@||hvemder.no/js/hitcount.min.js$script,~third-party
 @@||klpinteraktiv.klp.no^*/Tracking.js?
 @@||postnord.no/api/tracking/$~third-party
 ! 
