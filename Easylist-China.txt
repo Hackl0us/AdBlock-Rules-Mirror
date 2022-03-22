@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fKT4JwFy8MfgB5JWQI9bTQ
-! Version: 202203210046
+! Checksum: rUE7Oz4BdBFBTqxkbJMkVw
+! Version: 202203220046
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last modified: 21 Mar 2022 00:46 UTC
+! Last modified: 22 Mar 2022 00:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1234,6 +1234,7 @@ ubmcmm.baidustatic.com
 ##.spon-img[src*=".alicdn."]
 ##.static-a2d
 ##.stui-pannel > .recommend-two
+##.stui-warp-content > a[target="_blank"] > img[height="120px"]
 ##.subject_link[href$="/thread-index-fid-1-tid-12848.htm"]
 ##.svg-icon + #player_pause
 ##.sxAdBox
@@ -1361,7 +1362,8 @@ ubmcmm.baidustatic.com
 ##div[id^="adv-"].adv
 ##div[id^="photo-header-title-content-text-dall"]
 ##div[onclick*=".leyu"]
-##div[style=" max-width:1000px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:1000px;  margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:980px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="text-align:center;"] > a[href*="/register/?i_code="]
 ##img#adv1
 ##img[data-link][data-src*="/u/"]:not([data-link*="/i/"])
@@ -2821,6 +2823,7 @@ ubmcmm.baidustatic.com
 ||imglele.xyz^
 ||imglolo.xyz^
 ||imgpipi.xyz^
+||imgwdyey.com^
 ||imim.me^
 ||immaohao.cn^
 ||imnvgma.cn^
@@ -16647,7 +16650,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||ykxwn.com^
 ||ynzhby.com^
 ||yong.chazidian.com^
-||youwugong.jobui.com^
+||ywg.jobui.com^
 ||ys.muhoujiemi.com^
 ||ysxywj.com^
 ||ytelc.com^$third-party
@@ -17112,14 +17115,12 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
-||bxly.xyz^
-||ruide168.pw^
-||huasheng.love^
-||timi.pro^
-||ttwrhns.cn^
-||jiaoyiwang.fun^
-||ycooh.group^
-||oioiio.top^
+||baoying.asia^
+||tuangou.pro^
+||lvzi.store^
+||yxzy.asia^
+||gozqezh.cn^
+||884069349.ltd^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -17461,6 +17462,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||allengao.top^
 ||allluck.cn^
 ||alnko.cn^
+||alrr.club^
 ||alsedu.tech^
 ||altao.xyz^
 ||alwonroad.club^
@@ -17684,6 +17686,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||benybw.cn^
 ||benykw.cn^
 ||best-eye.cn^
+||bestgong.top^
 ||better-better.com.cn^
 ||betylife.com^
 ||bgelvy.cn^
@@ -17778,6 +17781,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||bvuuv.com^
 ||bwdhuanbao.com^
 ||bx9000.top^
+||bxly.xyz^
 ||bxmuvw.cn^
 ||bxsjfol.cn^
 ||bzlpa.cn^
@@ -18678,6 +18682,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||huaisq.com^
 ||hualongyichuangkj.com^
 ||huangyeqing.cn^
+||huasheng.love^
 ||huasuihz.top^
 ||huawuhui.club^
 ||huaxiaozhang.club^
@@ -18876,6 +18881,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||jianly.top^
 ||jianyihang.com^
 ||jiaofulin.cn^
+||jiaoyiwang.fun^
 ||jiasheng-china.cn^
 ||jiayi2019.top^
 ||jiayiss.com^
@@ -19249,6 +19255,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||lktxelg.cn^
 ||llii.club^
 ||lllfe.cn^
+||llnsmu.com^
 ||lnalttc.com^
 ||lnhsjob.com^
 ||lnscxrqgfyxgs.xyz^
@@ -19508,6 +19515,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||nbsave.xyz^
 ||nbslx.mobi^
 ||nbtree.cn^
+||nby360.com^
 ||ncgywud.cn^
 ||ncoyqc.com^
 ||ndfdwrg.cn^
@@ -19609,6 +19617,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||oberry.cn^
 ||obihmnb.cn^
 ||obj9.cn^
+||obqetks.cn^
 ||ocexikc.cn^
 ||octhkas.cn^
 ||ocznxv.cn^
@@ -19617,6 +19626,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||oey53uw-1ye.cn^
 ||ohthub.com.cn^
 ||oicode.com^
+||oioiio.top^
 ||oivxuct.cn^
 ||ojojoj.cn^
 ||ojtqzxu.cn^
@@ -19948,6 +19958,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||rtrete.store^
 ||rtreyyf.cn^
 ||ruibokeji.cn^
+||ruide168.pw^
 ||ruif.xyz^
 ||ruiy.shop^
 ||ruiyijy.xyz^
@@ -20285,6 +20296,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||tianlule.cn^
 ||tiantianwl.cn^
 ||tienu.tech^
+||timi.pro^
 ||timup.top^
 ||timy.ink^
 ||tingfengyu.top^
@@ -20360,6 +20372,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||ttffhe.top^
 ||ttmaim.com^
 ||ttshort.xyz^
+||ttwrhns.cn^
 ||ttylmex.cn^
 ||tuadong.com^
 ||tuan512.cn^
@@ -20864,6 +20877,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||ychbgss.cn^
 ||yckpdr.com^
 ||yclhtech.cn^
+||ycooh.group^
 ||ydfz.org^
 ||ydgege.xyz^
 ||ydggvnh.cn^
