@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vOaQojorzareRjYG00QUmQ
-! Version: 202203280056
+! Checksum: rahnHI75FE9j8nw/YgQipA
+! Version: 202203290046
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last modified: 28 Mar 2022 00:56 UTC
+! Last modified: 29 Mar 2022 00:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1239,6 +1239,7 @@ ubmcmm.baidustatic.com
 ##.static-a2d
 ##.stui-pannel > .recommend-two
 ##.stui-warp-content > a[target="_blank"] > img[height="120px"]
+##.stui-warp-content > a[target="_blank"] > img[height="60px"]
 ##.subject_link[href$="/thread-index-fid-1-tid-12848.htm"]
 ##.svg-icon + #player_pause
 ##.sxAdBox
@@ -1367,6 +1368,9 @@ ubmcmm.baidustatic.com
 ##div[style=" max-width:1000px;  margin:0 auto;"] > a > img[height="120px"]
 ##div[style=" max-width:1000px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style=" max-width:985px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:990px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:995px;  margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:995px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style=" max-width:998px;  margin:0 auto;"] > a > img[height="120px"]
 ##div[style=" max-width:998px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style=" max-width:999px;  margin:0 auto;"] > a > img[height="60px"]
@@ -1433,6 +1437,7 @@ ubmcmm.baidustatic.com
 ##a[href*=".aiyou305.com/"]
 ##a[href*=".aiyouxi31.com"]
 ##a[href*=".aiyouxi56.com"]
+##a[href*=".apple1818.net"]
 ##a[href*=".asada-kairyo.com/"]
 ##a[href*=".ayx300.com/"]
 ##a[href*=".bayiyy.com/download."]
@@ -1655,10 +1660,10 @@ ubmcmm.baidustatic.com
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
 ||00-gov.cn^
+||jiahehr.cn^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
-||wangzj.top^
 ||00xvppy.cn^
 ||012.tw^$third-party
 ||01fen.com^
@@ -2278,6 +2283,7 @@ ubmcmm.baidustatic.com
 ||bv8888.com^
 ||bxgz.cc^
 ||bydonline.com^
+||byqxqhb.cn^
 ||bznxc6721.xyz^
 ||c.91wan.com^$third-party
 ||caiyifz.com^$third-party
@@ -3773,6 +3779,7 @@ ubmcmm.baidustatic.com
 ||wangdaizao.com^
 ||wangdq.com^
 ||wangqipu.com^
+||wangzj.top^
 ||wantfour.com^
 ||wapadv.com^
 ||waptime.net^
@@ -3812,6 +3819,7 @@ ubmcmm.baidustatic.com
 ||wit.qq.com^$third-party
 ||wjguc.com^
 ||wka8.com^
+||wljj56.com^
 ||wlwblog.top^
 ||wm-mxc.com^
 ||wmrmb.cn^$third-party
@@ -4029,6 +4037,7 @@ ubmcmm.baidustatic.com
 ||yixige.com^$third-party
 ||yixui.com^
 ||yjbuhao.top^
+||yjrjmy.com^
 ||yl-zipper.com^
 ||ylbb-vipjs.com^
 ||ylfgybn.cn^
@@ -6186,6 +6195,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||e3c7.com/dh/
 ||e3c7.com/love/
 ||e3ol.com/inc/
+||e4440.com/img/hmwang.gif
 ||e9377f.com^$rewrite=abp-resource:blank-mp3,domain=eastday.com
 ||eap.big5.enorth.com.cn^
 ||eap.enorth.com.cn^
@@ -9438,7 +9448,7 @@ iqiyi.com###adflash
 eol.cn###adfloat_l
 eol.cn###adfloat_r
 172cat.com###adload
-ahtv.cn,frdic.com,huasing.net,it168.com,qinbing.cn###ads
+ahtv.cn,duhama.tv,frdic.com,huasing.net,it168.com,qinbing.cn###ads
 nownews.com###ads-footer-bar
 sou-yun.cn###ads_index_2
 disp.cc###ads_page_b
@@ -14143,6 +14153,7 @@ ahtv.cn##body > table[style^="text-align:center; width:960px;"]
 18h.avmimi.com##body > table[width="100%"]:nth-child(2)
 62422.cn##body > table[width="778"][align="center"]
 btmulu.com#?#.item:-abp-has(> a[target="_blank"])
+yemancomic.com##button[style="width:380px; height:50px;"]
 cartoon18.com#?#.row:-abp-has(.badge:-abp-contains(ad))
 chbeyond.cn#?#a:-abp-has(> .xcybk-adfg)
 cnbeta.com#?#.cnbeta-swiper-container-285x360 .swiper-slide:-abp-has(a[href^="http"]:not([href^="http://www.cnbeta."]))
@@ -17120,6 +17131,9 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
+||bainiaochaofeng.xyz^
+||bjhyn.vip^
+||udiy.club^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -17636,6 +17650,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||bayil.cn^
 ||baymax.video^
 ||bayno.cn^
+||bazhangda.shop^
 ||bazinga12138.online^
 ||bbbazlp.cn^
 ||bbbx.xyz^
@@ -17704,6 +17719,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||bianpin.pw^
 ||bianxianwu.com^
 ||biexsite.net^
+||bigcity.ink^
 ||bigcood.xyz^
 ||bincun.xyz^
 ||binkens.cn^
@@ -19392,6 +19408,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||marchtools.cn^
 ||marktang.love^
 ||mavuz.com^
+||mayie.xyz^
 ||mbxt.net^
 ||mcaspkd.cn^
 ||mcfpsn.xyz^
@@ -19781,6 +19798,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||practice-sports.com^
 ||prazpf.cn^
 ||prfuxl.xyz^
+||principles.wang^
 ||priry.com^
 ||proko.cn^
 ||propsad.com^
@@ -20493,6 +20511,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||usefavour.xyz^
 ||usrlock.cn^
 ||usst.store^
+||usually.wang^
 ||uubiqu.com^*.html$script
 ||uuka.vip^
 ||uuwhg.com^
@@ -20926,6 +20945,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||yaofaweb.xyz^
 ||yaokuan01.cn^
 ||yaoquanshumeiyu.com^
+||yaosahrmncc.top^
 ||yaoxing.fun^
 ||yaxinfushi.com.cn^
 ||yaznkj.cn^
@@ -20974,6 +20994,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||yinlt.com^
 ||yinvmh.com^
 ||yinzantouzi.com^
+||yiotufp.cn^
 ||yiqima.xyz^
 ||yitiaoyu.top^
 ||yituo-patibao.cn^
@@ -21051,6 +21072,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||yuanwei.ltd^
 ||yueduyy.com^
 ||yuegepiano.cn^
+||yueli.me^
 ||yueli101.xyz^
 ||yuesenshangmao.cn^
 ||yueyuego.com^
@@ -21100,6 +21122,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||yzylm.com^
 ||yzyszy.com^
 ||z-xiao.xyz^
+||zacao.wang^
 ||zailaigou.top^
 ||zaqedc.top^
 ||zazkkk.com^
