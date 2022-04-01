@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-31T00:02:25.033Z
+! Last modified: 2022-04-01T00:02:18.305Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||smised.com^
+||utuypsohjvuf.com^
 ||ovwbobnyy.com^
 ||lowtyruntor.com^
 ||uywmpewouyqv.com^
@@ -4458,7 +4460,6 @@ vkcdnservice.appspot.com^
 ||adsinimages.com^
 ||adsinstant.com^
 ||adskape.ru^
-||adskeeper.com^
 ||adskpak.com^
 ||adslidango.com^
 ||adslingers.com^
@@ -5713,6 +5714,7 @@ vkcdnservice.appspot.com^
 ||best-offer-for-you.com^
 ||best-protection4.me^
 ||best-vpn.click^
+||bestadload.com^
 ||bestaryua.com^
 ||bestclevercaptcha.top^
 ||bestcontentaccess.top^
@@ -7561,6 +7563,7 @@ vkcdnservice.appspot.com^
 ||detrimentaljigsaw.com^
 ||detruckshtick.casa^
 ||deturbcordies.com^
+||deulderby.com^
 ||deuted.com^
 ||devaluationlimetreedeadly.com^
 ||devaluationobserve.com^
@@ -9440,6 +9443,7 @@ vkcdnservice.appspot.com^
 ||glazegha.com^
 ||glbtrk.com^
 ||glcqfurkygcrni.com^
+||glebypraiss.com^
 ||gleebsex.net^
 ||gleechie.net^
 ||gleedaik.net^
@@ -11724,6 +11728,7 @@ vkcdnservice.appspot.com^
 ||lqcdn.com^
 ||lqcqhkgoer.com^
 ||lqw.me^
+||lr-in.com^
 ||lrlptkumwpcck.com^
 ||lrxlbekpmav.com^
 ||lsariz.com^
@@ -12235,6 +12240,7 @@ vkcdnservice.appspot.com^
 ||mjiszovwqwn.com^
 ||mjlpqbklxgt.com^
 ||mjlsiopjesbn.com^
+||mjnakecyospspgf.com^
 ||mjsyqwpqnjbgua.com^
 ||mjyhgt.xyz^
 ||mk1lyl406xmp.com^
@@ -18083,6 +18089,7 @@ vkcdnservice.appspot.com^
 ||waitressunequal.com^
 ||waiwodemanila.com^
 ||wakanmounds.cam^
+||wakiupswacken.com^
 ||walkinghonoured.com^
 ||wallastopiary.com^
 ||wallpaper1.ru^
@@ -18870,6 +18877,7 @@ vkcdnservice.appspot.com^
 ||yonderprodigy.com^
 ||yonhelioliskor.com^
 ||yonsandileer.com^
+||yonxatuor.com^
 ||yookcasula.com^
 ||yookimooki.com^
 ||yoomanies.com^
@@ -19424,6 +19432,7 @@ vkcdnservice.appspot.com^
 ||adshot.de^
 ||adshuffle.com^
 ||adsiduous.com^
+||adskeeper.com^
 ||adslivecorp.com^
 ||adsniper.ru^
 ||adsparc.net^
@@ -26250,6 +26259,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||events.virtusize.jp^
 ||adc-js.nine.com.au^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pinterest.com^
@@ -26363,7 +26373,6 @@ vkcdnservice.appspot.com^
 ||blue.fox8.com^
 ||astat.nikkei.co.jp^
 ||stats.zone-telechargement.work^
-||events-service.coinbase.com^
 ||snowplow-pixel.tradingview.com^
 ||analytics.clic2buy.com^
 ||tracking.swogo.net^
@@ -30113,6 +30122,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||collector.clareity.net^
 ||collector.sspinc.io^
 ||confiant-integrations.global.ssl.fastly.net^
+||connext-cdn.azureedge.net^
 ||control.cityofcairns.com^
 ||conversions.genieventures.co.uk^
 ||cookie-guard-erdee.ey.r.appspot.com^
@@ -36825,7 +36835,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adotone.com^
 ||yitongfang.com^
 ||hnyishidengbao.com^
-||cnzz.yifenghuyu.com^
 ||remehealth.net^
 ||c6890.cn^
 ||ifc-edu.cn^
@@ -37673,9 +37682,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Mar 2022 10:37 UTC+7
-! Version: 2203151037
-! Blocked: 1.105 rules
+! Last modified: 31 Mar 2022 15:41 UTC+7
+! Version: 2203311541
+! Blocked: 1.114 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -38329,6 +38338,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||8live.top^
 ||8live.vip^
 ||8livevn.com^
+||92lottery.com^
 ||aa88.in^
 ||ae888.com^
 ||ae888i.com^
@@ -38359,6 +38369,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||choita88.club^
 ||comebetvn3.com^
 ||comebetvn9.com^
+||corona999.com^
 ||dabet.me^
 ||datcuoc247.com^
 ||debet.com^
@@ -38368,6 +38379,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dola88.info^
 ||ee66.com^
 ||eurofun88.com^
+||f8bet0.com^
 ||fa88.win^
 ||fabet.com^
 ||fabet.me^
@@ -38430,6 +38442,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jboviet.com^
 ||jbovietnam.com^
 ||jbovn.com^
+||jdb66.vip^
 ||k8dl08.cc^
 ||k8sport.com^
 ||k8vina17.com^
@@ -38541,6 +38554,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rikvipp.net^
 ||rio66qc.club^
 ||sbc31.com^
+||shbet0.com^
 ||sieubomtan.com^
 ||sieukeo.live^
 ||sin88.biz^
@@ -38581,8 +38595,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tipkeomoingay.club^
 ||top88.club^
 ||top88.fun^
+||top88.me^
 ||top88.uk^
 ||top88.us^
+||top88.vn^
 ||topcc88.me^
 ||trungso.vip^
 ||tt128.info^
@@ -38617,6 +38633,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vnloto.com^
 ||vnloto.vip^
 ||vnq8.bet^
+||vnq8.com^
 ||vua1004.club^
 ||vua1005.club^
 ||vuabai9.com^
@@ -38711,6 +38728,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qualienquan.vn^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
+||simpliftsbefore.info^
 ||smilitygorb.club^
 ||tammenaa.com^
 ||thegioididong.me^
@@ -38739,12 +38757,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||008844.cc^
 ||00xvppy.cn^
 ||01fen.com^
-||d26yfyk0ym2k1u.cloudfront.net^
-||tz88.store^
-||zhengxiaoliu.top^
-||limdarwin.top^
-||lm336.com^
-||favourablequickdelve.com^
 ||022aifang.com^
 ||025suyu.com^
 ||0451106.com^
@@ -39258,6 +39270,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||czshenyue.cn^
 ||czsmac.com^
 ||cztanchao.com^
+||d26yfyk0ym2k1u.cloudfront.net^
 ||dadjia.com^
 ||dahanedu.com^
 ||daikuanfanli.com^
@@ -39372,6 +39385,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fanli.in^
 ||fanwoyang.com^
 ||farm-cn.plista.com^
+||favourablequickdelve.com^
 ||fcheng.top^
 ||fd7c.com^
 ||feisia1.cn^
@@ -39610,6 +39624,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ieecheng.com^
 ||ifdvlh.cn^
 ||ifufen.com^
+||igusoft.com^
 ||ijir.cn^
 ||il8r.com^
 ||ilaohuyou.xyz^
@@ -39796,6 +39811,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lichenqx.com^
 ||lico-ys.com^
 ||lifu11.com^
+||limdarwin.top^
 ||lingqinga.cn^
 ||linjiajia.cn^
 ||linkpage.cn^
@@ -39819,6 +39835,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lm213.com^
 ||lm245.com^
 ||lm335.com^
+||lm336.com^
 ||lm342.com^
 ||lm343.com^
 ||lm465.com^
@@ -39886,6 +39903,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||microsser.cn^
 ||mieyisi.com^
 ||milecctv.cn^
+||miludata.com^
 ||mindopu.com^
 ||minwear.com.cn^
 ||minyaartcrafts.cn^
@@ -40118,6 +40136,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shengyaxd.com^
 ||shentupk85.com^
 ||shibagongfang.com^
+||shigl.top^
 ||shijixinrui.cn^
 ||shixiaofei864.cn^
 ||shouwangba.cn^
@@ -40279,6 +40298,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tyjnwg.top^
 ||tyjnwj.top^
 ||tylll.com^
+||tz88.store^
 ||u.huoying666.com^
 ||u1n6ok.cn^
 ||uadsaa.com^
@@ -40514,6 +40534,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yiangds.com^
 ||yibaosenlin.top^
 ||yichunrz.com^
+||yifenghuyu.com^
 ||yijia2009.com^
 ||yilianqing.com^
 ||yinmofun.com^
@@ -40606,6 +40627,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhangbaochang.top^
 ||zhangjunying.top^
 ||zhemaijs.net^
+||zhengxiaoliu.top^
 ||zhengyejixie.com^
 ||zhichi08.com^
 ||zhihei.com^
@@ -41288,6 +41310,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cbdm.weathercn.com^
 ||cc.xiaodapei.com^
 ||cc.xwscg.com^
+||cdn.haocaa.com^
 ||cdn.wenzhangba.cn^
 ||cdn1.tvzhe.com^
 ||cdnjs.mopair-erm.net^
@@ -41786,11 +41809,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
-||eguo.info^
-||ifil.store^
-||mahao.xyz^
-||shequn.online^
-||mayif.xyz^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -41842,6 +41860,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||258580w.cn^
 ||25917.shop^
 ||2886115.com^
+||2999.store^
 ||2bssjsq.com^
 ||2d941.site^
 ||2gustis.xyz^
@@ -42815,6 +42834,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||edysn.cn^
 ||eeeap.cn^
 ||eeree.top^
+||eguo.info^
 ||eiasia.ltd^
 ||eidsign.com.cn^
 ||ejd3q.life^
@@ -43418,6 +43438,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iehtzdq.cn^
 ||if37.com^
 ||ifil.shop^
+||ifil.store^
 ||igig87.cn^
 ||ih740.cn^
 ||ihais.com^
@@ -44000,6 +44021,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mafenggo.club^
 ||mafengow.club^
 ||mageti.cn^
+||mahao.xyz^
 ||maiaim.cn^
 ||maicaoren.cn^
 ||maicv.cn^
@@ -44016,6 +44038,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||marktang.love^
 ||mavuz.com^
 ||mayie.xyz^
+||mayif.xyz^
 ||mbxt.net^
 ||mcaspkd.cn^
 ||mcfpsn.xyz^
@@ -44438,6 +44461,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qdmeifeng.cn^
 ||qdyazc.com^
 ||qewoysy.cn^
+||qfcdgy.cn^
 ||qfxdvti.cn^
 ||qgdvyvd.cn^
 ||qgfdqjf.cn^
@@ -44708,6 +44732,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shenkun.xyz^
 ||shenwupower.com.cn^
 ||shenyunkeji.com^
+||shequn.online^
 ||sherrycha.cn^
 ||shffcy.cn^
 ||shidaikejivip.cn^
@@ -44906,6 +44931,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tanky.vip^
 ||tanshan.site^
 ||taobso.cn^
+||taocangjituan.com^
 ||taoke.cloud^
 ||taomochou.cn^
 ||taomovie.club^
@@ -45568,6 +45594,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yhaizy.cn^
 ||yhdtns.com^
 ||yhkiain.cn^
+||yhkt.online^
 ||yidcd.cn^
 ||yidiansurong.com^
 ||yierheng.top^
