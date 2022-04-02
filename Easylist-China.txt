@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: R8F3Q3B1KHN/nZgY45UrSQ
-! Version: 202204010056
+! Checksum: l6/imCFrOgwdhzAOIkDlWg
+! Version: 202204020046
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last modified: 01 Apr 2022 00:56 UTC
+! Last modified: 02 Apr 2022 00:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1372,6 +1372,7 @@ ubmcmm.baidustatic.com
 ##div[id^="ad_thread"]
 ##div[id^="adv-"].adv
 ##div[id^="photo-header-title-content-text-dall"]
+##div[onclick*="?i_code="]
 ##div[onclick*=".leyu"]
 ##div[style=" max-width:1000px;  margin:0 auto;"] > a > img[height="120px"]
 ##div[style=" max-width:1000px;  margin:0 auto;"] > a > img[height="60px"]
@@ -17160,6 +17161,11 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
+||wulongqiyi.com^
+||shenfagg.com^
+||huixiangdou.xyz^
+||twnb.xyz^
+||autumnleaf.ltd^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -21873,5 +21879,6 @@ fqsousou.com,kengso.com#@#.user-share
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
 ||hjfile.cn/analytics/site/TrackEvent.js
+@@||hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js
 !---------------------------------Temporary-----------------------------------!
 !----------------------------------The End------------------------------------!
