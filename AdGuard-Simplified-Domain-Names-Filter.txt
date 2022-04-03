@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-02T00:02:17.235Z
+! Last modified: 2022-04-03T00:02:39.282Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3130,7 +3130,6 @@ www.llllllllllll.net^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
-||d2klx87bgzngce.cloudfront.net^
 ||ads.thetimes.co.uk^
 ||am.titsx.com^
 ||d119hs7863lat.cloudfront.net^
@@ -8693,6 +8692,7 @@ vkcdnservice.appspot.com^
 ||falsemulticultural.com^
 ||familinger.club^
 ||familyborn.com^
+||famousletterss.online^
 ||fampin.com^
 ||fancyfourthvolcano.com^
 ||fandelcot.com^
@@ -11303,6 +11303,7 @@ vkcdnservice.appspot.com^
 ||kttarmufti.com^
 ||ktvnnfres.com^
 ||ktyawzg.com^
+||kubiadserv.icu^
 ||kubicserves.icu^
 ||kubrer.com^
 ||kuglijuthi.com^
@@ -11740,6 +11741,7 @@ vkcdnservice.appspot.com^
 ||lowestpendulousdistract.com^
 ||lowlifebadly.com^
 ||lowpox.xyz^
+||lowrance.top^
 ||lowremoraidon.com^
 ||lowseelan.com^
 ||loxbeelid.com^
@@ -13383,6 +13385,7 @@ vkcdnservice.appspot.com^
 ||orangeads.fr^
 ||orbengine.com^
 ||orbhcvyfgitkpfl.xyz^
+||orbitcarrot.com^
 ||orbmehcerqxamdy.com^
 ||orbsclawand.com^
 ||orcjagpox.com^
@@ -15568,6 +15571,7 @@ vkcdnservice.appspot.com^
 ||safestgatetocontent.com^
 ||safestsniffingconfessed.com^
 ||safesync.com^
+||safetrck.com^
 ||safwjxsqvm.com^
 ||sagroagh.com^
 ||sahfucdysloguyg.xyz^
@@ -16228,6 +16232,7 @@ vkcdnservice.appspot.com^
 ||spawnpredicatemutual.com^
 ||spearimaginary.com^
 ||special-offers.online^
+||specialadves.com^
 ||specialistcartoonparable.com^
 ||speciallyspecifiedsandwich.com^
 ||specialscammerinitially.com^
@@ -16843,6 +16848,7 @@ vkcdnservice.appspot.com^
 ||thederati.com^
 ||theerdax.com^
 ||theersoa.net^
+||thefinishedbook.com^
 ||thefootpetso.com^
 ||thefuncoolstuff.com^
 ||thejobandl.biz^
@@ -17934,6 +17940,7 @@ vkcdnservice.appspot.com^
 ||visualsteel.net^
 ||vitaminhen.com^
 ||vitamuscow.casa^
+||vitcory.com^
 ||vividdefinedspiral.com^
 ||vixnixxer.com^
 ||vizaiced.net^
@@ -20991,6 +20998,7 @@ vkcdnservice.appspot.com^
 ||d2kadvyeq051an.cloudfront.net^
 ||d2kd9y1bp4zc6.cloudfront.net^
 ||d2kk0o3fr7ed01.cloudfront.net^
+||d2klx87bgzngce.cloudfront.net^
 ||d2kz60b0gq4lg.cloudfront.net^
 ||d2l3f1n039mza.cloudfront.net^
 ||d2lp70uu6oz7vk.cloudfront.net^
@@ -26301,6 +26309,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||analytics.tver.jp^
 ||tracking.komoot.de^
 ||telemetry.battle.net^
 ||telemetry-in.battle.net^
@@ -41863,6 +41872,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shenfagg.com^
 ||huixiangdou.xyz^
 ||twnb.xyz^
+||autumnleaf.ltd^
+||xazhangshaohui.xyz^
+||ziyunxs.com^
+||cxccm.com^
+||nantongle.com^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -46123,6 +46137,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/commit/84966d38a2f6d98e46df6998c6cacde1931e7bc1
+@@||measure.ic.tver.jp^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/113049
 @@||static-v*.trbo.com^|
 @@||api-v*.trbo.com^|

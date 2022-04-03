@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202204020050
+! Version: 202204030033
 ! Title: EasyPrivacy
-! Last modified: 02 Apr 2022 00:50 UTC
+! Last modified: 03 Apr 2022 00:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1000,7 +1000,6 @@
 /bicomscore_
 /biddr-analytics.
 /bidiq.
-/bili-collect.
 /bin/reff.php
 /bin/stats?
 /bineos.min.js
@@ -25662,6 +25661,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||j1.ax.xrea.com^
 ||jen.jiji.com/cookie.html
 ||k-crm.jp/tracking.js
+||link.tv-asahi.co.jp/tver/cookiesync?
 ||ln.ameba.jp^
 ||log.suumo.jp^
 ||logql.yahoo.co.jp^
