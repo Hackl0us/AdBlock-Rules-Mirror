@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202204030033
+! Version: 202204032035
 ! Title: EasyPrivacy
-! Last modified: 03 Apr 2022 00:33 UTC
+! Last modified: 03 Apr 2022 20:35 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12937,6 +12937,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||telemetry.reembed.com^
 ||telemetry.soundcloud.com^
 ||telemetry.tableausoftware.com^
+||th.bing.com/th/*&riu=$image,third-party
 ||thdstatic.com/analytics/$domain=homedepot.com
 ||the-group.net/aether/
 ||thefilter.com/events/view?
@@ -15537,6 +15538,7 @@ medicalxpress.com,techxplore.com##.embed-responsive-trendmd
 ||booktopia.com.au/Ns7aBMIv/init.js
 ||build.com/2Ztkihy4/init.js
 ||carbon38.com/A44kxi5a/init.js
+||careermatch.com/oGckki0e/init.js
 ||carolsdaughter.com/IZ/uaPO0cuk/init.js
 ||couchsurfing.com/bEcn7fQX/init.js
 ||crunchbase.com/rw7M6iAV/init.js
@@ -15555,6 +15557,7 @@ medicalxpress.com,techxplore.com##.embed-responsive-trendmd
 ||foursquare.com/0UqK4c76/init.js
 ||freepeople.com/tN88Q85M/init.js
 ||hotpads.com/xOR1K5b6/init.js
+||internships.com/oGckki0e/init.js
 ||jimmyjohns.com/Abo2Yc8X/init.js
 ||joann.com/qXTWmr91/init.js
 ||kerastase-usa.com/IZ/PXXiuO7QTJ/init.js
@@ -25492,6 +25495,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||tijd.be/track/
 ||topspin.npo.nl^
 ||track.pexi.nl^
+||tracking.voordeeluitjes.nl^
 ||tweakers.net/x/scripts/min/TyYQlL.js
 ||tweakers.net^*&p=$image
 ||vroom.be^*/stats.js?
@@ -26212,7 +26216,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
 @@||googleoptimize.com/optimize.js$script,domain=inquirer.com|tentree.ca
 @@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|m.putlocker.how|mediaite.com|schwab.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|fortune.com|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|uniqlo.com
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|fortune.com|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|uniqlo.com
 @@||gov.au/Scripts/ga.js$script,~third-party
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
 @@||guce.advertising.com/collectIdentifiers$domain=guce.advertising.com
